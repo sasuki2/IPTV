@@ -412,14 +412,13 @@ xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA3Lm0zdTh8VXNlci1BZ
 xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA4Lm0zdTh8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNORS1MWDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83NC4wLjM3MjkuMTg2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IHJlZmVyZXI9aHR0cDovL3lhcmlnYS50di8/MDg=
 
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----|fhd,hd,sd,low قنوات بين سبورت بجودات مختلفة 📺|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----|beIN Sports(FHD,HD,sd,low)جودات مختلفة📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT NEWS HD" tvg-logo="" group-title="all",BEIN SPORT NEWS HD
 http://king-pro-plus.tk:25461/king/king/2
-#EXTINF:-1 tvg-id="" tvg-name="KSA.SPORT 1" tvg-logo="" group-title="all",KSA.SPORT 1
-http://king-pro-plus.tk:25461/king/king/3
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 1 FHD" tvg-logo="" group-title="BEIN SPORTS FHD",|AR| BeIN SPORTS 1 FHD
 http://king-pro-plus.tk:25461/king/king/4
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 2 FHD" tvg-logo="" group-title="BEIN SPORTS FHD",|AR| BeIN SPORTS 2 FHD
