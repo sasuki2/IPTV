@@ -284,8 +284,22 @@ http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@
 http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/1246
 #EXTINF:-1 tvg-name="||BEIN|| BeIN Sports 12 HEVC 4K" tvg-logo="",||BEIN|| BeIN Sports 12 HEVC 4K
 http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/1247
-
-
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="beIN Sports sd",beIN Sports 8 sd
+http://173.249.4.94:8081/b8/b8/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="beIN Sports sd",beIN Sports 7 sd
+http://173.249.4.94:8081/b7/b7/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="beIN Sports sd",beIN Sports 6 sd
+http://173.249.4.94:8081/b6/b6/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="beIN Sports sd",beIN Sports 5 sd
+http://173.249.4.94:8081/b5/b5/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="beIN Sports sd",beIN Sports 4 sd
+http://173.249.4.94:8081/b4/b4/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="beIN Sports sd",beIN Sports 3 sd
+http://173.249.4.94:8081/b3/b3/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="beIN Sports sd",beIN Sports 2 sd
+http://173.249.4.94:8081/b2/b2/chunks.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="beIN Sports sd",beIN Sports 1 sd
+http://173.249.4.94:8081/b1/b1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| باقة القنوات الفرنسية 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
