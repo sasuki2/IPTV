@@ -310,23 +310,23 @@ http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport3.
 http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport2.m3u8?token=OwTezbRZ1_joXWNMwW8SRg&e=1602422474&channel=sport2
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 1 sd
 http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport1.m3u8?token=2TBJG4i3bvGUwu4TUPU5aA&e=1602422460&channel=sport1
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN Sports 9 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT9.png" group-title="RTMP-BEIN",beIN Sports 9
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN Sports 9" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT9.png" group-title="RTMP-BEIN",beIN Sports 9
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="RTMP-BEIN",beIN Sports 8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="RTMP-BEIN",beIN Sports 8
 http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="RTMP-BEIN",beIN Sports 7
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="RTMP-BEIN",beIN Sports 7
 http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="RTMP-BEIN",beIN Sports 6
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="RTMP-BEIN",beIN Sports 6
 http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="RTMP-BEIN",beIN Sports 5
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="RTMP-BEIN",beIN Sports 5
 http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="RTMP-BEIN",beIN Sports 4
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="RTMP-BEIN",beIN Sports 4
 http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="RTMP-BEIN",beIN Sports 3
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="RTMP-BEIN",beIN Sports 3
 http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="RTMP-BEIN",beIN Sports 2
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="RTMP-BEIN",beIN Sports 2
 http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="AR – BEIN SPORT  HEV",beIN Sports 1
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="RTMP-BEIN",beIN Sports 1
 http://digitalxpress2.gcdn.co/live1/RTMP-bein1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| باقة القنوات الفرنسية 📺|-----★●•[/color]
