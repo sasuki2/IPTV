@@ -300,16 +300,10 @@ http://173.249.4.94:8081/b3/b3/chunks.m3u8
 http://173.249.4.94:8081/b2/b2/chunks.m3u8
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="beIN Sports sd",beIN Sports 1 sd
 http://173.249.4.94:8081/b1/b1/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 5 sd
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls3/sport5.m3u8?token=1mepwkInIN5sJeAYuDs2hg&e=1602422522&channel=sport5
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 4 sd
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport4.m3u8?token=QIw9rvPME37pTV3lbA4_tw&e=1602422502&channel=sport4
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 3 sd
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport3.m3u8?token=IinuiHhfFnnWSgnVTnqL3Q&e=1602402834&channel=sport3
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 2 sd
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport2.m3u8?token=OwTezbRZ1_joXWNMwW8SRg&e=1602422474&channel=sport2
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="AR – BEIN SPORT  HEVC",beIN Sports 1 sd
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport1.m3u8?token=2TBJG4i3bvGUwu4TUPU5aA&e=1602422460&channel=sport1
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="بث مباشر",بث مباشر ١
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vI88LE1LrHvSv9SywurpYFNbKa4HNNhuC16G5Qn64kxJBRimJnRqFfTxjILHLtV5S13932MVnRKjvFefpJZmnw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="بث مباشر",بث مباشر ٢
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/RnG2LIYo0-ph2CSq1hNPjGZWEE9-4T7DKUiSo4CdhVc75aSrbx1O1OhzrEn76xlWbk_mDMjca5IlQKFPTZgKiQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN Sports 9" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT9.png" group-title="RTMP-BEIN",beIN Sports 9
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="RTMP-BEIN",beIN Sports 8
