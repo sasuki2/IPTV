@@ -281,6 +281,38 @@ http://arb.ssltv.net:9263/AR_BEIN_SPORTS_8__UHD+/index.m3u8
 http://arb.ssltv.net:9263/AR_BEIN_SPORTS_9__UHD+/index.m3u8
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN SPORTS 10 SD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="beIN Sports SD",beIN SPORTS 10 SD
 http://arb.ssltv.net:9263/AR_BEIN_SPORTS_10__UHD+/index.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports 480p",beIN SPORTS 1 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/13
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="beIN Sports 480p",beIN SPORTS 2 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/15
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="beIN Sports 480p",beIN SPORTS 3 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/17
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="beIN Sports 480p",beIN SPORTS 4 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/19
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="beIN Sports 480p",beIN SPORTS 5 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/21
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="beIN Sports 480p",beIN SPORTS 6 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/23
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="beIN Sports 480p",beIN SPORTS 7 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/25
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN SPORTS 8 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="beIN Sports 480p",beIN SPORTS 8 480p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/27
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports 244p",beIN SPORTS 1 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/14
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="beIN Sports 244p",beIN SPORTS 2 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/16
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="beIN Sports 244p",beIN SPORTS 3 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/18
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="beIN Sports 244p",beIN SPORTS 4 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/20
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="beIN Sports 244p",beIN SPORTS 5 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/22
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="beIN Sports 244p",beIN SPORTS 6 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/24
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="beIN Sports 244p",beIN SPORTS 7 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/26
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN SPORTS 8 244p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="beIN Sports 244p",beIN SPORTS 8 244p
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/28
 #EXTINF:-1 tvg-id="beINbeIN SPORT S21.qa" tvg-name="AR: BEIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S2.png" group-title="beIN SPORT S2",AR: BEIN SPORT 01 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 02 HD" tvg-logo="http://23.237.68.58/logo/bb/be_in_mena_beIN SPORT S2_02.png" group-title="beIN SPORT S2",AR: BEIN SPORT 02 HD
