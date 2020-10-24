@@ -188,6 +188,37 @@ http://sarhantv.myq-see.com:25461/sarhan/sarhantv/81
 
 http://sarhantv.myq-see.com:25461/sarhan/sarhantv/82
 
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya Al 3ama
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports 4K",beIN SPORTS 1 4K
 http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="beIN Sports 4K",beIN SPORTS 2 4K
@@ -214,6 +245,34 @@ http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_11_HD/index.m3u8
 http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_12_HD/index.m3u8
 #EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="beIN SPORTS 13 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD13.png" group-title="beIN Sports 4K",beIN SPORTS 13 4K
 http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_13_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/Gulf/KSA-Sports.png" group-title="BeIN SPORTS FHD°",Ksa Sport 1
+http://channelsstream.xyz:8080/live/streeem/streeem/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/Gulf/KSA-Sports.png" group-title="BeIN SPORTS FHD°",Ksa Sport 2
+http://channelsstream.xyz:8080/live/streeem/streeem/30.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S1 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN SPORTS FHD°",BeIN Sports  1 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/3
+#EXTINF:-1 tvg-id="beinsportS1.qa" tvg-name="BeIN Sports S1 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN SPORTS FHD°",BeIN Sports  2 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/4
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S1 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN SPORTS FHD°",BeIN Sports  1 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/3
+#EXTINF:-1 tvg-id="beinsportS1.qa" tvg-name="BeIN Sports S1 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN SPORTS FHD°",BeIN Sports  2 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/4
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports S1 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN SPORTS FHD°",BeIN Sports  3 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/5
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports S1 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN SPORTS FHD°",BeIN Sports  4 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/6
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports S1 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN SPORTS FHD°",BeIN Sports  5 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/7
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports S1 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN SPORTS FHD°",BeIN Sports  6 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports S1 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN SPORTS FHD°",BeIN Sports  7 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/9
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports S1 8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BeIN SPORTS FHD°",BeIN Sports  8 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/10
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports S1 9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BeIN SPORTS FHD°",BeIN Sports  9 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/11
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports S1 10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BeIN SPORTS FHD°",BeIN Sports  10 FHD
+https://tv.hiho5.com:8443/9anawat/cchz5o2D8f/12
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports FHD",BeIN Sports  1 FHD
 http://dx4.gcdn.co/UKS1747/index.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="beIN Sports FHD",BeIN Sports  2 FHD
