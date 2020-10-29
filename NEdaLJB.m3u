@@ -1224,30 +1224,222 @@ http://digitalxpress.gcdn.co/live1/BeinDramaHD1/index.m3u8
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Boomerang HD
 http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL FAJER 2" tvg-logo="" group-title="MOVIES",AL FAJER 2
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/39
-#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="MOVIES",MIX HOLLYWOOD
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/41
-#EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM " tvg-logo="" group-title="MOVIES",ZEE AFLAM 
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/42
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN " tvg-logo="" group-title="MOVIES",ZEE ALWAN 
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/43
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES" tvg-logo="" group-title="MOVIES",MAJESTIC MOVIES
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/49
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="MOVIES",MAJESTIC HORROR
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/50
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="MOVIES",MAJESTIC ARABIC
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/51
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="MOVIES",MAJESTIC KIDS
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/52
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="MOVIES",NETFLIX ACTION
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/54
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/55
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/56
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
-http://BEST-LIVE13567.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/57
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 1 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 2 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 3 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 4 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 5 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 6 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 7 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 8 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 9 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/9
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS 10 HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/10
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS NEWS
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/11
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORTS GLOBAL
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/12
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports SD1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports SD1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/13
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports SD2" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports SD2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/14
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORT LOW 1 BACKUP
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/15
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORT LOW 2 BACKUP
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/16
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORT LOW 3 BACKUP
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/17
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORT LOW 4 BACKUP
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/18
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN SPORT LOW 5 BACKUP
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports SD3" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports SD3
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/100
+#EXTINF:-1 tvg-id="" tvg-name="BTV 1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BTV 1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/101
+#EXTINF:-1 tvg-id="" tvg-name="BTV 2" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BTV 2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/102
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports fra 1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports fra 1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/140
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports fra 2" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports fra 2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/141
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports fra 3" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bein sports fra 3
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/142
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTC MOVIES" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",MAJESTC MOVIES
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/132
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",MAJESTIC HORROR
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/133
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",MAJESTIC ARABIC
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/134
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",MAJESTIC KIDS
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/135
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",NETFLIX ACTION
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/136
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",NETFLIX HORROR
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/137
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",NETFLIX COMEDY
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/138
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",NETFLIX DRAMA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/139
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Rotana Kids
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/63
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Rotana Cinema
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/64
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Rotana Classic
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/65
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Rotana Comedy
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/66
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Rotana Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/67
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="الباقة التجريبة كل ٣ ايام",MBC BOLLYWOOD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/110
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="الباقة التجريبة كل ٣ ايام",MBC IRAQ
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/111
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="الباقة التجريبة كل ٣ ايام",MBC MASR2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/112
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="الباقة التجريبة كل ٣ ايام",MBC MASR
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/113
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="الباقة التجريبة كل ٣ ايام",MBC ACTION
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/114
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="الباقة التجريبة كل ٣ ايام",MBC MAX
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/115
+#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="الباقة التجريبة كل ٣ ايام",MBC + Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/116
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="الباقة التجريبة كل ٣ ايام",MBC DRAMA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/117
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="الباقة التجريبة كل ٣ ايام",MBC 5
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/118
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="الباقة التجريبة كل ٣ ايام",MBC 4
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/119
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="الباقة التجريبة كل ٣ ايام",MBC 3
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/120
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="الباقة التجريبة كل ٣ ايام",MBC 2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/121
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبة كل ٣ ايام",MBC 1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/122
+#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبة كل ٣ ايام",wanasah
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/123
+#EXTINF:-1 tvg-id="" tvg-name="mbc persia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title="الباقة التجريبة كل ٣ ايام",mbc persia
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/124
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Quran" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOxPuLktOfGg7djxHsn5bM1vDlqzAahhNIZs0MfPSjUTFiZnle&usqp=CAU" group-title="الباقة التجريبة كل ٣ ايام",Saudia Quran
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/20
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="data:image/jpeg;base64,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" group-title="الباقة التجريبة كل ٣ ايام",Saudi Sunnah
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/21
+#EXTINF:-1 tvg-id="" tvg-name="AL WESAAL" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AL WESAAL
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/22
+#EXTINF:-1 tvg-id="" tvg-name="AYAT" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AYAT
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/23
+#EXTINF:-1 tvg-id="" tvg-name="AL RESSALA" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="الباقة التجريبة كل ٣ ايام",AL RESSALA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/24
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa tv" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Iqraa tv
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/25
+#EXTINF:-1 tvg-id="" tvg-name="OSN-YAHALA-CINEMA" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",OSN-YAHALA-CINEMA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/75
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Yahala HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Yahala HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/76
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Animal Planit" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Animal Planit
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/77
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Disny" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Disny
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/78
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Discovery Science HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Discovery Science HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/79
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Movies" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Movies
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/80
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Comedy" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Comedy
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/81
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Movies-Kids" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Movies-Kids
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/82
+#EXTINF:-1 tvg-id="" tvg-name="osn-Action" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",osn-Action
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/83
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Yahala1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Yahala1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/84
+#EXTINF:-1 tvg-id="" tvg-name="Osn-National Geographic HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-National Geographic HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/85
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Nat Geo Wild HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Nat Geo Wild HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/86
+#EXTINF:-1 tvg-id="" tvg-name="Osn-Nat Geo People HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-Nat Geo People HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/87
+#EXTINF:-1 tvg-id="" tvg-name="Osn-MUSALSALAT-1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Osn-MUSALSALAT-1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/88
+#EXTINF:-1 tvg-id="" tvg-name="AR_ART Aflam1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AR_ART Aflam1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/89
+#EXTINF:-1 tvg-id="" tvg-name="AR_ART Aflam2" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AR_ART Aflam2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/90
+#EXTINF:-1 tvg-id="" tvg-name="AR_ART Cinema" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AR_ART Cinema
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/91
+#EXTINF:-1 tvg-id="" tvg-name="AR_ART Hekayat1" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AR_ART Hekayat1
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/92
+#EXTINF:-1 tvg-id="" tvg-name="AR_ART Hekayat2" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AR_ART Hekayat2
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/93
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BeIN Movies 4HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/94
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BeIN Movies 3HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/95
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BeIN Movies 2HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/96
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BeIN Movies 1HD
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/97
+#EXTINF:-1 tvg-id="" tvg-name="BEIN DRAMA" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",BEIN DRAMA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/98
+#EXTINF:-1 tvg-id="" tvg-name="Al Yawm" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Al Yawm
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/99
+#EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Al Nahar
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/51
+#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Al Nahar Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/52
+#EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Cairo Cinema
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/53
+#EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Cairo Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/54
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",CBC Sofra
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/55
+#EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Cima
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/56
+#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Nile Cinema
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/57
+#EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Nile Culture
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/58
+#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Nile Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/59
+#EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Nile Life
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/60
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Nile Sport
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/61
+#EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Panorama Drama
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/62
+#EXTINF:-1 tvg-id="" tvg-name="Bara3em" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Bara3em
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/125
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Zee Alwan
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/126
+#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Zee Aflam
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/127
+#EXTINF:-1 tvg-id="" tvg-name="MIX Hollywood" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",MIX Hollywood
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/128
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabia" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Cartoon Network Arabia
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/131
+#EXTINF:-1 tvg-id="" tvg-name="LANA " tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",LANA 
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/143
+#EXTINF:-1 tvg-id="" tvg-name="Beur TV" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",Beur TV
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/144
+#EXTINF:-1 tvg-id="" tvg-name="AL Fajer" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",AL Fajer
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/145
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",JORDAN SPORTS
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/146
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",ON SPORTS
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/147
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN TV" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",JORDAN TV
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/148
+#EXTINF:-1 tvg-id="" tvg-name="ROYA" tvg-logo="" group-title="الباقة التجريبة كل ٣ ايام",ROYA
+http://best-live.xyz:25461/BEST-LIVE13567/BEST-LIVE13567/149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BEINSPORTS1FR
 http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BEINSPORTS2FR
