@@ -1656,22 +1656,16 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="مباراة السيتي" tvg-logo="" group-title="وقت المباريات فقط♤",مباراة السيتي
-https://akamai2-me.cdn.booyah.live/hls/113132/27150250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مباراة السيتي جودة ضعيفة جدا " tvg-logo="" group-title="وقت المباريات فقط♤",مباراة السيتي جودة ضعيفة جدا
-https://akamai2-mx.cdn.booyah.live/hls/210158/27882044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="السيتي hd" tvg-logo="" group-title="وقت المباريات فقط♤",السيتي hd
-https://verizon-me.cdn.booyah.live/hls/113130/28252506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="السيتي" tvg-logo="" group-title="وقت المباريات فقط♤",السيتي
-https://akamai2-me.cdn.booyah.live/hls/113134/29461792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد 720p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد 720p
-https://akamai2-mx.cdn.booyah.live/hls/250170/27775980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد جودة متوسطة" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد جودة متوسطة
-https://verizon.mx.cdn.booyah.live/hls/250170/27775236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد 4K" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد 4K
-https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد جودة متوسطة1" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد جودة متوسطة1
+#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد
 https://conversant-me.cdn.booyah.live/hls/113137/29461206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 4k" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 4k
+https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 720p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 720p
+https://akamai2-mx.cdn.booyah.live/hls/250170/27775980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 480p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 480p
+https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 360p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 360p
+https://akamai2-me.cdn.booyah.live/hls/113132/29465125.m3u8
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="وقت المباريات فقط♤",beIN Sports 7 sd
 http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD7/playlist.m3u8
