@@ -1385,55 +1385,68 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports S2",BeIN Sports S2 1 FHD
+http://148.251.23.179:80/B1FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports S2",BeIN Sports S2 2 FHD
+http://148.251.23.179:80/B2FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports S2 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN Sports S2",BeIN Sports S2 3 FHD
+http://148.251.23.179:80/B3FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports S2 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN Sports S2",BeIN Sports S2 4 FHD
+http://148.251.23.179:80/B4FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports S2 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN Sports S2",BeIN Sports S2 5 FHD
+http://148.251.23.179:80/B5FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports S2 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN Sports S2",BeIN Sports S2 6 FHD
+http://148.251.23.179:80/B6FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports S2 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN Sports S2",BeIN Sports S2 7 FHD
+http://148.251.23.179:80/B7FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports S2 8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BeIN Sports S2",BeIN Sports S2 8 FHD
+http://148.251.23.179:80/B8FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports S2 9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BeIN Sports S2",BeIN Sports S2 9 FHD
+http://148.251.23.179:80/B9FHD/index.m3u8
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports S2 10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BeIN Sports S2",BeIN Sports S2 10 FHD
+http://148.251.23.179:80/B10FHD/index.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports  1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports FHD",BeIN Sports  1 FHD
 http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD1/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports  2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="beIN Sports FHD",BeIN Sports  2 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein2/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD2/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports  3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="beIN Sports FHD",BeIN Sports  3 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein3/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD3/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports  4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="beIN Sports FHD",BeIN Sports  4 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein4/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD4/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports  5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="beIN Sports FHD",BeIN Sports  5 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein5/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD5/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="beIN Sports FHD",BeIN Sports  6 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein6/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD6/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports  7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="beIN Sports FHD",BeIN Sports  7 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein7/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD7/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports  8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="beIN Sports FHD",BeIN Sports  8 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein8/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD8/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports  9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="beIN Sports FHD",BeIN Sports  9 FHD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein9/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD9/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports  10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="beIN Sports FHD",BeIN Sports  10 FHD
-http://digitalxpress2.gcdn.co/live1/Bein10/index.m3u8
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD10/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 7" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 7
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/218.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 6" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 6
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/217.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 5" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 5
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/216.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 4" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 4
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/215.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 3" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 3
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/214.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 2" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 2
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/213.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport HD 1" tvg-logo="" group-title="bein hd&sd",BEIN Sport HD 1
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/212.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD7" tvg-logo="" group-title="bein hd&sd",Bein sport SD7
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD6" tvg-logo="" group-title="bein hd&sd",Bein sport SD6
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD5" tvg-logo="" group-title="bein hd&sd",Bein sport SD5
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/223.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD4" tvg-logo="" group-title="bein hd&sd",Bein sport SD4
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD3" tvg-logo="" group-title="bein hd&sd",Bein sport SD3
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/221.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD2" tvg-logo="" group-title="bein hd&sd",Bein sport SD2
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/220.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD1" tvg-logo="" group-title="bein hd&sd",Bein sport SD1
-http://138.201.145.136:8080/live/maxsport1998/maxsport1998/219.ts
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="beIN Sports 10 HD OLYMPIC " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT10.png" group-title="AR – BEIN SPORT  HD",beIN Sports 10 HD
+http://148.251.23.179:80/bhd10/index.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN Sports 9 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT9.png" group-title="AR – BEIN SPORT  HD",beIN Sports 9 HD
+http://148.251.23.179:80/bhd9/index.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="AR – BEIN SPORT  HD",beIN Sports 8 HD
+http://148.251.23.179:80/bhd8/index.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="AR – BEIN SPORT  HD",beIN Sports 7 HD
+http://148.251.23.179:80/bhd7/index.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="AR – BEIN SPORT  HD",beIN Sports 6 HD
+http://148.251.23.179:80/bhd6/index.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="AR – BEIN SPORT  HD",beIN Sports 5 HD
+http://148.251.23.179:80/bhd5/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="AR – BEIN SPORT  HD",beIN Sports 4 HD
+http://148.251.23.179:80/bhd4/index.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="AR – BEIN SPORT  HD",beIN Sports 3 HD
+http://148.251.23.179:80/bhd2l3/index.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="AR – BEIN SPORT  HD",beIN Sports 2 HD
+http://148.251.23.179:80/bhd2/index.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 HD " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="AR – BEIN SPORT  HD",beIN Sports 1 HD
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 480p" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="beIN Sports 480p",beIN SPORTS 1 480p
@@ -1666,6 +1679,14 @@ https://akamai2-mx.cdn.booyah.live/hls/250170/27775980.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ريال 360p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 360p
 https://akamai2-me.cdn.booyah.live/hls/113132/29465125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 3" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 3
+https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 2" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 2
+https://akamai2-me.cdn.booyah.live/hls/113132/27150250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 4" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 4
+https://conversant-me.cdn.booyah.live/hls/113130/29242228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ريال 5" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 5
+https://verizon-me.cdn.booyah.live/hls/113137/29461206.m3u8
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="وقت المباريات فقط♤",beIN Sports 7 sd
 http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD7/playlist.m3u8
