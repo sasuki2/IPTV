@@ -86,7 +86,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="" group-title="ARABIC",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="ARABIC",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="ARABIC",Al Kass Sports 2
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="ARABIC",Al Kass Sports 4
@@ -996,7 +996,7 @@ http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama1
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/98
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
-http://digitalxpress.gcdn.co/live1/BeinDramaHD1/index.m3u8
+http://ipdax.top:8080/hatmyx/hjghyut/321
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 2  HD
@@ -1306,6 +1306,21 @@ http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2530
 #EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 s2
 http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2531
 
+#EXTINF:-1 tvg-id="Al Kass One" tvg-name="Al Kass One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1?DVR
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass two ARB" tvg-name="Al Kass two ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass three ARB" tvg-name="Al Kass three ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3?DVR
+#EXTINF:-1 tvg-id="Al Kass four ARB" tvg-name="Al Kass four ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass five ARB" tvg-name="Al Kass five ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BEINSPORTS1FR
 http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",BEINSPORTS2FR
@@ -1463,54 +1478,89 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 1
-http://51.158.145.148:25461/3alam_TV/Arabic/31
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 2
-http://51.158.145.148:25461/3alam_TV/Arabic/32
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 3
-http://51.158.145.148:25461/3alam_TV/Arabic/33
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 4
-http://51.158.145.148:25461/3alam_TV/Arabic/34
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 5
-http://51.158.145.148:25461/3alam_TV/Arabic/35
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 6
-http://51.158.145.148:25461/3alam_TV/Arabic/36
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 7
-http://51.158.145.148:25461/3alam_TV/Arabic/37
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 8
-http://51.158.145.148:25461/3alam_TV/Arabic/38
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 9
-http://51.158.145.148:25461/3alam_TV/Arabic/39
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10" tvg-logo="" group-title="beIN Sports FHD",beIN Sports 10
-http://51.158.145.148:25461/3alam_TV/Arabic/40
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 1
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17022.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 2
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17023.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 3
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17024.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 4
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17025.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 5
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17026.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 6
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17027.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 7
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17028.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 8
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17029.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 9
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17030.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 10" tvg-logo="" group-title="bein Sports vip",AR: BEIN SPORTS 10
+http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/17031.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 01 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 01 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1450
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 02 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 02 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1451
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 03 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 03 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1452
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 04 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 04 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1453
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 05 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 05 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1454
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 06 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 06 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1455
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  07 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  07 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1456
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  08 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  08 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1457
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  09 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  09 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1458
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  10 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  10 FHD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1459
 
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="VIP BeIN Sports 1" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 1
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28415.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 2" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 2
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28416.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 3" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 3
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28417.ts
-#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="VIP BeIN Sports 4" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 4
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28418.ts
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="VIP BeIN Sports 5" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 5
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28419.ts
-#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="VIP BeIN Sports 6" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 6
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28420.ts
-#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="VIP BeIN Sports 7" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 7
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28421.ts
-#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="VIP BeIN Sports 8" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 8
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28422.ts
-#EXTINF:-1 tvg-id="beinsports9.us" tvg-name="VIP BeIN Sports 9" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 9
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28423.ts
-#EXTINF:-1 tvg-id="beinsports10.us" tvg-name="VIP BeIN Sports 10" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 10
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28424.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 11" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 11
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28425.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 12" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 12
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28426.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 13" tvg-logo="" group-title="beIN SPORTS HD",VIP BeIN Sports 13
-http://links.iptvlogin.com:80/live/hossam/s9pqOl9QPn/28427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 01 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 01 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/575
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 02 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 02 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/576
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 03 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 03 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/577
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 04 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 04 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/578
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 05 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 05 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/579
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 06 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 06 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/580
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 07 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 07 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/581
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 08 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 08 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/582
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 09 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 09 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/583
+#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 10 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 10 HD
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/584
+
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 1" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 1
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6596
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 2" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 2
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6597
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 3" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 3
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6598
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 4" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 4
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6599
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 5" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 5
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6600
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 6" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 6
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6601
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 7" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 7
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6602
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 8" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6603
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 9" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 9
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6604
+#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 10" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 10
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6605
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
@@ -1719,33 +1769,35 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://verizon.mx.cdn.booyah.live/hls/210154/27775980_720.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250176/30400673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://centurylink.mx.cdn.booyah.live/hls/210154/27775236.m3u8
+https://centurylink.mx.cdn.booyah.live/hls/250176/30401249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-mx.cdn.booyah.live/hls/210154/27775980_240.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250176/30401249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113137/29855488.m3u8
+https://centurylink.mx.cdn.booyah.live/hls/250176/30401488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://akamai2-me.cdn.booyah.live/hls/113137/29855488.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/30401118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://akamai2-me.cdn.booyah.live/hls/113137/29855488.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113134/30396657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://akamai2-me.cdn.booyah.live/hls/113132/27150250_720.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/30402229.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://centurylink.mx.cdn.booyah.live/hls/210154/27775236.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/30402548.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-https://akamai2-me.cdn.booyah.live/hls/113137/29855488.m3u8
+https://live-ak.vimeocdn.com/exp=1604756479~acl=%2F4b874b4e-59bd-449d-a01a-8a5963dd418a%2F%2A~hmac=963a0f619041acaec80aad98c69ad97568d6512ce3d80a1741eb1b1509c1c570/4b874b4e-59bd-449d-a01a-8a5963dd418a/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://akamai2-me.cdn.booyah.live/hls/113132/28271294.m3u8
+https://live-ak.vimeocdn.com/exp=1604756505~acl=%2F4b874b4e-59bd-449d-a01a-8a5963dd418a%2F%2A~hmac=564a275ccd758c000f2bdbda225f636fe57118d7a194f7e541b64840a480239f/4b874b4e-59bd-449d-a01a-8a5963dd418a/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://akamai2-me.cdn.booyah.live/hls/113137/29855488.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/30402229.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://akamai2-mx.cdn.booyah.live/hls/210154/27775980_720.m3u8
+https://vsd89.mycdn.me/hls/717265767102.m3u8/sig/w8LaqCsdLbM/expires/1604839886898/srcIp/149.200.210.69/clientType/0/srcAg/CHROME_ANDROID/mid/1819371708094/717265767102_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-https://akamai2-me.cdn.booyah.live/hls/113130/27150250_720.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113134/30396657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
-https://akamai2-me.cdn.booyah.live/hls/113138/29869682.m3u8
+https://d356ybovuw0hnc.cloudfront.net/out/v1/b3a7b18e10dc4eb6a374f4b28b9432a0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
+https://akamai2-me.cdn.booyah.live/hls/113132/30401118.m3u8
 
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="وقت المباريات فقط♤",beIN Sports 7 sd
