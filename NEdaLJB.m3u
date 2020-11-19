@@ -610,6 +610,51 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_sn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",Medi1tv
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 1
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/79
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 2" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 2
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/80
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 3" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 3
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/81
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 4" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 4
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/87
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 5" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 5
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/88
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 6" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 6
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/89
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 7" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 7
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/108
+#EXTINF:-1 tvg-id="" tvg-name="Netflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="NETFLIX",Netflix action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/67
+#EXTINF:-1 tvg-id="" tvg-name="Netflix horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="NETFLIX",Netflix horror
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/68
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="NETFLIX",Netflix Comedy
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/69
+#EXTINF:-1 tvg-id="" tvg-name="Netflix  Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="NETFLIX",Netflix  Drama
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/70
+#EXTINF:-1 tvg-id="" tvg-name="beout Arabia" tvg-logo="https://www14.0zz0.com/2020/10/27/17/376290328.png" group-title="beout Aflam",beout Arabia
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/75
+#EXTINF:-1 tvg-id="" tvg-name="beout cinema" tvg-logo="https://www11.0zz0.com/2020/10/27/17/673130049.png" group-title="beout Aflam",beout cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/76
+#EXTINF:-1 tvg-id="" tvg-name="beout action" tvg-logo="https://www9.0zz0.com/2020/10/27/17/927600613.png" group-title="beout Aflam",beout action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/77
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251176.png" group-title="Majestic",Majestic Arabia
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/71
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="Majestic",Majestic Cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/72
+#EXTINF:-1 tvg-id="" tvg-name="Majestic horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2258783.png" group-title="Majestic",Majestic horror
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/73
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="Majestic",Majestic Kids
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/74
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2422613.png" group-title="OXN ",OXN Cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/85
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4118066_ico.png" group-title="OXN ",Shahid Action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/160
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTC MOVIES" tvg-logo="" group-title="MAJESTIC",MAJESTC MOVIES
 http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/132
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="MAJESTIC",MAJESTIC HORROR
@@ -737,6 +782,27 @@ http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
 http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
 http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala HD" tvg-logo="" group-title="OSN",OSN Yahala HD
+http://51.158.145.148:25461/test/test/8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="" group-title="OSN",OSN Yahala Aloula
+http://51.158.145.148:25461/test/test/9
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="" group-title="OSN",OSN Yahala Cinema
+http://51.158.145.148:25461/test/test/10
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="" group-title="OSN",OSN Action
+http://51.158.145.148:25461/test/test/11
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="" group-title="OSN",OSN Comedy
+http://51.158.145.148:25461/test/test/12
+#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="" group-title="OSN",OSN Enigma
+http://51.158.145.148:25461/test/test/13
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="" group-title="OSN",OSN Movies
+http://51.158.145.148:25461/test/test/14
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series First " tvg-logo="" group-title="OSN",OSN Series First 
+http://51.158.145.148:25461/test/test/15
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="" group-title="OSN",OSN Movies First
+http://51.158.145.148:25461/test/test/16
+#EXTINF:-1 tvg-id="" tvg-name="OSN Binge" tvg-logo="" group-title="OSN",OSN Binge
+http://51.158.145.148:25461/test/test/17
 
 #EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Movies" tvg-logo="" group-title="MYHD",MyHD:Fox.Movies
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1505
@@ -1613,28 +1679,27 @@ http://tv4all.cyou:80/3030498113/0405515466/12528
 http://tv4all.cyou:80/3030498113/0405515466/12529
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/776
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 2
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/777
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/778
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 4
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/779
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 5
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/780
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 6
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/781
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 7
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/782
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 8" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 8
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 9
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 1" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 1
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46426.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 2" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 2
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46427.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 3" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 3
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46428.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 4" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 4
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46429.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 5" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 5
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46430.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD  6" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD  6
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46431.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 7" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 7
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46432.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 8" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 8
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46433.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 9" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 9
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46434.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN Sport FUHD 10" tvg-logo="" group-title="beIN SPORTS FHD",BEIN Sport FUHD 10
-http://45.87.29.77:8080/live/spider_zHFmqD/3PRYOPX8/46435.ts?token=HkZaVUoNRw4aVAADVVJWWQNaVVMBUAEKBwAEA1AHUlBRUAAHDQEEBQhESUcQEkBdUlRpC1EUDQYCBlEFGBFEQQAWbV1dR18WDFZSUlREHhpHUFsHFwwGBAQBWg0DCwUCSUZCXV1HXxYOVVxTVUQeGlZBQgdHWFZea1YHQl1QVBBfCkdYVUlHW1Y5AQAOB1xcEQMUUxcaFVtHQkAOFgBCUwgKV0AbSUdWURIXBBcDEAIRCgNWBxQbEFddF1pAQUgQX0Z7eBtJR1FAEgALEA9dVhEDFBZGFBsQXUE9RlFARUAABV9RS0dfFghESUcOB0pnUFZYDFBVQ1tbXBEWDhEAEElGX1tXDBFbSjkVDAdECBoFDQBaBxRK
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN1.720p
@@ -1697,26 +1762,7 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/152
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 1
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/776
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 2
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/777
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 3
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/778
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 4
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/779
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 5
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/780
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 6
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/781
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 7
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/782
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 8" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 8
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 9
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="= SPORTS Channels (beIN SPORTS)  =",SPORT: AR: BEIN Sports 10
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
+
 
 
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",FR: TF1 FHD
