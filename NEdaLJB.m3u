@@ -1965,39 +1965,34 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://hlslive.game.linkv.fun/yolo/16052031959079880297/playlist.m3u8?lhls=1
+https://akamai2-me.cdn.booyah.live/hls/113134/17353624.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://hlslive.game.linkv.fun/yolo/16053710892438182787/playlist.m3u8?lhls=1
+https://verizon.mx.cdn.booyah.live/hls/210158/30540497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-br.cdn.booyah.live/hls/197174/29960668.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/29856838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://live-ak.vimeocdn.com/exp=1605385823~acl=%2F01005e59-a66e-4180-9a8b-b9452c6ee0f9%2F%2A~hmac=e08b09eec1d2ebf01266acffe7f3562257f4e7036df013b51ec5d3a7839591df/01005e59-a66e-4180-9a8b-b9452c6ee0f9/chunklist_b3256000.m3u8?max_segments=10
+https://2-fss-2.streamhoster.com/pl_120/204290-1569148-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://live-ak.vimeocdn.com/exp=1605386154~acl=%2F0d9c4975-c048-430c-bab8-b7801ad9699e%2F%2A~hmac=8af5b08038fad0e29580d15f2b6cb6752637110e539e3dcdbcc50799537b110a/0d9c4975-c048-430c-bab8-b7801ad9699e/chunklist_b416000.m3u8?max_segments=10
+https://akamai2-me.cdn.booyah.live/hls/113132/32179002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://live-ak.vimeocdn.com/exp=1605386606~acl=%2Fc0014114-81ad-4f02-8d6c-e1b63c765703%2F%2A~hmac=8353e5daf6903b26762f1f5636556dc2fa322479e6ea2731c4abac075dda8599/c0014114-81ad-4f02-8d6c-e1b63c765703/chunklist_b3256000.m3u8?max_segments=10
+https://akamai2-me.cdn.booyah.live/hls/113132/32177641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
+https://akamai2-me.cdn.booyah.live/hls/113132/29856838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+https://akamai2-me.cdn.booyah.live/hls/113134/17353624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
+https://akamai2-me.cdn.booyah.live/hls/113134/17353624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
+https://akamai2-me.cdn.booyah.live/hls/113132/32177641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
+https://cdn.dailysport.live/epl1/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
+https://akamai2-mx.cdn.booyah.live/hls/210154/27775980_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
+https://akamai2-me.cdn.booyah.live/hls/113130/27150250_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
+https://akamai2-me.cdn.booyah.live/hls/113138/29869682.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="مباريات",beIN Sports 1
-http://51.158.145.148:25461/test/test/31
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="مباريات",beIN Sports 2
-http://51.158.145.148:25461/test/test/32
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="مباريات",beIN Sports 3
-http://51.158.145.148:25461/test/test/33
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="" group-title="مباريات",beIN Sports 4
-http://51.158.145.148:25461/test/test/34
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="" group-title="مباريات",beIN Sports 5
-http://51.158.145.148:25461/test/test/35
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6" tvg-logo="" group-title="مباريات",beIN Sports 6
-http://51.158.145.148:25461/test/test/36
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7" tvg-logo="" group-title="مباريات",beIN Sports 7
-http://51.158.145.148:25461/test/test/37
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8" tvg-logo="" group-title="مباريات",beIN Sports 8
-http://51.158.145.148:25461/test/test/38
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9" tvg-logo="" group-title="مباريات",beIN Sports 9
-http://51.158.145.148:25461/test/test/39
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10" tvg-logo="" group-title="مباريات",beIN Sports 10
-http://51.158.145.148:25461/test/test/40
 
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| قنوات رياضة تعمل على مشغل wuffy  player فقط📺|-----★●•[/color]
