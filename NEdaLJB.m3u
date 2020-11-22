@@ -573,6 +573,8 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 http://digitalxpress.gcdn.co/live1/MBC3_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD
 http://bit.do/JeemTV
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem1 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem1 HD
+http://driptvs.com:8080/King200conxx/ZQBVifHAzW/46399
 #EXTINF:-1 tvg-id="D.qa" tvg-name="D HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",D HD
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Junior" tvg-logo="" group-title="KIDS",beIN Junior
@@ -1726,25 +1728,25 @@ http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD10" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD7
-http://194.99.21.90/bein10/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/10
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD9" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD6
-http://194.99.21.90/bein9/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/9
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD8" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD5
-http://194.99.21.90/bein8/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/8
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD7" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD7
-http://194.99.21.90/bein7/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/7
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD6" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD6
-http://194.99.21.90/bein6/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/6
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD5" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD5
-http://194.99.21.90/Bein5/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/5
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD4" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD4
-http://194.99.21.90/Bei4/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/4
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD3" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD3
-http://194.99.21.90/Bein3x/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/3
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD2" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD2
-http://194.99.21.90/Bein2/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/2
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD1" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD1
-http://194.99.21.90/Beinsport1/tracks-v1a1/mono.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/1
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/15
@@ -1965,17 +1967,17 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-me.cdn.booyah.live/hls/113137/17353624.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/30453309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://akamai2-br.cdn.booyah.live/hls/197036/32197226.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113130/32482896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-me.cdn.booyah.live/hls/113132/32021372.m3u8
+https://centurylink.br.cdn.booyah.live/hls/197036/32213072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113132/31793647.m3u8
+https://aws-br.cdn.booyah.live/hls/1000026/32204236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://centurylink.br.cdn.booyah.live/hls/226041/32205755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
 https://akamai2-me.cdn.booyah.live/hls/113132/32437321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
+https://akamai2-me.cdn.booyah.live/hls/113132/32479811.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 https://d2w4gurk9jhjya.cloudfront.net/wi673/t1/108374061/chunklist_w1990270942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
