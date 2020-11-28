@@ -612,6 +612,268 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_sn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",Medi1tv
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12369
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12370
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12371
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12372
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12373
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12374
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 7
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12375
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 8
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12376
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 9
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12377
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12378
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12379
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12380
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12381
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12382
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12383
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 7
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12384
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 8
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12385
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 9
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12386
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 10" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 10
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12387
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 11" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 11
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12388
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12389
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12390
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12391
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12392
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12393
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12394
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 7
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12395
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 8
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12396
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12397
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12398
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12399
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12400
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12401
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12402
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12403
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12404
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12405
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12406
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12407
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12408
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12409
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12410
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12411
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action +" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action +
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12412
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12413
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action Top" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action Top
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12414
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12415
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12416
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12417
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12418
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12419
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12420
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12421
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12422
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12423
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12424
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12425
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12426
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12427
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12428
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12429
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12430
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12431
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12432
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12433
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12434
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12435
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12436
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12437
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12438
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12439
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12440
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12441
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12442
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama+" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama+
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12443
+#EXTINF:-1 tvg-id="" tvg-name="James Bond سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",James Bond سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12445
+#EXTINF:-1 tvg-id="" tvg-name="Sylvester Stallone سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Sylvester Stallone سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12446
+#EXTINF:-1 tvg-id="" tvg-name="Fast And Furious سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Fast And Furious سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12447
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Mission Impossible سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12448
+#EXTINF:-1 tvg-id="" tvg-name="Batman سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Batman سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12449
+#EXTINF:-1 tvg-id="" tvg-name="Twilight سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Twilight سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12450
+#EXTINF:-1 tvg-id="" tvg-name="Saw سلسلة افلام الرعب" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Saw سلسلة افلام الرعب
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12451
+#EXTINF:-1 tvg-id="" tvg-name="Superman سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Superman سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12452
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Chaplin سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Charlie Chaplin سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12453
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Willis سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Bruce Willis سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12454
+#EXTINF:-1 tvg-id="" tvg-name="Tom Cruise سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Tom Cruise سلسلة افلام
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12455
+#EXTINF:-1 tvg-id="" tvg-name="القرآن الكريم: الشيخ عبد الباسط عبد الصمد" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",القرآن الكريم: الشيخ عبد الباسط عبد الصمد
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12456
+#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12458
+#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12459
+#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12460
+#EXTINF:-1 tvg-id="" tvg-name="بلاد الواق واق" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",بلاد الواق واق
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12461
+#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الأول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الأول
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12462
+#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الثاني
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12463
+#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الثالث" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الثالث
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12464
+#EXTINF:-1 tvg-id="" tvg-name="عيله خمس نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيله خمس نجوم
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12465
+#EXTINF:-1 tvg-id="" tvg-name="عيلة 7 نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيلة 7 نجوم
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12466
+#EXTINF:-1 tvg-id="" tvg-name="عيلة 8 نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيلة 8 نجوم
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12467
+#EXTINF:-1 tvg-id="" tvg-name="دنيا اسعد سعيد الجزء الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",دنيا اسعد سعيد الجزء الاول
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12468
+#EXTINF:-1 tvg-id="" tvg-name="دنيا اسعد سعيد الجزء الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",دنيا اسعد سعيد الجزء الثاني
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12469
+#EXTINF:-1 tvg-id="" tvg-name="ضبو الشناتي" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضبو الشناتي
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12470
+#EXTINF:-1 tvg-id="" tvg-name="عصر الجنون" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عصر الجنون
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12471
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12472
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12473
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 3
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12474
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 4
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12475
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 5
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12476
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 6
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12477
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 7
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12478
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 8
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12479
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 9
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12480
+#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 10" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 10
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12481
+#EXTINF:-1 tvg-id="" tvg-name="زمن البرغوت 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",زمن البرغوت 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12482
+#EXTINF:-1 tvg-id="" tvg-name="زمن البرغوت 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",زمن البرغوت 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12483
+#EXTINF:-1 tvg-id="" tvg-name="عش المجانين" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عش المجانين
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12484
+#EXTINF:-1 tvg-id="" tvg-name="ابو المفهومية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو المفهومية
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12485
+#EXTINF:-1 tvg-id="" tvg-name="أحلام أبو الهنا" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",أحلام أبو الهنا
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12486
+#EXTINF:-1 tvg-id="" tvg-name="الخربة" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",الخربة
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12487
+#EXTINF:-1 tvg-id="" tvg-name="ابو جانتي 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو جانتي 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12488
+#EXTINF:-1 tvg-id="" tvg-name="ابو جانتي 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو جانتي 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12489
+#EXTINF:-1 tvg-id="" tvg-name="ضيعة ضايعة 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضيعة ضايعة 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12490
+#EXTINF:-1 tvg-id="" tvg-name="ضيعة ضايعة 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضيعة ضايعة 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12491
+#EXTINF:-1 tvg-id="" tvg-name="كسر الخواطر" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",كسر الخواطر
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12492
+#EXTINF:-1 tvg-id="" tvg-name="يوميات مدير عام 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",يوميات مدير عام 1
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12493
+#EXTINF:-1 tvg-id="" tvg-name="يوميات مدير عام 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",يوميات مدير عام 2
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12494
+#EXTINF:-1 tvg-id="" tvg-name="ايام الدراسة الجزء الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ايام الدراسة الجزء الاول
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12495
+#EXTINF:-1 tvg-id="" tvg-name="ايام شامية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ايام شامية
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12496
+#EXTINF:-1 tvg-id="" tvg-name="ليالي الصالحية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ليالي الصالحية
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12497
+#EXTINF:-1 tvg-id="" tvg-name="ببساطة" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ببساطة
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12498
+#EXTINF:-1 tvg-id="" tvg-name="بكرا احلى" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",بكرا احلى
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12499
+#EXTINF:-1 tvg-id="" tvg-name="وطن على وتر الجز الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",وطن على وتر الجز الاول
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12500
+#EXTINF:-1 tvg-id="" tvg-name="وطن على وتر الجز الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",وطن على وتر الجز الثاني
+http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 1
@@ -1468,342 +1730,88 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
-http://tv4all.cyou:80/3030498113/0405515466/29171
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
-http://tv4all.cyou:80/3030498113/0405515466/29172
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport3
-http://tv4all.cyou:80/3030498113/0405515466/29173
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport4
-http://tv4all.cyou:80/3030498113/0405515466/29193
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SP-ESPN
-http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein2
-http://148.251.23.179:80/bhd2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein3
-http://148.251.23.179:80/bhd3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein4
-http://148.251.23.179:80/bhd4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein5
-http://148.251.23.179:80/bhd5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein6
-http://148.251.23.179:80/bhd6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein7
-http://148.251.23.179:80/bhd7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein8
-http://148.251.23.179:80/bhd8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein9
-http://148.251.23.179:80/bhd9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein10
-http://148.251.23.179:80/bhd10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein11
-http://148.251.23.179:80/bhd11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein14
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",wwe
-http://digitalxpress2.gcdn.co/live1/wwe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",boxnationuk
-http://digitalxpress2.gcdn.co/live1/boxnationuk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",UFC
-http://dx4.gcdn.co/UK329/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn
-http://digitalxpress2.gcdn.co/live1/espn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn2
-http://digitalxpress2.gcdn.co/live1/espn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",cbssn
-http://digitalxpress2.gcdn.co/live1/cbssn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports1
-http://digitalxpress2.gcdn.co/live1/foxsports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports2
-http://digitalxpress2.gcdn.co/live1/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbcsports
-http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jtennis
-http://digitalxpress2.gcdn.co/live1/jtennis/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jgolf
-http://digitalxpress2.gcdn.co/live1/jgolf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbatv
-http://digitalxpress2.gcdn.co/live1/nbatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn1
-http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn2
-http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn3
-http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn4
-http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn5
-http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",mavtv
-http://digitalxpress2.gcdn.co/live1/mavtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport1
-http://digitalxpress2.gcdn.co/live1/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport2
-http://digitalxpress2.gcdn.co/live1/eurosport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv1
-http://digitalxpress2.gcdn.co/live1/sporttv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv2
-http://digitalxpress2.gcdn.co/live1/sporttv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv3
-http://digitalxpress2.gcdn.co/live1/sporttv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv4
-http://digitalxpress2.gcdn.co/live1/sporttv4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv5
-http://digitalxpress2.gcdn.co/live1/sporttv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sportingtv
-http://digitalxpress2.gcdn.co/live1/sportingtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat
-http://digitalxpress.gcdn.co/live1/polsat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat2
-http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatplay
-http://digitalxpress.gcdn.co/live1/polsatplay/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatnews
-http://digitalxpress.gcdn.co/live1/polsatnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatcafe
-http://digitalxpress.gcdn.co/live1/polsatcafe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsport
-http://digitalxpress.gcdn.co/live1/polsatsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportextra
-http://digitalxpress.gcdn.co/live1/polsatsportextra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tvpsport
-http://digitalxpress.gcdn.co/live1/tvpsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",canal+sport2
-http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium1
-http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
-http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
-http://tv4all.cyou:80/3030498113/0405515466/824
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+.png" group-title="WORLD SPORTS 2",SPORT TV +
-http://tv4all.cyou:80/3030498113/0405515466/825
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD
-http://tv4all.cyou:80/3030498113/0405515466/826
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13401
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD
-http://tv4all.cyou:80/3030498113/0405515466/827
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13402
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201.png" group-title="WORLD SPORTS 2",SPORT TV 1
-http://tv4all.cyou:80/3030498113/0405515466/828
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD
-http://tv4all.cyou:80/3030498113/0405515466/829
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13403
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD
-http://tv4all.cyou:80/3030498113/0405515466/830
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13404
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202.png" group-title="WORLD SPORTS 2",SPORT TV 2
-http://tv4all.cyou:80/3030498113/0405515466/831
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 3 FHD
-http://tv4all.cyou:80/3030498113/0405515466/832
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 3 HD
-http://tv4all.cyou:80/3030498113/0405515466/833
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203.png" group-title="WORLD SPORTS 2",SPORT TV 3
-http://tv4all.cyou:80/3030498113/0405515466/834
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 4 FHD
-http://tv4all.cyou:80/3030498113/0405515466/835
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 4 HD
-http://tv4all.cyou:80/3030498113/0405515466/836
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204.png" group-title="WORLD SPORTS 2",SPORT TV 4
-http://tv4all.cyou:80/3030498113/0405515466/837
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 5 FHD
-http://tv4all.cyou:80/3030498113/0405515466/838
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 5 HD
-http://tv4all.cyou:80/3030498113/0405515466/839
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205.png" group-title="WORLD SPORTS 2",SPORT TV 5
-http://tv4all.cyou:80/3030498113/0405515466/840
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA FHD" tvg-logo="https://i.imgur.com/mQH8oYd.png" group-title="WORLD SPORTS 2",SPORT TV NBA FHD
-http://tv4all.cyou:80/3030498113/0405515466/841
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 FHD
-http://tv4all.cyou:80/3030498113/0405515466/842
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 HD
-http://tv4all.cyou:80/3030498113/0405515466/843
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1
-http://tv4all.cyou:80/3030498113/0405515466/844
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 FHD
-http://tv4all.cyou:80/3030498113/0405515466/845
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 HD
-http://tv4all.cyou:80/3030498113/0405515466/846
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2
-http://tv4all.cyou:80/3030498113/0405515466/847
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 FHD
-http://tv4all.cyou:80/3030498113/0405515466/848
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 HD
-http://tv4all.cyou:80/3030498113/0405515466/849
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3
-http://tv4all.cyou:80/3030498113/0405515466/850
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 FHD
-http://tv4all.cyou:80/3030498113/0405515466/851
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 HD
-http://tv4all.cyou:80/3030498113/0405515466/852
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4
-http://tv4all.cyou:80/3030498113/0405515466/853
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 FHD
-http://tv4all.cyou:80/3030498113/0405515466/854
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 HD
-http://tv4all.cyou:80/3030498113/0405515466/855
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5
-http://tv4all.cyou:80/3030498113/0405515466/856
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 FHD
-http://tv4all.cyou:80/3030498113/0405515466/857
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 HD
-http://tv4all.cyou:80/3030498113/0405515466/858
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6
-http://tv4all.cyou:80/3030498113/0405515466/859
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 1: Low
-http://tv4all.cyou:80/3030498113/0405515466/12519
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 2: Low
-http://tv4all.cyou:80/3030498113/0405515466/12520
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 3: Low
-http://tv4all.cyou:80/3030498113/0405515466/12521
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 4: Low
-http://tv4all.cyou:80/3030498113/0405515466/12522
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 5: Low
-http://tv4all.cyou:80/3030498113/0405515466/12523
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 1:Low
-http://tv4all.cyou:80/3030498113/0405515466/12524
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 2:Low
-http://tv4all.cyou:80/3030498113/0405515466/12525
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 3:Low
-http://tv4all.cyou:80/3030498113/0405515466/12526
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 4:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 4:Low
-http://tv4all.cyou:80/3030498113/0405515466/12527
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 5:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 5:Low
-http://tv4all.cyou:80/3030498113/0405515466/12528
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 6:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 6:Low
-http://tv4all.cyou:80/3030498113/0405515466/12529
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport1 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport1 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43428
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport1 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport1 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43429
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport2 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport2 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43433
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport2 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport2 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43434
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport4 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport4 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43439
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport4 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport4 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43440
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport5 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport5 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43442
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport5 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport5 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43443
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport6 hd" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport6 hd
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43444
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport6 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport6 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43445
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport7 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport7 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43447
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport7 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport7 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43448
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport8 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport8 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43451
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport8 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport8 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43452
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport9 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport9 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43454
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport9 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport9 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43455
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT10 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT10 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43424
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport10 HD+" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport10 HD+
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43431
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN Sport6 UHD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN Sport6 UHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43446
-#EXTINF:-1 tvg-id="" tvg-name="BS | Bein-Sport 9 FHD" tvg-logo="" group-title="AR | Bein Sports",BS | Bein-Sport 9 FHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43475
-#EXTINF:-1 tvg-id="" tvg-name="BS | bein-Sport10 HD" tvg-logo="" group-title="AR | Bein Sports",BS | bein-Sport10 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43457
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 6 FH" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 6 FH
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43499
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEIN SPORT 6 FUHD" tvg-logo="" group-title="AR | Bein Sports",BS | BEIN SPORT 6 FUHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43500
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 8 FH" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 8 FH
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43507
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 8 FHD" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 8 FHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43505
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 6 FHD" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 6 FHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43498
-#EXTINF:-1 tvg-id="" tvg-name="BS | bein sport 8 FUHD" tvg-logo="" group-title="AR | Bein Sports",BS | bein sport 8 FUHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43466
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 9 FH" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 9 FH
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43509
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEINSPORT 9 FHD" tvg-logo="" group-title="AR | Bein Sports",BS | BEINSPORT 9 FHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43510
-#EXTINF:-1 tvg-id="" tvg-name="BS | BEIN SPORT9 FUHD" tvg-logo="" group-title="AR | Bein Sports",BS | BEIN SPORT9 FUHD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43508
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-1 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-1 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43427
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-2 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-2 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43432
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-3 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-3 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43438
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-4 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-4 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43425
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-5 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-5 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43441
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-6 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-6 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43465
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-7 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-7 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43449
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-8 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-8 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43450
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-9 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-9 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43453
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-10 720" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-10 720
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43430
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-1 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-1 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43415
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-2 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-2 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43416
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-3 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-3 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43417
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-4 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-4 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43418
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-5 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-5 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43419
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-6 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-6 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43420
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-7 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-7 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43421
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-8 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-8 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43422
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-9 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-9 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43423
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-10 HD" tvg-logo="" group-title="AR | Bein Sports",BS | beIN SPORT-10 HD
-http://tvdellamorte.xyz:80/AdiagoSovjet/34025251/43414
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/776
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 2
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/777
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/778
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 4
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/779
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 5
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/780
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 6
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/781
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 7
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/782
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 8" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 8
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 9
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10
-http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
-
-
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 1 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 1 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38771
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 2 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 2 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38772
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 3 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 3 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38773
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 4 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 4 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38774
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 5 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 5 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38775
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 6 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 6 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38776
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 7 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 7 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38777
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 8 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 8 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38778
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 9 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 9 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38779
+#EXTINF:-1 tvg-id="" tvg-name="BeOutQ Sport 10 HD" tvg-logo="" group-title="BEOUTQ SPORT",BeOutQ Sport 10 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/38780
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS  HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS  HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35745
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS News HD" tvg-logo="http://www.iptvforall.net/newlogo/be_in_mena_sports_news.png" group-title="BEINSPORTS ",|BEIN| SPORTS News HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35981
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 1 SD" tvg-logo="" group-title="BEINSPORTS ",|BEIN| SPORTS 1 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37141
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 1 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35426
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 1 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37130
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BEINSPORTS ",|BEIN| SPORTS 1 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36952
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 2 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 2 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37278
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 2 HD" tvg-logo="" group-title="BEINSPORTS ",|BEIN| SPORTS 2 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37142
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BEINSPORTS ",|BEIN| SPORTS 2 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36953
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 3 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 3 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37274
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 3 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 3 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35428
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BEINSPORTS ",|BEIN| SPORTS 3 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36954
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 4 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 4 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37275
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 4 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 4 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35429
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BEINSPORTS ",|BEIN| SPORTS 4 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36956
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 5 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 5 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37276
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 5 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 5 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35430
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BEINSPORTS ",|BEIN| SPORTS 5 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36955
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 6 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 6 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37279
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 6 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 6 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35431
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BEINSPORTS ",|BEIN| SPORTS 6 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36957
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 7 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 7 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37277
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 7 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 7 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35432
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BEINSPORTS ",|BEIN| SPORTS 7 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36958
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 8 SD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 8 SD
+http://ottplanet.live:7788/domino/jMgWy1F76F/37280
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 8 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 8 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35433
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BEINSPORTS ",|BEIN| SPORTS 8 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36959
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 9 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 9 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35434
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BEINSPORTS ",|BEIN| SPORTS 9 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36960
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 10 HD" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEINSPORTS ",|BEIN| SPORTS 10 HD
+http://ottplanet.live:7788/domino/jMgWy1F76F/35435
+#EXTINF:-1 tvg-id="" tvg-name="|BEIN| SPORTS 10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BEINSPORTS ",|BEIN| SPORTS 10 FHD
+http://ottplanet.live:7788/domino/jMgWy1F76F/36961
 
 
 
@@ -1828,6 +1836,8 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2233/BEST-LIVE2233/3
 http://best-live-iptv.xyz:25461/BEST-LIVE2233/BEST-LIVE2233/2
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD1" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD1
 http://best-live-iptv.xyz:25461/BEST-LIVE2233/BEST-LIVE2233/1
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE2233/BEST-LIVE2233/15
@@ -2047,17 +2057,17 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-me.cdn.booyah.live/hls/113138/32835285.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250170/33156252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://akamai2-me.cdn.booyah.live/hls/113134/32495747.m3u8
+https://aws-br.cdn.booyah.live/hls/1000028/32211476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://centurylink.mx.cdn.booyah.live/hls/210154/33147616.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/32824878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113134/33152041.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/32744550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://centurylink.br.cdn.booyah.live/hls/1000006/32192611.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000006/32213072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://centurylink.mx.cdn.booyah.live/hls/210154/32831258.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113134/33858210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 https://akamai2-me.cdn.booyah.live/hls/113132/32824878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
