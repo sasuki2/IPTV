@@ -1727,6 +1727,108 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass five ARB" tvg-name="Al Kass five ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 5
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/824
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+.png" group-title="WORLD SPORTS 2",SPORT TV +
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/825
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/826
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13401
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/827
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13402
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201.png" group-title="WORLD SPORTS 2",SPORT TV 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/828
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/829
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13403
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/830
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13404
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202.png" group-title="WORLD SPORTS 2",SPORT TV 2
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/831
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 3 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/832
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 3 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/833
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203.png" group-title="WORLD SPORTS 2",SPORT TV 3
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/834
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 4 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/835
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 4 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/836
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204.png" group-title="WORLD SPORTS 2",SPORT TV 4
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/837
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 5 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/838
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 5 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/839
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205.png" group-title="WORLD SPORTS 2",SPORT TV 5
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/840
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA FHD" tvg-logo="https://i.imgur.com/mQH8oYd.png" group-title="WORLD SPORTS 2",SPORT TV NBA FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/841
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/842
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/843
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/844
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/845
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/846
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/847
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/848
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/849
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/850
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/851
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/852
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/853
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/854
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/855
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/856
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/857
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/858
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/859
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 1: Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12519
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 2: Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12520
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 3: Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12521
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 4: Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12522
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 5: Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12523
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 1:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12524
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 2:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12525
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 3:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12526
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 4:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 4:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12527
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 5:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 5:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12528
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 6:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 6:Low
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
 
 
@@ -2063,15 +2165,15 @@ https://aws-br.cdn.booyah.live/hls/1000028/32211476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
 https://akamai2-me.cdn.booyah.live/hls/113138/32824878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113138/32744550.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/32835285.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 https://akamai2-br.cdn.booyah.live/hls/1000006/32213072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://akamai2-me.cdn.booyah.live/hls/113134/33858210.m3u8
+https://aws-br.cdn.booyah.live/hls/1000028/32211476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://akamai2-in.cdn.booyah.live/hls/123152/33856177.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/32835285.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://akamai2-me.cdn.booyah.live/hls/113137/26715713.m3u8
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/a1321d6886164ec087e5b68f1fa54b28/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
 https://akamai2-me.cdn.booyah.live/hls/113138/32744550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
