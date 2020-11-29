@@ -2159,27 +2159,27 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-br.cdn.booyah.live/hls/1000006/32213072.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000005/34352282.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://aws-br.cdn.booyah.live/hls/1000028/32211476.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000001/32211476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-me.cdn.booyah.live/hls/113138/32824878.m3u8
+https://akamai2-in.cdn.booyah.live/hls/123167/34652170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113138/32835285.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113130/32824878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://akamai2-br.cdn.booyah.live/hls/1000006/32213072.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/210158/33156252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://aws-br.cdn.booyah.live/hls/1000028/32211476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://akamai2-me.cdn.booyah.live/hls/113138/32835285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/a1321d6886164ec087e5b68f1fa54b28/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-https://akamai2-me.cdn.booyah.live/hls/113138/32744550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://verizon.mx.cdn.booyah.live/hls/250176/33158530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
 https://akamai2-me.cdn.booyah.live/hls/113130/32751215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
+https://akamai2-me.cdn.booyah.live/hls/113130/31061478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+https://centurylink.br.cdn.booyah.live/hls/1000001/32211476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
+https://centurylink.br.cdn.booyah.live/hls/1000005/34352282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
+https://vsd117.mycdn.me/hls/890805815998.m3u8/sig/-KT2r13bMwY/expires/1606740839123/srcIp/213.139.49.75/clientType/0/srcAg/CHROME_ANDROID/mid/2101734940350/video.m3u8?p
+#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
+https://akamai2-mx.cdn.booyah.live/hls/210158/33156252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
 https://akamai2-me.cdn.booyah.live/hls/113132/32751874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
