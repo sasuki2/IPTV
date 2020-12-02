@@ -895,46 +895,57 @@ http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12500
 http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 1
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/79
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 2" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 2
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/80
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 3" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 3
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/81
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 4" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 4
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/87
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 5" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 5
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/88
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 6" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 6
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/89
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 7" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 7
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/108
-#EXTINF:-1 tvg-id="" tvg-name="Netflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="NETFLIX",Netflix action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/67
-#EXTINF:-1 tvg-id="" tvg-name="Netflix horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="NETFLIX",Netflix horror
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/68
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="NETFLIX",Netflix Comedy
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/69
-#EXTINF:-1 tvg-id="" tvg-name="Netflix  Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="NETFLIX",Netflix  Drama
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/70
-#EXTINF:-1 tvg-id="" tvg-name="beout Arabia" tvg-logo="https://www14.0zz0.com/2020/10/27/17/376290328.png" group-title="beout Aflam",beout Arabia
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/75
-#EXTINF:-1 tvg-id="" tvg-name="beout cinema" tvg-logo="https://www11.0zz0.com/2020/10/27/17/673130049.png" group-title="beout Aflam",beout cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/76
-#EXTINF:-1 tvg-id="" tvg-name="beout action" tvg-logo="https://www9.0zz0.com/2020/10/27/17/927600613.png" group-title="beout Aflam",beout action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/77
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251176.png" group-title="Majestic",Majestic Arabia
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/71
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="Majestic",Majestic Cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/72
-#EXTINF:-1 tvg-id="" tvg-name="Majestic horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2258783.png" group-title="Majestic",Majestic horror
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/73
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="Majestic",Majestic Kids
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/74
-#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2422613.png" group-title="OXN ",OXN Cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/85
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Action" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4118066_ico.png" group-title="OXN ",Shahid Action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/160
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 1
+http://sarhantv.xyz:25461/sarhanapp/vllv11/73
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 2" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 2
+http://sarhantv.xyz:25461/sarhanapp/vllv11/74
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 3" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 3
+http://sarhantv.xyz:25461/sarhanapp/vllv11/75
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 4" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 4
+http://sarhantv.xyz:25461/sarhanapp/vllv11/76
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 5" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 5
+http://sarhantv.xyz:25461/sarhanapp/vllv11/77
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 6" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 6
+http://sarhantv.xyz:25461/sarhanapp/vllv11/78
+#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 7" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 7
+http://sarhantv.xyz:25461/sarhanapp/vllv11/79
+
+#EXTINF:-1 tvg-id="" tvg-name="Netflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="قنوات افلام",Netflix action
+http://sarhantv.xyz:25461/sarhanapp/vllv11/81
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="قنوات افلام",Netflix Comedy
+http://sarhantv.xyz:25461/sarhanapp/vllv11/82
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="قنوات افلام",Netflix Drama
+http://sarhantv.xyz:25461/sarhanapp/vllv11/83
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="قنوات افلام",Netflix Horror
+http://sarhantv.xyz:25461/sarhanapp/vllv11/84
+#EXTINF:-1 tvg-id="" tvg-name="beOUT Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691690.png" group-title="قنوات افلام",beOUT Cinema
+http://sarhantv.xyz:25461/sarhanapp/vllv11/85
+#EXTINF:-1 tvg-id="" tvg-name="beOUT Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2029308.png" group-title="قنوات افلام",beOUT Arabia
+http://sarhantv.xyz:25461/sarhanapp/vllv11/86
+#EXTINF:-1 tvg-id="" tvg-name="beOUT action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691689.png" group-title="قنوات افلام",beOUT action
+http://sarhantv.xyz:25461/sarhanapp/vllv11/87
+#EXTINF:-1 tvg-id="" tvg-name="Majestic arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251176.png" group-title="قنوات افلام",Majestic arabia
+http://sarhantv.xyz:25461/sarhanapp/vllv11/88
+#EXTINF:-1 tvg-id="" tvg-name="Majestic cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="قنوات افلام",Majestic cinema
+http://sarhantv.xyz:25461/sarhanapp/vllv11/89
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3389942.png" group-title="قنوات افلام",Majestic Horror
+http://sarhantv.xyz:25461/sarhanapp/vllv11/90
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="قنوات افلام",Majestic Kids
+http://sarhantv.xyz:25461/sarhanapp/vllv11/91
+#EXTINF:-1 tvg-id="" tvg-name="majestic wwe" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3389838.png" group-title="قنوات افلام",majestic wwe
+http://sarhantv.xyz:25461/sarhanapp/vllv11/101
+#EXTINF:-1 tvg-id="" tvg-name="iflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450458.png" group-title="قنوات افلام",iflix action
+http://sarhantv.xyz:25461/sarhanapp/vllv11/96
+#EXTINF:-1 tvg-id="" tvg-name="iflix comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450461.png" group-title="قنوات افلام",iflix comedy
+http://sarhantv.xyz:25461/sarhanapp/vllv11/97
+#EXTINF:-1 tvg-id="" tvg-name="Shahid arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450204.png" group-title="قنوات افلام",Shahid arabia
+http://sarhantv.xyz:25461/sarhanapp/vllv11/92
+#EXTINF:-1 tvg-id="" tvg-name="Shahid action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450205.png" group-title="قنوات افلام",Shahid action
+http://sarhantv.xyz:25461/sarhanapp/vllv11/93
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450246.png" group-title="قنوات افلام",Shahid Comedy
+http://sarhantv.xyz:25461/sarhanapp/vllv11/94
+#EXTINF:-1 tvg-id="" tvg-name="Shahid sci fi" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450264.png" group-title="قنوات افلام",Shahid sci fi
+http://sarhantv.xyz:25461/sarhanapp/vllv11/95
 
 
 
@@ -1729,6 +1740,47 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12528
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 6:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 6:Low
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein soport hd1" tvg-logo="https://i.pinimg.com/originals/71/3a/c4/713ac4d56c6ed60a5628376a8fdf5d95.png" group-title="bein sports(متعدد الجودات)",Bein soport hd1
+http://aloka-iptv.xyz:25461/khrais/jordan/4
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681458.png" group-title="bein sports(متعدد الجودات)",Bein sport hd2
+http://aloka-iptv.xyz:25461/khrais/jordan/5
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports hd3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681459.png" group-title="bein sports(متعدد الجودات)",Bein sports hd3
+http://aloka-iptv.xyz:25461/khrais/jordan/6
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681460.png" group-title="bein sports(متعدد الجودات)",Bein sport hd4
+http://aloka-iptv.xyz:25461/khrais/jordan/7
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681461.png" group-title="bein sports(متعدد الجودات)",Bein sport hd5
+http://aloka-iptv.xyz:25461/khrais/jordan/8
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681462.png" group-title="bein sports(متعدد الجودات)",Bein sport hd6
+http://aloka-iptv.xyz:25461/khrais/jordan/9
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681463.png" group-title="bein sports(متعدد الجودات)",Bein sport hd7
+http://aloka-iptv.xyz:25461/khrais/jordan/10
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd8" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681464.png" group-title="bein sports(متعدد الجودات)",Bein sport hd8
+http://aloka-iptv.xyz:25461/khrais/jordan/11
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd9" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681465.png" group-title="bein sports(متعدد الجودات)",Bein sport hd9
+http://aloka-iptv.xyz:25461/khrais/jordan/12
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd10" tvg-logo="https://1.bp.blogspot.com/-s2yJ1LzkQsc/XLhH2AAQUvI/AAAAAAAAAD8/QdAPJhGwCoc9OgvJgQWZJbaMKq-PTIjiACLcBGAs/s300/11-HD.png" group-title="bein sports(متعدد الجودات)",Bein sport hd10
+http://aloka-iptv.xyz:25461/khrais/jordan/13
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688042.png" group-title="bein sports(متعدد الجودات)",Bein sport low1
+http://aloka-iptv.xyz:25461/khrais/jordan/14
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports low2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688043.png" group-title="bein sports(متعدد الجودات)",Bein sports low2
+http://aloka-iptv.xyz:25461/khrais/jordan/15
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688044.png" group-title="bein sports(متعدد الجودات)",Bein sport low3
+http://aloka-iptv.xyz:25461/khrais/jordan/16
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688045.png" group-title="bein sports(متعدد الجودات)",Bein sport low4
+http://aloka-iptv.xyz:25461/khrais/jordan/17
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688046.png" group-title="bein sports(متعدد الجودات)",Bein sport low5
+http://aloka-iptv.xyz:25461/khrais/jordan/18
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688047.png" group-title="bein sports(متعدد الجودات)",Bein sport low6
+http://aloka-iptv.xyz:25461/khrais/jordan/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688048.png" group-title="bein sports(متعدد الجودات)",Bein sport low7
+http://aloka-iptv.xyz:25461/khrais/jordan/20
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 8 LOW" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="bein sports(متعدد الجودات)",Bein sport 8 LOW
+http://aloka-iptv.xyz:25461/khrais/jordan/21
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1" tvg-logo="" group-title="beIN SPORTS FHD*",beIN:beIN1
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN2" tvg-logo="" group-title="beIN SPORTS FHD*",beIN:beIN2
@@ -1796,6 +1848,23 @@ http://best-live-iptv.xyz:25461/BEST-LIVE5651/BEST-LIVE5651/2
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD1" tvg-logo="" group-title="beIN SPORTS SD",Bein sport SD1
 http://best-live-iptv.xyz:25461/BEST-LIVE5651/BEST-LIVE5651/1
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688042.png" group-title="bein sports low*",Bein sport low1
+http://aloka-iptv.xyz:25461/khrais/jordan/14
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports low2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688043.png" group-title="bein sports low*",Bein sports low2
+http://aloka-iptv.xyz:25461/khrais/jordan/15
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688044.png" group-title="bein sports low*",Bein sport low3
+http://aloka-iptv.xyz:25461/khrais/jordan/16
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688045.png" group-title="bein sports low*",Bein sport low4
+http://aloka-iptv.xyz:25461/khrais/jordan/17
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688046.png" group-title="bein sports low*",Bein sport low5
+http://aloka-iptv.xyz:25461/khrais/jordan/18
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688047.png" group-title="bein sports low*",Bein sport low6
+http://aloka-iptv.xyz:25461/khrais/jordan/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport low7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688048.png" group-title="bein sports low*",Bein sport low7
+http://aloka-iptv.xyz:25461/khrais/jordan/20
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 8 LOW" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="bein sports low*",Bein sport 8 LOW
+http://aloka-iptv.xyz:25461/khrais/jordan/21
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
@@ -2095,37 +2164,40 @@ http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47122
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://centurylink.br.cdn.booyah.live/hls/1000027/34352282.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000003/34831517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://centurylink.br.cdn.booyah.live/hls/1000004/32833943.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/34834238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-me.cdn.booyah.live/hls/113130/34661311.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000027/34352282.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://live-ak.vimeocdn.com/exp=1606848945~acl=%2Fc7446bfa-0e82-47cb-ad47-3e36329b25cc%2F%2A~hmac=c8607afffa25cf0afc6efcec90336e60f4eadbeefb60163101b147b99e59b536/c7446bfa-0e82-47cb-ad47-3e36329b25cc/chunklist_b416000.m3u8?max_segments=10
+https://akamai2-mx.cdn.booyah.live/hls/250170/16042802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://akamai2-me.cdn.booyah.live/hls/113134/34733634.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000003/34831517.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://oklive6-4.vkuser.net/hls/1053951003218.m3u8/sig/lLL1coPOsbY/expires/1606931894139/srcIp/213.139.53.245/urls/45.136.22.68/clientType/0/srcAg/CHROME_ANDROID/mid/2618279337554/1053951003218_lowest/index.m3u8
+https://verizon.br.cdn.booyah.live/hls/1000022/34671493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://stream.taghtia.com/&ahsa-news.com/https://m3.cdn4kora.com/live/ch1/index.m3u8
+https://aws-br.cdn.booyah.live/hls/1000020/34914596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://centurylink.br.cdn.booyah.live/hls/1000001/32211476.m3u8
+https://akamai2-in.cdn.booyah.live/hls/123167/34902237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-https://centurylink.br.cdn.booyah.live/hls/1000005/34352282.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113134/34588904.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://vsd117.mycdn.me/hls/890805815998.m3u8/sig/-KT2r13bMwY/expires/1606740839123/srcIp/213.139.49.75/clientType/0/srcAg/CHROME_ANDROID/mid/2101734940350/video.m3u8?p
+https://akamai2-in.cdn.booyah.live/hls/123167/34903408.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://akamai2-mx.cdn.booyah.live/hls/210158/33156252.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/32753344.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://akamai2-me.cdn.booyah.live/hls/113132/32751874.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/34914275.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-https://akamai2-me.cdn.booyah.live/hls/113138/33572941.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/32751874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
-https://centurylink.br.cdn.booyah.live/hls/1000027/32192611.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250176/33160161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
-https://akamai2-me.cdn.booyah.live/hls/113132/32832306.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/34917399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٦
-https://verizon.mx.cdn.booyah.live/hls/210154/33160161.m3u8
+https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٧
 https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٨
