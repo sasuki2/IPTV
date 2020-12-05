@@ -594,7 +594,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Rotana kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/CartoonNetworkHD.png" group-title="KIDS",Cartoon Network HD
-http://5.9.249.164:8080/live/mbc/fjj6dhd5xh5xh/13.ts
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/21.ts
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/4K/GullibelArabi.png" group-title="KIDS",Boomerang
 http://localhd.tv:8081/eliteiptv.mine.nu/gaFlHgAkDa/8462
 
@@ -897,64 +897,67 @@ http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12500
 http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 1
-http://sarhantv.xyz:25461/sarhanapp/vllv11/73
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 2" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 2
-http://sarhantv.xyz:25461/sarhanapp/vllv11/74
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 3" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 3
-http://sarhantv.xyz:25461/sarhanapp/vllv11/75
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 4" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 4
-http://sarhantv.xyz:25461/sarhanapp/vllv11/76
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 5" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 5
-http://sarhantv.xyz:25461/sarhanapp/vllv11/77
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 6" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 6
-http://sarhantv.xyz:25461/sarhanapp/vllv11/78
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 7" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="shoof max",SHOOF MAX 7
-http://sarhantv.xyz:25461/sarhanapp/vllv11/79
 
-#EXTINF:-1 tvg-id="" tvg-name="Netflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="قنوات افلام",Netflix action
-http://sarhantv.xyz:25461/sarhanapp/vllv11/81
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="قنوات افلام",Netflix Comedy
-http://sarhantv.xyz:25461/sarhanapp/vllv11/82
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="قنوات افلام",Netflix Drama
-http://sarhantv.xyz:25461/sarhanapp/vllv11/83
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="قنوات افلام",Netflix Horror
-http://sarhantv.xyz:25461/sarhanapp/vllv11/84
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691690.png" group-title="قنوات افلام",beOUT Cinema
-http://sarhantv.xyz:25461/sarhanapp/vllv11/85
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2029308.png" group-title="قنوات افلام",beOUT Arabia
-http://sarhantv.xyz:25461/sarhanapp/vllv11/86
-#EXTINF:-1 tvg-id="" tvg-name="beOUT action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691689.png" group-title="قنوات افلام",beOUT action
-http://sarhantv.xyz:25461/sarhanapp/vllv11/87
-#EXTINF:-1 tvg-id="" tvg-name="Majestic arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251176.png" group-title="قنوات افلام",Majestic arabia
-http://sarhantv.xyz:25461/sarhanapp/vllv11/88
-#EXTINF:-1 tvg-id="" tvg-name="Majestic cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="قنوات افلام",Majestic cinema
-http://sarhantv.xyz:25461/sarhanapp/vllv11/89
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3389942.png" group-title="قنوات افلام",Majestic Horror
-http://sarhantv.xyz:25461/sarhanapp/vllv11/90
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="قنوات افلام",Majestic Kids
-http://sarhantv.xyz:25461/sarhanapp/vllv11/91
-#EXTINF:-1 tvg-id="" tvg-name="majestic wwe" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3389838.png" group-title="قنوات افلام",majestic wwe
-http://sarhantv.xyz:25461/sarhanapp/vllv11/101
-#EXTINF:-1 tvg-id="" tvg-name="iflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450458.png" group-title="قنوات افلام",iflix action
-http://sarhantv.xyz:25461/sarhanapp/vllv11/96
-#EXTINF:-1 tvg-id="" tvg-name="iflix comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450461.png" group-title="قنوات افلام",iflix comedy
-http://sarhantv.xyz:25461/sarhanapp/vllv11/97
-#EXTINF:-1 tvg-id="" tvg-name="iflix Turk" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470569.png" group-title="قنوات افلام",iflix Turk
-http://sarhantv.xyz:25461/sarhanapp/vllv11/104
-#EXTINF:-1 tvg-id="" tvg-name="IFlix Prime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470577.png" group-title="قنوات افلام",IFlix Prime
-http://sarhantv.xyz:25461/sarhanapp/vllv11/105
-#EXTINF:-1 tvg-id="" tvg-name="IFLIX Arabic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470578.png" group-title="قنوات افلام",IFLIX Arabic
-http://sarhantv.xyz:25461/sarhanapp/vllv11/106
-#EXTINF:-1 tvg-id="" tvg-name="Shahid arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450204.png" group-title="قنوات افلام",Shahid arabia
-http://sarhantv.xyz:25461/sarhanapp/vllv11/92
-#EXTINF:-1 tvg-id="" tvg-name="Shahid action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450205.png" group-title="قنوات افلام",Shahid action
-http://sarhantv.xyz:25461/sarhanapp/vllv11/93
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450246.png" group-title="قنوات افلام",Shahid Comedy
-http://sarhantv.xyz:25461/sarhanapp/vllv11/94
-#EXTINF:-1 tvg-id="" tvg-name="Shahid sci fi" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450264.png" group-title="قنوات افلام",Shahid sci fi
-http://sarhantv.xyz:25461/sarhanapp/vllv11/95
-
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/180
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala 1 ALOLA HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/181
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/182
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat 2 HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/183
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala Cinema HD-♎
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/184
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Aflam 2 HD-≢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/185
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 1 HD-╪
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/186
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 2 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/187
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 3 HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/188
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 4 HD-╪
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/189
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 1 HD-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/190
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 2 HD-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/191
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Drama HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/192
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Movies Comedy HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/193
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Action HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/194
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Cinema HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/195
+#EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: ALYOUM
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/196
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Hollywood Mix HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/197
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Disney Junior HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/198
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BARAEM
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/199
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Kids Zone HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/200
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Fatafeat HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/201
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nickelodeon HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/202
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nat Geo Wild HD-↹
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/203
+#EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: CINEMA 1
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/204
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Discovery HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/205
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| ARABIA 1-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/206
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| COMEDY
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/207
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| DRAMA
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/208
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| BOLLYWOOD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/209
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN Yahala HD" tvg-logo="" group-title="OSN",OSN Yahala HD
@@ -1308,7 +1311,7 @@ http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45217.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
 http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45218.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/4219
+http://best-live-iptv.xyz:25461/live/BEST-LIVE4433/BEST-LIVE4433/192.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
 http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45214.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 2  HD
@@ -1319,157 +1322,242 @@ http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/2664.ts
 http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/3029.ts
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/1
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/2
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/3
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 4 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/4
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 5 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/5
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 6 HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/6
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 7 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/7
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 8 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 9 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/9
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 10 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/10
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS NEWS
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/11
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS GLOBAL
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/12
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORT LOW 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 1 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/13
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORT LOW 2 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 2 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/14
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORT LOW 3 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 3 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/15
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORT LOW 4 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 4 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/16
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORT LOW 5 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 5 BACKUP
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/17
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 1 FRA
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 FRA
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/140
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 2 FRA
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 FRA
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/141
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title="سيرفر تجريبي",BEIN SPORTS 3 FRA
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 FRA
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/142
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES" tvg-logo="" group-title="سيرفر تجريبي",MAJESTIC MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="الباقة التجريبية",bein sport 1HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/210
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="الباقة التجريبية",bein sport 2HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/211
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="الباقة التجريبية",bein sport 3HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/212
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="الباقة التجريبية",bein sport 4HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/213
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="الباقة التجريبية",bein sport 5HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/214
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="الباقة التجريبية",bein sport 6HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/215
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="الباقة التجريبية",bein sport 7HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/216
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="الباقة التجريبية",bein sport 8HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/217
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="الباقة التجريبية",bein sport 9HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/218
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="الباقة التجريبية",bein sport 10HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/219
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 1" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 1
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/220
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 2" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 2
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/221
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 3" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 3
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/222
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 4" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 4
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/223
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 5" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 5
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/224
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 6" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 6
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/225
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 7" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 7
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/226
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 8" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 8
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/227
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC MOVIES
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/132
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="سيرفر تجريبي",MAJESTIC HORROR
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC HORROR
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/133
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="سيرفر تجريبي",MAJESTIC ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC ARABIC
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/134
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="سيرفر تجريبي",MAJESTIC KIDS
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC KIDS
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/135
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="سيرفر تجريبي",NETFLIX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="الباقة التجريبية",NETFLIX ACTION
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/136
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="سيرفر تجريبي",NETFLIX HORROR
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="الباقة التجريبية",NETFLIX HORROR
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/137
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="سيرفر تجريبي",NETFLIX DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="الباقة التجريبية",NETFLIX DRAMA
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/138
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="سيرفر تجريبي",NETFLIX COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="الباقة التجريبية",NETFLIX COMEDY
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/139
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="سيرفر تجريبي",Rotana Kids
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="الباقة التجريبية",Rotana Kids
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/20
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="سيرفر تجريبي",Rotana Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="الباقة التجريبية",Rotana Cinema
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/21
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="سيرفر تجريبي",Rotana Classic
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="الباقة التجريبية",Rotana Classic
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/22
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="سيرفر تجريبي",Rotana Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="الباقة التجريبية",Rotana Comedy
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/23
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="سيرفر تجريبي",Rotana Drama
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="الباقة التجريبية",Rotana Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/24
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="سيرفر تجريبي",MBC BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="الباقة التجريبية",MBC BOLLYWOOD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/25
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="سيرفر تجريبي",MBC IRAQ
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="الباقة التجريبية",MBC IRAQ
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/26
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="سيرفر تجريبي",MBC MASR2
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="الباقة التجريبية",MBC MASR2
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/27
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="سيرفر تجريبي",MBC MASR
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="الباقة التجريبية",MBC MASR
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/28
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="سيرفر تجريبي",MBC ACTION
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="الباقة التجريبية",MBC ACTION
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/29
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="سيرفر تجريبي",MBC MAX
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="الباقة التجريبية",MBC MAX
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/30
-#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="سيرفر تجريبي",MBC + Drama
+#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="الباقة التجريبية",MBC + Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/31
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="سيرفر تجريبي",MBC DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="الباقة التجريبية",MBC DRAMA
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/32
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="سيرفر تجريبي",MBC 5
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="الباقة التجريبية",MBC 5
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/33
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="سيرفر تجريبي",MBC 4
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="الباقة التجريبية",MBC 4
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/34
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="سيرفر تجريبي",MBC 3
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="الباقة التجريبية",MBC 3
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/35
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="سيرفر تجريبي",MBC 2
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="الباقة التجريبية",MBC 2
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/36
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="سيرفر تجريبي",MBC 1
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",MBC 1
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/37
-#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="سيرفر تجريبي",wanasah
+#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",wanasah
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/38
-#EXTINF:-1 tvg-id="" tvg-name="Ahl-Alquran TV" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="سيرفر تجريبي",Ahl-Alquran TV
+#EXTINF:-1 tvg-id="" tvg-name="Ahl-Alquran TV" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="الباقة التجريبية",Ahl-Alquran TV
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/113
-#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="سيرفر تجريبي",Al Quran Al Kareem (Mecca)
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="الباقة التجريبية",Al Quran Al Kareem (Mecca)
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/114
-#EXTINF:-1 tvg-id="" tvg-name="Al Resalah HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" group-title="سيرفر تجريبي",Al Resalah HD
+#EXTINF:-1 tvg-id="" tvg-name="Al Resalah HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" group-title="الباقة التجريبية",Al Resalah HD
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/115
-#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="سيرفر تجريبي",Al Sunnah (Medina)
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="الباقة التجريبية",Al Sunnah (Medina)
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/116
-#EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="سيرفر تجريبي",Al Wesal TV
+#EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="الباقة التجريبية",Al Wesal TV
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/117
-#EXTINF:-1 tvg-id="" tvg-name="Ayaat" tvg-logo="https://i.imgur.com/X1LW4jB.png" group-title="سيرفر تجريبي",Ayaat
+#EXTINF:-1 tvg-id="" tvg-name="Ayaat" tvg-logo="https://i.imgur.com/X1LW4jB.png" group-title="الباقة التجريبية",Ayaat
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/118
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="سيرفر تجريبي",Iqraa
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="الباقة التجريبية",Iqraa
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/119
-#EXTINF:-1 tvg-id="" tvg-name="Al Fath TV" tvg-logo="https://i.imgur.com/hbC1X9B.png" group-title="سيرفر تجريبي",Al Fath TV
+#EXTINF:-1 tvg-id="" tvg-name="Al Fath TV" tvg-logo="https://i.imgur.com/hbC1X9B.png" group-title="الباقة التجريبية",Al Fath TV
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/105
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="https://i.imgur.com/EiiO5nm.png" group-title="سيرفر تجريبي",Bahrain Quran
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="https://i.imgur.com/EiiO5nm.png" group-title="الباقة التجريبية",Bahrain Quran
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/104
-#EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="سيرفر تجريبي",Al Nahar
+#EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="الباقة التجريبية",Al Nahar
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/120
-#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="سيرفر تجريبي",Al Nahar Drama
+#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="الباقة التجريبية",Al Nahar Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/121
-#EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="سيرفر تجريبي",Cairo Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="الباقة التجريبية",Cairo Cinema
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/122
-#EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="سيرفر تجريبي",Cairo Drama
+#EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="الباقة التجريبية",Cairo Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/123
-#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="سيرفر تجريبي",CBC Sofra
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="الباقة التجريبية",CBC Sofra
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/124
-#EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title="سيرفر تجريبي",Cima
+#EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title="الباقة التجريبية",Cima
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/125
-#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="سيرفر تجريبي",Nile Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="الباقة التجريبية",Nile Cinema
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/126
-#EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title="سيرفر تجريبي",Nile Culture
+#EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title="الباقة التجريبية",Nile Culture
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/127
-#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="سيرفر تجريبي",Nile Drama
+#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="الباقة التجريبية",Nile Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/128
-#EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title="سيرفر تجريبي",Nile Life
+#EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title="الباقة التجريبية",Nile Life
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/129
-#EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title="سيرفر تجريبي",Nile Sport
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title="الباقة التجريبية",Nile Sport
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/130
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="سيرفر تجريبي",Panorama Drama
+#EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="الباقة التجريبية",Panorama Drama
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/131
-#EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="سيرفر تجريبي",FAJER TV
+#EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="الباقة التجريبية",FAJER TV
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/143
-#EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="سيرفر تجريبي",BEUR TV
+#EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="الباقة التجريبية",BEUR TV
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/144
-#EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="سيرفر تجريبي",JORDAN
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="الباقة التجريبية",JORDAN
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/145
-#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="سيرفر تجريبي",JORDAN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="الباقة التجريبية",JORDAN SPORTS
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/146
-#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="سيرفر تجريبي",ON SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="الباقة التجريبية",ON SPORTS
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/147
-#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="سيرفر تجريبي",MIX HOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/148
-#EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="سيرفر تجريبي",Omg tv
+#EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="الباقة التجريبية",Omg tv
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/149
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/180
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala 1 ALOLA HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/181
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/182
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat 2 HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/183
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala Cinema HD-♎
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/184
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Aflam 2 HD-≢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/185
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 1 HD-╪
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/186
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 2 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/187
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 3 HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/188
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 4 HD-╪
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/189
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 1 HD-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/190
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 2 HD-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/191
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Drama HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/192
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="الباقة التجريبية",OSN: Movies Comedy HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/193
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Action HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/194
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Cinema HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/195
+#EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="الباقة التجريبية",ALFA: ALYOUM
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/196
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Hollywood Mix HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/197
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Disney Junior HD-↺
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/198
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="الباقة التجريبية",BEIN: BARAEM
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/199
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Kids Zone HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/200
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: Fatafeat HD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/201
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nickelodeon HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/202
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nat Geo Wild HD-↹
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/203
+#EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="الباقة التجريبية",ALFA: CINEMA 1
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/204
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Discovery HD-◢
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/205
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",SHAHID| ARABIA 1-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/206
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="الباقة التجريبية",SHAHID| COMEDY
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/207
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="الباقة التجريبية",SHAHID| DRAMA
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/208
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="الباقة التجريبية",SHAHID| BOLLYWOOD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/209
 
 
 
@@ -1665,42 +1753,26 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein soport hd1" tvg-logo="https://i.pinimg.com/originals/71/3a/c4/713ac4d56c6ed60a5628376a8fdf5d95.png" group-title="bein sports(متعدد الجودات)",Bein soport hd1
-http://aloka-iptv.xyz:25461/khrais/jordan/4
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681458.png" group-title="bein sports(متعدد الجودات)",Bein sport hd2
-http://aloka-iptv.xyz:25461/khrais/jordan/5
-#EXTINF:-1 tvg-id="" tvg-name="Bein sports hd3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681459.png" group-title="bein sports(متعدد الجودات)",Bein sports hd3
-http://aloka-iptv.xyz:25461/khrais/jordan/6
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681460.png" group-title="bein sports(متعدد الجودات)",Bein sport hd4
-http://aloka-iptv.xyz:25461/khrais/jordan/7
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681461.png" group-title="bein sports(متعدد الجودات)",Bein sport hd5
-http://aloka-iptv.xyz:25461/khrais/jordan/8
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681462.png" group-title="bein sports(متعدد الجودات)",Bein sport hd6
-http://aloka-iptv.xyz:25461/khrais/jordan/9
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681463.png" group-title="bein sports(متعدد الجودات)",Bein sport hd7
-http://aloka-iptv.xyz:25461/khrais/jordan/10
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd8" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681464.png" group-title="bein sports(متعدد الجودات)",Bein sport hd8
-http://aloka-iptv.xyz:25461/khrais/jordan/11
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd9" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681465.png" group-title="bein sports(متعدد الجودات)",Bein sport hd9
-http://aloka-iptv.xyz:25461/khrais/jordan/12
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport hd10" tvg-logo="https://1.bp.blogspot.com/-s2yJ1LzkQsc/XLhH2AAQUvI/AAAAAAAAAD8/QdAPJhGwCoc9OgvJgQWZJbaMKq-PTIjiACLcBGAs/s300/11-HD.png" group-title="bein sports(متعدد الجودات)",Bein sport hd10
-http://aloka-iptv.xyz:25461/khrais/jordan/13
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688042.png" group-title="bein sports(متعدد الجودات)",Bein sport low1
-http://aloka-iptv.xyz:25461/khrais/jordan/14
-#EXTINF:-1 tvg-id="" tvg-name="Bein sports low2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688043.png" group-title="bein sports(متعدد الجودات)",Bein sports low2
-http://aloka-iptv.xyz:25461/khrais/jordan/15
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688044.png" group-title="bein sports(متعدد الجودات)",Bein sport low3
-http://aloka-iptv.xyz:25461/khrais/jordan/16
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low4" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688045.png" group-title="bein sports(متعدد الجودات)",Bein sport low4
-http://aloka-iptv.xyz:25461/khrais/jordan/17
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low5" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688046.png" group-title="bein sports(متعدد الجودات)",Bein sport low5
-http://aloka-iptv.xyz:25461/khrais/jordan/18
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low6" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688047.png" group-title="bein sports(متعدد الجودات)",Bein sport low6
-http://aloka-iptv.xyz:25461/khrais/jordan/19
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport low7" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1688048.png" group-title="bein sports(متعدد الجودات)",Bein sport low7
-http://aloka-iptv.xyz:25461/khrais/jordan/20
-#EXTINF:-1 tvg-id="" tvg-name="Bein sport 8 LOW" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="bein sports(متعدد الجودات)",Bein sport 8 LOW
-http://aloka-iptv.xyz:25461/khrais/jordan/21
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORTS FHD",bein sport 1FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/210
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORTS FHD",bein sport 2FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/211
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORTS FHD",bein sport 3FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/212
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORTS FHD",bein sport 4FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/213
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORTS FHD",bein sport 5FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/214
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORTS FHD",bein sport 6FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/215
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORTS FHD",bein sport 7FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/216
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN SPORTS FHD",bein sport 8FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/217
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN SPORTS FHD",bein sport 9FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/218
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN SPORTS FHD",bein sport 10FHD
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/219
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 2 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sporrts_02_hd.jpg" group-title="Bein - SPORTS HD°",|AR| BEIN SPORTS 2 HD
@@ -1728,50 +1800,24 @@ http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45310
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 1 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/1
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 2 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/2
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 3 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/3
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 4 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/4
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 5 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/5
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 6 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/6
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 7 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/7
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 8 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 9 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/9
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 sd" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS 10 sd
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/10
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS NEWS
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/11
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="BEIN SPORTS sd",BEIN SPORTS GLOBAL
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/12
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 1" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 1
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/220
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 2" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 2
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/221
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 3" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 3
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/222
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 4" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 4
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/223
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 5" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 5
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/224
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 6" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 6
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/225
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 7" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 7
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/226
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 8" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 8
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/227
 
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 1 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="beINSports Low",⚽ bein sport 1 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/32
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 2 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="beINSports Low",⚽ bein sport 2 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/33
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 3 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="beINSports Low",⚽ bein sport 3 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/34
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 4 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="beINSports Low",⚽ bein sport 4 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/35
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 5 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="beINSports Low",⚽ bein sport 5 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/36
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 6 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="beINSports Low",⚽ bein sport 6 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/37
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 7 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="beINSports Low",⚽ bein sport 7 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/38
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 8 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="beINSports Low",⚽ bein sport 8 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/39
-#EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 9 LOW" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="beINSports Low",⚽ bein sport 9 LOW
-http://sarhantv.xyz:25461/sarhanapp/vllv11/40
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 1 BACKUP
