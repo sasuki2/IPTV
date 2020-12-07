@@ -577,18 +577,16 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD
 http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45219
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem1 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem1 HD
-http://driptvs.com:8080/King200conxx/ZQBVifHAzW/46399
-#EXTINF:-1 tvg-id="D.qa" tvg-name="majed kids HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed kids HD
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/56164.ts
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem1 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem1 working
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3563.ts
+#EXTINF:-1 tvg-id="D.qa" tvg-name="Tom&Jerry HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Tom&Jerry HD
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53164.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Junior" tvg-logo="" group-title="KIDS",beIN Junior
 http://m.magicoiptv.org:8080/live/xtreamrev/HxLUwbo72m/4206.ts
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45228.ts
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/20.ts
 #EXTINF:-1 tvg-id="Karameesh" tvg-name="Micky" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Micky
 http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/2162.ts
-#EXTINF:-1 tvg-id="touyourbaby" tvg-name="touyourbaby" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",touyourbaby
-http://digitalxpress.gcdn.co/live1/touyourbaby/index.m3u8
 #EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Rotana kids
@@ -614,350 +612,214 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_sn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",Medi1tv
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ: BeoutQ Movies1 HEVC" tvg-logo="" group-title="BeoutQ Movies",BeoutQ: BeoutQ Movies1 HEVC
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10894
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ: BeoutQ Movies 2HEVC" tvg-logo="" group-title="BeoutQ Movies",BeoutQ: BeoutQ Movies 2HEVC
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10893
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ: BeoutQ CINEMA HEVC" tvg-logo="" group-title="BeoutQ Movies",BeoutQ: BeoutQ CINEMA HEVC
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10892
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ: BeoutQ AFALAM HEVC" tvg-logo="" group-title="BeoutQ Movies",BeoutQ: BeoutQ AFALAM HEVC
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10891
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies HD" tvg-logo="" group-title="BeoutQ Movies",BeoutQ Movies HD
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10890
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies 2  HD" tvg-logo="" group-title="BeoutQ Movies",BeoutQ Movies 2  HD
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10889
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Kids" tvg-logo="" group-title="BeoutQ Movies",BeoutQ Kids
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10888
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action2  HD" tvg-logo="" group-title="BeoutQ Movies",BeoutQ Action2  HD
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10887
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action HD" tvg-logo="" group-title="BeoutQ Movies",BeoutQ Action HD
-http://uk.redhatiptv.com:25461/alidusti/QdCJ8kPqRo/10886
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD1 بروكار" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD1 بروكار
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52972
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD2 الجوكر" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD2 الجوكر
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52973
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD3 ولاد امبابة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD3 ولاد امبابة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52974
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD4 وكلينها والعة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD4 وكلينها والعة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52975
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD5 ميادا وولادا" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD5 ميادا وولادا
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52976
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD6 هواجس عابرة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD6 هواجس عابرة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52977
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Action HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Action HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52978
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Classic HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Classic HD1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52979
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Classic HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Classic HD2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52980
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Comedy HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Comedy HD1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52981
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Comedy HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Comedy HD2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52982
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Drama HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Drama HD1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52983
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Drama HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Drama HD2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52984
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Mohamed Henedy HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Mohamed Henedy HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52985
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Adel Imam HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Adel Imam HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52986
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD1 مرايا 2011" tvg-logo="" group-title="Shoof Max",ShoofMax- HD1 مرايا 2011
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52987
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD2 مرايا 2000" tvg-logo="" group-title="Shoof Max",ShoofMax- HD2 مرايا 2000
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52988
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD3 مرايا99" tvg-logo="" group-title="Shoof Max",ShoofMax- HD3 مرايا99
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52989
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD4 كونتاك" tvg-logo="" group-title="Shoof Max",ShoofMax- HD4 كونتاك
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52990
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD1  ظل امرأة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD1  ظل امرأة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52992
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD2  روزنة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD2  روزنة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52993
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD3  رجال و نساء" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD3  رجال و نساء
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52994
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD4 أخت تريز" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD4 أخت تريز
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52995
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD5  نهاية رجل شجاع" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD5  نهاية رجل شجاع
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52996
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD6  خطوط حمراء" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD6  خطوط حمراء
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52997
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD7 كشف الأقنعة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD7 كشف الأقنعة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52998
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD8 عين اجوزة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD8 عين اجوزة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52999
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD9 دومينو" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD9 دومينو
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53000
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD10 دامسكو" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD10 دامسكو
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53001
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD11 أوراق من ألماضي" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD11 أوراق من ألماضي
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53002
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD12 ألمكيده" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD12 ألمكيده
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53003
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD13  أدم" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD13  أدم
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53004
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD24 بلا غمد" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD24 بلا غمد
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53005
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD23 حدث في دمشق" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD23 حدث في دمشق
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53006
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD22 حائرات" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD22 حائرات
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53007
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD21 حلاوه روح" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD21 حلاوه روح
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53008
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD20حرائر" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD20حرائر
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53009
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD19 حارة المشرقة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD19 حارة المشرقة
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53010
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD18  حكم الهوى" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD18  حكم الهوى
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53011
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD17 جرن الشاويش" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD17 جرن الشاويش
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53012
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD16 قوس قزح" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD16 قوس قزح
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53013
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD15 نبتدي منين الحكاية" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD15 نبتدي منين الحكاية
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53014
+#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD14 زوال" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD14 زوال
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53015
 
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12369
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12370
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12371
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12372
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12373
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12374
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 7
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12375
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 8
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12376
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 9
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12377
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12378
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12379
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12380
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12381
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12382
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12383
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 7
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12384
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 8
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12385
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 9
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12386
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 10" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 10
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12387
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 11" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 11
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12388
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12389
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12390
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12391
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12392
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12393
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12394
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 7
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12395
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 8
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12396
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12397
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12398
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12399
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12400
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12401
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12402
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12403
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12404
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12405
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12406
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12407
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12408
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12409
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12410
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12411
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action +" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action +
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12412
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12413
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action Top" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action Top
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12414
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12415
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12416
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12417
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12418
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12419
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12420
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12421
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12422
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12423
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12424
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12425
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12426
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12427
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12428
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12429
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12430
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12431
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12432
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12433
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12434
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12435
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12436
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12437
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12438
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12439
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12440
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12441
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12442
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama+" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama+
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12443
-#EXTINF:-1 tvg-id="" tvg-name="James Bond سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",James Bond سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12445
-#EXTINF:-1 tvg-id="" tvg-name="Sylvester Stallone سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Sylvester Stallone سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12446
-#EXTINF:-1 tvg-id="" tvg-name="Fast And Furious سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Fast And Furious سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12447
-#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Mission Impossible سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12448
-#EXTINF:-1 tvg-id="" tvg-name="Batman سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Batman سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12449
-#EXTINF:-1 tvg-id="" tvg-name="Twilight سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Twilight سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12450
-#EXTINF:-1 tvg-id="" tvg-name="Saw سلسلة افلام الرعب" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Saw سلسلة افلام الرعب
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12451
-#EXTINF:-1 tvg-id="" tvg-name="Superman سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Superman سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12452
-#EXTINF:-1 tvg-id="" tvg-name="Charlie Chaplin سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Charlie Chaplin سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12453
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Willis سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Bruce Willis سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12454
-#EXTINF:-1 tvg-id="" tvg-name="Tom Cruise سلسلة افلام" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Tom Cruise سلسلة افلام
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12455
-#EXTINF:-1 tvg-id="" tvg-name="القرآن الكريم: الشيخ عبد الباسط عبد الصمد" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",القرآن الكريم: الشيخ عبد الباسط عبد الصمد
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12456
-#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12458
-#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12459
-#EXTINF:-1 tvg-id="" tvg-name="صرخة روح 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",صرخة روح 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12460
-#EXTINF:-1 tvg-id="" tvg-name="بلاد الواق واق" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",بلاد الواق واق
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12461
-#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الأول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الأول
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12462
-#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الثاني
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12463
-#EXTINF:-1 tvg-id="" tvg-name="رأفت الهجان الجزء الثالث" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",رأفت الهجان الجزء الثالث
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12464
-#EXTINF:-1 tvg-id="" tvg-name="عيله خمس نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيله خمس نجوم
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12465
-#EXTINF:-1 tvg-id="" tvg-name="عيلة 7 نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيلة 7 نجوم
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12466
-#EXTINF:-1 tvg-id="" tvg-name="عيلة 8 نجوم" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عيلة 8 نجوم
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12467
-#EXTINF:-1 tvg-id="" tvg-name="دنيا اسعد سعيد الجزء الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",دنيا اسعد سعيد الجزء الاول
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12468
-#EXTINF:-1 tvg-id="" tvg-name="دنيا اسعد سعيد الجزء الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",دنيا اسعد سعيد الجزء الثاني
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12469
-#EXTINF:-1 tvg-id="" tvg-name="ضبو الشناتي" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضبو الشناتي
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12470
-#EXTINF:-1 tvg-id="" tvg-name="عصر الجنون" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عصر الجنون
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12471
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12472
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12473
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12474
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12475
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12476
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12477
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 7
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12478
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 8
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12479
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 9
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12480
-#EXTINF:-1 tvg-id="" tvg-name="باب الحارة 10" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",باب الحارة 10
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12481
-#EXTINF:-1 tvg-id="" tvg-name="زمن البرغوت 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",زمن البرغوت 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12482
-#EXTINF:-1 tvg-id="" tvg-name="زمن البرغوت 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",زمن البرغوت 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12483
-#EXTINF:-1 tvg-id="" tvg-name="عش المجانين" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",عش المجانين
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12484
-#EXTINF:-1 tvg-id="" tvg-name="ابو المفهومية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو المفهومية
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12485
-#EXTINF:-1 tvg-id="" tvg-name="أحلام أبو الهنا" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",أحلام أبو الهنا
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12486
-#EXTINF:-1 tvg-id="" tvg-name="الخربة" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",الخربة
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12487
-#EXTINF:-1 tvg-id="" tvg-name="ابو جانتي 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو جانتي 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12488
-#EXTINF:-1 tvg-id="" tvg-name="ابو جانتي 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ابو جانتي 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12489
-#EXTINF:-1 tvg-id="" tvg-name="ضيعة ضايعة 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضيعة ضايعة 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12490
-#EXTINF:-1 tvg-id="" tvg-name="ضيعة ضايعة 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ضيعة ضايعة 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12491
-#EXTINF:-1 tvg-id="" tvg-name="كسر الخواطر" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",كسر الخواطر
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12492
-#EXTINF:-1 tvg-id="" tvg-name="يوميات مدير عام 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",يوميات مدير عام 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12493
-#EXTINF:-1 tvg-id="" tvg-name="يوميات مدير عام 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",يوميات مدير عام 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12494
-#EXTINF:-1 tvg-id="" tvg-name="ايام الدراسة الجزء الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ايام الدراسة الجزء الاول
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12495
-#EXTINF:-1 tvg-id="" tvg-name="ايام شامية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ايام شامية
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12496
-#EXTINF:-1 tvg-id="" tvg-name="ليالي الصالحية" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ليالي الصالحية
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12497
-#EXTINF:-1 tvg-id="" tvg-name="ببساطة" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",ببساطة
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12498
-#EXTINF:-1 tvg-id="" tvg-name="بكرا احلى" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",بكرا احلى
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12499
-#EXTINF:-1 tvg-id="" tvg-name="وطن على وتر الجز الاول" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",وطن على وتر الجز الاول
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12500
-#EXTINF:-1 tvg-id="" tvg-name="وطن على وتر الجز الثاني" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",وطن على وتر الجز الثاني
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Action" tvg-logo="" group-title="DragonTV",DRAGON Action
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51558
+#EXTINF:-1 tvg-ID="" tvg-name="DRaGoN Action 2" tvg-logo="" group-title="DragonTV",DRaGoN Action 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51552
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Aflam 1" tvg-logo="" group-title="DragonTV",DRAGON Aflam 1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51560
+#EXTINF:-1 tvg-ID="" tvg-name="DRaGoN Aflam 2" tvg-logo="" group-title="DragonTV",DRaGoN Aflam 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51553
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Cinema" tvg-logo="" group-title="DragonTV",DRAGON Cinema
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51559
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Cinema 2" tvg-logo="" group-title="DragonTV",DRAGON Cinema 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51555
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Comdey" tvg-logo="" group-title="DragonTV",DRAGON Comdey
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51556
+#EXTINF:-1 tvg-ID="" tvg-name="DraGoN Comedy 2" tvg-logo="" group-title="DragonTV",DraGoN Comedy 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52165
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Crime" tvg-logo="" group-title="DragonTV",DRAGON Crime
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51554
+#EXTINF:-1 tvg-ID="" tvg-name="DraGoN Fantasy" tvg-logo="" group-title="DragonTV",DraGoN Fantasy
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52164
+#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Horror 1" tvg-logo="" group-title="DragonTV",DRAGON Horror 1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51557
+#EXTINF:-1 tvg-ID="" tvg-name="DraGon Movies" tvg-logo="" group-title="DragonTV",DraGon Movies
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52161
+#EXTINF:-1 tvg-ID="" tvg-name="DraGon Series 1" tvg-logo="" group-title="DragonTV",DraGon Series 1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52162
+
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Action" tvg-logo="" group-title="Telecom TV",Telecom Action
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52881
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Comedy" tvg-logo="" group-title="Telecom TV",Telecom Comedy
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52882
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Horror" tvg-logo="" group-title="Telecom TV",Telecom Horror
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52883
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Drama" tvg-logo="" group-title="Telecom TV",Telecom Drama
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52884
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Marvel" tvg-logo="" group-title="Telecom TV",Telecom Marvel
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52885
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Sci -Fi" tvg-logo="" group-title="Telecom TV",Telecom Sci -Fi
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52886
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Disney" tvg-logo="" group-title="Telecom TV",Telecom Disney
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52887
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Kids" tvg-logo="" group-title="Telecom TV",Telecom Kids
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52888
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Arabic" tvg-logo="" group-title="Telecom TV",Telecom Arabic
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52889
+#EXTINF:-1 tvg-ID="" tvg-name="Telecom Masrah" tvg-logo="" group-title="Telecom TV",Telecom Masrah
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52890
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Max cinema 1" tvg-logo="" group-title="MAX TV",Max cinema 1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52827
+#EXTINF:-1 tvg-ID="" tvg-name="Max cinema 2" tvg-logo="" group-title="MAX TV",Max cinema 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52627
+#EXTINF:-1 tvg-ID="" tvg-name="Max Movies 1" tvg-logo="" group-title="MAX TV",Max Movies 1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53136
+#EXTINF:-1 tvg-ID="" tvg-name="Max Movies 2" tvg-logo="" group-title="MAX TV",Max Movies 2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53137
+#EXTINF:-1 tvg-ID="" tvg-name="Max Hendy" tvg-logo="" group-title="MAX TV",Max Hendy
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53138
+#EXTINF:-1 tvg-ID="" tvg-name="Max Tom & Jerry" tvg-logo="" group-title="MAX TV",Max Tom & Jerry
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53139
+#EXTINF:-1 tvg-ID="" tvg-name="Max Zamen" tvg-logo="" group-title="MAX TV",Max Zamen
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53141
+#EXTINF:-1 tvg-ID="" tvg-name="Max Comedy" tvg-logo="" group-title="MAX TV",Max Comedy
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53142
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/180
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/180
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/181
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/181
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/182
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/182
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/183
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/183
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/184
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/184
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/185
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/185
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/186
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/186
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/187
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/187
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/188
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/188
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/189
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/189
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/190
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/190
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/191
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/191
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Drama HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/192
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/192
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Movies Comedy HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/193
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/193
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/194
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/194
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/195
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/195
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/196
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/196
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Hollywood Mix HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/197
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/197
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/198
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/198
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/199
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/199
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Kids Zone HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/200
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/200
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Fatafeat HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/201
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/201
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nickelodeon HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/202
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/202
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/203
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/203
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: CINEMA 1
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/204
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/204
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/205
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/206
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/207
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/208
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/209
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/205
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN Yahala HD" tvg-logo="" group-title="OSN",OSN Yahala HD
@@ -1264,24 +1126,14 @@ http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12500
 http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 1" tvg-logo="" group-title="شاهد بلس",Shahid Tv 1
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12369
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 2" tvg-logo="" group-title="شاهد بلس",Shahid Tv 2
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12370
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 3" tvg-logo="" group-title="شاهد بلس",Shahid Tv 3
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12371
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 4" tvg-logo="" group-title="شاهد بلس",Shahid Tv 4
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12372
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 5" tvg-logo="" group-title="شاهد بلس",Shahid Tv 5
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12373
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 6" tvg-logo="" group-title="شاهد بلس",Shahid Tv 6
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12374
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 7" tvg-logo="" group-title="شاهد بلس",Shahid Tv 7
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12375
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 8" tvg-logo="" group-title="شاهد بلس",Shahid Tv 8
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12376
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 9" tvg-logo="" group-title="شاهد بلس",Shahid Tv 9
-http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12377
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="قنوات شاهد",SHAHID| ARABIA 1-Ⅻ
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/206
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="قنوات شاهد",SHAHID| COMEDY
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/207
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="قنوات شاهد",SHAHID| DRAMA
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/208
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="قنوات شاهد",SHAHID| BOLLYWOOD
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/209
 
 
 
@@ -1290,9 +1142,9 @@ http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12377
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 1" tvg-logo="" group-title="ART",|AR| ART Aflam 1
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/967
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 2" tvg-logo="" group-title="ART",|AR| ART Aflam 2
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/968
+http://178.132.3.162:88/ART_AFLAM_2/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ART",|AR| ART HEKAYAT 1
 http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/969
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ART",|AR| ART HEKAYAT 2
@@ -1303,15 +1155,15 @@ http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/971
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45215.ts
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45216.ts
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45217.ts
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/19.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45218.ts
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1791.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
-http://best-live-iptv.xyz:25461/live/BEST-LIVE4433/BEST-LIVE4433/192.ts
+http://best-live-iptv.xyz:25461/live/BEST-LIVE6767/BEST-LIVE6767/192.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
 http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45214.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 2  HD
@@ -1323,241 +1175,241 @@ http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/3029.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/1
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/1
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/2
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/2
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/3
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/3
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 4 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/4
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/4
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 5 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/5
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/5
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 6 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/6
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/6
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS NEWS
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/11
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/11
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS GLOBAL
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/12
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/12
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 1 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/13
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/13
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 2 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/14
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/14
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 3 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/15
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/15
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 4 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/16
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/16
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 5 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/17
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/17
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/140
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/140
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/141
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/141
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/142
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/142
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="الباقة التجريبية",bein sport 1HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/210
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/210
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="الباقة التجريبية",bein sport 2HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/211
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/211
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="الباقة التجريبية",bein sport 3HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/212
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/212
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="الباقة التجريبية",bein sport 4HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/213
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/213
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="الباقة التجريبية",bein sport 5HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/214
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/214
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="الباقة التجريبية",bein sport 6HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/215
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/215
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="الباقة التجريبية",bein sport 7HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/216
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/216
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="الباقة التجريبية",bein sport 8HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/217
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/217
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="الباقة التجريبية",bein sport 9HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/218
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/218
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="الباقة التجريبية",bein sport 10HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/219
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/219
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 1" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 1
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/220
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/220
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 2" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 2
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/221
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/221
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 3" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 3
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/222
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/222
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 4" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 4
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/223
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/223
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 5" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 5
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/224
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/224
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 6" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 6
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/225
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/225
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 7" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 7
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/226
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/226
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 8" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 8
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/227
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/227
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC MOVIES
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/132
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/132
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/133
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/133
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC ARABIC
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/134
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/134
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC KIDS
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/135
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/135
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="الباقة التجريبية",NETFLIX ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/136
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/136
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="الباقة التجريبية",NETFLIX HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/137
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/137
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="الباقة التجريبية",NETFLIX DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/138
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/138
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="الباقة التجريبية",NETFLIX COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/139
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/139
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="الباقة التجريبية",Rotana Kids
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/20
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/20
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="الباقة التجريبية",Rotana Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/21
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/21
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="الباقة التجريبية",Rotana Classic
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/22
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/22
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="الباقة التجريبية",Rotana Comedy
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/23
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/23
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="الباقة التجريبية",Rotana Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/24
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/24
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="الباقة التجريبية",MBC BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/25
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/25
 #EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="الباقة التجريبية",MBC IRAQ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/26
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/26
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="الباقة التجريبية",MBC MASR2
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/27
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/27
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="الباقة التجريبية",MBC MASR
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/28
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/28
 #EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="الباقة التجريبية",MBC ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/29
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/29
 #EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="الباقة التجريبية",MBC MAX
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/30
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/30
 #EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="الباقة التجريبية",MBC + Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/31
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/31
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="الباقة التجريبية",MBC DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/32
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/32
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="الباقة التجريبية",MBC 5
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/33
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/33
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="الباقة التجريبية",MBC 4
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/34
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/34
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="الباقة التجريبية",MBC 3
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/35
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/35
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="الباقة التجريبية",MBC 2
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/36
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/36
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",MBC 1
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/37
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/37
 #EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",wanasah
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/38
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/38
 #EXTINF:-1 tvg-id="" tvg-name="Ahl-Alquran TV" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="الباقة التجريبية",Ahl-Alquran TV
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/113
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/113
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="الباقة التجريبية",Al Quran Al Kareem (Mecca)
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/114
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/114
 #EXTINF:-1 tvg-id="" tvg-name="Al Resalah HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" group-title="الباقة التجريبية",Al Resalah HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/115
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/115
 #EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="الباقة التجريبية",Al Sunnah (Medina)
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/116
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/116
 #EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="الباقة التجريبية",Al Wesal TV
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/117
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/117
 #EXTINF:-1 tvg-id="" tvg-name="Ayaat" tvg-logo="https://i.imgur.com/X1LW4jB.png" group-title="الباقة التجريبية",Ayaat
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/118
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/118
 #EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="الباقة التجريبية",Iqraa
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/119
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/119
 #EXTINF:-1 tvg-id="" tvg-name="Al Fath TV" tvg-logo="https://i.imgur.com/hbC1X9B.png" group-title="الباقة التجريبية",Al Fath TV
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/105
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/105
 #EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="https://i.imgur.com/EiiO5nm.png" group-title="الباقة التجريبية",Bahrain Quran
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/104
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/104
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="الباقة التجريبية",Al Nahar
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/120
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/120
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="الباقة التجريبية",Al Nahar Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/121
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/121
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="الباقة التجريبية",Cairo Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/122
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/122
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="الباقة التجريبية",Cairo Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/123
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/123
 #EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="الباقة التجريبية",CBC Sofra
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/124
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/124
 #EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title="الباقة التجريبية",Cima
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/125
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/125
 #EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="الباقة التجريبية",Nile Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/126
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/126
 #EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title="الباقة التجريبية",Nile Culture
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/127
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/127
 #EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="الباقة التجريبية",Nile Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/128
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/128
 #EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title="الباقة التجريبية",Nile Life
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/129
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/129
 #EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title="الباقة التجريبية",Nile Sport
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/130
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/130
 #EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="الباقة التجريبية",Panorama Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/131
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/131
 #EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="الباقة التجريبية",FAJER TV
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/143
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/143
 #EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="الباقة التجريبية",BEUR TV
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/144
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/144
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="الباقة التجريبية",JORDAN
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/145
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/145
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="الباقة التجريبية",JORDAN SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/146
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/146
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="الباقة التجريبية",ON SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/147
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/147
 #EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="الباقة التجريبية",Omg tv
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/149
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/149
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/180
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/180
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/181
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/181
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/182
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/182
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/183
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/183
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/184
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/184
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/185
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/185
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/186
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/186
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/187
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/187
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/188
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/188
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/189
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/189
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/190
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/190
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/191
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/191
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Drama HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/192
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/192
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="الباقة التجريبية",OSN: Movies Comedy HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/193
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/193
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/194
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/194
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/195
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/195
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="الباقة التجريبية",ALFA: ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/196
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/196
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Hollywood Mix HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/197
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/197
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/198
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/198
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="الباقة التجريبية",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/199
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/199
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Kids Zone HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/200
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/200
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: Fatafeat HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/201
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/201
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nickelodeon HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/202
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/202
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/203
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/203
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="الباقة التجريبية",ALFA: CINEMA 1
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/204
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/204
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/205
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/205
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/206
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/206
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="الباقة التجريبية",SHAHID| COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/207
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/207
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="الباقة التجريبية",SHAHID| DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/208
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/208
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="الباقة التجريبية",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/209
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/209
 
 
 
@@ -1617,12 +1469,12 @@ http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 1
-http://channelsstream.xyz:8080/live/streeem/streeem/112.m3u8
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 2
 http://channelsstream.xyz:8080/live/streeem/streeem/113.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport" tvg-logo="" group-title="Arabic Sport",AR_ON Sport
-http://ipdax.top:8080/hatmyx/hjghyut/74
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport 2" tvg-logo="" group-title="Arabic Sport",AR_ON Sport 2
 http://ipdax.top:8080/hatmyx/hjghyut/75
 
@@ -1754,362 +1606,368 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORTS FHD",bein sport 1FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/210
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/210
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORTS FHD",bein sport 2FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/211
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/211
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORTS FHD",bein sport 3FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/212
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/212
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORTS FHD",bein sport 4FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/213
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/213
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORTS FHD",bein sport 5FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/214
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/214
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORTS FHD",bein sport 6FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/215
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/215
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORTS FHD",bein sport 7FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/216
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/216
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN SPORTS FHD",bein sport 8FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/217
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/217
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN SPORTS FHD",bein sport 9FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/218
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/218
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN SPORTS FHD",bein sport 10FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/219
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/219
 
 
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 2 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sporrts_02_hd.jpg" group-title="Bein - SPORTS HD°",|AR| BEIN SPORTS 2 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/52943
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://190.2.141.126:25461/logos/bein/bein_news.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS NEWS HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45280
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 hd" tvg-logo="http://190.2.141.126/logos/bein/be_in_mena_sports_01_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 1 hd
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45282
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3hd" tvg-logo="http://90.2.141.126:25461/logos/bein/be_in_mena_sports_03_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 3hd
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45288
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_04_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 4 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45292
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_05_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 5 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45295
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_06_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 6 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45298
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_07_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 7 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45301
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_08_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 8 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45304
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_09_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 9 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45307
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_10_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 10 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45310
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 1" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 1
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/220
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/220
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 2" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 2
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/221
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/221
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 3" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 3
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/222
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/222
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 4" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 4
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/223
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/223
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 5" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 5
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/224
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/224
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 6" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 6
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/225
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/225
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 7" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 7
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/226
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/226
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 8" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 8
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/227
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 1 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/13
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 2 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/14
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 3 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/15
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 4 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/16
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="BEIN SPORTS LOW",BEIN SPORT LOW 5 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/17
+http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/227
 
 
 
 
 
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",FR: TF1 FHD
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_496.m3u8
-#EXTINF:-1 tvg-id="TF1 HD" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-country="FR" tvg-url="" group-title="FRANCE",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TF1 Séries Films" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-country="FR" tvg-url="" group-title="FRANCE",TF1 Séries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="M6" tvg-name="" tvg-language="" tvg-logo="" tvg-country="FR" tvg-url="" group-title="FRANCE",M6
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/63
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="FRANCE",RMC SPORT 1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="FRANCE",RMC SPORT 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24030
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="FRANCE",RMC SPORT 3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="FRANCE",RMC SPORT 4
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24028
-#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="|FR| GOLF+ HD" tvg-logo="http://euro-webtv.xyz/picon/france/golfplus.png" group-title="FR - SPORT",|FR| GOLF+ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/14376
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/eurosport1.png" group-title="FR - SPORT",|FR| EUROSPORT 1 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/48419
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="http://euro-webtv.xyz/picon/france/eurosport1.png" group-title="FR - SPORT",|FR| EUROSPORT 1 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47702
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/eurosport2.png" group-title="FR - SPORT",|FR| EUROSPORT 2 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/48420
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://euro-webtv.xyz/picon/france/eurosport2.png" group-title="FR - SPORT",|FR| EUROSPORT 2 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47703
-#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="http://euro-webtv.xyz/picon/france/infosport.png" group-title="FR - SPORT",|FR| INFOSPORT+ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2595
-#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="|FR| RMC Sport News HD" tvg-logo="http://euro-webtv.xyz/picon/france/rmcsportnews.png" group-title="FR - SPORT",|FR| RMC Sport News HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/21770
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC Sport 2 FHD" tvg-logo="http://euro-webtv.xyz/picon/france/rmcsport2.png" group-title="FR - SPORT",|FR| RMC Sport 2 FHD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/51533
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="IFRI RMC SPORT 3 FHD" tvg-logo="http://euro-webtv.xyz/picon/france/rmcsport3.png" group-title="FR - SPORT",IFRI RMC SPORT 3 FHD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/51534
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="IFRI RMC SPORT 3 HD" tvg-logo="http://euro-webtv.xyz/picon/france/rmcsport3.png" group-title="FR - SPORT",IFRI RMC SPORT 3 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/39030
-#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="IFRI RMC SPORT 4 HD" tvg-logo="http://euro-webtv.xyz/picon/france/rmcsport4.png" group-title="FR - SPORT",IFRI RMC SPORT 4 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/39031
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR| RMC Sport Live 5 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 5 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47687
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR| RMC Sport Live 6 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 6 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47688
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 7 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 7 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47691
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR| RMC Sport Live 8 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 8 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47692
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR| RMC Sport Live 9 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 9 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47693
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC Sport Live 10 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 10 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47694
-#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR| RMC Sport Live 11 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 11 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47695
-#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR| RMC Sport Live 12 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 12 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47696
-#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR| RMC Sport Live 13 HD" tvg-logo="" group-title="FR - SPORT",|FR| RMC Sport Live 13 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47697
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| FOOT+ 24/24 HD" tvg-logo="http://strong-livetv.net/picon/footplus2424.png" group-title="FR - SPORT",|FR| FOOT+ 24/24 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2596
-#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="IFRI BEIN SPORTS 1 FHD" tvg-logo="http://euro-webtv.xyz/picon/france/beinsports1.png" group-title="FR - SPORT",IFRI BEIN SPORTS 1 FHD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/39032
-#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://strong-livetv.net/picon/beinsports1.png" group-title="FR - SPORT",|FR| BEIN SPORTS 1 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2763
-#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="IFRI BEIN SPORTS 2 FHD" tvg-logo="http://euro-webtv.xyz/picon/france/beinsports2.png" group-title="FR - SPORT",IFRI BEIN SPORTS 2 FHD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/39033
-#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://strong-livetv.net/picon/beinsports2.png" group-title="FR - SPORT",|FR| BEIN SPORTS 2 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2764
-#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="IFRI BEIN SPORTS 3 FHD" tvg-logo="http://euro-webtv.xyz/picon/france/beinsports3.png" group-title="FR - SPORT",IFRI BEIN SPORTS 3 FHD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/39034
-#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://strong-livetv.net/picon/beinsports3.png" group-title="FR - SPORT",|FR| BEIN SPORTS 3 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2765
-#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="|FR| BEIN SPORTS MAX 4" tvg-logo="http://strong-livetv.net/picon/beinsportsmax4.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 4
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47671
-#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="|FR| BEIN SPORTS MAX 5" tvg-logo="http://strong-livetv.net/picon/beinsportsmax5.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 5
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47672
-#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="|FR| BEIN SPORTS MAX 6" tvg-logo="http://strong-livetv.net/picon/beinsportsmax6.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 6
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47673
-#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="|FR| BEIN SPORTS MAX 7" tvg-logo="http://strong-livetv.net/picon/beinsportsmax7.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 7
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47674
-#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="|FR| BEIN SPORTS MAX 8" tvg-logo="http://strong-livetv.net/picon/beinsportsmax8.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 8
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47675
-#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="|FR| BEIN SPORTS MAX 9" tvg-logo="http://strong-livetv.net/picon/beinsportsmax9.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 9
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47689
-#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="|FR| BEIN SPORTS MAX 10" tvg-logo="http://strong-livetv.net/picon/beinsportsmax10.png" group-title="FR - SPORT",|FR| BEIN SPORTS MAX 10
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47690
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| EQUIDIA L" tvg-logo="http://euro-webtv.xyz/picon/france/equidia.png" group-title="FR - SPORT",|FR| EQUIDIA L
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5080
-#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="|FR| EQUIDIA" tvg-logo="http://euro-webtv.xyz/picon/france/equidia.png" group-title="FR - SPORT",|FR| EQUIDIA
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47699
-#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalplussport.png" group-title="FR - SPORT",|FR| CANAL+ SPORT HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47704
-#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="|FR| CANAL+ SPORT HD²" tvg-logo="http://euro-webtv.xyz/picon/france/canalplussport.png" group-title="FR - SPORT",|FR| CANAL+ SPORT HD²
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/49498
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OL TV L" tvg-logo="http://euro-webtv.xyz/picon/france/oltv.png" group-title="FR - SPORT",|FR| OL TV L
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/21769
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SPORT EN FRANCE HD" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="FR - SPORT",|FR| SPORT EN FRANCE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/46483
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="|FR| ACTION HD" tvg-logo="http://euro-webtv.xyz/picon/france/action.png" group-title="FR - CINEMA",|FR| ACTION HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2559
-#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://euro-webtv.xyz/picon/france/alticestudio.png" group-title="FR - CINEMA",|FR| ALTICE STUDIO HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/13659
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://euro-webtv.xyz/picon/france/tcmcinema.png" group-title="FR - CINEMA",|FR| TCM CINEMA HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5133
-#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="IFRI CINE+ PREMIER HD" tvg-logo="http://euro-webtv.xyz/picon/france/cinepluspremier.png" group-title="FR - CINEMA",IFRI CINE+ PREMIER HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38716
-#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://euro-webtv.xyz/picon/france/cineplusfrisson.png" group-title="FR - CINEMA",|FR| CINE+ FRISSON HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2547
-#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="|FR| CINE+ FAMIZ HD" tvg-logo="http://euro-webtv.xyz/picon/france/cineplusfamiz.png" group-title="FR - CINEMA",|FR| CINE+ FAMIZ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2548
-#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://euro-webtv.xyz/picon/france/cineplusemotion.png" group-title="FR - CINEMA",|FR| CINE+ EMOTION HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2550
-#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="http://euro-webtv.xyz/picon/france/cineplusclassic.png" group-title="FR - CINEMA",|FR| CINE+ CLASSIC HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2551
-#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="http://euro-webtv.xyz/picon/france/cineplusclub.png" group-title="FR - CINEMA",|FR| CINE+ CLUB HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/46482
-#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="http://euro-webtv.xyz/picon/france/ocsmax.png" group-title="FR - CINEMA",|FR| OCS MAX HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2552
-#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="|FR| OCS GEANTS HD" tvg-logo="http://euro-webtv.xyz/picon/france/ocsgeant.png" group-title="FR - CINEMA",|FR| OCS GEANTS HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/13827
-#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://euro-webtv.xyz/picon/france/ocscity.png" group-title="FR - CINEMA",|FR| OCS CITY HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/13828
-#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://euro-webtv.xyz/picon/france/ocschoc.png" group-title="FR - CINEMA",|FR| OCS CHOC HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/13829
-#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="IFRI CANAL+ CINEMA HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalpluscinema.png" group-title="FR - CINEMA",IFRI CANAL+ CINEMA HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38712
-#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="FRI CANAL+ FAMILY HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalplusfamily.png" group-title="FR - CINEMA",FRI CANAL+ FAMILY HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38714
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalplusseries.png" group-title="FR - CINEMA",|FR| CANAL+ SERIES HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/12640
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="|FR| CANAL+ DECALE HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalplusdecale.png" group-title="FR - CINEMA",|FR| CANAL+ DECALE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/12642
-#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="|FR| WARNER TV HD" tvg-logo="http://euro-webtv.xyz/picon/france/warnertv.png" group-title="FR - CINEMA",|FR| WARNER TV HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/16086
-#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="|FR| POLAR+ HD" tvg-logo="http://euro-webtv.xyz/picon/france/polarplus.png" group-title="FR - CINEMA",|FR| POLAR+ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/14975
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="|FR| TREK HD" tvg-logo="http://euro-webtv.xyz/picon/france/trek.png" group-title="FR - DECOUVERTE",|FR| TREK HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5869
-#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://euro-webtv.xyz/picon/france/e.png" group-title="FR - DIVERTISSEMENT",|FR| E! ENTERTAINMENT HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5138
-#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="|FR| VOYAGE" tvg-logo="http://euro-webtv.xyz/picon/france/voyage.png" group-title="FR - DECOUVERTE",|FR| VOYAGE
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5131
-#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE HD" tvg-logo="http://euro-webtv.xyz/picon/france/toutelhistoire.png" group-title="FR - DECOUVERTE",|FR| TOUTE L'HISTOIRE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2591
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="http://euro-webtv.xyz/picon/france/chasseandpeche.png" group-title="FR - DECOUVERTE",|FR| CHASSE ET PECHE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2589
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://euro-webtv.xyz/picon/france/histoire.png" group-title="FR - DECOUVERTE",|FR| HISTOIRE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5073
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://euro-webtv.xyz/picon/france/animaux.png" group-title="FR - DECOUVERTE",|FR| ANIMAUX HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2582
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| MY CUISINE HD" tvg-logo="http://euro-webtv.xyz/picon/france/mycuisine.png" group-title="FR - DIVERTISSEMENT",|FR| MY CUISINE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/14450
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="|FR| BET HD" tvg-logo="http://euro-webtv.xyz/picon/france/bet.png" group-title="FR - DIVERTISSEMENT",|FR| BET HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/14451
-#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="|FR| VICELAND" tvg-logo="http://euro-webtv.xyz/picon/france/viceland.png" group-title="FR - DECOUVERTE",|FR| VICELAND
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/46485
-#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="|FR| DISCOVERY FRANCE HD" tvg-logo="http://euro-webtv.xyz/picon/france/discovery.png" group-title="FR - DECOUVERTE",|FR| DISCOVERY FRANCE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2581
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="http://euro-webtv.xyz/picon/france/discoveryfamily.png" group-title="FR - DECOUVERTE",|FR| DISCOVERY FAMILY HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47706
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="http://euro-webtv.xyz/picon/france/discoveryid.png" group-title="FR - DECOUVERTE",|FR| DISCOVERY INVESTIGATION HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47707
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY SCIENCE HD" tvg-logo="http://euro-webtv.xyz/picon/france/discoveryscience.png" group-title="FR - DECOUVERTE",|FR| DISCOVERY SCIENCE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47708
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY CHANNEL HD" tvg-logo="http://euro-webtv.xyz/picon/france/discovery.png" group-title="FR - DECOUVERTE",|FR| DISCOVERY CHANNEL HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47711
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| National Geographic Channel HD" tvg-logo="http://euro-webtv.xyz/picon/france/nationalgeo.png" group-title="FR - DECOUVERTE",|FR| National Geographic Channel HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2579
-#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| National Geographic Wild HD" tvg-logo="http://euro-webtv.xyz/picon/france/natgeowild.png" group-title="FR - DECOUVERTE",|FR| National Geographic Wild HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2580
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV HD" tvg-logo="http://euro-webtv.xyz/picon/france/ushuaiatv.png" group-title="FR - DECOUVERTE",|FR| USHUAIA TV HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2578
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS HD " tvg-logo="http://euro-webtv.xyz/picon/france/seasons.png" group-title="FR - DECOUVERTE",|FR| SEASONS HD 
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38701
-#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="|FR| SCIENCE ET VIE TV" tvg-logo="http://euro-webtv.xyz/picon/france/scienceetvie.png" group-title="FR - DECOUVERTE",|FR| SCIENCE ET VIE TV
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2588
-#EXTINF:-1 tvg-id="" tvg-name="|FR| lucky jack tv" tvg-logo="http://euro-webtv.xyz/picon/france/luckyjack.png" group-title="FR - DIVERTISSEMENT",|FR| lucky jack tv
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/46272
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/tf1.png" group-title="FR - GENERALISTE",|FR| TF1 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44922
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HDL" tvg-logo="http://euro-webtv.xyz/picon/france/tf1.png" group-title="FR - GENERALISTE",|FR| TF1 HDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38702
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://euro-webtv.xyz/picon/france/tf1.png" group-title="FR - GENERALISTE",|FR| TF1 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5220
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/france2.png" group-title="FR - GENERALISTE",|FR| FRANCE 2 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45921
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://euro-webtv.xyz/picon/france/france2.png" group-title="FR - GENERALISTE",|FR| FRANCE 2 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2535
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/france3.png" group-title="FR - GENERALISTE",|FR| FRANCE 3 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45922
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://euro-webtv.xyz/picon/france/france3.png" group-title="FR - GENERALISTE",|FR| FRANCE 3 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2536
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="IFRI CANAL+ FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/canalplus.png" group-title="FR - GENERALISTE",IFRI CANAL+ FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45972
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="IFRI CANAL+ HDL" tvg-logo="http://euro-webtv.xyz/picon/france/canalplus.png" group-title="FR - GENERALISTE",IFRI CANAL+ HDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38711
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/france5.png" group-title="FR - GENERALISTE",|FR| FRANCE 5 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44797
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://euro-webtv.xyz/picon/france/france5.png" group-title="FR - GENERALISTE",|FR| FRANCE 5 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2538
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="IFRI M6 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/m6.png" group-title="FR - GENERALISTE",IFRI M6 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44798
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="IFRI M6 HDL" tvg-logo="http://euro-webtv.xyz/picon/france/m6.png" group-title="FR - GENERALISTE",IFRI M6 HDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/38703
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://euro-webtv.xyz/picon/france/m6.png" group-title="FR - GENERALISTE",|FR| M6 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2534
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/arte.png" group-title="FR - GENERALISTE",|FR| ARTE FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44799
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://euro-webtv.xyz/picon/france/arte.png" group-title="FR - GENERALISTE",|FR| ARTE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2623
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/c8.png" group-title="FR - GENERALISTE",|FR| C8 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44837
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 HDL" tvg-logo="http://euro-webtv.xyz/picon/france/c8.png" group-title="FR - GENERALISTE",|FR| C8 HDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/15377
-#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/w9.png" group-title="FR - GENERALISTE",|FR| W9 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44800
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 hd" tvg-logo="http://euro-webtv.xyz/picon/france/w9.png" group-title="FR - GENERALISTE",|FR| W9 hd
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/9429
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/tmc.png" group-title="FR - GENERALISTE",|FR| TMC FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44923
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC HD" tvg-logo="http://euro-webtv.xyz/picon/france/tmc.png" group-title="FR - GENERALISTE",|FR| TMC HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2569
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/tfx.png" group-title="FR - GENERALISTE",|FR| TFX FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44924
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX HD" tvg-logo="http://euro-webtv.xyz/picon/france/tfx.png" group-title="FR - GENERALISTE",|FR| TFX HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2570
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ 12 FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/nrj12.png" group-title="FR - GENERALISTE",|FR| NRJ 12 FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44925
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://euro-webtv.xyz/picon/france/nrj12.png" group-title="FR - GENERALISTE",|FR| NRJ 12 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2573
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| Gulli FHDL" tvg-logo="http://euro-webtv.xyz/picon/france/gulli.png" group-title="FR - JEUNESSE",|FR| Gulli FHDL
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/44970
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI hd" tvg-logo="http://euro-webtv.xyz/picon/france/gulli.png" group-title="FR - JEUNESSE",|FR| GULLI hd
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/9434
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J HD" tvg-logo="http://euro-webtv.xyz/picon/france/canalj.png" group-title="FR - JEUNESSE",|FR| CANAL J HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/7512
-#EXTINF:-1 tvg-id="JOne.fr" tvg-name="|FR| J-ONE HD" tvg-logo="http://euro-webtv.xyz/picon/france/jone.png" group-title="FR - JEUNESSE",|FR| J-ONE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/7687
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI HD" tvg-logo="http://euro-webtv.xyz/picon/france/tiji.png" group-title="FR - JEUNESSE",|FR| TIJI HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/5132
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI+ HD" tvg-logo="http://euro-webtv.xyz/picon/france/piwiplus.png" group-title="FR - JEUNESSE",|FR| PIWI+ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2616
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE HD" tvg-logo="http://euro-webtv.xyz/picon/france/gameone.png" group-title="FR - JEUNESSE",|FR| GAME ONE HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2583
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="http://euro-webtv.xyz/picon/france/mangas.png" group-title="FR - JEUNESSE",|FR| MANGAS HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2614
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK" tvg-logo="http://euro-webtv.xyz/picon/france/cartoonnetwork.png" group-title="FR - JEUNESSE",|FR| CARTOON NETWORK
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2610
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG HD" tvg-logo="http://strong-livetv.net/picon/boomerang.png" group-title="FR - JEUNESSE",|FR| BOOMERANG HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2613
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| BOING HD" tvg-logo="http://euro-webtv.xyz/picon/france/boing.png" group-title="FR - JEUNESSE",|FR| BOING HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2617
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| TOONAMI" tvg-logo="http://euro-webtv.xyz/picon/france/toonami.png" group-title="FR - JEUNESSE",|FR| TOONAMI
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/12624
-#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="|FR| TELETOON + HD" tvg-logo="http://euro-webtv.xyz/picon/france/teletoonplus.png" group-title="FR - JEUNESSE",|FR| TELETOON + HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2619
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON HD" tvg-logo="http://euro-webtv.xyz/picon/france/nickelodeon.png" group-title="FR - JEUNESSE",|FR| NICKELODEON HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/25619
-#EXTINF:-1 tvg-id="Nick4teens.fr" tvg-name="|FR| NICKELODEON TEEN HD" tvg-logo="http://euro-webtv.xyz/picon/france/nickelodeonteen.png" group-title="FR - JEUNESSE",|FR| NICKELODEON TEEN HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/25620
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://euro-webtv.xyz/picon/france/NickelodeonJunior.png" group-title="FR - JEUNESSE",|FR| NICKELODEON JUNIOR HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/25622
-#EXTINF:-1 tvg-id="" tvg-name="IFRI DISNEY XD HD" tvg-logo="http://euro-webtv.xyz/picon/france/disneyxd.png" group-title="FR - JEUNESSE",IFRI DISNEY XD HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/48107
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://euro-webtv.xyz/picon/france/disneyjunior.png" group-title="FR - JEUNESSE",|FR| DISNEY JUNIOR HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2608
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| DISNEY+ HD" tvg-logo="http://euro-webtv.xyz/picon/france/disneyplus.png" group-title="FR - JEUNESSE",|FR| DISNEY+ HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/2606
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="http://euro-webtv.xyz/picon/france/disneychannel.png" group-title="FR - JEUNESSE",|FR| DISNEY CHANNEL HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/25627
-#EXTINF:-1 tvg-id="Gong.fr" tvg-name="|FR| GONG HD" tvg-logo="http://euro-webtv.xyz/picon/france/gong.png" group-title="FR - JEUNESSE",|FR| GONG HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/14128
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GONG MAX HD" tvg-logo="http://euro-webtv.xyz/picon/france/gongmax.png" group-title="FR - JEUNESSE",|FR| GONG MAX HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/21706
-#EXTINF:-1 tvg-id="" tvg-name="|FR| south park tv" tvg-logo="http://euro-webtv.xyz/picon/france/south-park.png" group-title="FR - JEUNESSE",|FR| south park tv
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/47122
 
+
+
+
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_FRANCE_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france2.png" group-title="Francaise HD",FR_FRANCE_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3217
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_France_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france3.png" group-title="Francaise HD",FR_France_03_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2500
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_France_04_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france4.png" group-title="Francaise HD",FR_France_04_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3218
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR_FRANCE_5_HD" tvg-logo="http://logofun.ddns.net:25461/logo/France 5.png" group-title="Francaise HD",FR_FRANCE_5_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4005
+#EXTINF:-1 tvg-ID="France Ô FR" tvg-name="FR_FRANCE_O_HD" tvg-logo="http://logofun.ddns.net:25461/logo/franceo.png" group-title="Francaise HD",FR_FRANCE_O_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2528
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FR_FRANCE_INFO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france info.png" group-title="Francaise HD",FR_FRANCE_INFO_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48877
+#EXTINF:-1 tvg-ID="CanalPlus.fr" tvg-name="FR_CANAL+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplus.png" group-title="Francaise HD",FR_CANAL+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3326
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_CANAL+_sports_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplussport.png" group-title="Francaise HD",FR_CANAL+_sports_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50145
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAl+_CINEMA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalpluscinema.png" group-title="Francaise HD",FR_CANAl+_CINEMA_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49749
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR_CANAL+_FAMILY_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusfamily.png" group-title="Francaise HD",FR_CANAL+_FAMILY_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2639
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR_CANAL+_DECALE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusdecale.png" group-title="Francaise HD",FR_CANAL+_DECALE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1994
+#EXTINF:-1 tvg-ID="" tvg-name="FR_CANAL+_Series_HD" tvg-logo="" group-title="Francaise HD",FR_CANAL+_Series_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52962
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAL_J_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalj.png" group-title="Francaise HD",FR_CANAL_J_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1460
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Premier_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepluspremier.png" group-title="Francaise HD",FR_Cine_Premier_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3327
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Fr_Cine_Frisson_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfrisson.png" group-title="Francaise HD",Fr_Cine_Frisson_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3328
+#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="FR_Cine_Famiz_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfamiz.png" group-title="Francaise HD",FR_Cine_Famiz_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3330
+#EXTINF:-1 tvg-ID="Cine+ Émotion HD FR" tvg-name="FR_Cine_Emotion_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusemotion.png" group-title="Francaise HD",FR_Cine_Emotion_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/84
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Classic_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusclassic.png" group-title="Francaise HD",FR_Cine_Classic_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/82
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Cine_POLAR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepolar.png" group-title="Francaise HD",FR_Cine_POLAR_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/128
+#EXTINF:-1 tvg-ID="OCSGeants.fr" tvg-name="FR_OCS_GEANT_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsgeants.png" group-title="Francaise HD",FR_OCS_GEANT_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/90
+#EXTINF:-1 tvg-ID="OCSChoc.fr" tvg-name="FR_OCS_CHOC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocschoc.png" group-title="Francaise HD",FR_OCS_CHOC_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/89
+#EXTINF:-1 tvg-ID="OCSCity.fr" tvg-name="FR_OCS_City_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocscity.png" group-title="Francaise HD",FR_OCS_City_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/88
+#EXTINF:-1 tvg-ID="" tvg-name="FR_OCS_Max_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsmax.png" group-title="Francaise HD",FR_OCS_Max_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/87
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_TF1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3316
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_HD_+1" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD_+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51664
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_SERIES_FILMS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1seriesfilms.png" group-title="Francaise HD",FR_TF1_SERIES_FILMS_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3224
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_M6_HD" tvg-logo="http://logofun.ddns.net:25461/logo/m6.png" group-title="Francaise HD",FR_M6_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2664
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_RTL9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/rtl9.png" group-title="Francaise HD",FR_RTL9_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/375
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_13eme_Rue_HD" tvg-logo="http://logofun.ddns.net:25461/logo/13emerue.png" group-title="Francaise HD",FR_13eme_Rue_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3346
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_W9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/w9.png" group-title="Francaise HD",FR_W9_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3221
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR_ACTION_HD" tvg-logo="http://logofun.ddns.net:25461/logo/action.png" group-title="Francaise HD",FR_ACTION_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/126
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Syfy_HD" tvg-logo="http://logofun.ddns.net:25461/logo/syfy.png" group-title="Francaise HD",FR_Syfy_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3220
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_CUISINE_HD" tvg-logo="" group-title="Francaise HD",FR_MY_CUISINE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52702
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_COMEDY" tvg-logo="" group-title="Francaise HD",FR_MY_COMEDY
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52489
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR_C_Star_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cstar.png" group-title="Francaise HD",FR_C_Star_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/103
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="FR_C8_HD" tvg-logo="http://logofun.ddns.net:25461/logo/c8.png" group-title="Francaise HD",FR_C8_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/102
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TREK_HD" tvg-logo="http://logofun.ddns.net:25461/logo/trek.png" group-title="Francaise HD",FR_TREK_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3678
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR_TFX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tfx.png" group-title="Francaise HD",FR_TFX_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/376
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_TCM_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tcmcinema.png" group-title="Francaise HD",FR_TCM_Cinema_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1696
+#EXTINF:-1 tvg-ID="Série Club HD FR" tvg-name="FR_SERIE_CLUB_HD" tvg-logo="http://logofun.ddns.net:25461/logo/serieclub.png" group-title="Francaise HD",FR_SERIE_CLUB_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3222
+#EXTINF:-1 tvg-ID="6ter HD FR" tvg-name="FR_6ter_HD" tvg-logo="http://logofun.ddns.net:25461/logo/6ter.png" group-title="Francaise HD",FR_6ter_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2499
+#EXTINF:-1 tvg-ID="Téva FHD FR" tvg-name="FR_TEVA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teva.png" group-title="Francaise HD",FR_TEVA_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2501
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Crime_District_HD" tvg-logo="http://logofun.ddns.net:25461/logo/crimedistrict.png" group-title="Francaise HD",FR_Crime_District_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51046
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Tvm3" tvg-logo="" group-title="Francise FullHD",FR_Tvm3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2660
+#EXTINF:-1 tvg-ID="TMC FHD FR" tvg-name="FR_TMC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tmc.png" group-title="Francaise HD",FR_TMC_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3223
+#EXTINF:-1 tvg-ID="" tvg-name="FR_AB3" tvg-logo="http://logofun.ddns.net:25461/logo/ab3.png" group-title="Francaise HD",FR_AB3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1694
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Arte_HD" tvg-logo="http://logofun.ddns.net:25461/logo/arte.png" group-title="Francaise HD",FR_Arte_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/373
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="FR_Chasse_et_Peche" tvg-logo="http://logofun.ddns.net:25461/logo/chasseetpeche.png" group-title="Francaise HD",FR_Chasse_et_Peche
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/116
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_NATIONAL_GEO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographic.png" group-title="Francaise HD",FR_NATIONAL_GEO_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/113
+#EXTINF:-1 tvg-ID="Paramount Channel HD FR" tvg-name="FR_PARAMOUNT_CHANNEL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/paramountchannel.png" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2291
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PARAMOUNT_CHANNEL_DECALE_HD" tvg-logo="" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_DECALE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51173
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NATIONAL_GEO_WILD_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographicwild.png" group-title="Francaise HD",FR_NATIONAL_GEO_WILD_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3397
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Science_et_Vie_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Science_et_Vie.jpg" group-title="Francaise HD",FR_Science_et_Vie_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2662
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_12_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nrj12.png" group-title="Francaise HD",FR_NRJ_12_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1456
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR_PARIS_PREMIERE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/parispremiere.png" group-title="Francaise HD",FR_PARIS_PREMIERE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/119
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_AB_MOTEURS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/abmoteurs.png" group-title="Francaise HD",FR_AB_MOTEURS_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1792
+#EXTINF:-1 tvg-ID="" tvg-name="FR_AB1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ab1.png" group-title="Francaise HD",FR_AB1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/123
+#EXTINF:-1 tvg-ID="TV Breizh FR" tvg-name="FR_TVBREIZH_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tvbreizh.png" group-title="Francaise HD",FR_TVBREIZH_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1562
+#EXTINF:-1 tvg-ID="" tvg-name="FR_COMEDIE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/comedieplus.png" group-title="Francaise HD",FR_COMEDIE+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1458
+#EXTINF:-1 tvg-ID="" tvg-name="FR_ELLE_GIRL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ellegirl.png" group-title="Francaise HD",FR_ELLE_GIRL_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3184
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Cherie_25_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cherie25.png" group-title="Francaise HD",FR_Cherie_25_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1459
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR_ANIMAUX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/animaux.png" group-title="Francaise HD",FR_ANIMAUX_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/114
+#EXTINF:-1 tvg-ID="" tvg-name="FR_IL_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ILTV.png" group-title="Francaise HD",FR_IL_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1685
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alsace_20_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Alsace20.png" group-title="Francaise HD",FR_Alsace_20_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1683
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Toute_l'Histoire_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toutelhistoire.png" group-title="Francaise HD",FR_Toute_l'Histoire_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4496
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR_Ushuaia_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ushuaiatv.png" group-title="Francaise HD",FR_Ushuaia_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/112
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR_Discovery_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoverychannel.png" group-title="Francaise HD",FR_Discovery_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/109
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="FR_Discovery_Science_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoveryscience-clivebesle.png" group-title="Francaise HD",FR_Discovery_Science_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/110
+#EXTINF:-1 tvg-ID="" tvg-name="FR_I24_HD" tvg-logo="" group-title="Francaise HD",FR_I24_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1644
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Voyage_HD" tvg-logo="" group-title="Francaise HD",FR_Voyage_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/124
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE_A&E_HD" tvg-logo="http://logofun.ddns.net:25461/logo/planeteplusaventureexperience.png" group-title="Francaise HD",FR_PLANETE_A&E_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4495
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_PLANETE+_CI" tvg-logo="" group-title="Francaise HD",FR_PLANETE+_CI
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2058
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Planete+.png" group-title="Francaise HD",FR_PLANETE+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4494
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_Business_HD" tvg-logo="http://logofun.ddns.net:25461/logo/bfmbusiness.png" group-title="Francaise HD",FR_BFM_Business_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/379
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_TV" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/378
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_PARIS" tvg-logo="http://logofun.ddns.net:25461/logo/bfmparis.png" group-title="Francaise HD",FR_BFM_PARIS
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48846
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_LYON" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LYON
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52487
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR_BFM_LILLE" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LILLE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52488
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_SEASON_HD" tvg-logo="http://logofun.ddns.net:25461/logo/seasons.png" group-title="Francaise HD",FR_SEASON_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2892
+#EXTINF:-1 tvg-ID="" tvg-name="FR_M6_Music" tvg-logo="http://logofun.ddns.net:25461/logo/m6music.png" group-title="Francaise HD",FR_M6_Music
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/97
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MTV_Base_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mtvbase.png" group-title="Francaise HD",FR_MTV_Base_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1667
+#EXTINF:-1 tvg-ID="CanalPlusDiscovery.pl" tvg-name="FR_MTV_MUSIC" tvg-logo="http://logofun.ddns.net:25461/logo/mtvmusic.png" group-title="Francaise HD",FR_MTV_MUSIC
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1668
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_hit" tvg-logo="" group-title="Francaise HD",FR_NRJ_hit
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1455
+#EXTINF:-1 tvg-ID="" tvg-name="FR_France_24" tvg-logo="" group-title="Francaise HD",FR_France_24
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/101
+#EXTINF:-1 tvg-ID="" tvg-name="FR_LA_CHAINE_NORMANDIE" tvg-logo="http://logofun.ddns.net:25461/logo/LA_CHAINE_NORMANDIE.JPG" group-title="Francaise HD",FR_LA_CHAINE_NORMANDIE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1686
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TV5_MONDE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tv5monde.png" group-title="Francaise HD",FR_TV5_MONDE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49608
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR_Gulli_HD" tvg-logo="http://logofun.ddns.net:25461/logo/gulli.png" group-title="Francaise HD",FR_Gulli_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/117
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Nickelodeon_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon.png" group-title="Francaise HD",FR_Nickelodeon_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3843
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Mangas_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mangas.png" group-title="Francaise HD",FR_Mangas_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/122
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_Nickelodeon_4_Teens_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon4teen.jpg" group-title="Francaise HD",FR_Nickelodeon_4_Teens_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4727
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR_Piwi_HD" tvg-logo="http://logofun.ddns.net:25461/logo/piwiplus.png" group-title="Francaise HD",FR_Piwi_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/374
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TELETOON+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teletoonplus.png" group-title="Francaise HD",FR_TELETOON+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/94
+#EXTINF:-1 tvg-ID="TIJI HD FR" tvg-name="FR_TIJI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tiji.png" group-title="Francaise HD",FR_TIJI_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2102
+#EXTINF:-1 tvg-ID="" tvg-name="FR_GINX_TV" tvg-logo="" group-title="Francaise HD",FR_GINX_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52053
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR_DISNEY_JUNIOR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneyjunior.png" group-title="Francaise HD",FR_DISNEY_JUNIOR_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48619
+#EXTINF:-1 tvg-ID="" tvg-name="FR_DISNEY_CHANNEL_+1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannelplus1.png" group-title="Francaise HD",FR_DISNEY_CHANNEL_+1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3174
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR_Disney_Channel_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannel.png" group-title="Francaise HD",FR_Disney_Channel_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/120
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BOING_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boing.png" group-title="Francaise HD",FR_BOING_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1457
+#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="FR_J-ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/j-one.jpg" group-title="Francaise HD",FR_J-ONE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48781
+#EXTINF:-1 tvg-ID="Toonami FHD FR" tvg-name="FR_TOONAMI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toonami.png" group-title="Francaise HD",FR_TOONAMI_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50800
+#EXTINF:-1 tvg-ID="Cartoon Network HD FR" tvg-name="FR_Cartoon_Network_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cartoonnetwork.png" group-title="Francaise HD",FR_Cartoon_Network_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50953
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Disney_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneycinema.png" group-title="Francaise HD",FR_Disney_Cinema_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50936
+#EXTINF:-1 tvg-ID="Nick Jr. FR" tvg-name="FR_NICKELODEON_JR" tvg-logo="http://logofun.ddns.net:25461/logo/nickelodeonjunior.png" group-title="Francaise HD",FR_NICKELODEON_JR
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51662
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="FR_GAME_ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Game_One.png" group-title="Francaise HD",FR_GAME_ONE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2105
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="FR_Boomerang_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boomerang.png" group-title="Francaise HD",FR_Boomerang_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1461
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR_Equidia_Live_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Equidia Live.png" group-title="Francaise HD",FR_Equidia_Live_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2897
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR_INFOSPORT" tvg-logo="http://logofun.ddns.net:25461/logo/infosportplus.png" group-title="Francaise HD",FR_INFOSPORT
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/91
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR_GOLF+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/golfplus.png" group-title="Francaise HD",FR_GOLF+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2452
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Golf_HD" tvg-logo="" group-title="Francaise HD",FR_Golf_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49862
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Foot+ 24/24_HD" tvg-logo="http://logofun.ddns.net:25461/logo/footplus2424.png" group-title="Francaise HD",FR_Foot+ 24/24_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51646
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3682
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_2_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_2_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47302
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_3_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_3_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3680
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Sfr_sport_3.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46712
+#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport1.png" group-title="Francaise HD",FR_EUROSPORT_1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51512
+#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_2_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport2.png" group-title="Francaise HD",FR_EUROSPORT_2_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51513
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_HD" tvg-logo="http://logofun.ddns.net:25461/logo/SFR-Sport-1.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3720
+#EXTINF:-1 tvg-ID="" tvg-name="FR_L_EQUIPE_HD" tvg-logo="" group-title="Francaise HD",FR_L_EQUIPE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52719
+#EXTINF:-1 tvg-ID="" tvg-name="FR_DISCOVERY_FAMILY_HD" tvg-logo="" group-title="Francaise HD",FR_DISCOVERY_FAMILY_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52741
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FOOT+ 24/24 HD" tvg-logo="" group-title="Francaise HD",FR_FOOT+ 24/24 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47781
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/sfr_sport_2.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46711
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Euronews_HD" tvg-logo="" group-title="Francaise HD",FR_Euronews_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52821
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2252
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_02_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2103
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_03_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2279
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_04_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_04_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50383
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_04_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_SPORT_04_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50384
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_01_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_01_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51267
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_02_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51268
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 5" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51276
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 6" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 6
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51275
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 7" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 7
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51274
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 8" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 8
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51273
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 9" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 9
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51272
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 10" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 10
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51271
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 11" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 11
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51270
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 12" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 12
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51269
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52916
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52918
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT 4K" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT 4K
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53043
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 1 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53117
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 1 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 1 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53125
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 2 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53118
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 2 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 2 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53126
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 3 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53124
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 3 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 3 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53127
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 4 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53119
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 4 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 4 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53128
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 5 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53120
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 5 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 5 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53129
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 6 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53121
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 6 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 6 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53130
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 7 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53122
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 7 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 7 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53131
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 8 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53123
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 8 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 8 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53132
 
 
 
