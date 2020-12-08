@@ -1972,18 +1972,18 @@ http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@doo
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://livestream.rheotv.com/live/VvwBPdB/high/manifest.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113130/35809004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://akamai2-me.cdn.booyah.live/hls/113132/35433772.m3u8
+https://cdn3.wowza.com/1/V0l4eHVTWS9IeWgw/dFM5ZVFm/hls/lsvmjm7g/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://centurylink.br.cdn.booyah.live/hls/1000017/35440224.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000004/35810442.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/9f806c30e9a948a395b894420049a1c6/index_3.m3u8
+https://cdn3.wowza.com/1/V0l4eHVTWS9IeWgw/dFM5ZVFm/hls/lsvmjm7g/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://akamai2-mx.cdn.booyah.live/hls/250170/35439759.m3u8
+https://livestream.rheotv.com/live/pUsSVxV/high/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://akamai2-mx.cdn.booyah.live/hls/210158/34832369.m3u8
+https://oklive6-12.vkuser.net/hls/1070224378450.m3u8/sig/t3mNieA4l38/expires/1607543678152/srcIp/212.34.30.107/urls/45.136.21.83/clientType/0/srcAg/CHROME_ANDROID/mid/2641623326290/1070224378450_lowest/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 https://akamai2-me.cdn.booyah.live/hls/113130/35431356.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
