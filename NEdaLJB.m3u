@@ -612,230 +612,179 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_sn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",Medi1tv
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD1 بروكار" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD1 بروكار
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52972
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD2 الجوكر" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD2 الجوكر
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52973
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD3 ولاد امبابة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD3 ولاد امبابة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52974
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD4 وكلينها والعة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD4 وكلينها والعة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52975
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD5 ميادا وولادا" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD5 ميادا وولادا
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52976
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Ramadan HD6 هواجس عابرة" tvg-logo="" group-title="Shoof Max",ShoofMax- Ramadan HD6 هواجس عابرة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52977
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Action HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Action HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52978
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Classic HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Classic HD1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52979
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Classic HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Classic HD2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52980
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Comedy HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Comedy HD1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52981
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Comedy HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Comedy HD2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52982
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Drama HD1" tvg-logo="" group-title="Shoof Max",ShoofMax- Drama HD1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52983
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Drama HD2" tvg-logo="" group-title="Shoof Max",ShoofMax- Drama HD2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52984
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Mohamed Henedy HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Mohamed Henedy HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52985
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- Adel Imam HD" tvg-logo="" group-title="Shoof Max",ShoofMax- Adel Imam HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52986
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD1 مرايا 2011" tvg-logo="" group-title="Shoof Max",ShoofMax- HD1 مرايا 2011
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52987
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD2 مرايا 2000" tvg-logo="" group-title="Shoof Max",ShoofMax- HD2 مرايا 2000
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52988
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD3 مرايا99" tvg-logo="" group-title="Shoof Max",ShoofMax- HD3 مرايا99
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52989
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofMax- HD4 كونتاك" tvg-logo="" group-title="Shoof Max",ShoofMax- HD4 كونتاك
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52990
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD1  ظل امرأة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD1  ظل امرأة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52992
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD2  روزنة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD2  روزنة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52993
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD3  رجال و نساء" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD3  رجال و نساء
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52994
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD4 أخت تريز" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD4 أخت تريز
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52995
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD5  نهاية رجل شجاع" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD5  نهاية رجل شجاع
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52996
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD6  خطوط حمراء" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD6  خطوط حمراء
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52997
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD7 كشف الأقنعة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD7 كشف الأقنعة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52998
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD8 عين اجوزة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD8 عين اجوزة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52999
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD9 دومينو" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD9 دومينو
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53000
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD10 دامسكو" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD10 دامسكو
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53001
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD11 أوراق من ألماضي" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD11 أوراق من ألماضي
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53002
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD12 ألمكيده" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD12 ألمكيده
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53003
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD13  أدم" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD13  أدم
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53004
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD24 بلا غمد" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD24 بلا غمد
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53005
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD23 حدث في دمشق" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD23 حدث في دمشق
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53006
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD22 حائرات" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD22 حائرات
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53007
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD21 حلاوه روح" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD21 حلاوه روح
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53008
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD20حرائر" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD20حرائر
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53009
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD19 حارة المشرقة" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD19 حارة المشرقة
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53010
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD18  حكم الهوى" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD18  حكم الهوى
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53011
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD17 جرن الشاويش" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD17 جرن الشاويش
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53012
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD16 قوس قزح" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD16 قوس قزح
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53013
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD15 نبتدي منين الحكاية" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD15 نبتدي منين الحكاية
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53014
-#EXTINF:-1 tvg-ID="" tvg-name="ShoofDrama- HD14 زوال" tvg-logo="" group-title="Shoof Max",ShoofDrama- HD14 زوال
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53015
-
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Action" tvg-logo="" group-title="DragonTV",DRAGON Action
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51558
-#EXTINF:-1 tvg-ID="" tvg-name="DRaGoN Action 2" tvg-logo="" group-title="DragonTV",DRaGoN Action 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51552
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Aflam 1" tvg-logo="" group-title="DragonTV",DRAGON Aflam 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51560
-#EXTINF:-1 tvg-ID="" tvg-name="DRaGoN Aflam 2" tvg-logo="" group-title="DragonTV",DRaGoN Aflam 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51553
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Cinema" tvg-logo="" group-title="DragonTV",DRAGON Cinema
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51559
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Cinema 2" tvg-logo="" group-title="DragonTV",DRAGON Cinema 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51555
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Comdey" tvg-logo="" group-title="DragonTV",DRAGON Comdey
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51556
-#EXTINF:-1 tvg-ID="" tvg-name="DraGoN Comedy 2" tvg-logo="" group-title="DragonTV",DraGoN Comedy 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52165
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Crime" tvg-logo="" group-title="DragonTV",DRAGON Crime
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51554
-#EXTINF:-1 tvg-ID="" tvg-name="DraGoN Fantasy" tvg-logo="" group-title="DragonTV",DraGoN Fantasy
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52164
-#EXTINF:-1 tvg-ID="" tvg-name="DRAGON Horror 1" tvg-logo="" group-title="DragonTV",DRAGON Horror 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51557
-#EXTINF:-1 tvg-ID="" tvg-name="DraGon Movies" tvg-logo="" group-title="DragonTV",DraGon Movies
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52161
-#EXTINF:-1 tvg-ID="" tvg-name="DraGon Series 1" tvg-logo="" group-title="DragonTV",DraGon Series 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52162
-
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Action" tvg-logo="" group-title="Telecom TV",Telecom Action
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52881
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Comedy" tvg-logo="" group-title="Telecom TV",Telecom Comedy
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52882
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Horror" tvg-logo="" group-title="Telecom TV",Telecom Horror
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52883
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Drama" tvg-logo="" group-title="Telecom TV",Telecom Drama
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52884
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Marvel" tvg-logo="" group-title="Telecom TV",Telecom Marvel
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52885
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Sci -Fi" tvg-logo="" group-title="Telecom TV",Telecom Sci -Fi
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52886
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Disney" tvg-logo="" group-title="Telecom TV",Telecom Disney
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52887
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Kids" tvg-logo="" group-title="Telecom TV",Telecom Kids
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52888
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Arabic" tvg-logo="" group-title="Telecom TV",Telecom Arabic
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52889
-#EXTINF:-1 tvg-ID="" tvg-name="Telecom Masrah" tvg-logo="" group-title="Telecom TV",Telecom Masrah
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52890
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Max cinema 1" tvg-logo="" group-title="MAX TV",Max cinema 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52827
-#EXTINF:-1 tvg-ID="" tvg-name="Max cinema 2" tvg-logo="" group-title="MAX TV",Max cinema 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52627
-#EXTINF:-1 tvg-ID="" tvg-name="Max Movies 1" tvg-logo="" group-title="MAX TV",Max Movies 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53136
-#EXTINF:-1 tvg-ID="" tvg-name="Max Movies 2" tvg-logo="" group-title="MAX TV",Max Movies 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53137
-#EXTINF:-1 tvg-ID="" tvg-name="Max Hendy" tvg-logo="" group-title="MAX TV",Max Hendy
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53138
-#EXTINF:-1 tvg-ID="" tvg-name="Max Tom & Jerry" tvg-logo="" group-title="MAX TV",Max Tom & Jerry
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53139
-#EXTINF:-1 tvg-ID="" tvg-name="Max Zamen" tvg-logo="" group-title="MAX TV",Max Zamen
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53141
-#EXTINF:-1 tvg-ID="" tvg-name="Max Comedy" tvg-logo="" group-title="MAX TV",Max Comedy
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53142
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/180
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/180
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/181
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/181
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/182
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/182
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/183
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/183
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/184
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/184
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/185
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/185
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/186
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/186
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/187
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/187
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/188
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/188
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/189
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/189
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/190
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/190
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/191
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/191
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BeIN Drama HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/192
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/192
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Movies Comedy HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/193
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/193
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/194
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/194
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/195
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/195
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/196
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/196
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Hollywood Mix HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/197
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/197
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/198
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/198
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/199
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/199
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Kids Zone HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/200
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/200
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Fatafeat HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/201
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/201
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nickelodeon HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/202
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/202
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/203
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/203
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",ALFA: CINEMA 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/204
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/204
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN / BEIN ENTERTAINMENT",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/205
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/205
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala HD" tvg-logo="" group-title="OSN",OSN Yahala HD
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1251
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="" group-title="OSN",OSN Yahala Aloula
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1252
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="" group-title="OSN",OSN Yahala Cinema
-http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/2716.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="" group-title="OSN",OSN Movies 
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1256
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION" tvg-logo="" group-title="OSN",OSN ACTION
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1359
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat" tvg-logo="" group-title="OSN",OSN Series First 
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1255
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="" group-title="OSN",OSN Movies First
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1360
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam1.jpg" group-title="OSN&ART",ART AFLAM 1
+http://panel-iptv.ovh:25461/lokman/lokman/164926
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam2.jpg" group-title="OSN&ART",ART AFLAM 2
+http://panel-iptv.ovh:25461/lokman/lokman/164927
+#EXTINF:-1 tvg-id="" tvg-name="ART CINEMA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_cinema.jpg" group-title="OSN&ART",ART CINEMA
+http://panel-iptv.ovh:25461/lokman/lokman/164928
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_hekayat.jpg" group-title="OSN&ART",ART HEKAYAT 1
+http://panel-iptv.ovh:25461/lokman/lokman/164929
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_hekayat2.jpg" group-title="OSN&ART",ART HEKAYAT 2
+http://panel-iptv.ovh:25461/lokman/lokman/164930
+#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_cinema.jpg" group-title="OSN&ART",OSN CINEMA 1
+http://panel-iptv.ovh:25461/lokman/lokman/164931
+#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_cinema_plus2.jpg" group-title="OSN&ART",OSN CINEMA 2
+http://panel-iptv.ovh:25461/lokman/lokman/164932
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_ya_hala_hd.jpg" group-title="OSN&ART",OSN YAHALA HD
+http://panel-iptv.ovh:25461/lokman/lokman/164933
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA AL OULA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_ya_hala_hd.jpg" group-title="OSN&ART",OSN YAHALA AL OULA
+http://panel-iptv.ovh:25461/lokman/lokman/164934
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA" tvg-logo="https://i.pinimg.com/originals/52/8e/58/528e58da82f83224106369dffce1387a.jpg" group-title="OSN&ART",OSN YAHALA CINEMA
+http://panel-iptv.ovh:25461/lokman/lokman/164935
+#EXTINF:-1 tvg-id="" tvg-name="OSN AL YOUM HD" tvg-logo="https://code-gsm.com/logo/alfa-alyoum.png" group-title="OSN&ART",OSN AL YOUM HD
+http://panel-iptv.ovh:25461/lokman/lokman/164936
+#EXTINF:-1 tvg-id="" tvg-name="OSN Al Yawm HD" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN&ART",OSN Al Yawm HD
+http://panel-iptv.ovh:25461/lokman/lokman/164937
+#EXTINF:-1 tvg-id="" tvg-name="OSN MUSALSAT" tvg-logo="https://code-gsm.com/logo/alfa.png" group-title="OSN&ART",OSN MUSALSAT
+http://panel-iptv.ovh:25461/lokman/lokman/164938
+#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-1HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_on_demand_hd.jpg" group-title="OSN&ART",OSN ON-DEMAND-EXTRA-1HD
+http://panel-iptv.ovh:25461/lokman/lokman/164939
+#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-2HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_on_demand_hd.jpg" group-title="OSN&ART",OSN ON-DEMAND-EXTRA-2HD
+http://panel-iptv.ovh:25461/lokman/lokman/164940
+#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-3HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_on_demand_hd.jpg" group-title="OSN&ART",OSN ON-DEMAND-EXTRA-3HD
+http://panel-iptv.ovh:25461/lokman/lokman/164941
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_hd.jpg" group-title="OSN&ART",OSN MOVIES HD
+http://panel-iptv.ovh:25461/lokman/lokman/164942
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES BINGE HD" tvg-logo="https://code-gsm.com/logo/osn-bing.png" group-title="OSN&ART",OSN MOVIES BINGE HD
+http://panel-iptv.ovh:25461/lokman/lokman/164943
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES Enigma" tvg-logo="https://content.osn.com/bob/745x419/osnenigma.jpg" group-title="OSN&ART",OSN MOVIES Enigma
+http://panel-iptv.ovh:25461/lokman/lokman/164944
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES ACTION HD+2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_action.jpg" group-title="OSN&ART",OSN MOVIES ACTION HD+2
+http://panel-iptv.ovh:25461/lokman/lokman/164945
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST HD" tvg-logo="https://content.osn.com/bob/745x419/osnmoviesfirst.jpg" group-title="OSN&ART",OSN MOVIES FIRST HD
+http://panel-iptv.ovh:25461/lokman/lokman/164946
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST+2 HD" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-movies-1-first-2.png" group-title="OSN&ART",OSN MOVIES FIRST+2 HD
+http://panel-iptv.ovh:25461/lokman/lokman/164947
+#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_comedy.jpg" group-title="OSN&ART",OSN COMEDY
+http://panel-iptv.ovh:25461/lokman/lokman/164948
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES Action HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_action.jpg" group-title="OSN&ART",OSN MOVIES Action HD
+http://panel-iptv.ovh:25461/lokman/lokman/164949
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES DISNEY HD" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-movies-disney-hd.png" group-title="OSN&ART",OSN MOVIES DISNEY HD
+http://panel-iptv.ovh:25461/lokman/lokman/164950
+#EXTINF:-1 tvg-id="" tvg-name="OSN PARAMOUNT CHANNEL" tvg-logo="https://www.digitaltveurope.com/files/2013/09/Paramount-Channel.png" group-title="OSN&ART",OSN PARAMOUNT CHANNEL
+http://panel-iptv.ovh:25461/lokman/lokman/164951
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies First" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_first.jpg" group-title="OSN&ART",OSN: Movies First
+http://panel-iptv.ovh:25461/lokman/lokman/164952
+#EXTINF:-1 tvg-id="" tvg-name="OSN KID ZONE TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_kids.jpg" group-title="OSN&ART",OSN KID ZONE TV
+http://panel-iptv.ovh:25461/lokman/lokman/164953
+#EXTINF:-1 tvg-id="" tvg-name="OSN News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/OSN_News_2013.jpg" group-title="OSN&ART",OSN News HD
+http://panel-iptv.ovh:25461/lokman/lokman/164954
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY CHANNEL HD" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-disney-hd.png" group-title="OSN&ART",OSN DISNEY CHANNEL HD
+http://panel-iptv.ovh:25461/lokman/lokman/164955
+#EXTINF:-1 tvg-id="" tvg-name="OSN BOOMBERG" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_mea.jpg" group-title="OSN&ART",OSN BOOMBERG
+http://panel-iptv.ovh:25461/lokman/lokman/164956
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY JUNIOR" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-disney-junior.png" group-title="OSN&ART",OSN DISNEY JUNIOR
+http://panel-iptv.ovh:25461/lokman/lokman/164957
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Music Now HD" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-disney-xd.png" group-title="OSN&ART",OSN Alfa Music Now HD
+http://panel-iptv.ovh:25461/lokman/lokman/164958
+#EXTINF:-1 tvg-id="" tvg-name="OSN STAR MOVIES" tvg-logo="http://content.osn.com/bob/500x300/STM.jpg" group-title="OSN&ART",OSN STAR MOVIES
+http://panel-iptv.ovh:25461/lokman/lokman/164959
+#EXTINF:-1 tvg-id="" tvg-name="OSN STAR WORLD" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-star-world-hd.png" group-title="OSN&ART",OSN STAR WORLD
+http://panel-iptv.ovh:25461/lokman/lokman/164960
+#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY CENTRAL HD" tvg-logo="https://content.osn.com/bob/745x419/CC-LI.jpg" group-title="OSN&ART",OSN COMEDY CENTRAL HD
+http://panel-iptv.ovh:25461/lokman/lokman/164961
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Show HD" tvg-logo="https://code-gsm.com/logo/discoveryl.png" group-title="OSN&ART",OSN Discovery Show HD
+http://panel-iptv.ovh:25461/lokman/lokman/164962
+#EXTINF:-1 tvg-id="" tvg-name="OSN SYFY HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_east.jpg" group-title="OSN&ART",OSN SYFY HD
+http://panel-iptv.ovh:25461/lokman/lokman/164963
+#EXTINF:-1 tvg-id="" tvg-name="OSN FOOD NETWORK HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="OSN&ART",OSN FOOD NETWORK HD
+http://panel-iptv.ovh:25461/lokman/lokman/164964
+#EXTINF:-1 tvg-id="" tvg-name="OSN Meezze HD" tvg-logo="https://www.alroeya.com/uploads/images/2020/02/10/731950.png" group-title="OSN&ART",OSN Meezze HD
+http://panel-iptv.ovh:25461/lokman/lokman/164965
+#EXTINF:-1 tvg-id="" tvg-name="OSN NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_br.jpg" group-title="OSN&ART",OSN NATIONAL GEOGRAPHIC HD
+http://panel-iptv.ovh:25461/lokman/lokman/164966
+#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO PEOPLE HD" tvg-logo="https://code-gsm.com/logo/natp.png" group-title="OSN&ART",OSN NAT GEO PEOPLE HD
+http://panel-iptv.ovh:25461/lokman/lokman/164967
+#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO Wild HD" tvg-logo="https://code-gsm.com/logo/natw.png" group-title="OSN&ART",OSN NAT GEO Wild HD
+http://panel-iptv.ovh:25461/lokman/lokman/164968
+#EXTINF:-1 tvg-id="" tvg-name="OSN WWE" tvg-logo="https://www.embratoria.net/uploads/tv_image/osn-wwe-network.png" group-title="OSN&ART",OSN WWE
+http://panel-iptv.ovh:25461/lokman/lokman/164969
+#EXTINF:-1 tvg-id="" tvg-name="OSN Al KASS 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_kass_sport_channel_2.jpg" group-title="OSN&ART",OSN Al KASS 1 HD
+http://panel-iptv.ovh:25461/lokman/lokman/164970
+#EXTINF:-1 tvg-id="" tvg-name="OSN Al KASS 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_kass_sport_channel_2.jpg" group-title="OSN&ART",OSN Al KASS 2 HD
+http://panel-iptv.ovh:25461/lokman/lokman/164971
+#EXTINF:-1 tvg-id="" tvg-name="OSN Al KASS 3 HD" tvg-logo="https://3.bp.blogspot.com/-cVAOZWYD_xU/We9f5g_6weI/AAAAAAAAAf0/sCtF1LrN-YcBndVXmqkXY2Oo8lIiJvJswCLcBGAs/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A7%25D9%2584%25D9%2583%25D8%25A3%25D8%25B3-%25D8%25AB%25D8%25B1%25D9%258A.jpg" group-title="OSN&ART",OSN Al KASS 3 HD
+http://panel-iptv.ovh:25461/lokman/lokman/164972
+#EXTINF:-1 tvg-id="" tvg-name="OSN Al KASS 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_kass_sport_channel_2.jpg" group-title="OSN&ART",OSN Al KASS 4 HD
+http://panel-iptv.ovh:25461/lokman/lokman/164973
+#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_nl.jpg" group-title="OSN&ART",OSN ANIMAL PLANET HD
+http://panel-iptv.ovh:25461/lokman/lokman/164974
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY CHANNEL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_cn.jpg" group-title="OSN&ART",OSN DISCOVERY CHANNEL HD
+http://panel-iptv.ovh:25461/lokman/lokman/164975
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY FAMILY HD" tvg-logo="https://code-gsm.com/logo/discoveryf.png" group-title="OSN&ART",OSN DISCOVERY FAMILY HD
+http://panel-iptv.ovh:25461/lokman/lokman/164976
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa AlFann HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8d/Fann_logo_chan.png" group-title="OSN&ART",OSN Alfa AlFann HD
+http://panel-iptv.ovh:25461/lokman/lokman/164977
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY SCIENCE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="OSN&ART",OSN DISCOVERY SCIENCE HD
+http://panel-iptv.ovh:25461/lokman/lokman/164978
+#EXTINF:-1 tvg-id="" tvg-name="OSN LIVING HD" tvg-logo="https://code-gsm.com/logo/osnl.jpg" group-title="OSN&ART",OSN LIVING HD
+http://panel-iptv.ovh:25461/lokman/lokman/164979
+#EXTINF:-1 tvg-id="" tvg-name="OSN BOX OFFICE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_box_office1.jpg" group-title="OSN&ART",OSN BOX OFFICE 1
+http://panel-iptv.ovh:25461/lokman/lokman/164980
+#EXTINF:-1 tvg-id="" tvg-name="OSN BOX OFFICE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_box_office3.jpg" group-title="OSN&ART",OSN BOX OFFICE 3
+http://panel-iptv.ovh:25461/lokman/lokman/164981
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC HD" tvg-logo="https://www.adlinemedia.net/wp-content/uploads/MTV-TLC-HD1-800x321.jpg" group-title="OSN&ART",OSN TLC HD
+http://panel-iptv.ovh:25461/lokman/lokman/164982
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nick jr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_au.jpg" group-title="OSN&ART",OSN Nick jr
+http://panel-iptv.ovh:25461/lokman/lokman/164983
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Movies" tvg-logo="" group-title="MYHD",MyHD:Fox.Movies
@@ -1127,13 +1076,13 @@ http://www.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/12501
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="قنوات شاهد",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/206
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/206
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="قنوات شاهد",SHAHID| COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/207
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/207
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="قنوات شاهد",SHAHID| DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/208
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/208
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="قنوات شاهد",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/209
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/209
 
 
 
@@ -1154,262 +1103,244 @@ http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/971
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1791.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
-http://best-live-iptv.xyz:25461/live/BEST-LIVE6767/BEST-LIVE6767/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
-http://strong-livetv.com:80/live/laM20@mar/Fhjkytfd/45214.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 2  HD
-http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/8469.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein fatafeathd" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: bein fatafeathd
-http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/2664.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein gourmet" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: bein gourmet
-http://localhd.tv:8081/live/eliteiptv.mine.nu/gaFlHgAkDa/3029.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/1
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/1
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/2
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/2
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/3
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/3
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 4 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/4
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/4
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 5 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/5
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/5
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 6 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/6
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/6
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS NEWS
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/11
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/11
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS GLOBAL
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/12
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/12
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 1 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/13
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/13
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 2 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/14
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/14
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 3 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/15
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/15
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 4 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/16
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/16
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5 BACKUP" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORT LOW 5 BACKUP
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/17
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/17
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 1 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/140
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/140
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 2 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/141
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/141
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title="الباقة التجريبية",BEIN SPORTS 3 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/142
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/142
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="الباقة التجريبية",bein sport 1HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/210
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/210
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="الباقة التجريبية",bein sport 2HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/211
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/211
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="الباقة التجريبية",bein sport 3HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/212
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/212
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="الباقة التجريبية",bein sport 4HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/213
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/213
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="الباقة التجريبية",bein sport 5HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/214
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/214
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="الباقة التجريبية",bein sport 6HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/215
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/215
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="الباقة التجريبية",bein sport 7HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/216
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/216
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="الباقة التجريبية",bein sport 8HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/217
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/217
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="الباقة التجريبية",bein sport 9HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/218
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/218
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="الباقة التجريبية",bein sport 10HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/219
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/219
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 1" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/220
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/220
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 2" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 2
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/221
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/221
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 3" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 3
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/222
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/222
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 4" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 4
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/223
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/223
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 5" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 5
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/224
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/224
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 6" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 6
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/225
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/225
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 7" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 7
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/226
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/226
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS SD 8" tvg-logo="" group-title="الباقة التجريبية",|AR| beINSPORTS SD 8
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/227
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/227
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC MOVIES
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/132
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/132
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/133
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/133
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC ARABIC
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/134
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/134
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="الباقة التجريبية",MAJESTIC KIDS
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/135
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/135
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="الباقة التجريبية",NETFLIX ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/136
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/136
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="الباقة التجريبية",NETFLIX HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/137
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/137
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="الباقة التجريبية",NETFLIX DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/138
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/138
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="الباقة التجريبية",NETFLIX COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/139
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/139
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="الباقة التجريبية",Rotana Kids
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/20
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/20
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="الباقة التجريبية",Rotana Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/21
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/21
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="الباقة التجريبية",Rotana Classic
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/22
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/22
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="الباقة التجريبية",Rotana Comedy
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/23
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/23
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="الباقة التجريبية",Rotana Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/24
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/24
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="الباقة التجريبية",MBC BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/25
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/25
 #EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="الباقة التجريبية",MBC IRAQ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/26
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/26
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="الباقة التجريبية",MBC MASR2
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/27
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/27
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="الباقة التجريبية",MBC MASR
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/28
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/28
 #EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="الباقة التجريبية",MBC ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/29
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/29
 #EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="الباقة التجريبية",MBC MAX
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/30
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/30
 #EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="الباقة التجريبية",MBC + Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/31
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/31
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="الباقة التجريبية",MBC DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/32
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/32
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="الباقة التجريبية",MBC 5
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/33
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/33
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="الباقة التجريبية",MBC 4
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/34
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/34
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="الباقة التجريبية",MBC 3
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/35
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/35
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="الباقة التجريبية",MBC 2
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/36
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/36
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",MBC 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/37
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/37
 #EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="الباقة التجريبية",wanasah
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/38
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/38
 #EXTINF:-1 tvg-id="" tvg-name="Ahl-Alquran TV" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="الباقة التجريبية",Ahl-Alquran TV
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/113
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/113
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="الباقة التجريبية",Al Quran Al Kareem (Mecca)
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/114
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/114
 #EXTINF:-1 tvg-id="" tvg-name="Al Resalah HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" group-title="الباقة التجريبية",Al Resalah HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/115
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/115
 #EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="الباقة التجريبية",Al Sunnah (Medina)
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/116
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/116
 #EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="الباقة التجريبية",Al Wesal TV
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/117
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/117
 #EXTINF:-1 tvg-id="" tvg-name="Ayaat" tvg-logo="https://i.imgur.com/X1LW4jB.png" group-title="الباقة التجريبية",Ayaat
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/118
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/118
 #EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="الباقة التجريبية",Iqraa
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/119
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/119
 #EXTINF:-1 tvg-id="" tvg-name="Al Fath TV" tvg-logo="https://i.imgur.com/hbC1X9B.png" group-title="الباقة التجريبية",Al Fath TV
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/105
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/105
 #EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="https://i.imgur.com/EiiO5nm.png" group-title="الباقة التجريبية",Bahrain Quran
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/104
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/104
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="الباقة التجريبية",Al Nahar
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/120
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/120
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="الباقة التجريبية",Al Nahar Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/121
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/121
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="الباقة التجريبية",Cairo Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/122
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/122
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="الباقة التجريبية",Cairo Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/123
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/123
 #EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="الباقة التجريبية",CBC Sofra
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/124
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/124
 #EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title="الباقة التجريبية",Cima
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/125
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/125
 #EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="الباقة التجريبية",Nile Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/126
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/126
 #EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title="الباقة التجريبية",Nile Culture
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/127
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/127
 #EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="الباقة التجريبية",Nile Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/128
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/128
 #EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title="الباقة التجريبية",Nile Life
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/129
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/129
 #EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title="الباقة التجريبية",Nile Sport
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/130
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/130
 #EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="الباقة التجريبية",Panorama Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/131
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/131
 #EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="الباقة التجريبية",FAJER TV
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/143
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/143
 #EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="الباقة التجريبية",BEUR TV
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/144
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/144
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="الباقة التجريبية",JORDAN
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/145
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/145
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="الباقة التجريبية",JORDAN SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/146
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/146
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="الباقة التجريبية",ON SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/147
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/147
 #EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="الباقة التجريبية",Omg tv
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/149
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/149
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/180
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/180
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/181
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/181
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/182
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/182
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/183
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/183
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="الباقة التجريبية",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/184
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/184
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/185
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/185
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/186
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/186
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/187
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/187
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/188
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/188
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="الباقة التجريبية",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/189
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/189
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/190
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/190
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/191
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/191
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: BeIN Drama HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/192
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/192
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Movies Comedy HD" tvg-logo="" group-title="الباقة التجريبية",OSN: Movies Comedy HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/193
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/193
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/194
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/194
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/195
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/195
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: ALYOUM" tvg-logo="" group-title="الباقة التجريبية",ALFA: ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/196
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/196
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Hollywood Mix HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Hollywood Mix HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/197
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/197
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="الباقة التجريبية",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/198
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/198
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="الباقة التجريبية",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/199
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/199
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Kids Zone HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Kids Zone HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/200
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/200
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Fatafeat HD" tvg-logo="" group-title="الباقة التجريبية",BEIN: Fatafeat HD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/201
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/201
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nickelodeon HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/202
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/202
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="الباقة التجريبية",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/203
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/203
 #EXTINF:-1 tvg-id="" tvg-name="ALFA: CINEMA 1" tvg-logo="" group-title="الباقة التجريبية",ALFA: CINEMA 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/204
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/204
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="الباقة التجريبية",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/205
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/205
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="الباقة التجريبية",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/206
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/206
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| COMEDY" tvg-logo="" group-title="الباقة التجريبية",SHAHID| COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/207
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/207
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| DRAMA" tvg-logo="" group-title="الباقة التجريبية",SHAHID| DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/208
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/208
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="الباقة التجريبية",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/209
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/209
 
 
 
@@ -1606,25 +1537,25 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORTS FHD",bein sport 1FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/210
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/210
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORTS FHD",bein sport 2FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/211
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/211
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORTS FHD",bein sport 3FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/212
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/212
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORTS FHD",bein sport 4FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/213
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/213
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORTS FHD",bein sport 5FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/214
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/214
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORTS FHD",bein sport 6FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/215
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/215
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORTS FHD",bein sport 7FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/216
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/216
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN SPORTS FHD",bein sport 8FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/217
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/217
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN SPORTS FHD",bein sport 9FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/218
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/218
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN SPORTS FHD",bein sport 10FHD
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/219
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/219
 
 
 
@@ -1632,21 +1563,21 @@ http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/219
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 1" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 1
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/220
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/220
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 2" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 2
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/221
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/221
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 3" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 3
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/222
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/222
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 4" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 4
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/223
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/223
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 5" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 5
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/224
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/224
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 6" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 6
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/225
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/225
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 7" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 7
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/226
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/226
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beINSPORTS low/sd 8" tvg-logo="" group-title="BEIN SPORTS low/sd",|AR| beINSPORTS low/sd 8
-http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/227
+http://best-live-iptv.xyz:25461/BEST-LIVE8989/BEST-LIVE8989/227
 
 
 
@@ -1656,338 +1587,25 @@ http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/227
 
 
 
-#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_FRANCE_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france2.png" group-title="Francaise HD",FR_FRANCE_02_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3217
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_France_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france3.png" group-title="Francaise HD",FR_France_03_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2500
-#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_France_04_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france4.png" group-title="Francaise HD",FR_France_04_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3218
-#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR_FRANCE_5_HD" tvg-logo="http://logofun.ddns.net:25461/logo/France 5.png" group-title="Francaise HD",FR_FRANCE_5_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4005
-#EXTINF:-1 tvg-ID="France Ô FR" tvg-name="FR_FRANCE_O_HD" tvg-logo="http://logofun.ddns.net:25461/logo/franceo.png" group-title="Francaise HD",FR_FRANCE_O_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2528
-#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FR_FRANCE_INFO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france info.png" group-title="Francaise HD",FR_FRANCE_INFO_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48877
-#EXTINF:-1 tvg-ID="CanalPlus.fr" tvg-name="FR_CANAL+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplus.png" group-title="Francaise HD",FR_CANAL+_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3326
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_CANAL+_sports_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplussport.png" group-title="Francaise HD",FR_CANAL+_sports_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50145
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAl+_CINEMA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalpluscinema.png" group-title="Francaise HD",FR_CANAl+_CINEMA_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49749
-#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR_CANAL+_FAMILY_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusfamily.png" group-title="Francaise HD",FR_CANAL+_FAMILY_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2639
-#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR_CANAL+_DECALE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusdecale.png" group-title="Francaise HD",FR_CANAL+_DECALE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1994
-#EXTINF:-1 tvg-ID="" tvg-name="FR_CANAL+_Series_HD" tvg-logo="" group-title="Francaise HD",FR_CANAL+_Series_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52962
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAL_J_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalj.png" group-title="Francaise HD",FR_CANAL_J_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1460
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Premier_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepluspremier.png" group-title="Francaise HD",FR_Cine_Premier_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3327
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Fr_Cine_Frisson_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfrisson.png" group-title="Francaise HD",Fr_Cine_Frisson_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3328
-#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="FR_Cine_Famiz_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfamiz.png" group-title="Francaise HD",FR_Cine_Famiz_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3330
-#EXTINF:-1 tvg-ID="Cine+ Émotion HD FR" tvg-name="FR_Cine_Emotion_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusemotion.png" group-title="Francaise HD",FR_Cine_Emotion_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/84
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Classic_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusclassic.png" group-title="Francaise HD",FR_Cine_Classic_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/82
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Cine_POLAR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepolar.png" group-title="Francaise HD",FR_Cine_POLAR_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/128
-#EXTINF:-1 tvg-ID="OCSGeants.fr" tvg-name="FR_OCS_GEANT_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsgeants.png" group-title="Francaise HD",FR_OCS_GEANT_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/90
-#EXTINF:-1 tvg-ID="OCSChoc.fr" tvg-name="FR_OCS_CHOC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocschoc.png" group-title="Francaise HD",FR_OCS_CHOC_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/89
-#EXTINF:-1 tvg-ID="OCSCity.fr" tvg-name="FR_OCS_City_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocscity.png" group-title="Francaise HD",FR_OCS_City_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/88
-#EXTINF:-1 tvg-ID="" tvg-name="FR_OCS_Max_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsmax.png" group-title="Francaise HD",FR_OCS_Max_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/87
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_TF1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3316
-#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_HD_+1" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD_+1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51664
-#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_SERIES_FILMS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1seriesfilms.png" group-title="Francaise HD",FR_TF1_SERIES_FILMS_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3224
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_M6_HD" tvg-logo="http://logofun.ddns.net:25461/logo/m6.png" group-title="Francaise HD",FR_M6_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2664
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_RTL9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/rtl9.png" group-title="Francaise HD",FR_RTL9_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/375
-#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_13eme_Rue_HD" tvg-logo="http://logofun.ddns.net:25461/logo/13emerue.png" group-title="Francaise HD",FR_13eme_Rue_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3346
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_W9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/w9.png" group-title="Francaise HD",FR_W9_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3221
-#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR_ACTION_HD" tvg-logo="http://logofun.ddns.net:25461/logo/action.png" group-title="Francaise HD",FR_ACTION_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/126
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Syfy_HD" tvg-logo="http://logofun.ddns.net:25461/logo/syfy.png" group-title="Francaise HD",FR_Syfy_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3220
-#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_CUISINE_HD" tvg-logo="" group-title="Francaise HD",FR_MY_CUISINE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52702
-#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_COMEDY" tvg-logo="" group-title="Francaise HD",FR_MY_COMEDY
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52489
-#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR_C_Star_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cstar.png" group-title="Francaise HD",FR_C_Star_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/103
-#EXTINF:-1 tvg-ID="C8.fr" tvg-name="FR_C8_HD" tvg-logo="http://logofun.ddns.net:25461/logo/c8.png" group-title="Francaise HD",FR_C8_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/102
-#EXTINF:-1 tvg-ID="" tvg-name="FR_TREK_HD" tvg-logo="http://logofun.ddns.net:25461/logo/trek.png" group-title="Francaise HD",FR_TREK_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3678
-#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR_TFX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tfx.png" group-title="Francaise HD",FR_TFX_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/376
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_TCM_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tcmcinema.png" group-title="Francaise HD",FR_TCM_Cinema_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1696
-#EXTINF:-1 tvg-ID="Série Club HD FR" tvg-name="FR_SERIE_CLUB_HD" tvg-logo="http://logofun.ddns.net:25461/logo/serieclub.png" group-title="Francaise HD",FR_SERIE_CLUB_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3222
-#EXTINF:-1 tvg-ID="6ter HD FR" tvg-name="FR_6ter_HD" tvg-logo="http://logofun.ddns.net:25461/logo/6ter.png" group-title="Francaise HD",FR_6ter_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2499
-#EXTINF:-1 tvg-ID="Téva FHD FR" tvg-name="FR_TEVA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teva.png" group-title="Francaise HD",FR_TEVA_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2501
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Crime_District_HD" tvg-logo="http://logofun.ddns.net:25461/logo/crimedistrict.png" group-title="Francaise HD",FR_Crime_District_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51046
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Tvm3" tvg-logo="" group-title="Francise FullHD",FR_Tvm3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2660
-#EXTINF:-1 tvg-ID="TMC FHD FR" tvg-name="FR_TMC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tmc.png" group-title="Francaise HD",FR_TMC_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3223
-#EXTINF:-1 tvg-ID="" tvg-name="FR_AB3" tvg-logo="http://logofun.ddns.net:25461/logo/ab3.png" group-title="Francaise HD",FR_AB3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1694
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Arte_HD" tvg-logo="http://logofun.ddns.net:25461/logo/arte.png" group-title="Francaise HD",FR_Arte_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/373
-#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="FR_Chasse_et_Peche" tvg-logo="http://logofun.ddns.net:25461/logo/chasseetpeche.png" group-title="Francaise HD",FR_Chasse_et_Peche
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/116
-#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_NATIONAL_GEO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographic.png" group-title="Francaise HD",FR_NATIONAL_GEO_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/113
-#EXTINF:-1 tvg-ID="Paramount Channel HD FR" tvg-name="FR_PARAMOUNT_CHANNEL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/paramountchannel.png" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2291
-#EXTINF:-1 tvg-ID="" tvg-name="FR_PARAMOUNT_CHANNEL_DECALE_HD" tvg-logo="" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_DECALE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51173
-#EXTINF:-1 tvg-ID="" tvg-name="FR_NATIONAL_GEO_WILD_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographicwild.png" group-title="Francaise HD",FR_NATIONAL_GEO_WILD_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3397
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Science_et_Vie_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Science_et_Vie.jpg" group-title="Francaise HD",FR_Science_et_Vie_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2662
-#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_12_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nrj12.png" group-title="Francaise HD",FR_NRJ_12_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1456
-#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR_PARIS_PREMIERE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/parispremiere.png" group-title="Francaise HD",FR_PARIS_PREMIERE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/119
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_AB_MOTEURS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/abmoteurs.png" group-title="Francaise HD",FR_AB_MOTEURS_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1792
-#EXTINF:-1 tvg-ID="" tvg-name="FR_AB1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ab1.png" group-title="Francaise HD",FR_AB1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/123
-#EXTINF:-1 tvg-ID="TV Breizh FR" tvg-name="FR_TVBREIZH_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tvbreizh.png" group-title="Francaise HD",FR_TVBREIZH_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1562
-#EXTINF:-1 tvg-ID="" tvg-name="FR_COMEDIE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/comedieplus.png" group-title="Francaise HD",FR_COMEDIE+_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1458
-#EXTINF:-1 tvg-ID="" tvg-name="FR_ELLE_GIRL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ellegirl.png" group-title="Francaise HD",FR_ELLE_GIRL_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3184
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Cherie_25_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cherie25.png" group-title="Francaise HD",FR_Cherie_25_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1459
-#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR_ANIMAUX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/animaux.png" group-title="Francaise HD",FR_ANIMAUX_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/114
-#EXTINF:-1 tvg-ID="" tvg-name="FR_IL_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ILTV.png" group-title="Francaise HD",FR_IL_TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1685
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Alsace_20_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Alsace20.png" group-title="Francaise HD",FR_Alsace_20_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1683
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Toute_l'Histoire_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toutelhistoire.png" group-title="Francaise HD",FR_Toute_l'Histoire_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4496
-#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR_Ushuaia_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ushuaiatv.png" group-title="Francaise HD",FR_Ushuaia_TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/112
-#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR_Discovery_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoverychannel.png" group-title="Francaise HD",FR_Discovery_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/109
-#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="FR_Discovery_Science_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoveryscience-clivebesle.png" group-title="Francaise HD",FR_Discovery_Science_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/110
-#EXTINF:-1 tvg-ID="" tvg-name="FR_I24_HD" tvg-logo="" group-title="Francaise HD",FR_I24_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1644
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Voyage_HD" tvg-logo="" group-title="Francaise HD",FR_Voyage_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/124
-#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE_A&E_HD" tvg-logo="http://logofun.ddns.net:25461/logo/planeteplusaventureexperience.png" group-title="Francaise HD",FR_PLANETE_A&E_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4495
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_PLANETE+_CI" tvg-logo="" group-title="Francaise HD",FR_PLANETE+_CI
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2058
-#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Planete+.png" group-title="Francaise HD",FR_PLANETE+_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4494
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_Business_HD" tvg-logo="http://logofun.ddns.net:25461/logo/bfmbusiness.png" group-title="Francaise HD",FR_BFM_Business_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/379
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_TV" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/378
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_PARIS" tvg-logo="http://logofun.ddns.net:25461/logo/bfmparis.png" group-title="Francaise HD",FR_BFM_PARIS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48846
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_LYON" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LYON
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52487
-#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR_BFM_LILLE" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LILLE
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52488
-#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_SEASON_HD" tvg-logo="http://logofun.ddns.net:25461/logo/seasons.png" group-title="Francaise HD",FR_SEASON_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2892
-#EXTINF:-1 tvg-ID="" tvg-name="FR_M6_Music" tvg-logo="http://logofun.ddns.net:25461/logo/m6music.png" group-title="Francaise HD",FR_M6_Music
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/97
-#EXTINF:-1 tvg-ID="" tvg-name="FR_MTV_Base_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mtvbase.png" group-title="Francaise HD",FR_MTV_Base_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1667
-#EXTINF:-1 tvg-ID="CanalPlusDiscovery.pl" tvg-name="FR_MTV_MUSIC" tvg-logo="http://logofun.ddns.net:25461/logo/mtvmusic.png" group-title="Francaise HD",FR_MTV_MUSIC
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1668
-#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_hit" tvg-logo="" group-title="Francaise HD",FR_NRJ_hit
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1455
-#EXTINF:-1 tvg-ID="" tvg-name="FR_France_24" tvg-logo="" group-title="Francaise HD",FR_France_24
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/101
-#EXTINF:-1 tvg-ID="" tvg-name="FR_LA_CHAINE_NORMANDIE" tvg-logo="http://logofun.ddns.net:25461/logo/LA_CHAINE_NORMANDIE.JPG" group-title="Francaise HD",FR_LA_CHAINE_NORMANDIE
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1686
-#EXTINF:-1 tvg-ID="" tvg-name="FR_TV5_MONDE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tv5monde.png" group-title="Francaise HD",FR_TV5_MONDE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49608
-#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR_Gulli_HD" tvg-logo="http://logofun.ddns.net:25461/logo/gulli.png" group-title="Francaise HD",FR_Gulli_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/117
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Nickelodeon_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon.png" group-title="Francaise HD",FR_Nickelodeon_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3843
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Mangas_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mangas.png" group-title="Francaise HD",FR_Mangas_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/122
-#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_Nickelodeon_4_Teens_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon4teen.jpg" group-title="Francaise HD",FR_Nickelodeon_4_Teens_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4727
-#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR_Piwi_HD" tvg-logo="http://logofun.ddns.net:25461/logo/piwiplus.png" group-title="Francaise HD",FR_Piwi_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/374
-#EXTINF:-1 tvg-ID="" tvg-name="FR_TELETOON+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teletoonplus.png" group-title="Francaise HD",FR_TELETOON+_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/94
-#EXTINF:-1 tvg-ID="TIJI HD FR" tvg-name="FR_TIJI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tiji.png" group-title="Francaise HD",FR_TIJI_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2102
-#EXTINF:-1 tvg-ID="" tvg-name="FR_GINX_TV" tvg-logo="" group-title="Francaise HD",FR_GINX_TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52053
-#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR_DISNEY_JUNIOR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneyjunior.png" group-title="Francaise HD",FR_DISNEY_JUNIOR_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48619
-#EXTINF:-1 tvg-ID="" tvg-name="FR_DISNEY_CHANNEL_+1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannelplus1.png" group-title="Francaise HD",FR_DISNEY_CHANNEL_+1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3174
-#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR_Disney_Channel_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannel.png" group-title="Francaise HD",FR_Disney_Channel_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/120
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BOING_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boing.png" group-title="Francaise HD",FR_BOING_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1457
-#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="FR_J-ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/j-one.jpg" group-title="Francaise HD",FR_J-ONE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48781
-#EXTINF:-1 tvg-ID="Toonami FHD FR" tvg-name="FR_TOONAMI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toonami.png" group-title="Francaise HD",FR_TOONAMI_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50800
-#EXTINF:-1 tvg-ID="Cartoon Network HD FR" tvg-name="FR_Cartoon_Network_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cartoonnetwork.png" group-title="Francaise HD",FR_Cartoon_Network_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50953
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Disney_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneycinema.png" group-title="Francaise HD",FR_Disney_Cinema_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50936
-#EXTINF:-1 tvg-ID="Nick Jr. FR" tvg-name="FR_NICKELODEON_JR" tvg-logo="http://logofun.ddns.net:25461/logo/nickelodeonjunior.png" group-title="Francaise HD",FR_NICKELODEON_JR
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51662
-#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="FR_GAME_ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Game_One.png" group-title="Francaise HD",FR_GAME_ONE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2105
-#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="FR_Boomerang_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boomerang.png" group-title="Francaise HD",FR_Boomerang_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1461
-#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR_Equidia_Live_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Equidia Live.png" group-title="Francaise HD",FR_Equidia_Live_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2897
-#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR_INFOSPORT" tvg-logo="http://logofun.ddns.net:25461/logo/infosportplus.png" group-title="Francaise HD",FR_INFOSPORT
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/91
-#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR_GOLF+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/golfplus.png" group-title="Francaise HD",FR_GOLF+_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2452
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Golf_HD" tvg-logo="" group-title="Francaise HD",FR_Golf_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49862
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Foot+ 24/24_HD" tvg-logo="http://logofun.ddns.net:25461/logo/footplus2424.png" group-title="Francaise HD",FR_Foot+ 24/24_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51646
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3682
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_2_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_2_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47302
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_3_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_3_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3680
-#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Sfr_sport_3.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46712
-#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport1.png" group-title="Francaise HD",FR_EUROSPORT_1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51512
-#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_2_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport2.png" group-title="Francaise HD",FR_EUROSPORT_2_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51513
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_HD" tvg-logo="http://logofun.ddns.net:25461/logo/SFR-Sport-1.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3720
-#EXTINF:-1 tvg-ID="" tvg-name="FR_L_EQUIPE_HD" tvg-logo="" group-title="Francaise HD",FR_L_EQUIPE_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52719
-#EXTINF:-1 tvg-ID="" tvg-name="FR_DISCOVERY_FAMILY_HD" tvg-logo="" group-title="Francaise HD",FR_DISCOVERY_FAMILY_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52741
-#EXTINF:-1 tvg-ID="" tvg-name="FR_FOOT+ 24/24 HD" tvg-logo="" group-title="Francaise HD",FR_FOOT+ 24/24 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47781
-#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/sfr_sport_2.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46711
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Euronews_HD" tvg-logo="" group-title="Francaise HD",FR_Euronews_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52821
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2252
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_02_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2103
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_03_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2279
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_04_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_04_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50383
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_04_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_SPORT_04_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50384
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_01_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_01_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51267
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_02_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_02_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51268
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 5" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 5
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51276
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 6" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 6
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51275
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 7" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 7
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51274
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 8" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 8
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51273
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 9" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 9
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51272
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 10" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 10
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51271
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 11" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 11
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51270
-#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 12" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 12
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51269
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52916
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52918
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT 4K" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT 4K
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53043
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 1 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53117
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 1 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 1 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53125
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53118
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 2 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 2 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53126
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 3 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53124
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 3 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 3 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53127
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 4 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53119
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 4 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 4 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53128
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 5 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53120
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 5 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 5 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53129
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 6 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53121
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 6 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 6 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53130
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 7 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53122
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 7 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 7 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53131
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 8 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53123
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 8 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 8 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53132
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-me.cdn.booyah.live/hls/113132/35444169.m3u8
+https://fuckoff.taghtia.com/http://de1.thefitnesshints.com/live/ch02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
 https://fuckoff.taghtia.com/&ahsa-news.com/https://m9.cdn4kora.com/live/ch2hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://fuckoff.taghtia.com/&ahsa-news.com/https://m37.cdn4kora.com/live/bein2/index.m3u8
+https://vsd123.mycdn.me/hls/1083786136178.m3u8/sig/fyE3TG0BORw/expires/1607622568137/srcIp/213.139.53.209/clientType/0/srcAg/CHROME_ANDROID/mid/2870070681202/video.m3u8?p
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
 https://cdn3.wowza.com/1/V0l4eHVTWS9IeWgw/dFM5ZVFm/hls/lsvmjm7g/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://livestream.rheotv.com/live/pUsSVxV/high/manifest.m3u8
-
+https://oklive6-3.vkuser.net/hls/1050483428054.m3u8/sig/j6c_n7WjgGI/expires/1607622622714/srcIp/213.139.53.209/urls/45.136.22.64/clientType/0/srcAg/CHROME_ANDROID/mid/2335230533334/video.m3u8?p
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://oklive6-12.vkuser.net/hls/1070224378450.m3u8/sig/t3mNieA4l38/expires/1607543678152/srcIp/212.34.30.107/urls/45.136.21.83/clientType/0/srcAg/CHROME_ANDROID/mid/2641623326290/1070224378450_lowest/index.m3u8
+https://steambroadcast.akamaized.net/broadcast/76561199115856912/9133122559768645854/hls_manifest/0/steambroadcast.akamaized.net/1200000/video.m3u8?broadcast_origin=repo-04-sto1.broadcast.steamcontent.com:80
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://akamai2-me.cdn.booyah.live/hls/113130/35431356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://vsd111.mycdn.me/hls/1051828488813.m3u8/sig/RFOn6kraN8Q/expires/1607273832218/srcIp/213.139.45.89/clientType/0/srcAg/CHROME_ANDROID/mid/2208912055917/video.m3u8?p
+https://steambroadcast.akamaized.net/broadcast/76561199115649588/4723190579726572363/hls_manifest/0/steambroadcast.akamaized.net/160000/audio.m3u8?broadcast_origin=repo-01-sto1.broadcast.steamcontent.com:80#
+EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+https://vsd77.mycdn.me/hls/890805815998.m3u8/sig/_yWqdBXE_ks/expires/1607622675003/srcIp/213.139.53.209/clientType/0/srcAg/CHROME_ANDROID/mid/2101734940350/video.m3u8?p
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
 https://akamai2-mx.cdn.booyah.live/hls/210150/33160161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
