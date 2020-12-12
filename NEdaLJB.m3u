@@ -1,4 +1,4 @@
-#EXTM3U
+,#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
@@ -2232,19 +2232,37 @@ http://best-live-iptv.xyz:25461/BEST-LIVE9898/BEST-LIVE9898/25
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 1 SD
+http://173.249.4.94:8081/Ch1/Ch1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 2 SD
+http://173.249.4.94:8081/Ch2/Ch2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 3 SD
+http://173.249.4.94:8081/Ch3/Ch3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 4 SD
+http://173.249.4.94:8081/Ch4/Ch4/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 5 SD
+http://173.249.4.94:8081/Ch5/Ch5/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 6 SD
+http://173.249.4.94:8081/Ch6/Ch6/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 7 SD
+http://173.249.4.94:8081/Ch7/Ch7/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 SD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات",beIN Sport 8 SD
+http://173.249.4.94:8081/Ch8/Ch8/chunks.m3u8
+
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://fuckoff.taghtia.com/&ahsa-news.com/https://m42.cdn4kora.com/live/bein1/index.m3u8
+https://aws-br.cdn.booyah.live/hls/1000005/36193109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://fuckoff.taghtia.com/&ahsa-news.com/https://m15.cdn4kora.com/live/ch1/index.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://fuckoff.taghtia.com/&ahsa-news.com/https://m15.cdn4kora.com/live/ch1hd/index.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://fuckoff.taghtia.com/http://de1.thefitnesshints.com/live/ch01/index.m3u8
+https://vsd132.mycdn.me/hls/1054432365293.m3u8/sig/DT50aFthq9Q/expires/1607880485039/srcIp/213.139.63.134/clientType/0/srcAg/CHROME_ANDROID/mid/2456826355437/1054432365293_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 https://steambroadcast.akamaized.net/broadcast/76561199115676669/269625543454055754/hls_manifest/0/steambroadcast.akamaized.net/160000/audio.m3u8?broadcast_origin=repo-02-sto1.broadcast.steamcontent.com:80
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
