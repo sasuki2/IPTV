@@ -2256,7 +2256,7 @@ http://173.249.4.94:8081/Ch8/Ch8/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://aws-br.cdn.booyah.live/hls/1000005/36193109.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/36434807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
 https://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
