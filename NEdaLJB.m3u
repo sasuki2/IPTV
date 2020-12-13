@@ -2258,9 +2258,9 @@ http://173.249.4.94:8081/Ch8/Ch8/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-me.cdn.booyah.live/hls/113137/36434807.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/36541948.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://live-ak.vimeocdn.com/exp=1607805289~acl=%2F685d405e-1d52-4063-bbff-474d361812b8%2F%2A~hmac=9471752c5a7888583271af0668bd3d4f7a1cc9b8085ab4d06461aed938db24dc/685d405e-1d52-4063-bbff-474d361812b8/hls.m3u8
+http://173.249.4.94:8081/Ch1/Ch1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
 https://akamai2-mx.cdn.booyah.live/hls/210158/36449862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
