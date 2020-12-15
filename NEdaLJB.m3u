@@ -496,6 +496,191 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="ARABIC",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
+
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="السعودية",Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="السعودية",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="السعودية",Al Quran Al Kareem (Mecca)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="السعودية",Al Quran Al Kareem (Mecca),Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="السعودية",Al Quran Al Kareem (Mecca)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="السعودية",Al Sunnah (Medina)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="السعودية",Al Sunnah (Medina)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية",Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="السعودية",Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="السعودية",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="السعودية",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية",SA | Saudi TV 1,Saudi TV 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="السعودية",Saudi TV 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنان",Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="لبنان",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="لبنان",Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="لبنان",Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="LB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
+http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنان",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="لبنان",MTV Lebanon
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="لبنان",Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="لبنان",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="لبنان",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="لبنان",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="لبنان",Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="لبنان",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="لبنان",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="لبنان",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="لبنان",OTV
+http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="العراق",ABN SAT (1280×720),ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" group-title="العراق",Al Fallujah
+https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="العراق",Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="العراق",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="العراق",Al Iraqiya Al 3ama
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="العراق",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="العراق",Al Rafidain
+http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="العراق",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="العراق",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="العراق",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="العراق",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="العراق",Amozhgary
+http://82.212.74.100:8000/live/hls/8951.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="العراق",Assyrian ANB
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="العراق",Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="العراق",Babylon TV
+https://iqlivestream.com/babylontv/babylonlivestream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="العراق",Babylon TV
+https://iqlivestream.com/babylontv/kardokardo.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="العراق",Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="العراق",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="العراق",Imam Hussein TV 2 Arabic
+https://ar.imamhusseintv.com/live/ih201/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="العراق",Imam Hussein TV 4 Urdu
+https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/srOJGEF.png" group-title="العراق",KurdMax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="العراق",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/XFbwbi4.png" group-title="العراق",Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="العراق",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="العراق",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="العراق",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="الأردن",Al Mamlaka TV,AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="الأردن",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="الأردن",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="الأردن",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="الأردن",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="الأردن",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="الأردن",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="الأردن",Ro'ya TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",AL HAYAT rtm
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",AR-الوطن,AR:Watan TV,Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/220px-Logo_Canal_Algerie.svg.png" group-title="الجزائر",Canal Algérie
+http://178.132.3.162:88/canal_algerie/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="الجزائر",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",DIJAH  rtm
+rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",Dijlah TV  jordan rtm
+rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="الجزائر",EL nahar Alg,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="الجزائر",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",LT  libya  rtm
+rtmp://82.212.74.2/live//7221?v=&checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",Nogoum FM TV  rtm
+rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="سوريا",Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريا",Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="سوريا",Lana HD TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="سوريا",Lana Plus TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="سوريا",Noor Al-Sham
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;SY" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريا",Syria TV,SYRIA TV (1920×1080)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="سوريا",Souryana Radio
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="سوريا",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريا",Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريا",Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريا",Syrian News Channel
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="سوريا",Syrian TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="سوريا",Ugarit TV [not 24/7]
+http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="سوريا",alltv
+http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:hlscat.com
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",قناة السنة النبوية 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",قناة القرآن الكريم 
@@ -615,14 +800,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_sn
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="prime war" tvg-logo="" group-title="Amazon prime",prime war
-http://aloka-iptv.xyz:25461/aloka/fuckyourpanl121/138
-#EXTINF:-1 tvg-id="" tvg-name="prime action" tvg-logo="" group-title="Amazon prime",prime action
-http://aloka-iptv.xyz:25461/aloka/fuckyourpanl121/139
-#EXTINF:-1 tvg-id="" tvg-name="prime adventure" tvg-logo="" group-title="Amazon prime",prime adventure
-http://aloka-iptv.xyz:25461/aloka/fuckyourpanl121/140
-#EXTINF:-1 tvg-id="" tvg-name="prime thriller " tvg-logo="" group-title="Amazon prime",prime thriller 
-http://aloka-iptv.xyz:25461/aloka/fuckyourpanl121/141
 
 
 
