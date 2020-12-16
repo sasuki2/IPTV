@@ -818,94 +818,56 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(Movie) Bein_Movies 1 HD  (PREMERE)" tvg-logo="http://i.imgur.com/fcR3gDa.png" group-title="BEIN MOVIES",(Movie) Bein_Movies 1 HD  (PREMERE)
-http://hbox.cdnss.me:80/xblack/skypertyui/2054
-#EXTINF:-1 tvg-id="" tvg-name="(Movie) Bein_Movies 2 HD (ACTION)" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1323_1.png" group-title="BEIN MOVIES",(Movie) Bein_Movies 2 HD (ACTION)
-http://hbox.cdnss.me:80/xblack/skypertyui/2053
-#EXTINF:-1 tvg-id="" tvg-name="(Movie) Bein_Movies 3 HD (DRAMA)" tvg-logo="https://1.bp.blogspot.com/-K7plkT9y7jA/V-BtqQNXPuI/AAAAAAAAAKg/0Va9oU-eFioE-jrfAsfvxKlLNk-v7XcHQCLcB/s1600/beINMOVIES_3HD.png" group-title="BEIN MOVIES",(Movie) Bein_Movies 3 HD (DRAMA)
-http://hbox.cdnss.me:80/xblack/skypertyui/2398
-#EXTINF:-1 tvg-id="" tvg-name="(Movie) BeIN Movies 4 HD (FAMILY)" tvg-logo="http://ulango.tv/uploads/channels/3782344/logo_bein%20movies%20family.png" group-title="BEIN MOVIES",(Movie) BeIN Movies 4 HD (FAMILY)
-http://hbox.cdnss.me:80/xblack/skypertyui/2570
-#EXTINF:-1 tvg-id="" tvg-name="(AR) FOX" tvg-logo="" group-title="FOX MOVIES",(AR) FOX
-http://hbox.cdnss.me:80/xblack/skypertyui/4361
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Fox Movies HD" tvg-logo="" group-title="FOX MOVIES",(AR) Fox Movies HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4360
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Fox Family Movies" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/600-movies/624-foxfamilymovies.png" group-title="FOX MOVIES",(AR) Fox Family Movies
-http://hbox.cdnss.me:80/xblack/skypertyui/4359
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Fox Action Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/434_300.png" group-title="FOX MOVIES",(AR) Fox Action Movies
-http://hbox.cdnss.me:80/xblack/skypertyui/4358
-#EXTINF:-1 tvg-id="" tvg-name="(AR) my Cinema" tvg-logo="http://c.up-00.com/2018/08/153477704562331.png" group-title="FOX MOVIES",(AR) my Cinema
-http://hbox.cdnss.me:80/xblack/skypertyui/4348
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn FOX Rewayat HD" tvg-logo="" group-title="FOX MOVIES",(AR) Osn FOX Rewayat HD
-http://hbox.cdnss.me:80/xblack/skypertyui/5946
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Kids Zone TV" tvg-logo="" group-title="ART&OSN",(AR) OSN Kids Zone TV
-http://hbox.cdnss.me:80/xblack/skypertyui/5384
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Alfa Alyawm" tvg-logo="https://pbs.twimg.com/profile_images/701805496106352641/Qt6BnifZ_400x400.png" group-title="ART&OSN",(AR) OSN Alfa Alyawm
-http://hbox.cdnss.me:80/xblack/skypertyui/4982
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Star Cinema 1" tvg-logo="https://image.noelshack.com/fichiers/2017/43/7/1509272602-index.png" group-title="ART&OSN",(AR) Star Cinema 1
-http://hbox.cdnss.me:80/xblack/skypertyui/529
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Art Aflam 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam1.jpg" group-title="ART&OSN",(AR) Art Aflam 1
-http://hbox.cdnss.me:80/xblack/skypertyui/648
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Art Aflam 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_art_aflam2.jpg" group-title="ART&OSN",(AR) Art Aflam 2
-http://hbox.cdnss.me:80/xblack/skypertyui/649
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Art Cinema" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_cinema.jpg" group-title="ART&OSN",(AR) Art Cinema
-http://hbox.cdnss.me:80/xblack/skypertyui/650
-#EXTINF:-1 tvg-id="" tvg-name="(AR) ART Hekayat*" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_hekayat.jpg" group-title="ART&OSN",(AR) ART Hekayat*
-http://hbox.cdnss.me:80/xblack/skypertyui/646
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Art Hekayat  2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_hekayat2.jpg" group-title="ART&OSN",(AR) Art Hekayat  2
-http://hbox.cdnss.me:80/xblack/skypertyui/647
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Movie Action HD" tvg-logo="https://image.noelshack.com/fichiers/2017/43/7/1509274389-index.jpg" group-title="ART&OSN",(AR) Osn Movie Action HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1006
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Star Movies HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_movies.jpg" group-title="ART&OSN",(AR) Osn Star Movies HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1007
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Cinema 1" tvg-logo="http://d.up-00.com/2018/08/153477306450241.png" group-title="ART&OSN",(AR) Osn Cinema 1
-http://hbox.cdnss.me:80/xblack/skypertyui/1008
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Animal-Planet HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="ART&OSN",(AR) Osn Animal-Planet HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1009
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Mbc Drama" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mbc_plus_drama_hd.jpg" group-title="ART&OSN",(AR) OSN Mbc Drama
-http://hbox.cdnss.me:80/xblack/skypertyui/1021
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Yahala Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_ya_hala_hd.jpg" group-title="ART&OSN",(AR) Osn Yahala Cinema HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1023
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Movies Thriller" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_festival.jpg" group-title="ART&OSN",(AR) Osn Movies Thriller
-http://hbox.cdnss.me:80/xblack/skypertyui/2554
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Movies First" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_hd.jpg" group-title="ART&OSN",(AR) OSN Movies First
-http://hbox.cdnss.me:80/xblack/skypertyui/2547
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_ca.jpg" group-title="ART&OSN",(AR) Osn Discovery Science HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2545
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Cinema 2" tvg-logo="http://a.up-00.com/2018/08/153477298744541.png" group-title="ART&OSN",(AR) Osn Cinema 2
-http://hbox.cdnss.me:80/xblack/skypertyui/2544
-#EXTINF:-1 tvg-id="" tvg-name="(AR) Osn Star World HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_world_in.jpg" group-title="ART&OSN",(AR) Osn Star World HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2542
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN NAT GEO PEOPLE HD" tvg-logo="http://content.osn.com/bob/745x419/NAH.jpg" group-title="ART&OSN",(AR) OSN NAT GEO PEOPLE HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4983
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Nat Geo Wild HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_lam.jpg" group-title="ART&OSN",(AR) OSN Nat Geo Wild HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4957
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Discovery HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_ca.jpg" group-title="ART&OSN",(AR) OSN Discovery HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4914
-#EXTINF:-1 tvg-id="" tvg-name="(AR) [OSN] Alfa Mosalsalat" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg" group-title="ART&OSN",(AR) [OSN] Alfa Mosalsalat
-http://hbox.cdnss.me:80/xblack/skypertyui/4447
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Movies HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_movies_hd.jpg" group-title="ART&OSN",(AR) OSN Movies HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4912
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Ya Hala" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/osn_ya_hala_hd.jpg" group-title="ART&OSN",(AR) OSN Ya Hala
-http://hbox.cdnss.me:80/xblack/skypertyui/4911
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN History_HD." tvg-logo="" group-title="ART&OSN",(AR)OSN History_HD.
-http://hbox.cdnss.me:80/xblack/skypertyui/6105
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Baby TV" tvg-logo="" group-title="ART&OSN",(AR) OSN Baby TV
-http://hbox.cdnss.me:80/xblack/skypertyui/6109
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Kids" tvg-logo="" group-title="ART&OSN",(AR)OSN Kids
-http://hbox.cdnss.me:80/xblack/skypertyui/6111
-#EXTINF:-1 tvg-id="" tvg-name="(AR) OSN Series" tvg-logo="" group-title="ART&OSN",(AR) OSN Series
-http://hbox.cdnss.me:80/xblack/skypertyui/6117
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Enegma_HD." tvg-logo="" group-title="ART&OSN",(AR)OSN Enegma_HD.
-http://hbox.cdnss.me:80/xblack/skypertyui/6118
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Movies Thriller  2" tvg-logo="" group-title="ART&OSN",(AR)OSN Movies Thriller  2
-http://hbox.cdnss.me:80/xblack/skypertyui/6119
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Movie Drama" tvg-logo="" group-title="ART&OSN",(AR)OSN Movie Drama
-http://hbox.cdnss.me:80/xblack/skypertyui/6120
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Movie Premiere 2" tvg-logo="" group-title="ART&OSN",(AR)OSN Movie Premiere 2
-http://hbox.cdnss.me:80/xblack/skypertyui/6122
-#EXTINF:-1 tvg-id="" tvg-name="(AR)OSN Movie Kids" tvg-logo="" group-title="ART&OSN",(AR)OSN Movie Kids
-http://hbox.cdnss.me:80/xblack/skypertyui/6123
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Yahala HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/26
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Yahala 1 ALOLA HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/27
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: ART Hekayat HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/28
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: ART Hekayat 2 HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/29
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Yahala Cinema HD-♎
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/30
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: ART Aflam 2 HD-≢
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/31
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BEIN MOVIES 1 HD-╪
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/32
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BEIN MOVIES 2 HD
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/33
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BEIN MOVIES 3 HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/34
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BEIN MOVIES 4 HD-╪
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/35
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BeIN Series 1 HD-Ⅻ
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/36
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BeIN Series 2 HD-Ⅻ
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/37
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Drama HD" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: BeIN Drama HD
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/38
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Action HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/39
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: ART Cinema HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/40
+#EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN&BEIIN&ART",OSN :ALFA ALYOUM
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/41
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Disney Junior HD-↺
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/42
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nickelodeon HD-◢" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: Nickelodeon HD-◢
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/43
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN&BEIIN&ART",BEIN: Nat Geo Wild HD-↹
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/44
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Alfa Cinema 1 HD-↹
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/45
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: Discovery HD-◢
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/46
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 1" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: ART Aflam 1
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/47
+#EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: The Movies HD-◢
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/48
+#EXTINF:-1 tvg-id="" tvg-name="OSN: On Demand HD-◢" tvg-logo="" group-title="OSN&BEIIN&ART",OSN: On Demand HD-◢
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/49
+#EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN&BEIIN&ART",BeIN FATAFEAT
+http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/50
 
 
 
