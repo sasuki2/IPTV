@@ -689,10 +689,12 @@ http://m.live.net.sa:1935/live/quran/chunklist_w385140766.m3u8?v=3293249572
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",قناة اقرأ 
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?1716031792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",نور القرآن 
+https://streamer1.furrera.ps/AlNourQuran/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",قناة مكة
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1304330095.m3u8?v=1716031792
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",قناة المجد
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45599
+https://streamer1.furrera.ps/almajd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",القرآن الكريم راديو١
 http://92.222.103.14:8005/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",القرآن الكريم راديو٢
@@ -761,17 +763,17 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="KIDS",MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
-http://bit.do/NEDAL1
+http://ott-4k.com:8000/41643735542538/41870223588174/87419
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/118.ts
 
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
-http://bit.do/NEDAL3
+https://streamer1.furrera.ps/goldenBaraem1/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Boomerang HD
-http://bit.do/NEDAL4
+http://abc.extraplay.me:2086/live/modomodo157/DXIbb1U7Ak/93.m3u8
 
 #EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -791,8 +793,8 @@ http://streamer1.furrera.ps:80/MICKEYTV/index.m3u8?token=test
 http://streamer1.furrera.ps:80/CNArabia/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="KIDS",SPACETOONARABIC
 http://streamer1.furrera.ps:80/SPACETOONARABIC/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="KIDS",KTVKidsHD
-http://streamer1.furrera.ps:80/KTVKidsHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="KIDS",Baraem1
+https://streamer1.furrera.ps/goldenBaraem1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="KIDS",BatootKids
 http://streamer1.furrera.ps:80/BatootKids/index.m3u8?token=test
 
@@ -1789,36 +1791,83 @@ http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 1
-http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/18.ts
+https://streamer1.furrera.ps/ONSportHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 2
 http://channelsstream.xyz:8080/live/streeem/streeem/113.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport" tvg-logo="" group-title="Arabic Sport",AR_ON Sport
-http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport 2" tvg-logo="" group-title="Arabic Sport",AR_ON Sport 2
-http://ipdax.top:8080/hatmyx/hjghyut/75
-
 #EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1477
-
+https://streamer1.furrera.ps/KSASPORTS1HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1478
-
+https://streamer1.furrera.ps/KSASPORTS2HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="KSA Sports3" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports3
-http://m.magicoiptv.org:8080/xtreamrev/HxLUwbo72m/1479
+https://streamer1.furrera.ps/KSASPORTS3HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="KSA Sports4" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports4
+https://streamer1.furrera.ps/KSASPORTS4HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Al Kass One" tvg-name="Al Kass One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaCinema1
+http://streamer1.furrera.ps:80/AlphaCinema1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaCinema2
+http://streamer1.furrera.ps:80/AlphaCinema2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",ARTAflam1
+http://streamer1.furrera.ps:80/ARTAflam1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",ARTAflam2
+http://streamer1.furrera.ps:80/ARTAflam2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",ARTCinema
+http://streamer1.furrera.ps:80/ARTCinema/video.m3u8?token=test?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaSeriesHD
+http://streamer1.furrera.ps:80/AlphaSeriesHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaMusalsalat+2HD
+http://streamer1.furrera.ps:80/AlphaMusalsalat+2HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaAlsa
+http://streamer1.furrera.ps:80/AlphaAlsafwa/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaAlyawmHD
+http://streamer1.furrera.ps:80/AlphaAlyawmHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaFann
+http://streamer1.furrera.ps:80/AlphaFann/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="باقة الفا",AlphaMusicNow
+http://streamer1.furrera.ps:80/AlphaMusicNow/index.m3u8?token=test
+
+
+
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master.m3u8
+https://streamer1.furrera.ps/ALKASSONEHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Al Kass two ARB" tvg-name="Al Kass two ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master.m3u8
-#EXTINF:-1 tvg-id="Al Kass three ARB" tvg-name="Al Kass three ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3?DVR
+https://streamer1.furrera.ps/ALKASSTWOHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Al Kass four ARB" tvg-name="Al Kass four ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
-#EXTINF:-1 tvg-id="Al Kass five ARB" tvg-name="Al Kass five ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
+https://streamer1.furrera.ps/ALKASSFOURHD/index.m3u8?token=test
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 1
+https://streamer1.furrera.ps/FajerTV1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 2
+https://streamer1.furrera.ps/FajerTV2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 3" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 3
+https://streamer1.furrera.ps/FajerTV3/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 4" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 4
+https://streamer1.furrera.ps/FajerTV4/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 5" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 5
+https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNMovies
+http://streamer1.furrera.ps:80/OSNMovies/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNMoviesFirst
+http://streamer1.furrera.ps:80/OSNMoviesFirst/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNMoviesFirst2
+http://streamer1.furrera.ps:80/OSNMoviesFirst2/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNMoviesAction
+http://streamer1.furrera.ps:80/OSNMoviesAction/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSN_Enigma
+http://streamer1.furrera.ps:80/OSN_Enigma/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNYHCinema
+http://streamer1.furrera.ps:80/OSNYHCinema/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",StarMoviesHD
+http://streamer1.furrera.ps:80/StarMoviesHD/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",StarWorld
+http://streamer1.furrera.ps:80/StarWorld/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNSeriesFirst
+http://streamer1.furrera.ps:80/OSNSeriesFirst/video.m3u8?token=test
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Osn*",OSNYaHala
+http://streamer1.furrera.ps:80/OSNYaHala/video.m3u8?token=test
+
+
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/824
@@ -2060,17 +2109,19 @@ http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/25
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 1 hd
-http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 2 hd
-http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 3 hd
-http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 4 hd
-http://185.246.210.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls4/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 5 hd
-http://185.246.210.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls5/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 6 hd
-http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls6/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 7 hd
+http://mobile.fobia.xyz/hls7/stream.m3u8
 
 
 
