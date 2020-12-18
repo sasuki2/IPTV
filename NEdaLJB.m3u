@@ -631,6 +631,60 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8?checkedby:hlscat.co
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="الأردن",Ro'ya TV
 https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="RayaTV" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",RayaTV
+http://streamer1.furrera.ps:80/RayaTV/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ajyalTV" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",ajyalTV
+http://streamer1.furrera.ps:80/Ajyal/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Bethlehem" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",Bethlehem
+http://streamer1.furrera.ps:80/Bethlehem/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="NASTV" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",NASTV
+http://streamer1.furrera.ps:80/NASTV/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Watar" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",Watar
+http://streamer1.furrera.ps:80/Watar/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="HebronSatTV" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",HebronSatTV
+http://streamer1.furrera.ps:80/HebronSatTV/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MarahFM" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",MarahFM
+http://streamer1.furrera.ps:80/MarahFM/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Awdeh" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",Awdeh
+http://streamer1.furrera.ps:80/Awdeh/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Watan" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",Watan
+http://streamer1.furrera.ps:80/Watan/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="ALKOFIYA" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",ALKOFIYA
+http://streamer1.furrera.ps:80/ALKOFIYA/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AlRehan" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",AlRehan
+http://streamer1.furrera.ps:80/AlRehan/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MUSAWAHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",MUSAWAHD
+http://streamer1.furrera.ps:80/MUSAWAHD/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="sport" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",sport
+http://streamer1.furrera.ps:80/BeinSports1/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="FurreraCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",FurreraCinema
+http://streamer1.furrera.ps:80/FurreraCinema/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="FurreraAflam" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",FurreraAflam
+http://streamer1.furrera.ps:80/FurreraAflam/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="felesport1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",felesport1
+http://streamer1.furrera.ps:80/BeinSport01/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="felesport2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",felesport2
+http://streamer1.furrera.ps:80/BeinSport02/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="felesport3" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="قنوات فلسطينية",felesport3
+http://streamer1.furrera.ps:80/BeinSport03/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",HalaRamallah
+http://streamer1.furrera.ps:80/HalaRamallah/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",nabluslive
+http://htvmada.mada.ps:8888/nabluslive/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",AlSerajTV
+http://streamer1.furrera.ps:80/AlSerajTV/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",Alhuriya
+http://streamer1.furrera.ps:80/Alhuriya/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",radioShabab
+http://streamer1.furrera.ps:80/radioShabab/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",MAKAN
+http://streamer1.furrera.ps:80/MAKAN/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="قنوات فلسطينية",MixHollywood
+http://streamer1.furrera.ps:80/MixHollywood/video.m3u8?token=test
+
+
+
+
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",AL HAYAT rtm
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:hlscat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="الجزائر",AR-الوطن,AR:Watan TV,Watan TV
@@ -1836,34 +1890,6 @@ https://streamer1.furrera.ps/ALKASSTWOHD/index.m3u8?token=test
 https://streamer1.furrera.ps/ALKASSFOURHD/index.m3u8?token=test
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691690.png" group-title="beOUT Aflam",beOUT Cinema
-http://sarhantv.xyz:25461/sarhan/0000/56
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2029308.png" group-title="beOUT Aflam",beOUT Arabia
-http://sarhantv.xyz:25461/sarhan/0000/57
-#EXTINF:-1 tvg-id="" tvg-name="beOUT action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691689.png" group-title="beOUT Aflam",beOUT action
-http://sarhantv.xyz:25461/sarhan/0000/58
-#EXTINF:-1 tvg-id="" tvg-name="prime war" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493091.png" group-title="amazon prime",prime war
-http://sarhantv.xyz:25461/sarhan/0000/75
-#EXTINF:-1 tvg-id="" tvg-name="prime thriller" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3500178.png" group-title="amazon prime",prime thriller
-http://sarhantv.xyz:25461/sarhan/0000/76
-#EXTINF:-1 tvg-id="" tvg-name="prime adventure" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493090.png" group-title="amazon prime",prime adventure
-http://sarhantv.xyz:25461/sarhan/0000/77
-#EXTINF:-1 tvg-id="" tvg-name="prime action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493092.png" group-title="amazon prime",prime action
-http://sarhantv.xyz:25461/sarhan/0000/78
-#EXTINF:-1 tvg-id="" tvg-name="prime kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3602689.png" group-title="amazon prime",prime kids
-http://sarhantv.xyz:25461/sarhan/0000/98
-#EXTINF:-1 tvg-id="" tvg-name="iflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450458.png" group-title="iflix",iflix action
-http://sarhantv.xyz:25461/sarhan/0000/63
-#EXTINF:-1 tvg-id="" tvg-name="iflix comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450461.png" group-title="iflix",iflix comedy
-http://sarhantv.xyz:25461/sarhan/0000/64
-#EXTINF:-1 tvg-id="" tvg-name="iflix Turk" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470569.png" group-title="iflix",iflix Turk
-http://sarhantv.xyz:25461/sarhan/0000/65
-#EXTINF:-1 tvg-id="" tvg-name="IFlix Prime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470577.png" group-title="iflix",IFlix Prime
-http://sarhantv.xyz:25461/sarhan/0000/66
-#EXTINF:-1 tvg-id="" tvg-name="IFLIX Arabic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470578.png" group-title="iflix",IFLIX Arabic
-http://sarhantv.xyz:25461/sarhan/0000/67
-#EXTINF:-1 tvg-id="" tvg-name="Iflix Moudablaj" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3480607.png" group-title="iflix",Iflix Moudablaj
-http://sarhantv.xyz:25461/sarhan/0000/68
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 1
