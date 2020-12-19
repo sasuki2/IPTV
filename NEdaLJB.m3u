@@ -2186,33 +2186,32 @@ http://mobile.fobia.xyz/hls7/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=test
+http://mobile.fobia.xyz/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-http://173.249.4.94:8081/bein3/bein3/chunks.m3u8
+http://173.249.4.94:8081/bein1/bein1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/3
+http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/1
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://mobile.fobia.xyz/hls3/stream.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc:80/m3u8/Sports/71c773c13be1970.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-http://135.181.31.32/hls/bein3.m3u8
+http://tv.besttvps.com:8081/live/@port/trials/224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-http://aloka-iptv.xyz:25461/khrais/khrais/99
+http://tv.besttvps.com:8081/live/@port/trials/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://steambroadcast.akamaized.net/broadcast/76561199115649588/4723190579726572363/hls_manifest/0/steambroadcast.akamaized.net/160000/audio.m3u8?broadcast_origin=repo-01-sto1.broadcast.steamcontent.com:80#
-EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://vsd77.mycdn.me/hls/890805815998.m3u8/sig/_yWqdBXE_ks/expires/1607622675003/srcIp/213.139.53.209/clientType/0/srcAg/CHROME_ANDROID/mid/2101734940350/video.m3u8?p
+http://tv.besttvps.com:8081/live/@port/trials/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-https://akamai2-mx.cdn.booyah.live/hls/210150/33160161.m3u8
+http://live.btv2020.com:1935/live/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://akamai2-me.cdn.booyah.live/hls/113130/35415202.m3u8
+http://tv.besttvps.com:8081/live/@port/trials/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://akamai2-me.cdn.booyah.live/hls/113137/32753344.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/36992256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://akamai2-me.cdn.booyah.live/hls/113138/34914275.m3u8
-
+https://akamai2-me.cdn.booyah.live/hls/113138/30407952.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-https://akamai2-me.cdn.booyah.live/hls/113132/32751874.m3u8
+http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport1.m3u8?token=Z_s0eXENyHznA2bWF-FkNA&e=1608476741&channel=sport1
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
 https://akamai2-mx.cdn.booyah.live/hls/250176/33160161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
@@ -2225,3 +2224,6 @@ https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch1/index.
 https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٩
 https://vsd94.mycdn.me/hls/715356572350.m3u8/sig/YTBaCBrKnR8/expires/1606419849158/srcIp/188.247.75.212/clientType/0/srcAg/CHROME_ANDROID/mid/1816461975230/video.m3u8?p
+
+
+
