@@ -2323,18 +2323,18 @@ http://173.249.4.94:8081/bein3/bein3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
 http://mobile.fobia.xyz/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://akamai2-me.cdn.booyah.live/hls/113132/26389745.m3u8
-
+http://161.97.126.129:8080/live/5fdfa4ab3be42/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-https://akamai2-me.cdn.booyah.live/hls/113137/37138701.m3u8
+http://161.97.126.129:8080/live/5fd91a6981c9c/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
-https://akamai2-me.cdn.booyah.live/hls/113137/37138701.m3u8
+https://verizon-me.cdn.booyah.live/hls/113137/37138701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
-https://akamai2-me.cdn.booyah.live/hls/113137/34917399.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/26396310.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٦
-https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c4/index.m3u8
+https://live-ak.vimeocdn.com/exp=1608496483~acl=%2Ff5828365-df32-4d17-a059-9f008b7e987b%2F%2A~hmac=0d3ed6fa9d3921bcfe6367dea26c6f7dbee7fd14b3973181a102a90d51a977fc/f5828365-df32-4d17-a059-9f008b7e987b/hls.m3u8?min_seconds=30
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٧
 https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٨
