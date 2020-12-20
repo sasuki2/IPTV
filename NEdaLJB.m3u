@@ -817,7 +817,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="KIDS",MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
-http://ott-4k.com:8000/41643735542538/41870223588174/87419
+https://tv.besttvps.com/live/@ps/trials/32.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
@@ -2192,28 +2192,30 @@ http://173.249.4.94:8081/bein1/bein1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
 http://best-live-iptv.xyz:2082/BEST-LIVE5588/BEST-LIVE5588/1
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc:80/m3u8/Sports/71c773c13be1970.m3u8
+https://tv.besttvps.com/live/@ps/trials/224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-http://tv.besttvps.com:8081/live/@port/trials/224.m3u8
+https://tv.besttvps.com/live/@ps/trials/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-http://tv.besttvps.com:8081/live/@port/trials/7.m3u8
+https://tv.besttvps.com/live/@ps/trials/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-http://tv.besttvps.com:8081/live/@port/trials/23.m3u8
+https://tv.besttvps.com/live/@ps/trials/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
 http://live.btv2020.com:1935/live/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-http://tv.besttvps.com:8081/live/@port/trials/65.m3u8
+http://173.249.4.94:8081/bein3/bein3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://akamai2-me.cdn.booyah.live/hls/113132/36992256.m3u8
+http://mobile.fobia.xyz/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://akamai2-me.cdn.booyah.live/hls/113138/30407952.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/26389745.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport1.m3u8?token=Z_s0eXENyHznA2bWF-FkNA&e=1608476741&channel=sport1
+https://akamai2-me.cdn.booyah.live/hls/113137/37138701.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
-https://akamai2-mx.cdn.booyah.live/hls/250176/33160161.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/37138701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
 https://akamai2-me.cdn.booyah.live/hls/113137/34917399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٦
