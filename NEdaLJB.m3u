@@ -1015,20 +1015,7 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24110
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24111
 #EXTINF:-1 tvg-id="" tvg-name="FR:13eme.rue.SD" tvg-logo="" group-title="FRANCE (SD)",FR:13eme.rue.SD
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24112
-#EXTINF:-1 tvg-id="" tvg-name="IT | Dazn Sat SD" tvg-logo="" group-title="ITALIA IPTV",IT | Dazn Sat SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26417
-#EXTINF:-1 tvg-id="" tvg-name="IT | Italia 1 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Italia 1 SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26195
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rete 4 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rete 4 SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26200
-#EXTINF:-1 tvg-id="" tvg-name="IT | LA 7 D SD" tvg-logo="" group-title="ITALIA IPTV",IT | LA 7 D SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26217
-#EXTINF:-1 tvg-id="" tvg-name="IT | Canale 5 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Canale 5 SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26229
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai 4 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rai 4 SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26235
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai Premium SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rai Premium SD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26274
+
 #EXTINF:-1 tvg-id="" tvg-name="FR:W9.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE (SD)",FR:W9.SD
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24006
 #EXTINF:-1 tvg-id="" tvg-name="FR:Voyages.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCE (SD)",FR:Voyages.SD
@@ -1288,8 +1275,7 @@ http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6288
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/809
 #EXTINF:-1 tvg-id="" tvg-name="FR: 6Ter" tvg-logo="http://store6.up-00.com/2017-05/149369276312141.png" group-title="FRANCE (Full HD)",FR: 6Ter
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1333
-#EXTINF:-1 tvg-id="" tvg-name="RAF:  A+" tvg-logo="" group-title="AFRICA IPTV",RAF:  A+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3013
+
 #EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="http://www10.0zz0.com/2018/02/25/18/795041188.png" group-title="FRANCE (Full HD)",FR: AB1
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/560
 #EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="" group-title="FRANCE (Full HD)",FR: AB3
