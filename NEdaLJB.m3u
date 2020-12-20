@@ -927,349 +927,580 @@ http://best-live-iptv.xyz:2082/BEST-LIVE5588/BEST-LIVE5588/50
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="http://unoeilensalle.fr/wp-content/uploads/sites/107/2016/12/TF1-Logo-1024x585.jpg" group-title="FRANCESES 2",FR: TF1 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13533
-#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR: TF1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/TF1_HD_%282008-2013%29.svg/1280px-TF1_HD_%282008-2013%29.svg.png" group-title="FRANCESES 2",FR: TF1 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13534
-#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR: France 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/France_2_HD.svg/500px-France_2_HD.svg.png" group-title="FRANCESES 2",FR: France 2 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13535
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/France_3_r%C3%A9gions_2018.jpg" group-title="FRANCESES 2",FR: FRANCE 3 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13536
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FR: France 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/France_3_HD.svg/500px-France_3_HD.svg.png" group-title="FRANCESES 2",FR: France 3 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13537
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR: France 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/France_4_HD.svg" group-title="FRANCESES 2",FR: France 4 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13538
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/597px-Logo_France_5.svg.png" group-title="FRANCESES 2",FR: FRANCE 5 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13539
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR: France 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/France_5_HD.svg/500px-France_5_HD.svg.png" group-title="FRANCESES 2",FR: France 5 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13540
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE O HD" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/france-o-la-chaine-publique-des-cultures-metissees-va-innover-a-la-rentree-4013177/74020342-2-fre-FR/France-O-la-chaine-publique-des-cultures-metissees-va-innover-a-la-rentree.png" group-title="FRANCESES 2",FR: FRANCE O HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13541
-#EXTINF:-1 tvg-id="France O FR" tvg-name="FR: France O" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/France_%C3%94_2005.svg/444px-France_%C3%94_2005.svg.png" group-title="FRANCESES 2",FR: France O
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13542
-#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJOSl97ZrnPbBnH7Hb6mXDVExkEk6Kwp0aGwzz0-Hd6GymMn6k" group-title="FRANCESES 2",FR: ARTE FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13543
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/42/M6HD_2011.png" group-title="FRANCESES 2",FR: M6 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13544
-#EXTINF:-1 tvg-id="M6 FR" tvg-name="FR: M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M6_1987_logo.svg/571px-M6_1987_logo.svg.png" group-title="FRANCESES 2",FR: M6 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13545
-#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="FR: NRJ 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/NRJ12_HD.png" group-title="FRANCESES 2",FR: NRJ 12 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13546
-#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS-PREMIERE HD" tvg-logo="http://tv.directplus.fr/wp-content/uploads/2015/09/paris-premiere.jpg" group-title="FRANCESES 2",FR: PARIS-PREMIERE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13547
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV-BREIZH HD" tvg-logo="http://www.tele.lu/var/ezflow_site/storage/images/channel-2-items/tv-breizh-hd/286604-2-ger-DE/TV-Breizh-HD_logobig.png" group-title="FRANCESES 2",FR: TV-BREIZH HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13548
-#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/1200px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="FRANCESES 2",FR: CHERIE 25 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13549
-#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="https://img.e-marketing.fr/Images/Breves/breve50364-0.JPG" group-title="FRANCESES 2",FR: CHERIE 25 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13550
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png" group-title="FRANCESES 2",FR: France 24 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13552
-#EXTINF:-1 tvg-id="" tvg-name="FR: i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1280px-I24NEWS_logo.svg.png" group-title="FRANCESES 2",FR: i24 News
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13553
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="http://ifjordan.com/en/wp-content/uploads/2016/11/MZmedia-LOGO-TV5Monde-Asie-Pacifique-960PX-660x330.jpg" group-title="FRANCESES 2",FR: TV5 MONDE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13554
-#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS HD" tvg-logo="https://i.pinimg.com/originals/89/2e/f5/892ef5321c74784daa951f5c1b34d313.png" group-title="FRANCESES 2",FR: EURONEWS HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13555
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="https://www.france.tv/images/logos/social/franceinfo.jpg" group-title="FRANCESES 2",FR: FRANCE INFO HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13556
-#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS FHD" tvg-logo="http://www.safewatercube.com/wp-content/uploads/2018/10/11100892-18419026.jpg" group-title="FRANCESES 2",FR: CNEWS FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13557
-#EXTINF:-1 tvg-id="" tvg-name="FR:BFM-PARIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/768px-BFM_Paris_logo_2016.svg.png" group-title="FRANCESES 2",FR:BFM-PARIS HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13558
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="FRANCESES 2",FR: BFM TV FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13559
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="FR: BFM TV HD" tvg-logo="https://img.phonandroid.com/2019/09/bfmtv-plus-droit-conflit-free-altice.jpg" group-title="FRANCESES 2",FR: BFM TV HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13560
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="FR: BFM Business" tvg-logo="https://architecture-pelegrin.com/wp-content/uploads/logo-bfm-business-sans-baseline.jpg" group-title="FRANCESES 2",FR: BFM Business
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13561
-#EXTINF:-1 tvg-id="Game One FR" tvg-name="FR: Game One HD" tvg-logo="https://www.serious-game.fr/wp-content/uploads/2013/06/game_one.jpg" group-title="FRANCESES 2",FR: Game One HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13563
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="FR: CANAL + J HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="FRANCESES 2",FR: CANAL + J HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13564
-#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="FR: CARTOON NETWORK" tvg-logo="https://i.pinimg.com/originals/67/a2/55/67a25589e8f440d27a5a73982512279a.png" group-title="FRANCESES 2",FR: CARTOON NETWORK
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13565
-#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8NwG7G0EBOdE1MI3BrtsAYnrNs2IPsULkCpdVO7AHDOQrc3EE" group-title="FRANCESES 2",FR: DISNEY CINEMA HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13566
-#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="https://p7.hiclipart.com/preview/37/794/397/disney-junior-the-walt-disney-company-logo-disney-channel-television-channel-scratch.jpg" group-title="FRANCESES 2",FR: DISNEY JUNIOR HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13567
-#EXTINF:-1 tvg-id="J-One FR" tvg-name="FR: J-ONE HD" tvg-logo="https://www.cine974.com/img/chaines/j-one.jpg" group-title="FRANCESES 2",FR: J-ONE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13568
-#EXTINF:-1 tvg-id="Mangas FR" tvg-name="FR: MANGAS HD" tvg-logo="https://cdn.imgbin.com/6/2/5/imgbin-logo-mangas-television-channel-tv-logos-DwhVx7hx6mq2qC12VWX5KytYy.jpg" group-title="FRANCESES 2",FR: MANGAS HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13569
-#EXTINF:-1 tvg-id="TIJI FR" tvg-name="FR: TIJI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Tiji_logo.png/revision/latest?cb=20171216123438" group-title="FRANCESES 2",FR: TIJI HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13570
-#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="FR: NICKELODEON HD" tvg-logo="https://i.pinimg.com/originals/43/0b/a0/430ba0c97a7798fc17e8f9cb4bd85e6f.jpg" group-title="FRANCESES 2",FR: NICKELODEON HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13571
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="FR: GULLI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/88/Logo-Gulli.svg" group-title="FRANCESES 2",FR: GULLI FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13572
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="FR: Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/88/Logo-Gulli.svg" group-title="FRANCESES 2",FR: Gulli
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13573
-#EXTINF:-1 tvg-id="" tvg-name="FR: Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="FRANCESES 2",FR: Baby TV
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13574
-#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="FR: PIWI+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="FRANCESES 2",FR: PIWI+
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13575
-#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/17/Nickelodeon_Junior.svg" group-title="FRANCESES 2",FR: NICKELODEON JUNIOR
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13576
-#EXTINF:-1 tvg-id="Nickelodeon Teen FR" tvg-name="FR: NICKELODEON TEEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png" group-title="FRANCESES 2",FR: NICKELODEON TEEN
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13577
-#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR: RMC SPORT 1 FHD" tvg-logo="https://netplus-aio.jcloud.ik-server.com/media/image/0/base/rmc-1.png" group-title="FRANCESES 2",FR: RMC SPORT 1 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13579
-#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR: RMC Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/Logo_RMC_Sport_1_2018.svg" group-title="FRANCESES 2",FR: RMC Sport 1 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13580
-#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR: RMC SPORT 2FHD" tvg-logo="https://i2.wp.com/www.planetecsat.com/wp-content/uploads/2018/07/RMC_SPORT2_PNG_500x500px.png?fit=500%2C500&ssl=1" group-title="FRANCESES 2",FR: RMC SPORT 2FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13581
-#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3a/Logo_RMC_Sport_2_2018.svg" group-title="FRANCESES 2",FR: RMC Sport 2 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13582
-#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="http://www.webtv.so/uploads/images/channel_402_1557033291_social.png" group-title="FRANCESES 2",FR: RMC SPORT 3 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13583
-#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_RMC_Sport_3_2018.svg" group-title="FRANCESES 2",FR: RMC Sport 3 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13584
-#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="FR: RMC SPORT 4 FHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_4.png" group-title="FRANCESES 2",FR: RMC SPORT 4 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13585
-#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/66/Logo_RMC_Sport_4_2018.svg" group-title="FRANCESES 2",FR: RMC Sport 4 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13586
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_5.png" group-title="FRANCESES 2",FR: RMC Sport Live 5 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13587
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="http://www.tvepg.eu/img/france/logo/rmc_sport_live_6.png" group-title="FRANCESES 2",FR: RMC Sport Live 6 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13588
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-live-7-1574.png" group-title="FRANCESES 2",FR: RMC Sport Live 7 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13589
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/153.png" group-title="FRANCESES 2",FR: RMC Sport Live 8 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13590
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_9.png" group-title="FRANCESES 2",FR: RMC Sport Live 9 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13591
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_10.png" group-title="FRANCESES 2",FR: RMC Sport Live 10 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13592
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_11.png" group-title="FRANCESES 2",FR: RMC Sport Live 11 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13593
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="FRANCESES 2",FR: RMC Sport Live 12 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13594
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1579.png" group-title="FRANCESES 2",FR: RMC Sport Live 13 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13595
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="http://www.tvepg.eu/img/france/logo/rmc_sport_live_14.png" group-title="FRANCESES 2",FR: RMC Sport Live 14 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13596
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="http://www.tvepg.eu/img/france/logo/rmc_sport_live_15.png" group-title="FRANCESES 2",FR: RMC Sport Live 15 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13597
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_16.png" group-title="FRANCESES 2",FR: RMC Sport Live 16 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13598
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 Access HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-access-1-1431.png" group-title="FRANCESES 2",FR: RMC Sport 1 Access HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13599
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 Access HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1426.png" group-title="FRANCESES 2",FR: RMC Sport 2 Access HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13600
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 Access HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines_wide/129.png" group-title="FRANCESES 2",FR: RMC Sport 3 Access HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13601
-#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="FR: BeIN Sports 1" tvg-logo="https://i.ytimg.com/vi/dJcAeZ0SfLI/hqdefault_live.jpg" group-title="FRANCESES 2",FR: BeIN Sports 1
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13602
-#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="FR: BEINSPORT 2 FHD" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_2HD_Couleur.jpg" group-title="FRANCESES 2",FR: BEINSPORT 2 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13603
-#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="FR: BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="FRANCESES 2",FR: BeIN Sports 2
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13604
-#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="FR: BEINSPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="FRANCESES 2",FR: BEINSPORT 3 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13605
-#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="FR: BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="FRANCESES 2",FR: BeIN Sports 3
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13606
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="FR: BeIN Sports MAX 4" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX4HD_Couleur.jpg" group-title="FRANCESES 2",FR: BeIN Sports MAX 4
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13607
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="FR: BeIN Sports MAX 5" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: BeIN Sports MAX 5
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13608
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="FR: BeIN Sports MAX 6" tvg-logo="https://i.pinimg.com/originals/5a/37/a6/5a37a69d8fbcfa50000f8c35103b6b0f.png" group-title="FRANCESES 2",FR: BeIN Sports MAX 6
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13609
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="FR: BeIN Sports MAX 7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/1339.png" group-title="FRANCESES 2",FR: BeIN Sports MAX 7
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13610
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="FR: BeIN Sports MAX 8" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: BeIN Sports MAX 8
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13611
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="FR: BeIN Sports MAX 9" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: BeIN Sports MAX 9
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13612
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="FR: BeIN Sports MAX 10" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: BeIN Sports MAX 10
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13613
-#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Equidia_Live_2011.gif" group-title="FRANCESES 2",FR: EQUIDIA LIVE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13614
-#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FR: FOOT +  24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="FRANCESES 2",FR: FOOT +  24 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13615
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png" group-title="FRANCESES 2",FR: RMC Sport News HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13616
-#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="FR: INFOSPORT + HD" tvg-logo="https://mpng.pngfly.com/20180713/lqk/kisspng-infosport-television-channel-logo-sky-news-sport-png-5b486687eb3691.7572316215314714959634.jpg" group-title="FRANCESES 2",FR: INFOSPORT + HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13617
-#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="FR: l'Equipe 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/1024px-Logo_L%27%C3%89quipe_21.svg.png" group-title="FRANCESES 2",FR: l'Equipe 21 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13618
-#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="FR: L'EQUIPE FHD" tvg-logo="https://blog.lequipe.fr/wp-content/uploads/2014/09/lejournallequipe_couv-960x340.png" group-title="FRANCESES 2",FR: L'EQUIPE FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13619
-#EXTINF:-1 tvg-id="OLTV FR" tvg-name="FR: OL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1200px-OLTV_3e_logo.svg.png" group-title="FRANCESES 2",FR: OL TV
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13620
-#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR: TF1 SERIE FILM HD" tvg-logo="http://img.over-blog-kiwi.com/2/03/26/89/obpicUUeo10.jpeg" group-title="FRANCESES 2",FR: TF1 SERIE FILM HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13622
-#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR: CANAL+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1280px-Canal%2B.svg.png" group-title="FRANCESES 2",FR: CANAL+HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13623
-#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="FR: CANAL+CINEMA FHD" tvg-logo="https://mpng.pngfly.com/20180529/xgb/kisspng-canal-cinma-france-television-channel-5b0d660f1c4ba4.3335454315276047511159.jpg" group-title="FRANCESES 2",FR: CANAL+CINEMA FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13624
-#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="FR: CANAL+ CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="FRANCESES 2",FR: CANAL+ CINEMA
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13625
-#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="FR: CANAL + DECALE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/1200px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png" group-title="FRANCESES 2",FR: CANAL + DECALE FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13626
-#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="FR: CANAL+ DECALE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/1200px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png" group-title="FRANCESES 2",FR: CANAL+ DECALE
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13627
-#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="FR: CANAL + FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/1200px-Canal%2B_Family_2013.svg.png" group-title="FRANCESES 2",FR: CANAL + FAMILY FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13628
-#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="FR: CANAL+ FAMILY" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: CANAL+ FAMILY
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13629
-#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="FR: CANAL+ SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/1200px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCESES 2",FR: CANAL+ SERIES FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13630
-#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="FR: CANAL+ SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/1200px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCESES 2",FR: CANAL+ SERIES
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13631
-#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="FR: CINE + CLUB HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f6/Cine%2B_Club_%282011-.n.v.%29.png/revision/latest?cb=20170929070643" group-title="FRANCESES 2",FR: CINE + CLUB HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13632
-#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="FR: CINE+ CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="FRANCESES 2",FR: CINE+ CLUB
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13633
-#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="FR: CINE + CLASSIC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDPtjFSf9oV90j8aWt8DBYPcJPgtZJECsYJUFVTxXXLDXjDfyK" group-title="FRANCESES 2",FR: CINE + CLASSIC FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13634
-#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="FR: CINE+ CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1280px-CinePlusClassic.svg.png" group-title="FRANCESES 2",FR: CINE+ CLASSIC
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13635
-#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="FR: CINE+FAMIZ FHD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Cin%C3%A9-Famiz-300x200.jpg" group-title="FRANCESES 2",FR: CINE+FAMIZ FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13636
-#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="FR: CINE+ FAMIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/CinePlusFamiz_Logo.svg/1280px-CinePlusFamiz_Logo.svg.png" group-title="FRANCESES 2",FR: CINE+ FAMIZ
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13637
-#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="FR: CINE+FRISSON FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-MKAlPrN_yvNsMZaG5-imNxsCTKDotPJkiplscdyppmGAzqYT" group-title="FRANCESES 2",FR: CINE+FRISSON FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13638
-#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="FR: CINE+ FRISSON" tvg-logo="http://img.over-blog-kiwi.com/0/87/49/59/20150330/ob_cc6b48_ob-513c57-cineplusfrisson.jpg" group-title="FRANCESES 2",FR: CINE+ FRISSON
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13639
-#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="FR: CINE+PREMIER FHD" tvg-logo="https://thumb.canalplus.pro/bddpe/unsafe/%7BresolutionXY%7D/smart/82655899" group-title="FRANCESES 2",FR: CINE+PREMIER FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13640
-#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="FR: CINE+ PREMIER HD" tvg-logo="https://thumb.canalplus.pro/bddpe/unsafe/%7BresolutionXY%7D/smart/82655899" group-title="FRANCESES 2",FR: CINE+ PREMIER HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13641
-#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="FR: CINE + EMOTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="FRANCESES 2",FR: CINE + EMOTION FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13642
-#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="FR: Comedie + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/1200px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="FRANCESES 2",FR: Comedie + FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13643
-#EXTINF:-1 tvg-id="Cine Polar FR" tvg-name="FR: POLAR + HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines_wide/125.png" group-title="FRANCESES 2",FR: POLAR + HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13644
-#EXTINF:-1 tvg-id="OCS City FR" tvg-name="FR: OCS_CITY-HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTITqVRkr7g5uFc-3i-5FOoX7xsvflhf_mhH0GwsmqSPx1eNwUU" group-title="FRANCESES 2",FR: OCS_CITY-HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13645
-#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="FR: OCS CHOC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiNVWfKOOcwzRKfONhZ2yxihze-1zMhdkZll56wMdeBj0HjwgC" group-title="FRANCESES 2",FR: OCS CHOC HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13646
-#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="FR: OCS GEANT HD" tvg-logo="http://idata.over-blog.com/0/20/49/74/logos-hd/OCS/ocs-geants.jpg" group-title="FRANCESES 2",FR: OCS GEANT HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13647
-#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="FR: OCS MAX HD" tvg-logo="https://reunion.orange.fr/images/300x225/tv/chaine/YRlpq3nDPu4zUvOG.png" group-title="FRANCESES 2",FR: OCS MAX HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13648
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR: TMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9chuyeIRBCQsjb7feJHgf9obQSyktID1W3Q2NPB1LE0J4F778" group-title="FRANCESES 2",FR: TMC HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13649
-#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="FR: TCM CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/TCM_Cin%C3%A9ma.svg/1200px-TCM_Cin%C3%A9ma.svg.png" group-title="FRANCESES 2",FR: TCM CINEMA
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13650
-#EXTINF:-1 tvg-id="" tvg-name="FR: MY COMEDY" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/6e/4a/e8/6e4ae8c3-51b9-069e-9d08-1e3a292484f1/AppIcon-1x_U007emarketing-85-220-0-8.png/1200x630wa.png" group-title="FRANCESES 2",FR: MY COMEDY
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13651
-#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="FR: Paramount Channel Decale HD" tvg-logo="https://media3.woopic.com/api/v1/images/201%2Fchannel%2F8c8%2F9d4%2F0ab0f0c258365081222292cf27%2Fparamount-channel-decale%7Cclair_2072.png?format=200x200&facedetect=1&quality=85" group-title="FRANCESES 2",FR: Paramount Channel Decale HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13652
-#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="FR: Paramount Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6ngr_kgfD5TJl0YSLgv-_btM3JuC4FNSTYK106rWENNCUf8L2" group-title="FRANCESES 2",FR: Paramount Channel HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13653
-#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="FR: C8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Logo_C8.svg/500px-Logo_C8.svg.png" group-title="FRANCESES 2",FR: C8 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13655
-#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="FR: C8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/C8_logo.jpg" group-title="FRANCESES 2",FR: C8 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13656
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR: W9 FHD" tvg-logo="https://etapes.com/app/uploads/2010/03/w9-reactualise-son-logo.jpg" group-title="FRANCESES 2",FR: W9 FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13657
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR: W9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ea/Logo_W9HD_2011.svg" group-title="FRANCESES 2",FR: W9 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13658
-#EXTINF:-1 tvg-id="" tvg-name="FR: TFX FHD" tvg-logo="https://file1.telestar.fr/var/telestar/storage/images/3/0/7/7/3077039/logo-tfx.jpg?alias=width400&size=x100&format=jpeg" group-title="FRANCESES 2",FR: TFX FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13659
-#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png" group-title="FRANCESES 2",FR: TFX HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13660
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="FRANCESES 2",FR: RMC STORY FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13661
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1kLMQ9Og0CfXeadIH2RDJt8KeFUJ3H0tqBnkDC9cK-BIlmFlC" group-title="FRANCESES 2",FR: RMC STORY HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13662
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR: RMC DECOUVERTE FHD" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: RMC DECOUVERTE FHD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13663
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="http://tv.directplus.fr/wp-content/uploads/2015/09/rmc-decouverte.jpg" group-title="FRANCESES 2",FR: RMC DECOUVERTE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13664
-#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="FRANCESES 2",FR: ALTICE STUDIO HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13665
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR: TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png" group-title="FRANCESES 2",FR: TMC
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13666
-#EXTINF:-1 tvg-id="Canal News FR" tvg-name="FR: CNEWS" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb8AAABxCAMAAAByWF0wAAAAyVBMVEX8AAH///8AAAD8AAD/AAF5AACYAAA0NDT9fX0wAADnAAH/6+v9XV38T0/9hIT+rq7+trb/5eX+x8f8Rkb+3t7/9vb9j4/8GRn9oKD/8PD9WFj+2Nj+u7v9ZWX+p6f+0ND9iIjx8fHa2tr8ISH+mZn9cnKUlJTR0dHExMT8NTX8KSn+xMT9bW39eHg+Pj7+1NSsrKwXFxdlZWWmpqZMTEx3d3f8QUHl5eUtLS1sbGy4uLgeHh79OTmFhYWdnZ1UVFRvAAAWAACLAADCtk+KAAAPWUlEQVR4nO1de1/iuhYt5t6r96AjqAVBEQs+cdTR8S2O55zv/6Fun5A2ayc7bcDh3K4//M3QtE2zurOfSb31tRqri3Wv5m+VUfO32qj5W23U/K02av5WG0vn789/13CBP//6Gv7++FcNF/jjv1/Fn1ejOmr+Vhs1f6uNr+VPePKf/P/+AT8t4R61/K02av5WGzV/q42av98OQoapsSP+3l9uHj4/H27WX+5s+PtqA+O3s18SzibT3X5/azrtyiwuyH55uT97Ox89PweNEEHwPDq/OHt4Z/JXgEBQm9mdAxvQZ+mOcW5u0UulcfhLt38yPGj3osHs9fZud062utoxqMbf49uoAXH+49OePzH5tlHEtYFAMVbPOZXPQRfF6Mdv+BQ2x70Q3WLj0y5uOG1tqzhUXrTNK18dy6uOR1NYgb/XN8xdhrdHW/42wVX29QSKXfWUXo6/LX0v5zgUxPVCbGFaOkrDAbeh0k8hjntU126vKQbL8vd+FphHJDh7qcxfY1dLIBrvZjn+WjF/4gAdg2+REFdKwxPUWeKiR9JFhdja03Wu2RnDcSjH3/vZM29Mgh8Ug8h+gfw1uzrlT/E3b2DBX9z+BB3bEagTY1Vg2vK9s6Zi3EQXHcybCnzb3JU3RKETpe2Xx4A7Jo0GNYmy5a9xqBNA1/JHTaAekj9waX+CGn5Hl/Tn3RTikNHB26k6EiX4eznnjkiEh8r8hXMSTaB7/rpwHkMKUGyDht9QQyhchxJ9cH5VseuAvzPueMQIqMta8Nf4vkz+RAsdPFK7gEe9hRrCV+JaaC8EcOBA/n5whyPBiPLn2fqvkUxKS9N/uBdDkbt3cmtg7EezYlH/iS66Yu9SpA1Yk2eEa6EMgC1/F9zRSHFBXchG/tCLl53jWv7C4UQH49Eu3PoaXmbKbJg9U+g3MDvog1Gw5M9K9UV4c8IfrQIXwd8OOrqp0gLbqa6GgHqycZw2E09IjBGOKvNnTR9pflryR6pA9/wRzraiAIWATkE605ob7mavy5DbQRTbseLPdvIMceOIPzB/LYy/CTq6p9AyIK4zLjb0UKvZ9Kl56DygH2XDn6XpEoO8mI39EiF+rZdhv4QS0QZHe1NRcMopj3tQ6CFWf0eptcQXv81iZMDSfnnk3khCoOePL3949l+I/HliHx0+zd+ecAoaipwQ5mXqUGLbNLRV/GHPzylGbMPx+bvjjoMM0vy05y9Ugcg1XgR/cGYsKEA8K0bYy8dqcECgl0oQlGJ/fzdOL02ut+cUbkAFwuePyBTp8cMhf42nxfI3i4dgg6NZEKtv5IXysRrxhNq0Ui8RTZ/DNDUYc9hPG7RxZorN34fmyYPR+dvZx+PHr7fzAssfLvnbA49Qhr/hPsLR6Zw/FILJRzaJME2MYwbRqT2NpPhQyhVFDA5i+SU8KC5/6wHZ3fNX2ch8+BhJTeksrq39kj6ZC/vlmMqGzyIrMN68IV9VCDJZ17iVu0m4k1mURhXO3iRvqAnRDfWxf6nabjb2C5mrfVMD1DcfQXaUroYpIX/xyDuQvw4VzJmdM0XkbOfkDzoZCXqypIoxsmaHma+ivik7oKxiQCZhmPzdEF19JtIL9+k8Sl+xFH9qGmAx/EGjvpnjT5evk01V0Uctsi4AUxf0TohLNfNgxR/hudPmydp9EB4/d82fEgJcCH+EzpLsSr3bJpuqMJrjZ0FSfgaf6CmPv3Xcz186yu9Czn+65q9xVXiSBfF3ie4tWfBiogta9mQDBOWG2oLmT50/deDx9xN2UyN9MT4aZwb+LO2XCMeFRE4J+6Ujh1GUTtCjntn8HuUizjCddQDVWCQyJgj+/Fleieqc/IfHX4A6SfvmGR6o5PtaafmLVGBODy1G/mDKYO6Y67yH/B3EKTo+S2YA/pQpRgsWf6+oD89G+rQozV9vsnj+CKf7cs6ftlhMogDG4trzFwHF1nboOuBy/EHrRSNbC+Uvca8WzR9M4s4UoDGoM+cPeQ9zZ4AoDD2ZcCnk8PcSgHuYlB+LvxL6rxFHsheu/+AEeZXpXmPKfCsLj8Hw9GB+I0KP+jvfJ/MS+4r67xPdgbtORctf4aXnpsIGkn1XSv7MixHEBrhvFsAzJ322s+weyh1JGkATBmgOO0+eUQw5/CHrs6r4VeJPCkWW4Y+Mn8l9gYKTJX08OniW4DaTP2QH7cjuBU7ipzjY7hsY5PCHMg8VtR+Xvz0YiZSC8WX489sIhdAO9CBSBYiNyhwuU/6Q+pP9SFwbI6O1qWOQwd87qJUfVaWPyV8bh5LnBp67/FG/wB+yLLIy+iPj1RKOsBR3LbvX7ExIChn8IfWnccxt+DPaL6Gg4UDjSZYucFY/0Rc5E0FsgQhLM8ko6Ce9GAnTUIveykaJyRNJ0NufqKWfXPsF1U3cu+HPLH9daoZJXeDFyR+c+pI1guPiz77CdXscM43cu3yBIVPp99TUC1f+QOaWrIp3zV9zLIgEWhrJXhh/eJKMU7Oq99BW20bvFy6dyJcRmEI5MwzhAjIGf6DsbFSZPi5/UeU8Xn2VTEML5A8lfnawVLXUePe+wJ1TUijCu+V10EcrIRn8gaJdTV7IMX+XUQIaUxAXpC2QP5R4jQZfCGW2vFZ/ihcCIhtou0iCmDCXr/igAIjBH3AfzKFrHn9G+yVZ5EHUCkXLORZmv8DVtbEHCK64pbYNB1sIJFmnahlnl1kDmsQPbO0X4D6Qqxos+TPKX1w1S5VQ+ls0f9XlD3t5UexGMaj2kJUcGhwTMPH3UBEWrjhVsa3MoAz+AvU6laMvbP6eUjMbWtm98MAC+UPOWwtVTB8KkK84FDC4uYPMSCGmeDFMEUr9SDn+liZ/frbKAy/SOUAD54w/ZPiG175UujIQQCf6eGEYLsP15oWeWiiLY8rxtzT9F02Ric+MF9tti6n6oxv9R9RGd0EvIyNZ9QKmaNaPbRDVDY8D1Vstc1zgSbjQf0uzP/1swqDc+G9dNZTsSP5wcuBU1VVRrAWYWBsoTEOvRPXigvmhYTHgvr38AftztDT+ZqOK4yGhEapqRmf8oRrdbTWwHeUTwax6hE6H1WUSg2J8rfXn2/b8gez70uIv0rJXXcVsHq74gyGYHdWojP1Q1cK6QpExtIZD4fBpn/YIC/LL4A+l/5YV/5SXLRMqUIWJv94eAtghBCU/mopXkazsVI2VHvDeDzwTfymF0yNCF/at+UMrV7SVn3z+jPZLXGqQNmDkyhKY7JcT0QXwFPsFRVrCCbT4w36c3AH5CmBQbhNpBGDNjI8hgyf5koqS+YeKxWdrbPmT94MTHi/Q5KJ+Ij0ZeBAKTX2di1oA3gcPIWIQeRQFF75k/q/xuiT+cvsWACMBwUH9WXYyyt8VkMWjGUldRXuZGAQm26E1f3dor7rRkvjLrVrGEQ0FDvmDC5HyyOLRxMZpORCriKj+oAFpWfOHV95qN/dcEH9MFeiQP8bOVlkPRRc7ODLQ5mgeXWSG9O+VPX9wx7OAsUeykT+z/XKaD1dQXmAODuo/Z/+D9bW5m41FZnOYt8HqqjZSfOKuwD0BUZ1Da/tl7QH2hdzZzIK/wusG+LsWhTaoLKU4pM7kj+E9zosBzZUQB9BGCr0U/5KYWNUIXon5EyrAkMBKEliSP4ZEOOUP7yYJO4hr7o03Ft0muT0RiICX4I9aPB3QXvzdh8lAZfKnhOsZ05RL/kzVKVJO3NgzH24imtitsDgC7TBa2MaExR+1errxBrfHuvt8CzQ7T0j8mfXfhlBa4XIYCQ71H7H8eY75vpIwhp1DO9vXIBcjSHeh9L+rix2Qtr+213+afeuCt8/CBtfrjxfxdGuKsDHlT7XYqHKYOUr674RtqL+XHI+m9lLKAPaAlZdSdJQ1GGhACgFUHn+6rbOCix+vN6Etc/fy8PrzIvM1jBFuJn/H6jMbqw3Krn/A1gWqgpkjp7cM3gb4tkDOo70qVAhCY9s+fh2Bud38HMYAW3n+jMt/TPy1r3YQsFrULxXL70qot63ikl7lUWRl4HektwiXPw0L12Dyd68dMICRI/6wyTbVOhFV98/K30s7KeY31cM7KmcA66KVqcTvTGezwXek54vjwd2/x3brT83OExJ/Zvulo9ovHllNkaLi/pH5P/q49JbI90sXXfiu2kiAcH/YGfSf+oMOnItzO4Hz7Ze1tRfLGdQYXmPKH85X6+NoVfcfLNxLt1NP0eLQtVW/DEEqV1KMy9QvJYB7GNAwJngr8afP1jjmTxNWKZ6iawv2deGF42UoJhB//0ir7z4E5L7JlvwV63VmbTVqyTF/mp3qitEF4dGvlarJdVfGUMTPZv9dGxX4bIytVeRP5yy75Q9/ZiWGX6yl1oVr1LprbtX1HGoAx2b/awsVaC4wZNovR8h+SWITZMWyU/vFI3aTjDDM3Sj+BxmuaQtRaGqOlxaxr/bQhr93/ha85gJtpvyhmEXaekLNPq7l75IK2KnOqQDlqNmDqI3Ny+hzULbA9xb2/QdT9JPNn7LaivH4rvmjwgW+uqkjHa5Rv//hsZJh0u3Qp80sv7/yi3kv09dT2fxRg+pp4miO+SOrYJA8UJMt+vZN+AQTTtFTgh4sHbX9/hHz03/0dzct+cNBkezxcbzROX9gjUUE5NtQSg1fPOwosyay0dxCb4D998duDF+9jRGYc/NM++WQsl/ip4fbdLq2Xzy8DjO1BhWjBE+214J4BM1Xb2UcTIUyErb2S4oHsyPBWN/ClL8rjfx5RHDZufzh0kC0HT4Vgukh3ZVe/JLx+bgWVeJU6vup6yYZZJRnM/mDyx2lh0dOhGv+iAm0BYcUzwmq4y0/xKahyu2gT55e9vvT9xeENxicvz1yKpuY/BXzJcVTUDK+yvfDiRFGdiJY8OJRMWxi1WZ2iuhrlt8ewA/PpCj//ff3h4/z0XOQ3CMIgufn0fmPxwez5SLxV9AzT+pX7mH+QfKtRV89Zz+n/ybH31g43qT1n9jdVDBQyh3SLvXVGx5PgKqU/kR3OGmjl6R92Fccf/lPef5i3N18ft6/vn4+3LxYVqMB+fO4RQ2GU4pZbC6q3MXU2PAYyfrbjZb0zSrf7w07m13DyRX5Kw/E3/83EqIvNwfXnU7ndPA05jBf8/d7wUpovZq/VcfX8qexTP4JPy3hHrX8rTZq/lYbNX+rjZq/1UZtv9T2S3n+alRFzd9qo+ZvtfGF/NVwga/i7+//1HCBv//6Gv5qOEXN32qj5m+1UfO32qj5W23U/K021v8HRfu7xSFHq/gAAAAASUVORK5CYII=" group-title="FRANCESES 2",FR: CNEWS
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13667
-#EXTINF:-1 tvg-id="Canal Star FR" tvg-name="FR: CSTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1280px-CStar_vector.svg.png" group-title="FRANCESES 2",FR: CSTAR
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13668
-#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Crime_District_logo_2016.svg/1200px-Crime_District_logo_2016.svg.png" group-title="FRANCESES 2",FR: CRIME DISTRICT HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13669
-#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: PLANETE + CI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREfEGhLFuSQg0h59nawi8fGR26syJ-vvhiZ99xlN4YBzk3iCgE" group-title="FRANCESES 2",FR: PLANETE + CI HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13670
-#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER HD" tvg-logo="https://cdn.imgbin.com/7/16/9/imgbin-warner-tv-television-channel-logo-television-show-others-pJVpGQuhCXeLS1nHALG3YeF1J.jpg" group-title="FRANCESES 2",FR: WARNER HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13671
-#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR: RTL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/RTL9_%282011%29.svg/1200px-RTL9_%282011%29.svg.png" group-title="FRANCESES 2",FR: RTL 9 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13672
-#EXTINF:-1 tvg-id="serieclub FR" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://4.bp.blogspot.com/-svUNcuW1h2w/UXP4BuhA76I/AAAAAAAAG-Y/ChdfGThlaHI/s1600/image+logo+S%C3%A9rie+Club+Astra+channel+tv.png" group-title="FRANCESES 2",FR: SERIE CLUB HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13673
-#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR:13EME RUE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/1200px-Logo_13e_Rue_%282017%29.svg.png" group-title="FRANCESES 2",FR:13EME RUE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13674
-#EXTINF:-1 tvg-id="Teva FR" tvg-name="FR: TEVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg" group-title="FRANCESES 2",FR: TEVA HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13675
-#EXTINF:-1 tvg-id="Action FR" tvg-name="FR:ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="FRANCESES 2",FR:ACTION HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13676
-#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="FR: AB1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_AB1_2011.svg/1200px-Logo_AB1_2011.svg.png" group-title="FRANCESES 2",FR: AB1 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13677
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AB3_logo.svg/1200px-AB3_logo.svg.png" group-title="FRANCESES 2",FR: AB3 HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13678
-#EXTINF:-1 tvg-id="" tvg-name="FR: AUTO MOTO HD" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: AUTO MOTO HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13680
-#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR: PLANETE + A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/PLAN%C3%88TE%2B_A%26E.png" group-title="FRANCESES 2",FR: PLANETE + A&E HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13681
-#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLjuO9v7GstjP1XxVGbBy-2s4Pcky-iIXKDHxeZ53XIopgmDq5" group-title="FRANCESES 2",FR: TOUTE L'HISTOIRE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13682
-#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="FR: SCIENCES & VIE HD" tvg-logo="https://file1.science-et-vie.com/extension/scienceetvie/design/scienceetvie/images/layout/main-logo.png" group-title="FRANCESES 2",FR: SCIENCES & VIE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13683
-#EXTINF:-1 tvg-id="LCP FR" tvg-name="FR: LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1200px-Logo_LCP-AN_%282019%29.svg.png" group-title="FRANCESES 2",FR: LCP
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13684
-#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="FR: NATIONAL-GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="FRANCESES 2",FR: NATIONAL-GEO WILD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13685
-#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="FRANCESES 2",FR: NATIONAL GEOGRAPHIC HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13686
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY-FAMILY HD" tvg-logo="https://www.megazap.fr/photo/art/grande/16626752-21361005.jpg?v=1503299487" group-title="FRANCESES 2",FR: DISCOVERY-FAMILY HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13687
-#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR: DISCOVERY-INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="FRANCESES 2",FR: DISCOVERY-INVESTIGATION HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13688
-#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR: CHASSE & PECHE HD" tvg-logo="http://idata.over-blog.com/0/20/49/74/logos-hd/AB-Groupe/chasse-peche.jpg" group-title="FRANCESES 2",FR: CHASSE & PECHE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13689
-#EXTINF:-1 tvg-id="E! FR" tvg-name="FR: E! ENTERTAINEMENT HD" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="FRANCESES 2",FR: E! ENTERTAINEMENT HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13690
-#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="FR: Voyage HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCESES 2",FR: Voyage HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13691
-#EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR:ANIMAUX HD" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2017/04/LOGO_ANIMAUX_COULEUR_RVB.png?resize=678%2C381&ssl=1" group-title="FRANCESES 2",FR:ANIMAUX HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13692
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB EXPLORE HD" tvg-logo="https://rmb.be/files/pictures/brands/logo/47/47-thumb.00b6.jpg" group-title="FRANCESES 2",FR: AB EXPLORE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13693
-#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="FR: NRJ HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="FRANCESES 2",FR: NRJ HITS HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13695
-#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="FR: Trace Africa" tvg-logo="https://trace.tv/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCESES 2",FR: Trace Africa
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13696
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Kitoko" tvg-logo="" group-title="FRANCESES 2",FR: Trace Kitoko
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13697
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Naija" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNJvpOu5D4Sshc87xN7pMf-TdObWE2gi1qmfogVfK1nNXCreCx" group-title="FRANCESES 2",FR: Trace Naija
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13698
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Toca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV2PDZ1o-oNs-wEX1kYTdHzQC8UG9FlXQcoQD1edl6famGrHTS" group-title="FRANCESES 2",FR: Trace Toca
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13699
-#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="FR: Trace Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Trace_Tropical.svg/1200px-Trace_Tropical.svg.png" group-title="FRANCESES 2",FR: Trace Tropical
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13700
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="FR: MCM Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdmQdnGkbd3LFDItQNDEtya0FfEpqrOzOJEhwoqC0RYGksDZyw" group-title="FRANCESES 2",FR: MCM Top
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13701
-#EXTINF:-1 tvg-id="MTV HD FR" tvg-name="FR: MTV HD" tvg-logo="https://i.pinimg.com/originals/f2/96/43/f296437b67192658e1a9b095b2f6a063.jpg" group-title="FRANCESES 2",FR: MTV HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13702
-#EXTINF:-1 tvg-id="BET HD FR" tvg-name="FR: BET HD" tvg-logo="data:image/png;base64,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" group-title="FRANCESES 2",FR: BET HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13703
-#EXTINF:-1 tvg-id="MCM HD FR" tvg-name="FR: MCM" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/MCM_logo_2017.svg/1200px-MCM_logo_2017.svg.png" group-title="FRANCESES 2",FR: MCM
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13704
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV DANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MTV_DANCE_logo.svg/493px-MTV_DANCE_logo.svg.png" group-title="FRANCESES 2",FR: MTV DANCE
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13705
-#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="FR: M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="FRANCESES 2",FR: M6 Music
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13706
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="FR: Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCESES 2",FR: Mezzo
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13707
-#EXTINF:-1 tvg-id="My Cuisine FR" tvg-name="FR: MY CUISINE HD" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2017/05/mycuisine.png?fit=864%2C529&ssl=1" group-title="FRANCESES 2",FR: MY CUISINE HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13708
-#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR: Ushuaia TV" tvg-logo="https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/styles/image_750_324/public/ush.jpg" group-title="FRANCESES 2",FR: Ushuaia TV
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13709
-#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR: TREK HD" tvg-logo="https://pbs.twimg.com/profile_images/1037311013480280064/6Il1Bz4c_400x400.jpg" group-title="FRANCESES 2",FR: TREK HD
-http://esporao.mine.nu:21921/xtreamaudio/lqTnOTN6XD/13710
+#EXTINF:-1 tvg-id="" tvg-name="FR:France5.SD" tvg-logo="" group-title="FRANCE (SD)",FR:France5.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24064
+#EXTINF:-1 tvg-id="" tvg-name="FR:France4.SD" tvg-logo="" group-title="FRANCE (SD)",FR:France4.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24065
+#EXTINF:-1 tvg-id="" tvg-name="FR:France3.SD" tvg-logo="" group-title="FRANCE (SD)",FR:France3.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24066
+#EXTINF:-1 tvg-id="" tvg-name="FR:France2.SD" tvg-logo="" group-title="FRANCE (SD)",FR:France2.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24067
+#EXTINF:-1 tvg-id="" tvg-name="FR:Eurosport1.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Eurosport1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24068
+#EXTINF:-1 tvg-id="" tvg-name="FR:Equipe21.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Equipe21.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24069
+#EXTINF:-1 tvg-id="" tvg-name="FR:Equidia.Live.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Equidia.Live.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24070
+#EXTINF:-1 tvg-id="" tvg-name="FR:DISNEY.Junior.SD" tvg-logo="" group-title="FRANCE (SD)",FR:DISNEY.Junior.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24073
+#EXTINF:-1 tvg-id="" tvg-name="FR:Disney.Cinema.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Disney.Cinema.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24074
+#EXTINF:-1 tvg-id="" tvg-name="FR:Disney.Channel.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Disney.Channel.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24076
+#EXTINF:-1 tvg-id="" tvg-name="FR:Discovery.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Discovery.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24077
+#EXTINF:-1 tvg-id="" tvg-name="FR:Discovery.science.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Discovery.science.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24078
+#EXTINF:-1 tvg-id="" tvg-name="FR:Discovery.investigation.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Discovery.investigation.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24079
+#EXTINF:-1 tvg-id="" tvg-name="FR:CStar.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CStar.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24081
+#EXTINF:-1 tvg-id="" tvg-name="FR:Crime.District.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Crime.District.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24082
+#EXTINF:-1 tvg-id="" tvg-name="FR:Comedie.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Comedie.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24083
+#EXTINF:-1 tvg-id="" tvg-name="FR:CNews.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CNews.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24084
+#EXTINF:-1 tvg-id="" tvg-name="FR:CineEmotion.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CineEmotion.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24085
+#EXTINF:-1 tvg-id="" tvg-name="FR:CineClub.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CineClub.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24086
+#EXTINF:-1 tvg-id="" tvg-name="FR:CinéPremier.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CinéPremier.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24087
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cinéfrisson.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Cinéfrisson.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24088
+#EXTINF:-1 tvg-id="" tvg-name="FR:CinéFamiz.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CinéFamiz.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24089
+#EXTINF:-1 tvg-id="" tvg-name="FR:CinéClassic.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CinéClassic.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24090
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cherie25.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Cherie25.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24091
+#EXTINF:-1 tvg-id="" tvg-name="FR:Chasse.et.Pêche.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Chasse.et.Pêche.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24092
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cartoon.Network.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Cartoon.Network.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24093
+#EXTINF:-1 tvg-id="" tvg-name="FR:canalj.SD" tvg-logo="" group-title="FRANCE (SD)",FR:canalj.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24094
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal.Sport.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Canal.Sport.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24095
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal.Series.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Canal.Series.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24096
+#EXTINF:-1 tvg-id="" tvg-name="FR:CANAL.SD" tvg-logo="" group-title="FRANCE (SD)",FR:CANAL.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24097
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal.Family.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Canal.Family.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24098
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal.Cinema.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Canal.Cinema.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24099
+#EXTINF:-1 tvg-id="" tvg-name="FR:C8.SD" tvg-logo="" group-title="FRANCE (SD)",FR:C8.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24100
+#EXTINF:-1 tvg-id="" tvg-name="FR:Boomerang.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Boomerang.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24101
+#EXTINF:-1 tvg-id="" tvg-name="FR:Boing.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Boing.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24102
+#EXTINF:-1 tvg-id="" tvg-name="FR:ARTE.SD" tvg-logo="" group-title="FRANCE (SD)",FR:ARTE.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24104
+#EXTINF:-1 tvg-id="" tvg-name="FR:Animaux.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Animaux.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24105
+#EXTINF:-1 tvg-id="" tvg-name="FR:altice.studio.SD" tvg-logo="" group-title="FRANCE (SD)",FR:altice.studio.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24106
+#EXTINF:-1 tvg-id="" tvg-name="FR:Action.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Action.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24107
+#EXTINF:-1 tvg-id="" tvg-name="FR:AB3.SD" tvg-logo="" group-title="FRANCE (SD)",FR:AB3.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24108
+#EXTINF:-1 tvg-id="" tvg-name="FR:AB1.SD" tvg-logo="" group-title="FRANCE (SD)",FR:AB1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24109
+#EXTINF:-1 tvg-id="" tvg-name="FR:AB.Moteurs.SD" tvg-logo="" group-title="FRANCE (SD)",FR:AB.Moteurs.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24110
+#EXTINF:-1 tvg-id="" tvg-name="FR:6ter.SD" tvg-logo="" group-title="FRANCE (SD)",FR:6ter.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24111
+#EXTINF:-1 tvg-id="" tvg-name="FR:13eme.rue.SD" tvg-logo="" group-title="FRANCE (SD)",FR:13eme.rue.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24112
+#EXTINF:-1 tvg-id="" tvg-name="IT | Dazn Sat SD" tvg-logo="" group-title="ITALIA IPTV",IT | Dazn Sat SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26417
+#EXTINF:-1 tvg-id="" tvg-name="IT | Italia 1 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Italia 1 SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26195
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rete 4 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rete 4 SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26200
+#EXTINF:-1 tvg-id="" tvg-name="IT | LA 7 D SD" tvg-logo="" group-title="ITALIA IPTV",IT | LA 7 D SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26217
+#EXTINF:-1 tvg-id="" tvg-name="IT | Canale 5 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Canale 5 SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26229
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rai 4 SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rai 4 SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26235
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rai Premium SD" tvg-logo="" group-title="ITALIA IPTV",IT | Rai Premium SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26274
+#EXTINF:-1 tvg-id="" tvg-name="FR:W9.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE (SD)",FR:W9.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24006
+#EXTINF:-1 tvg-id="" tvg-name="FR:Voyages.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCE (SD)",FR:Voyages.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24007
+#EXTINF:-1 tvg-id="" tvg-name="FR:Ushuaïa.SD" tvg-logo="https://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2018-04/Ushuaia-TV-un-nouveau-logo-plus-nature-a-compter-du-11-septembre.jpg" group-title="FRANCE (SD)",FR:Ushuaïa.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24008
+#EXTINF:-1 tvg-id="" tvg-name="FR:TV.Breizh.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="FRANCE (SD)",FR:TV.Breizh.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24009
+#EXTINF:-1 tvg-id="" tvg-name="FR:TREK.SD" tvg-logo="https://pbs.twimg.com/profile_images/1037311013480280064/6Il1Bz4c_400x400.jpg" group-title="FRANCE (SD)",FR:TREK.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24010
+#EXTINF:-1 tvg-id="" tvg-name="FR:Trace.Urban.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="FRANCE (SD)",FR:Trace.Urban.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24011
+#EXTINF:-1 tvg-id="" tvg-name="FR:Toute.histoire.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/1200px-Toute_l%27Histoire_%282013%29.svg.png" group-title="FRANCE (SD)",FR:Toute.histoire.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24013
+#EXTINF:-1 tvg-id="" tvg-name="FR:TMC.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png" group-title="FRANCE (SD)",FR:TMC.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24014
+#EXTINF:-1 tvg-id="" tvg-name="FR:tiji.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="FRANCE (SD)",FR:tiji.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24015
+#EXTINF:-1 tvg-id="" tvg-name="FR:TFX.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/TFX_logo.png" group-title="FRANCE (SD)",FR:TFX.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24016
+#EXTINF:-1 tvg-id="" tvg-name="FR:TF1.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png" group-title="FRANCE (SD)",FR:TF1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24017
+#EXTINF:-1 tvg-id="" tvg-name="FR:TCM.Cinema.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/TCM_Cin%C3%A9ma.svg" group-title="FRANCE (SD)",FR:TCM.Cinema.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24019
+#EXTINF:-1 tvg-id="" tvg-name="FR:Téva.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/T%C3%A9va.svg/469px-T%C3%A9va.svg.png" group-title="FRANCE (SD)",FR:Téva.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24020
+#EXTINF:-1 tvg-id="" tvg-name="FR:TéléTOON.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="FRANCE (SD)",FR:TéléTOON.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24021
+#EXTINF:-1 tvg-id="" tvg-name="FR:Syfy.SD" tvg-logo="https://pmctvline2.files.wordpress.com/2017/05/syfy-new-logo.jpg?w=620" group-title="FRANCE (SD)",FR:Syfy.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24022
+#EXTINF:-1 tvg-id="" tvg-name="FR:Serie.Club.SD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/01/s%C3%A9rie-club.jpg" group-title="FRANCE (SD)",FR:Serie.Club.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24024
+#EXTINF:-1 tvg-id="" tvg-name="FR:Science.et.Vie.SD" tvg-logo="https://pbs.twimg.com/profile_images/1041618838205485056/Q1P-3PFc_400x400.jpg" group-title="FRANCE (SD)",FR:Science.et.Vie.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24025
+#EXTINF:-1 tvg-id="" tvg-name="FR:RTL9.SD" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/12_large.png" group-title="FRANCE (SD)",FR:RTL9.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24026
+#EXTINF:-1 tvg-id="" tvg-name="FR:Rmc.Story.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_RMC_Story_2018.jpg" group-title="FRANCE (SD)",FR:Rmc.Story.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24027
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport4.SD" tvg-logo="https://2.bp.blogspot.com/-r9GIuGTlgiE/W6L9x0XgD2I/AAAAAAAADAE/cWBXKgKGo3YkYNZDlt2rZtg5H-U0IHq4gCPcBGAYYCw/s1600/a1430.png" group-title="FRANCE (SD)",FR:RMC.Sport4.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24028
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport3.SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1429.png" group-title="FRANCE (SD)",FR:RMC.Sport3.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24029
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport2.SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="FRANCE (SD)",FR:RMC.Sport2.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24030
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport1.SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1427.png" group-title="FRANCE (SD)",FR:RMC.Sport1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24031
+#EXTINF:-1 tvg-id="" tvg-name="FR:Rmc.Sport.News.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png" group-title="FRANCE (SD)",FR:Rmc.Sport.News.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24032
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.decouverte.SD" tvg-logo="https://img.over-blog-kiwi.com/0/87/49/59/20190114/ob_f6ad34_rmc-decouverte.jpg" group-title="FRANCE (SD)",FR:RMC.decouverte.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24033
+#EXTINF:-1 tvg-id="" tvg-name="FR:Planete.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Planete%2B_logo_2011.svg/1200px-Planete%2B_logo_2011.svg.png" group-title="FRANCE (SD)",FR:Planete.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24034
+#EXTINF:-1 tvg-id="" tvg-name="FR:Planete.CI.SD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/768x/smart/creativemedia-image.canalplus.pro/content/0001/06/d12bea4ef2ea0339b103396ccf308127f2a22fb3.png" group-title="FRANCE (SD)",FR:Planete.CI.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24035
+#EXTINF:-1 tvg-id="" tvg-name="FR:Planete.AE.SD" tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="FRANCE (SD)",FR:Planete.AE.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24036
+#EXTINF:-1 tvg-id="" tvg-name="FR:Piwi.SD" tvg-logo="https://tv.directplus.fr/wp-content/uploads/2015/10/piwiplus.jpg" group-title="FRANCE (SD)",FR:Piwi.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24037
+#EXTINF:-1 tvg-id="" tvg-name="FR:Paris.Premiere.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1280px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE (SD)",FR:Paris.Premiere.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24038
+#EXTINF:-1 tvg-id="" tvg-name="FR:Paramount.channel.SD" tvg-logo="https://vignette.wikia.nocookie.net/fictionaltvstations/images/a/a7/Paramount_Network_Logo.png/revision/latest?cb=20140603201132" group-title="FRANCE (SD)",FR:Paramount.channel.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24039
+#EXTINF:-1 tvg-id="" tvg-name="FR:Ocs.Max.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Ocs.Max.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24040
+#EXTINF:-1 tvg-id="" tvg-name="FR:Ocs.Geants.SD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ocsmax.png" group-title="FRANCE (SD)",FR:Ocs.Geants.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24041
+#EXTINF:-1 tvg-id="" tvg-name="FR:Ocs.City.SD" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/11/ocscity-frequence.png" group-title="FRANCE (SD)",FR:Ocs.City.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24042
+#EXTINF:-1 tvg-id="" tvg-name="FR:Ocs.Choc.SD" tvg-logo="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AOCS_Choc.svg&psig=AOvVaw3y1KN2kU3NRARhK5MZgS5F&ust=1588268964675000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCky5CZjukCFQAAAAAdAAAAABAD" group-title="FRANCE (SD)",FR:Ocs.Choc.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24043
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/NRJ12_HD.png" group-title="FRANCE (SD)",FR: NRJ12.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24044
+#EXTINF:-1 tvg-id="" tvg-name="FR:NRJ.Hits.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="FRANCE (SD)",FR:NRJ.Hits.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24045
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon1.SD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Logo-Nickelodeon-1_v2.png" group-title="FRANCE (SD)",FR: Nickelodeon1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24046
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/300px-Nickelodeon_logo.svg.png" group-title="FRANCE (SD)",FR: Nickelodeon.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24047
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon.Junior.SD" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fac84c77e89cd9b32.2Epng/1200x630/crop-from/top/quality/80/nickelodeon-junior.png" group-title="FRANCE (SD)",FR: Nickelodeon.Junior.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24048
+#EXTINF:-1 tvg-id="" tvg-name="FR: Natgeo.SD" tvg-logo="https://www.nationalgeographic.fr/images/logo.png" group-title="FRANCE (SD)",FR: Natgeo.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24049
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat.geo.wild.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" group-title="FRANCE (SD)",FR: Nat.geo.wild.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24050
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas.SD" tvg-logo="https://i7.pngguru.com/preview/874/784/48/logo-mangas-television-channel-tv-logos.jpg" group-title="FRANCE (SD)",FR: Mangas.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24053
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6.SD" tvg-logo="https://img.favpng.com/20/14/25/bmw-m6-logo-television-png-favpng-3ztpPXbkkv60T1jpWezmzyGaK.jpg" group-title="FRANCE (SD)",FR: M6.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24054
+#EXTINF:-1 tvg-id="" tvg-name="FR:LCP.SD" tvg-logo="" group-title="FRANCE (SD)",FR:LCP.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24055
+#EXTINF:-1 tvg-id="" tvg-name="FR:LCI.SD" tvg-logo="" group-title="FRANCE (SD)",FR:LCI.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24056
+#EXTINF:-1 tvg-id="" tvg-name="FR:INFOSPORT.SD" tvg-logo="" group-title="FRANCE (SD)",FR:INFOSPORT.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24057
+#EXTINF:-1 tvg-id="" tvg-name="FR:Gulli.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Gulli.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24058
+#EXTINF:-1 tvg-id="" tvg-name="FR:Golf.channel.SD" tvg-logo="" group-title="FRANCE (SD)",FR:Golf.channel.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24060
+#EXTINF:-1 tvg-id="" tvg-name="FR:gameone1.SD" tvg-logo="" group-title="FRANCE (SD)",FR:gameone1.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24061
+#EXTINF:-1 tvg-id="" tvg-name="FR:FranceO.SD" tvg-logo="" group-title="FRANCE (SD)",FR:FranceO.SD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24063
 
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="http://www3.0zz0.com/2018/02/23/15/291480785.png" group-title="FRANCE (Full HD)",FR: TF1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/62
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1" tvg-logo="" group-title="FRANCE (Full HD)",FR: TF1 +1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6033
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIE" tvg-logo="" group-title="FRANCE (Full HD)",FR: TF1 SERIE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3272
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="http://www11.0zz0.com/2018/02/23/17/941335757.png" group-title="FRANCE (Full HD)",FR: M6
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/63
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2" tvg-logo="http://www7.0zz0.com/2018/02/23/17/368272521.png" group-title="FRANCE (Full HD)",FR: FRANCE 2
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/387
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3" tvg-logo="http://store6.up-00.com/2017-05/149368437109571.png" group-title="FRANCE (Full HD)",FR: FRANCE 3
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/388
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4" tvg-logo="http://store6.up-00.com/2017-05/149368442362181.jpg" group-title="FRANCE (Full HD)",FR: FRANCE 4
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/395
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://store6.up-00.com/2017-05/149368445721411.jpg" group-title="FRANCE (Full HD)",FR: FRANCE 5 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/394
+#EXTINF:-1 tvg-id="" tvg-name="FR: FranceO" tvg-logo="http://store6.up-00.com/2017-05/149368448433811.png" group-title="FRANCE (Full HD)",FR: FranceO
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1827
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="http://store6.up-00.com/2017-05/149368455921461.jpg" group-title="FRANCE (Full HD)",FR: W9
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/67
+#EXTINF:-1 tvg-id="" tvg-name="YFR: FRANCE 24" tvg-logo="http://store6.up-00.com/2017-05/149368765749831.jpg" group-title="FRANCE (Full HD)",YFR: FRANCE 24
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/567
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="http://www5.0zz0.com/2018/02/25/18/382346582.png" group-title="FRANCE (Full HD)",FR: TMC
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/564
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: VICELAND HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6122
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde" tvg-logo="http://store6.up-00.com/2017-05/149368749852221.jpg" group-title="FRANCE (Full HD)",FR: TV5 Monde
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2012
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="http://store6.up-00.com/2017-05/149368769851671.jpg" group-title="FRANCE (Full HD)",FR: LCI
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1905
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP" tvg-logo="http://store6.up-00.com/2017-05/149368754479931.jpg" group-title="FRANCE (Full HD)",FR: LCP
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2013
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12" tvg-logo="http://www13.0zz0.com/2018/02/25/18/331721004.png" group-title="FRANCE (Full HD)",FR: NRJ12
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/562
+#EXTINF:-1 tvg-id="" tvg-name="****_Cinema_Fr_****" tvg-logo="http://store6.up-00.com/2017-05/149368551236441.jpg" group-title="FRANCE (Full HD)",****_Cinema_Fr_****
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1661
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME Rue" tvg-logo="http://www9.0zz0.com/2017/11/21/02/228266009.png" group-title="FRANCE (Full HD)",FR: 13EME Rue
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/68
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+" tvg-logo="http://www3.0zz0.com/2017/11/21/01/644493617.png" group-title="FRANCE (Full HD)",FR: Canal+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/70
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema" tvg-logo="http://www11.0zz0.com/2017/11/21/01/198395669.png" group-title="FRANCE (Full HD)",FR: Canal+ Cinema
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/73
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Family" tvg-logo="http://www5.0zz0.com/2017/11/21/01/331262675.png" group-title="FRANCE (Full HD)",FR: Canal+ Family
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/71
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Decale" tvg-logo="http://www6.0zz0.com/2017/11/21/01/920435318.png" group-title="FRANCE (Full HD)",FR: Canal+ Decale
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/72
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Series" tvg-logo="http://www3.0zz0.com/2017/11/21/01/444096920.png" group-title="FRANCE (Full HD)",FR: Canal+ Series
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/74
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Primer" tvg-logo="http://store6.up-00.com/2017-05/149368603047521.png" group-title="FRANCE (Full HD)",FR: Cine+ Primer
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/75
+#EXTINF:-1 tvg-id="" tvg-name="FR: Polar+" tvg-logo="http://store6.up-00.com/2017-05/149368615038011.jpg" group-title="FRANCE (Full HD)",FR: Polar+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/81
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Classic" tvg-logo="http://store6.up-00.com/2017-05/149368582994611.jpg" group-title="FRANCE (Full HD)",FR: Cine+ Classic
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/79
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ emotion" tvg-logo="http://store6.up-00.com/2017-05/149368586955111.png" group-title="FRANCE (Full HD)",FR: Cine+ emotion
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/78
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Famiz" tvg-logo="http://store6.up-00.com/2017-05/149368590750281.png" group-title="FRANCE (Full HD)",FR: Cine+ Famiz
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/77
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Frission HD" tvg-logo="http://store6.up-00.com/2017-05/149368598461851.png" group-title="FRANCE (Full HD)",FR: Cine+ Frission HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/76
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLUB" tvg-logo="" group-title="FRANCE (Full HD)",FR: CINE+ CLUB
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3022
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Choc" tvg-logo="http://www12.0zz0.com/2018/02/25/18/306980374.png" group-title="FRANCE (Full HD)",FR: OCS Choc
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/553
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS City" tvg-logo="http://www10.0zz0.com/2018/02/25/18/504729343.jpg" group-title="FRANCE (Full HD)",FR: OCS City
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/554
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geants" tvg-logo="http://www8.0zz0.com/2018/02/25/18/609406218.png" group-title="FRANCE (Full HD)",FR: OCS Geants
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/555
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="http://www5.0zz0.com/2018/02/25/18/911033182.png" group-title="FRANCE (Full HD)",FR: OCS MAX
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/556
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: NOVELAS HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6035
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 HD" tvg-logo="http://store6.up-00.com/2017-05/149369301960741.jpg" group-title="FRANCE (Full HD)",FR: RTL9 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/64
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action" tvg-logo="http://www14.0zz0.com/2017/11/18/12/767949480.jpg" group-title="FRANCE (Full HD)",FR: Action
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/66
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="" group-title="FRANCE (Full HD)",FR: TCM CINEMA
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3021
+#EXTINF:-1 tvg-id="" tvg-name="FR: Syfy" tvg-logo="http://store6.up-00.com/2017-05/149368661618891.png" group-title="FRANCE (Full HD)",FR: Syfy
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/796
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB" tvg-logo="http://www11.0zz0.com/2018/02/25/18/607864485.png" group-title="FRANCE (Full HD)",FR: SERIE CLUB
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/558
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 1" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1563
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 2" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 2
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1564
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 3" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 3
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1565
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 4" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 4
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1566
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 5" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 5
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1567
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 6" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 6
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1568
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 7" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 7
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1569
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 8" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 8
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1570
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 9" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 9
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1571
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 10" tvg-logo="http://store6.up-00.com/2017-05/149368677604951.png" group-title="FRANCE (Full HD)",FR: Box Office 10
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1572
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 11" tvg-logo="" group-title="FRANCE (Full HD)",FR: Box Office 11
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3007
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 12" tvg-logo="" group-title="FRANCE (Full HD)",FR: Box Office 12
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3008
+#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 13" tvg-logo="" group-title="FRANCE (Full HD)",FR: Box Office 13
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3009
+#EXTINF:-1 tvg-id="" tvg-name="****_Culture_Fr_****" tvg-logo="http://store6.up-00.com/2017-05/149369112128151.jpg" group-title="FRANCE (Full HD)",****_Culture_Fr_****
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1662
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="http://www4.0zz0.com/2018/02/25/18/321554051.png" group-title="FRANCE (Full HD)",FR: ANIMAUX
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/815
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse et Peche" tvg-logo="http://www4.0zz0.com/2017/11/21/01/533537136.jpg" group-title="FRANCE (Full HD)",FR: Chasse et Peche
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/69
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT" tvg-logo="" group-title="FRANCE (Full HD)",FR: CRIME DISTRICT
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4811
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery" tvg-logo="http://store6.up-00.com/2017-05/149369177072431.jpg" group-title="FRANCE (Full HD)",FR: Discovery
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/811
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION-HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: DISCOVERY INVESTIGATION-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6041
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE" tvg-logo="http://store6.up-00.com/2017-05/149369183268921.png" group-title="FRANCE (Full HD)",FR: DISCOVERY SCIENCE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1551
+#EXTINF:-1 tvg-id="" tvg-name="FR: HISTOIRE" tvg-logo="http://store6.up-00.com/2017-05/149369154105131.png" group-title="FRANCE (Full HD)",FR: HISTOIRE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/808
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC" tvg-logo="http://store6.up-00.com/2017-05/149369163095141.jpg" group-title="FRANCE (Full HD)",FR: NATIONAL GEOGRAPHIC
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1904
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONALGEO WILLD" tvg-logo="http://store6.up-00.com/2017-05/149369166318651.png" group-title="FRANCE (Full HD)",FR: NATIONALGEO WILLD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/392
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planète+" tvg-logo="http://store6.up-00.com/2017-05/149369140427241.png" group-title="FRANCE (Full HD)",FR: Planète+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/813
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete+AE" tvg-logo="http://store6.up-00.com/2017-05/149369148953261.png" group-title="FRANCE (Full HD)",FR: Planete+AE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1815
+#EXTINF:-1 tvg-id="" tvg-name="FR.PLANETE+CI" tvg-logo="http://store6.up-00.com/2017-05/149369144204131.png" group-title="FRANCE (Full HD)",FR.PLANETE+CI
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/814
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Decouverte HD" tvg-logo="http://store6.up-00.com/2017-05/149369210295871.png" group-title="FRANCE (Full HD)",FR:RMC Decouverte HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/565
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY" tvg-logo="http://store6.up-00.com/2017-05/149369317688211.png" group-title="FRANCE (Full HD)",FR: RMC STORY
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1660
+#EXTINF:-1 tvg-id="" tvg-name="FR: Science et Vie" tvg-logo="http://store6.up-00.com/2017-05/149369191362911.png" group-title="FRANCE (Full HD)",FR: Science et Vie
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/800
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASON" tvg-logo="http://store6.up-00.com/2017-05/149369199664151.jpg" group-title="FRANCE (Full HD)",FR: SEASON
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1816
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toute Histoire" tvg-logo="http://store6.up-00.com/2017-05/149369157065861.jpg" group-title="FRANCE (Full HD)",FR: Toute Histoire
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1952
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK" tvg-logo="http://store6.up-00.com/2017-05/149369205197271.png" group-title="FRANCE (Full HD)",FR: TREK
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1817
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia" tvg-logo="http://www7.0zz0.com/2017/12/06/02/551453179.png" group-title="FRANCE (Full HD)",FR: Ushuaia
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/812
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE" tvg-logo="http://store6.up-00.com/2017-05/149369135702831.jpg" group-title="FRANCE (Full HD)",FR: VOYAGE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1500
+#EXTINF:-1 tvg-id="" tvg-name="FR:   Mirabelle TV" tvg-logo="" group-title="FRANCE (Full HD)",FR:   Mirabelle TV
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6288
+#EXTINF:-1 tvg-id="" tvg-name="FR:  Chérie 25" tvg-logo="http://store6.up-00.com/2017-05/149369284354241.jpg" group-title="FRANCE (Full HD)",FR:  Chérie 25
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/809
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6Ter" tvg-logo="http://store6.up-00.com/2017-05/149369276312141.png" group-title="FRANCE (Full HD)",FR: 6Ter
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1333
+#EXTINF:-1 tvg-id="" tvg-name="RAF:  A+" tvg-logo="" group-title="AFRICA IPTV",RAF:  A+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3013
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="http://www10.0zz0.com/2018/02/25/18/795041188.png" group-title="FRANCE (Full HD)",FR: AB1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/560
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="" group-title="FRANCE (Full HD)",FR: AB3
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3012
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="http://www2.0zz0.com/2018/02/25/18/888067167.png" group-title="FRANCE (Full HD)",FR: ARTE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/561
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS" tvg-logo="" group-title="FRANCE (Full HD)",FR: BFM BUSINESS
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3521
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Paris" tvg-logo="" group-title="FRANCE (Full HD)",FR: BFM Paris
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5887
+#EXTINF:-1 tvg-id="" tvg-name="FR: Melody" tvg-logo="http://www3.0zz0.com/2018/02/25/18/525772897.png" group-title="FRANCE (Full HD)",FR: Melody
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/566
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="http://store6.up-00.com/2017-05/149368474564371.png" group-title="FRANCE (Full HD)",FR: C8
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1332
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Alpha" tvg-logo="" group-title="FRANCE (Full HD)",FR: Canal Alpha
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6105
+#EXTINF:-1 tvg-id="" tvg-name="FR: CGTN Français" tvg-logo="" group-title="FRANCE (Full HD)",FR: CGTN Français
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5879
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie+" tvg-logo="http://store6.up-00.com/2017-05/149369333741883.jpg" group-title="FRANCE (Full HD)",FR: Comedie+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/391
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR" tvg-logo="http://www10.0zz0.com/2018/02/25/18/156058452.png" group-title="FRANCE (Full HD)",FR: CSTAR
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/557
+#EXTINF:-1 tvg-id="" tvg-name="FR: E!Entairtenment" tvg-logo="" group-title="FRANCE (Full HD)",FR: E!Entairtenment
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1953
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="http://store6.up-00.com/2017-05/149368760378451.jpg" group-title="FRANCE (Full HD)",FR: EURONEWS
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2011
+#EXTINF:-1 tvg-id="" tvg-name="FR: Francophonie 24" tvg-logo="" group-title="FRANCE (Full HD)",FR: Francophonie 24
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3514
+#EXTINF:-1 tvg-id="" tvg-name="FR: GRAND LILLE TV HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: GRAND LILLE TV HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6109
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC" tvg-logo="http://store6.up-00.com/2017-05/149368459093261.jpg" group-title="FRANCE (Full HD)",FR: M6 MUSIC
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1906
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="FRANCE (Full HD)",FR: MCM
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3027
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: MCM TOP HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6043
+#EXTINF:-1 tvg-id="" tvg-name="FR: MENS UP" tvg-logo="" group-title="FRANCE (Full HD)",FR: MENS UP
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6114
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV" tvg-logo="" group-title="FRANCE (Full HD)",FR: MTV
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3014
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV LIVE" tvg-logo="" group-title="FRANCE (Full HD)",FR: MTV LIVE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3023
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Music" tvg-logo="" group-title="FRANCE (Full HD)",FR: MTV Music
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6117
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE" tvg-logo="" group-title="FRANCE (Full HD)",FR: MY CUISINE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5882
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL DÉCALÉ HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: PARAMOUNT CHANNEL DÉCALÉ HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6037
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARISPREMIERE" tvg-logo="http://store6.up-00.com/2017-05/149368667747631.jpg" group-title="FRANCE (Full HD)",FR: PARISPREMIERE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/390
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM RADIO" tvg-logo="" group-title="FRANCE (Full HD)",FR: RFM RADIO
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6119
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva" tvg-logo="http://www4.0zz0.com/2018/02/25/18/253390624.png" group-title="FRANCE (Full HD)",FR: Teva
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/563
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="http://c.up-00.com/2018/11/1541436625711.jpg" group-title="FRANCE (Full HD)",FR: TFX
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3276
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN" tvg-logo="" group-title="FRANCE (Full HD)",FR: TRACE URBAN
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3019
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVBREIZH" tvg-logo="http://store6.up-00.com/2017-05/149369293656921.jpg" group-title="FRANCE (Full HD)",FR: TVBREIZH
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1949
+#EXTINF:-1 tvg-id="" tvg-name="FR: Weo" tvg-logo="http://store6.up-00.com/2017-05/149369305333831.jpg" group-title="FRANCE (Full HD)",FR: Weo
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/816
+#EXTINF:-1 tvg-id="" tvg-name="****_Sports_Fr_****" tvg-logo="http://store6.up-00.com/2017-05/149368928210321.png" group-title="SPORT FRANCE",****_Sports_Fr_****
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1666
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport" tvg-logo="http://store6.up-00.com/2017-05/149368984107291.png" group-title="SPORT FRANCE",FR: Canal+ Sport
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/389
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT News" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT News
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6201
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 1-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 1-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6062
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 2-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 2-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6061
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 3-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 3-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6060
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 4-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 4-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6059
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 5-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6058
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 6-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6057
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 7-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6056
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 8-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6055
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 9-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6054
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 10-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6053
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 11-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 11-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6052
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12 FULL HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 12 FULL HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6051
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 12-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6050
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 13-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 13-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6049
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 14-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 14-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6048
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 15-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 15-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6047
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16-HD" tvg-logo="" group-title="RMC SPORT FRANCE",RMC SPORT LIVE 16-HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6046
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 4" tvg-logo="https://e.top4top.net/p_665450vv5.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 4
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1557
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 5" tvg-logo="https://c.top4top.net/p_665tog472.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 5
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1558
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN sport MAX 6" tvg-logo="https://c.top4top.net/p_665ru5kk3.jpg" group-title="BEIN SPORT FRANCE",FR: beIN sport MAX 6
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1902
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 7" tvg-logo="https://a.top4top.net/p_6655xh9g7.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 7
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1646
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport-MAX 8" tvg-logo="https://d.top4top.net/p_6653kb4d10.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport-MAX 8
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/646
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 9" tvg-logo="https://d.top4top.net/p_665f4lbt4.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 9
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1623
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 10" tvg-logo="https://b.top4top.net/p_6658xw6j8.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 10
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1574
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEUR" tvg-logo="http://store6.up-00.com/2017-05/14936903156531.jpg" group-title="SPORT FRANCE",FR: AB MOTEUR
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1914
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA" tvg-logo="http://store6.up-00.com/2017-05/149369023197181.gif" group-title="SPORT FRANCE",FR: EQUIDIA
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/571
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA HD" tvg-logo="http://store6.up-00.com/2017-05/149369027023911.gif" group-title="SPORT FRANCE",FR: EQUIDIA HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/570
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2" tvg-logo="http://store6.up-00.com/2017-05/149369006212981.png" group-title="SPORT FRANCE",FR: EUROSPORT 2
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1760
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT1" tvg-logo="http://store6.up-00.com/2017-05/149368998421631.jpg" group-title="SPORT FRANCE",FR: EUROSPORT1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1951
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot 24/24" tvg-logo="http://store6.up-00.com/2017-05/149368978721321.png" group-title="SPORT FRANCE",FR: Foot 24/24
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1560
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="" group-title="FRANCE (Full HD)",FR: GOLF CHANNEL HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6108
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+" tvg-logo="http://store6.up-00.com/2017-05/149369012709021.jpg" group-title="SPORT FRANCE",FR: Golf+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1561
+#EXTINF:-1 tvg-id="" tvg-name="FR: InFoSport+" tvg-logo="http://www12.0zz0.com/2018/02/25/18/414663912.png" group-title="SPORT FRANCE",FR: InFoSport+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/559
+#EXTINF:-1 tvg-id="" tvg-name="FR: LEQUIPE 21" tvg-logo="http://store6.up-00.com/2017-05/149368937899221.png" group-title="SPORT FRANCE",FR: LEQUIPE 21
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1562
+#EXTINF:-1 tvg-id="" tvg-name="FR: Motors TV" tvg-logo="" group-title="SPORT FRANCE",FR: Motors TV
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6200
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://store6.up-00.com/2017-05/149368969052471.png" group-title="SPORT FRANCE",FR: RMC Sport 1 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1559
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://store6.up-00.com/2017-05/149368972331141.jpg" group-title="SPORT FRANCE",FR: RMC Sport 2 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1761
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="http://store6.up-00.com/2017-05/149368975776541.jpg" group-title="SPORT FRANCE",FR: RMC Sport 3 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1812
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="SPORT FRANCE",FR: RMC Sport 4 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4914
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 5 HD" tvg-logo="" group-title="SPORT FRANCE",FR: RMC Sport 5 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3017
+#EXTINF:-1 tvg-id="" tvg-name="****_Enfants_Fr_****" tvg-logo="http://store6.up-00.com/2017-05/149369423500831.jpg" group-title="KIDS FRANCE",****_Enfants_Fr_****
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1663
+#EXTINF:-1 tvg-id="" tvg-name="FR:  Mangas" tvg-logo="http://store6.up-00.com/2017-05/149369436195051.jpg" group-title="KIDS FRANCE",FR:  Mangas
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/797
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boing" tvg-logo="http://www6.0zz0.com/2017/11/18/02/743500091.jpg" group-title="KIDS FRANCE",FR: Boing
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/799
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="http://www9.0zz0.com/2017/11/18/01/598894917.png" group-title="KIDS FRANCE",FR: Boomerang
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1496
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal-j" tvg-logo="http://www8.0zz0.com/2017/11/18/01/452843781.png" group-title="KIDS FRANCE",FR: Canal-j
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1497
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="http://www12.0zz0.com/2017/11/18/02/203813683.png" group-title="KIDS FRANCE",FR: Cartoon Network
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/803
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney CHANEL+1" tvg-logo="" group-title="KIDS FRANCE",FR: Disney CHANEL+1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3028
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Chanell" tvg-logo="http://store6.up-00.com/2017-05/149369436232444.png" group-title="KIDS FRANCE",FR: Disney Chanell
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/801
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema" tvg-logo="http://www14.0zz0.com/2017/11/18/02/427970198.png" group-title="KIDS FRANCE",FR: Disney Cinema
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1548
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior" tvg-logo="http://www10.0zz0.com/2017/11/18/01/795288095.png" group-title="KIDS FRANCE",FR: Disney Junior
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1759
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAMEONE" tvg-logo="http://store6.up-00.com/2017-05/149369479131636.jpg" group-title="KIDS FRANCE",FR: GAMEONE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1901
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="http://www8.0zz0.com/2017/11/18/01/287759076.jpg" group-title="KIDS FRANCE",FR: Gulli
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/804
+#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE" tvg-logo="" group-title="KIDS FRANCE",FR: J-ONE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5886
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon" tvg-logo="http://www3.0zz0.com/2017/11/18/12/721580555.png" group-title="KIDS FRANCE",FR: Nickelodeon
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1693
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON +1" tvg-logo="" group-title="KIDS FRANCE",FR: NICKELODEON +1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3026
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="http://store6.up-00.com/2017-05/149369479031191.png" group-title="KIDS FRANCE",FR: NICKELODEON JUNIOR
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1955
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON TEEN HD" tvg-logo="" group-title="KIDS FRANCE",FR: NICKELODEON TEEN HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6042
+#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi+" tvg-logo="http://www14.0zz0.com/2017/11/18/01/690044507.jpg" group-title="KIDS FRANCE",FR: Piwi+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/798
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELTOON+" tvg-logo="http://www3.0zz0.com/2017/11/18/01/911501756.png" group-title="KIDS FRANCE",FR: TELTOON+
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/806
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI" tvg-logo="http://store6.up-00.com/2017-05/149369479040722.png" group-title="KIDS FRANCE",FR: TIJI
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/807
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMI" tvg-logo="http://c.up-00.com/2018/11/15414363249321.png" group-title="KIDS FRANCE",FR: TOONAMI
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3293
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN France3 HD" tvg-logo="https://a.top4top.net/p_665lpd881.png" group-title="BEIN SPORT FRANCE",beIN France3 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/478
+#EXTINF:-1 tvg-id="" tvg-name="beIN France2 HD" tvg-logo="https://f.top4top.net/p_665e22pt6.gif" group-title="BEIN SPORT FRANCE",beIN France2 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/480
+#EXTINF:-1 tvg-id="" tvg-name="beIN France1 HD" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png" group-title="BEIN SPORT FRANCE",beIN France1 HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3175
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 4" tvg-logo="https://e.top4top.net/p_665450vv5.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 4
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1557
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 5" tvg-logo="https://c.top4top.net/p_665tog472.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 5
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1558
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN sport MAX 6" tvg-logo="https://c.top4top.net/p_665ru5kk3.jpg" group-title="BEIN SPORT FRANCE",FR: beIN sport MAX 6
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1902
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 7" tvg-logo="https://a.top4top.net/p_6655xh9g7.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 7
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1646
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport-MAX 8" tvg-logo="https://d.top4top.net/p_6653kb4d10.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport-MAX 8
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/646
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 9" tvg-logo="https://d.top4top.net/p_665f4lbt4.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 9
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1623
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 10" tvg-logo="https://b.top4top.net/p_6658xw6j8.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 10
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1574
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="NETFLIX&MAJESTIC&SHAHID",NETFLIX ACTION
@@ -1925,108 +2156,6 @@ http://streamer1.furrera.ps:80/OSNYaHala/video.m3u8?token=test
 
 
 
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/824
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+.png" group-title="WORLD SPORTS 2",SPORT TV +
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/825
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/826
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD Backup 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13401
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/827
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD Backup 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13402
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201.png" group-title="WORLD SPORTS 2",SPORT TV 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/828
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/829
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD Backup 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13403
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/830
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD Backup 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13404
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202.png" group-title="WORLD SPORTS 2",SPORT TV 2
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/831
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 3 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/832
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 3 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/833
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203.png" group-title="WORLD SPORTS 2",SPORT TV 3
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/834
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 4 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/835
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 4 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/836
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204.png" group-title="WORLD SPORTS 2",SPORT TV 4
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/837
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 5 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/838
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 5 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/839
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205.png" group-title="WORLD SPORTS 2",SPORT TV 5
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/840
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA FHD" tvg-logo="https://i.imgur.com/mQH8oYd.png" group-title="WORLD SPORTS 2",SPORT TV NBA FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/841
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/842
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/843
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/844
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/845
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/846
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/847
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/848
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/849
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/850
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/851
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/852
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/853
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/854
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/855
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/856
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 FHD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/857
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/858
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/859
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 1: Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12519
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 2: Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12520
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 3: Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12521
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 4: Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12522
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 5: Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12523
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 1:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12524
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 2:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12525
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 3:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12526
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 4:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 4:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12527
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 5:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 5:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12528
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 6:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 6:Low
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12529
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 4K" tvg-logo="" group-title="BEIN SPORTS 4K",beIN Sport 1 4K
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
