@@ -817,18 +817,16 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="KIDS",MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
-https://tv.besttvps.com/live/@ps/trials/32.m3u8
+https://tv.besttvps.com/@ps/trials/32
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/118.ts
 
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
-https://streamer1.furrera.ps/goldenBaraem1/index.m3u8?token=test
-
+https://tv.besttvps.com/@ps/trials/62
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Boomerang HD
-http://abc.extraplay.me:2086/live/modomodo157/DXIbb1U7Ak/93.m3u8
-
+https://tv.besttvps.com/@ps/trials/15
 #EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Rotana kids
@@ -2141,6 +2139,42 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="Y
 http://streamer1.furrera.ps:80/OSNYaHala/video.m3u8?token=test
 
 
+#EXTINF:-1 tvg-id="" tvg-name="RayaHD1" tvg-logo="" group-title="RayaTV",RayaHD1
+http://161.97.95.121:25461/Mrconnect2020/apk2021/31
+#EXTINF:-1 tvg-id="" tvg-name="RayaHD2" tvg-logo="" group-title="RayaTV",RayaHD2
+http://161.97.95.121:25461/Mrconnect2020/apk2021/32
+#EXTINF:-1 tvg-id="" tvg-name="RayaHD3" tvg-logo="" group-title="RayaTV",RayaHD3
+http://161.97.95.121:25461/Mrconnect2020/apk2021/33
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4K1" tvg-logo="" group-title="beIN SPORTS 4K",Bein Sport 4K1
+http://161.97.95.121:25461/Mrconnect2020/apk2021/1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 44K" tvg-logo="" group-title="beIN SPORTS 4K",BEIN SPORTS 44K
+http://161.97.95.121:25461/Mrconnect2020/apk2021/4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 54K" tvg-logo="" group-title="beIN SPORTS 4K",BEIN SPORTS 54K
+http://161.97.95.121:25461/Mrconnect2020/apk2021/5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 74K" tvg-logo="" group-title="beIN SPORTS 4K",BEIN SPORTS 74K
+http://161.97.95.121:25461/Mrconnect2020/apk2021/6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 24K" tvg-logo="" group-title="beIN SPORTS 4K",BEIN SPORTS 24K
+http://161.97.95.121:25461/Mrconnect2020/apk2021/2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 34K" tvg-logo="" group-title="beIN SPORTS 4K",BEIN SPORTS 34K
+http://161.97.95.121:25461/Mrconnect2020/apk2021/3
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 1" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 1
+http://161.97.95.121:25461/Mrconnect2020/apk2021/9
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 2" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 2
+http://161.97.95.121:25461/Mrconnect2020/apk2021/10
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 3" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 3
+http://161.97.95.121:25461/Mrconnect2020/apk2021/11
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 4" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 4
+http://161.97.95.121:25461/Mrconnect2020/apk2021/12
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 5" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 5
+http://161.97.95.121:25461/Mrconnect2020/apk2021/13
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 6" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 6
+http://161.97.95.121:25461/Mrconnect2020/apk2021/14
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORTS 1080 7" tvg-logo="" group-title="beIN SPORTS 1080",Bein SPORTS 1080 7
+http://161.97.95.121:25461/Mrconnect2020/apk2021/15
+
 
 
 
@@ -2165,6 +2199,23 @@ http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/8
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/9
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD" tvg-logo="" group-title="BEIN SPORTS FHD",beIN Sport 10 FHD
 http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport SD1" tvg-logo="" group-title="beIN SPORTS SD**",BEIN sport SD1
+http://161.97.95.121:25461/Mrconnect2020/apk2021/17
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport SD2" tvg-logo="" group-title="beIN SPORTS SD**",BEIN sport SD2
+http://161.97.95.121:25461/Mrconnect2020/apk2021/18
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport SD3" tvg-logo="" group-title="beIN SPORTS SD**",BEIN sport SD3
+http://161.97.95.121:25461/Mrconnect2020/apk2021/19
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport SD4" tvg-logo="" group-title="beIN SPORTS SD**",BEIN sport SD4
+http://161.97.95.121:25461/Mrconnect2020/apk2021/20
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport SD5" tvg-logo="" group-title="beIN SPORTS SD**",Bein sport SD5
+http://161.97.95.121:25461/Mrconnect2020/apk2021/21
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport SD6" tvg-logo="" group-title="beIN SPORTS SD**",Bein sport SD6
+http://161.97.95.121:25461/Mrconnect2020/apk2021/22
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport SD7" tvg-logo="" group-title="beIN SPORTS SD**",Bein sport SD7
+http://161.97.95.121:25461/Mrconnect2020/apk2021/23
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS sd",beIN Sport 1 sd
