@@ -2238,20 +2238,7 @@ http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/25
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 1 hd
-http://mobile.fobia.xyz/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 2 hd
-http://mobile.fobia.xyz/hls2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 3 hd
-http://mobile.fobia.xyz/hls3/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 4 hd
-http://mobile.fobia.xyz/hls4/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 5 hd
-http://mobile.fobia.xyz/hls5/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 6 hd
-http://mobile.fobia.xyz/hls6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 7 hd
-http://mobile.fobia.xyz/hls7/stream.m3u8
+
 
 
 
@@ -2260,19 +2247,19 @@ http://mobile.fobia.xyz/hls7/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://akamai2-me.cdn.booyah.live/hls/113138/37942815.m3u8
+http://213.136.69.245:8080/live/5fe60b465cdb2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
 http://213.136.69.245:8080/live/5fe727b69a8a4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/1
+https://tv.besttvps.com/@ps/trials/9
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://213.136.69.245:8080/live/5fe60b465cdb2/index.m3u8
+https://tv.besttvps.com/@ps/trials/65
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://tv.besttvps.com/live/@ps/trials/7.m3u8
+https://tv.besttvps.com/@ps/trials/25
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://tv.besttvps.com/live/@ps/trials/23.m3u8
+http://best-live-iptv.xyz:25461/BEST-LIVE2244/BEST-LIVE2233/3
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://tv.besttvps.com/live/@ps/trials/65.m3u8
+https://verizon-me.cdn.booyah.live/hls/113137/37561078.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
