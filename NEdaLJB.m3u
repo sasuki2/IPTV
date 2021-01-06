@@ -1980,17 +1980,17 @@ http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/25
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+https://d39u83b3prvgfh.cloudfront.net/out/v1/ebb20c378f2545b9a17cde5c85fc7880/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
+https://d117036q6fvroo.cloudfront.net/out/v1/c423b095dfe041f598c6e8b89dd99d02/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
+https://d105w96h7nruo1.cloudfront.net/out/v1/8a227368addc4da881869dd074280075/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://tv.besttvps.com/FuckYour/Mother/4
+http://213.136.69.245:8080/live/5ff2124b8acad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://tv.besttvps.com/FuckYour/Mother/245
+http://213.136.69.245:8080/live/5fe727b69a8a4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://d1tj23o68oquyl.cloudfront.net/out/v1/2dba747462db4740884b08781ee361a1/index_3.m3u8
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 http://62.171.181.246:25461/live/beinsport/beinsport/22.ts
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
@@ -2004,15 +2004,13 @@ http://62.171.181.246:25461/live/beinsport/beinsport/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
 http://62.171.181.246:25461/live/beinsport/beinsport/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٣
-http://161.97.126.129:8080/live/5fd91a6981c9c/index.m3u8
-
-
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
-https://verizon-me.cdn.booyah.live/hls/113137/37138701.m3u8
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
-https://akamai2-me.cdn.booyah.live/hls/113137/26396310.m3u8
+http://173.249.4.94:8081/sako/sako/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٦
-https://live-ak.vimeocdn.com/exp=1608496483~acl=%2Ff5828365-df32-4d17-a059-9f008b7e987b%2F%2A~hmac=0d3ed6fa9d3921bcfe6367dea26c6f7dbee7fd14b3973181a102a90d51a977fc/f5828365-df32-4d17-a059-9f008b7e987b/hls.m3u8?min_seconds=30
+http://173.249.4.94:8081/sako/sako/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٧
 https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٨
