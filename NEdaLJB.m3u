@@ -4,363 +4,372 @@
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
 #EXTINF:-1 tvg-id="" tvg-name="Osn Yahala" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",Osn Yahala
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA-ar
+http://185.246.210.55:2200/OSN-EX/OSN_YAHALA-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala Aloula
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_1-ar
+http://185.246.210.55:2200/OSN-EX/OSN_YAHALA_1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Yahala CINEMA" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala CINEMA
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_CINEMA-ar
+http://185.246.210.55:2200/OSN-EX/OSN_YAHALA_CINEMA-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 1" tvg-logo="http://files.rednetcontent.com/chlogo/osnCM1.png" group-title="OSN NEW",Osn Cinema 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_1-ar
+http://185.246.210.55:2200/OSN-EX/OSN_CINEMA_1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 2" tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Cinema2.png" group-title="OSN NEW",Osn Cinema 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_2-ar
+http://185.246.210.55:2200/OSN-EX/OSN_CINEMA_2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_1-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MUSALSALAT_1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_2-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MUSALSALAT_2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Osn Al Yawm" tvg-logo="http://files.rednetcontent.com/chlogo/osnYAW.png" group-title="OSN NEW",Osn Al Yawm
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_ALYAWM-ar
+http://185.246.210.55:2200/OSN-EX/OSN_ALYAWM-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MOVIES_FIRST-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First +2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST_2-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MOVIES_FIRST_2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://files.rednetcontent.com/chlogo/osnmovies.png" group-title="OSN NEW",OSN Movies HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MOVIES-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osnaction.png" group-title="OSN NEW",OSN Movies Action HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_ACTION-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MOVIES_ACTION-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osndisney.png" group-title="OSN NEW",OSN Movies Disney HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_Disney-ar
+http://185.246.210.55:2200/OSN-EX/OSN_MOVIES_Disney-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osncentral.png" group-title="OSN NEW",OSN Comedy Central HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_COMEDY_CENTRAL-ar
+http://185.246.210.55:2200/OSN-EX/OSN_COMEDY_CENTRAL-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Osn Nat Geo HD" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png" group-title="OSN NEW",Osn Nat Geo HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO-ar
+http://185.246.210.55:2200/OSN-EX/OSN_NAT_GEO-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png" group-title="OSN NEW",OSN Nat Geo Wild HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_WILD-ar
+http://185.246.210.55:2200/OSN-EX/OSN_NAT_GEO_WILD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Nat People HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/NatGeoPeoplelogo-l.png" group-title="OSN NEW",OSN Nat People HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_PEOPLE-ar
+http://185.246.210.55:2200/OSN-EX/OSN_NAT_GEO_PEOPLE-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 EXTINF:-1 tvg-id="" tvg-name="OSN Star Movie" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Star-Movie.png" group-title="OSN NEW",OSN Star Movie
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_STAR_MOVIES-ar
+http://185.246.210.55:2200/OSN-EX/OSN_STAR_MOVIES-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Star World" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Star-World.png" group-title="OSN NEW",OSN Star World
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_STAR_WORLD-ar
+http://185.246.210.55:2200/OSN-EX/OSN_STAR_WORLD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="OSN Crime Investigation" tvg-logo="http://files.rednetcontent.com/chlogo2/french/Investigation1_.png" group-title="OSN NEW",OSN Crime Investigation
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CI_TV-ar
+http://185.246.210.55:2200/OSN-EX/OSN_CI_TV-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-1_LOGO.png" group-title="beIN SPORTS NEW",beIN Sports 1 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS NEW",beIN SPORTS 2 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS NEW",beIN SPORTS 3 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_3HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-4HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 4 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_4HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 5 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 6 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 7 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_7HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 8 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_8HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 9 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_9HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 10 HD HEVC
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_10HD-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://files.rednetcontent.com/chlogo/Bein_sport_news_arabia_Logo.png" group-title="beIN SPORTS NEW",beIN SPORTS NEWS HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/beinsportsnewshd-ar
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/beinsportsnewshd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS NEW",beIN SPORTS 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein1hd-ar
+http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS NEW",beIN SPORTS 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein2hd-ar
+http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS NEW",beIN SPORTS 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein3hd-ar
+http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS NEW",beIN SPORTS 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein4hd-ar
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 5 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein5hd-ar
+http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 6 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein6hd-ar
+http://185.246.210.55:2200/EX/bein6hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 7 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein7hd-ar
+http://185.246.210.55:2200/EX/bein7hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 8 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein8hd-ar
+http://185.246.210.55:2200/EX/bein8hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 9 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein9hd-ar
+http://185.246.210.55:2200/EX/bein9hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 10 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein10hd-ar
+http://185.246.210.55:2200/EX/bein10hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-12HD.png" group-title="beIN SPORTS NEW",beIN SPORTS 12 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein12hd-ar
+http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-11-HD.png" group-title="beIN SPORTS NEW",beIN SPORTS 11 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein11hd-ar
+http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 1 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein1FHD-ar
+http://185.246.210.55:2200/EX/bein1FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 2 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein2FHD-ar
+http://185.246.210.55:2200/EX/bein2FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 3 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein3FHD-ar
+http://185.246.210.55:2200/EX/bein3FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-4HD-HEVC.png" group-title="beIN SPORTS NEW",beIN Sports 4 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein4FHD-ar
+http://185.246.210.55:2200/EX/bein4FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HD.png" group-title="beIN SPORTS NEW",beIN Sports 5 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein5FHD-ar
+http://185.246.210.55:2200/EX/bein5FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HD.png" group-title="beIN SPORTS NEW",beIN Sports 6 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein6FHD-ar
+http://185.246.210.55:2200/EX/bein6FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS7-HD.png" group-title="beIN SPORTS NEW",beIN Sports 7 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein7FHD-ar
+http://185.246.210.55:2200/EX/bein7FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8-HD.png" group-title="beIN SPORTS NEW",beIN Sports 8 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein8FHD-ar
+http://185.246.210.55:2200/EX/bein8FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD.png" group-title="beIN SPORTS NEW",beIN Sports 9 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein9FHD-ar
+http://185.246.210.55:2200/EX/bein9FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-10-HD.png" group-title="beIN SPORTS NEW",beIN Sports 10 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein10FHD-ar
+http://185.246.210.55:2200/EX/bein10FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-1-HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD1-ar
+http://185.246.210.55:2200/EX/BeinMoviesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-2HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
+http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies3HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD4-ar
+http://185.246.210.55:2200/EX/BeinMoviesHD4-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-4HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
+http://185.246.210.55:2200/EX/BeinMoviesHD3-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-1HD.png" group-title="beIN MOVIES&SERIES",beIN Series 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD1-ar
+http://185.246.210.55:2200/EX/BeinSeriesHD1-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Drama-1HD.png" group-title="beIN MOVIES&SERIES",beIN Drama 1 HD
 https://tv.besttvps.com/live/FuckYour/Mother/82.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-2HD.png" group-title="beIN MOVIES&SERIES",beIN Series 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD2-ar
+http://185.246.210.55:2200/EX/BeinSeriesHD2-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN FOX Action" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinfoxaction.png" group-title="beIN MOVIES&SERIES",beIN FOX Action
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_Fox_Action-ar
+http://185.246.210.55:2200/EX/beIN_Fox_Action-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN FOX HD" tvg-logo="http://files.rednetcontent.com/chlogo/fox_tv.png" group-title="beIN MOVIES&SERIES",beIN FOX HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_FOX-ar
+http://185.246.210.55:2200/EX/beIN_FOX-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 1 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein1FHD-ar
+http://185.246.210.55:2200/EX/bein1FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 2 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein2FHD-ar
+http://185.246.210.55:2200/EX/bein2FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 3 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein3FHD-ar
+http://185.246.210.55:2200/EX/bein3FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 4 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein4FHD-ar
+http://185.246.210.55:2200/EX/bein4FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 5 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein5FHD-ar
+http://185.246.210.55:2200/EX/bein5FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 6 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein6FHD-ar
+http://185.246.210.55:2200/EX/bein6FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 7 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein7FHD-ar
+http://185.246.210.55:2200/EX/bein7FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 8 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein8FHD-ar
+http://185.246.210.55:2200/EX/bein8FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 9 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein9FHD-ar
+http://185.246.210.55:2200/EX/bein9FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 10 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein10FHD-ar
+http://185.246.210.55:2200/EX/bein10FHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 UHD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportmaxgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 1 UHD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports1uhd-tr
+http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports1hd-tr
+http://185.246.210.55:2200/EX/beinsports1hd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports2hd-tr
+http://185.246.210.55:2200/EX/beinsports2hd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 UHD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 2 UHD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports2uhd-tr
+http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports3hd-tr
+http://185.246.210.55:2200/EX/beinsports3hd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 UHD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 3 UHD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports3uhd-tr
+http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports4hd-tr
+http://185.246.210.55:2200/EX/beinsports4hd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 UHD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS Turkish",beIN Sports 4 UHD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/beinsports4uhd-tr
+http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Time Sports" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="KSA&ON TIME SPORTS",Time Sports
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR-N/TIME_SPORTS_HD-ar
+http://185.246.210.55:2200/TR-N/TIME_SPORTS_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/ON-Sport-TV.png" group-title="KSA&ON TIME SPORTS",ON Sport 2 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR-N/ON_Sport_2_HD-ar
+http://185.246.210.55:2200/TR-N/ON_Sport_2_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="ON Sport TV" tvg-logo="http://files.rednetcontent.com/chlogo/ON-Sport-TV.png" group-title="KSA&ON TIME SPORTS",ON Sport TV
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/onsportv-ar
+http://185.246.210.55:2200/TN/onsportv-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Alahly Club TV" tvg-logo="http://files.rednetcontent.com/chlogo/Alahly-Club-TV.png" group-title="KSA&ON TIME SPORTS",Alahly Club TV
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/alahlyclubtv-ar
+http://185.246.210.55:2200/TN/alahlyclubtv-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="zamalek sports" tvg-logo="http://files.rednetcontent.com/chlogo/Alahly-Club-TV.png" group-title="KSA&ON TIME SPORTS",zamalek sports
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/zamaleksports-ar
+http://185.246.210.55:2200/TN/zamaleksports-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="KSA&ON TIME SPORTS",KSA SPORTS 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports1hd-ar
+http://185.246.210.55:2200/TR/ksasports1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="KSA&ON TIME SPORTS",KSA SPORTS 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports2hd-ar
+http://185.246.210.55:2200/TR/ksasports2hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="KSA&ON TIME SPORTS",KSA SPORTS 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports3hd-ar
+http://185.246.210.55:2200/TR/ksasports3hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="KSA&ON TIME SPORTS",KSA SPORTS 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports4hd-ar
+http://185.246.210.55:2200/TR/ksasports4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RED Cinema" tvg-logo="http://files.rednetcontent.com/newvod/redcinema-icon.png" group-title="RED TV",RED Cinema
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redcinema-ar
+http://185.246.210.55:2200/VOD/redcinema-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Kids 1" tvg-logo="http://files.rednetcontent.com/newvod/red_kids.png" group-title="RED TV",RED Kids 1
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redkids-ar
+http://185.246.210.55:2200/VOD/redkids-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Action 1" tvg-logo="http://files.rednetcontent.com/newvod/redaction-icon.png" group-title="RED TV",RED Action 1
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redaction-ar
+http://185.246.210.55:2200/VOD/redaction-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Comedy 1" tvg-logo="http://files.rednetcontent.com/newvod/redcomedy-icon.png" group-title="RED TV",RED Comedy 1
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redcomedy-ar
+http://185.246.210.55:2200/VOD/redcomedy-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Classic" tvg-logo="http://files.rednetcontent.com/newvod/redclassic-icon.png" group-title="RED TV",RED Classic
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redclassic-ar
+http://185.246.210.55:2200/VOD/redclassic-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Planet" tvg-logo="http://files.rednetcontent.com/newvod/redplanet-icon.png" group-title="RED TV",RED Planet
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redplanet-ar
+http://185.246.210.55:2200/VOD/redplanet-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RED Drama" tvg-logo="http://files.rednetcontent.com/newvod/red_drama.png" group-title="RED TV",RED Drama
-http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/reddrama-ar
+http://185.246.210.55:2200/VOD/reddrama-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv1-por
+http://185.246.210.55:2200/NL/sporttv1-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv2-por
+http://185.246.210.55:2200/NL/sporttv2-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 3
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv3-por
+http://185.246.210.55:2200/NL/sporttv3-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 5
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv5-por
+http://185.246.210.55:2200/NL/sporttv5-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 4
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv4-por
+http://185.246.210.55:2200/NL/sporttv4-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports1hd-por
+http://185.246.210.55:2200/NL/elevensports1hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports2hd-por
+http://185.246.210.55:2200/NL/elevensports2hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 3
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports3hd-por
+http://185.246.210.55:2200/NL/elevensports3hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 4
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports4hd-por
+http://185.246.210.55:2200/NL/elevensports4hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 5
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports5hd-por
+http://185.246.210.55:2200/NL/elevensports5hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 6
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports6hd-por
+http://185.246.210.55:2200/NL/elevensports6hd-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",SPORT TV +
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttvplus-por
+http://185.246.210.55:2200/NL/sporttvplus-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 1 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_1_HD-por
+http://185.246.210.55:2200/NL-N/Sport_TV_1_HD-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 2 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_2_HD-por
+http://185.246.210.55:2200/NL-N/Sport_TV_2_HD-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 3 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_3_HD-por
+http://185.246.210.55:2200/NL-N/Sport_TV_3_HD-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="Portugal Sport",Eleven Sports 1 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Eleven_Sports_1_HD-por
+http://185.246.210.55:2200/NL-N/Eleven_Sports_1_HD-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="Portugal Sport",Eleven Sports 2 FHD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Eleven_Sports_2_HD-por
+http://185.246.210.55:2200/NL-N/Eleven_Sports_2_HD-por/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport1.png" group-title="France Sport",beIN SPORTS 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_1_FR-fr
+http://185.246.210.55:2200/EX/BEINSPORT_1_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",beIN SPORTS 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_2_FR-fr
+http://185.246.210.55:2200/EX/BEINSPORT_2_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",beIN SPORTS 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_3_FR-fr
+http://185.246.210.55:2200/EX/BEINSPORT_3_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",Canal+ Sport
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/CANAL_PLUS_SPORT-fr
+http://185.246.210.55:2200/EX/CANAL_PLUS_SPORT-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="FOOT+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",FOOT+
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_FOOT_plus_-fr
+http://185.246.210.55:2200/EX/FR_FOOT_plus_-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT1_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT2_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT3_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT4_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 5 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT5_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 6 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT6_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 7 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT7_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 8 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT8_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 9 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT9_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 10 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT10_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 11 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT11_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT11_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 12 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT12_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT12_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 13 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 13 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT13_HD-fr
+http://185.246.210.55:2200/EX/FR_RMC_SPORT13_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/canalsport.png" group-title="Poland Sport",Canal+ Sport2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/canalplussport2hd-po
+http://185.246.210.55:2200/EX/canalplussport2hd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="nSport+ HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/nsport.png" group-title="Poland Sport",nSport+ HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/nsportplushd-po
+http://185.246.210.55:2200/EX/nsportplushd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/tvpsport.png" group-title="Poland Sport",TVP Sport HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/tvpsporthd-po
+http://185.246.210.55:2200/EX/tvpsporthd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="Poland Sport",Eleven Sports 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/eleven1hd-po
+http://185.246.210.55:2200/EX/eleven1hd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="Poland Sport",Eleven Sports 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/eleven2hd-po
+http://185.246.210.55:2200/EX/eleven2hd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="Poland Sport",Eleven Sports 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=EX/eleven3hd-po
-
+http://185.246.210.55:2200/EX/eleven3hd-po/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nova Sport" tvg-logo="http://files.rednetcontent.com/chlogo/Nova_Sport.png" group-title="Bulgaria Sport",Nova Sport
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/novasport-bul
+http://185.246.210.55:2200/NL/novasport-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Diema Sport 1" tvg-logo="http://files.rednetcontent.com/chlogo/diemasport.png" group-title="Bulgaria Sport",Diema Sport 1
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/diemasport1-bul
+http://185.246.210.55:2200/NL/diemasport1-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Diema Sport 2" tvg-logo="http://files.rednetcontent.com/chlogo/diemasport.png" group-title="Bulgaria Sport",Diema Sport 2
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/diemasport2-bul
+http://185.246.210.55:2200/NL/diemasport2-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="MAX sport 1" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",MAX sport 1
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/maxsport1-bul
+http://185.246.210.55:2200/NL/maxsport1-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="MAX Sport 2" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",MAX Sport 2
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/maxsport2-bul
+http://185.246.210.55:2200/NL/maxsport2-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="MAX Sport 3" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",MAX Sport 3
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/maxsport3-bul
+http://185.246.210.55:2200/NL/maxsport3-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Ring BG" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",Ring BG
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/ringbg-bul
+http://185.246.210.55:2200/NL/ringbg-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="SPORT Plus HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",SPORT Plus HD
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/sportplushd-bul
+http://185.246.210.55:2200/NL/sportplushd-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="F Plus" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Bulgaria Sport",F Plus
-http://ch.gotvred.com:6791/watchlive.php?s=3&id=NL/fplus-bul
+http://185.246.210.55:2200/NL/fplus-bul/index.m3u8?token=123zzzaaaxxaazzzxxx987
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",M6 HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_M6_HD-fr
+http://185.246.210.55:2200/EX/FR_M6_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",TFX HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/TFX-fr
+http://185.246.210.55:2200/EX/TFX-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",C8 HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_C8_HD-fr
+http://185.246.210.55:2200/EX/FR_C8_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",ARTE HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/Arte_HD-fr
+http://185.246.210.55:2200/EX/Arte_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",W9 HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_W9_HD-fr
+http://185.246.210.55:2200/EX/FR_W9_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",TF1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_TF1_HD-fr
+http://185.246.210.55:2200/EX/FR_TF1_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="CANAL_PLUS" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",CANAL_PLUS
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/CANAL_PLUS-fr
+http://185.246.210.55:2200/EX/CANAL_PLUS-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",TF1 Series Films HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/TF1_Series_Films_HD-fr
+http://185.246.210.55:2200/EX/TF1_Series_Films_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="TCM Cinema" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",TCM Cinema
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/TCM_CINEMA-fr
+http://185.246.210.55:2200/EX/TCM_CINEMA-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Action HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Action HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/ACTION-fr
+http://185.246.210.55:2200/EX/ACTION-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Decale HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Paramount Decale HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_PARAMOUNT_DECALE_HD-fr
+http://185.246.210.55:2200/EX/FR_PARAMOUNT_DECALE_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Paramount Channel
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/PARAMOUNT_CHANNE_FR-fr
+http://185.246.210.55:2200/EX/PARAMOUNT_CHANNE_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Serie Club HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_SERIE_CLUB_HD-fr
+http://185.246.210.55:2200/EX/FR_SERIE_CLUB_HD-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Canal+ Cinema
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/CANAL_PLUS_CINEMA-fr
+http://185.246.210.55:2200/EX/CANAL_PLUS_CINEMA-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France",Canal+ Series
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/CANAL_PLUS_SERIES-fr
+http://185.246.210.55:2200/EX/CANAL_PLUS_SERIES-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Teletoon+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Kids",Teletoon+
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_Teletoon_plus_-fr
+http://185.246.210.55:2200/EX/FR_Teletoon_plus_-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Kids",Gulli HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/FR_Gulli-fr
+http://185.246.210.55:2200/EX/FR_Gulli-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Kids",Mangas
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/MANGA-fr
+http://185.246.210.55:2200/EX/MANGA-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://files.rednetcontent.com/chlogo/Boomerang_tv_logo.png" group-title="France Kids",Boomerang
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/BOOMERANG_FR-fr
+http://185.246.210.55:2200/EX/BOOMERANG_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Teen" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="France Kids",Nickelodeon Teen
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/NICKELODEON_TEEN-fr
+http://185.246.210.55:2200/EX/NICKELODEON_TEEN-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="France Kids",Nickelodeon
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/NICKELODEON_FR-fr
+http://185.246.210.55:2200/EX/NICKELODEON_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://files.rednetcontent.com/chlogo/CartoonNetwork.png" group-title="France Kids",Cartoon Network
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/CARTOON_NETWORK-fr
+http://185.246.210.55:2200/EX/CARTOON_NETWORK-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="France Kids",Disney Channel
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/DISNEY_CHANNEL_FR-fr
+http://185.246.210.55:2200/EX/DISNEY_CHANNEL_FR-fr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="" group-title="ARABIC",2M Monde
@@ -1206,7 +1215,7 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="MBC",MBC Drama+ 4K
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="MBC",MBC Variety 4K
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/MBC_Variety_HD-ar
+http://185.246.210.55:2200/EX/MBC_Variety_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 2
@@ -1251,17 +1260,17 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="KIDS",MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem* HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem* HD	
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/beINJeem-ar
+http://185.246.210.55:2200/EX/beINJeem-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
 https://tv.besttvps.com/FuckYour/Mother/32
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed*" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed*
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=TN/majidkids-ar
+http://185.246.210.55:2200/TN/majidkids-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
 http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/22283
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem* HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem* HD
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=EX/BeinBaraeimHD-ar
+http://185.246.210.55:2200/EX/BeinBaraeimHD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
 https://tv.besttvps.com/FuckYour/Mother/62
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Boomerang HD
@@ -1271,7 +1280,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Rotana kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD*" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/CartoonNetworkHD.png" group-title="KIDS",Cartoon Network HD*
-http://ch.gotvred.com:6791/watchlive.php?s=2&id=TN/cnarabia-ar
+http://185.246.210.55:2200/TN/cnarabia-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/CartoonNetworkHD.png" group-title="KIDS",Cartoon Network HD
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:hlscat.com
 
@@ -1296,26 +1305,25 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 1 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein1hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_1HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 2 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein2hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 3 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein3hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_3HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 4 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein4hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_4HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 5 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein5hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 6 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein6hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 7 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein7hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 8 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein8hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 9 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein9hd-ar
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_9HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 10 HD
-http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein10hd-ar
-
+http://185.246.210.55:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="NETFLIX&MAJESTIC",NETFLIX ACTION
 http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/282
@@ -1898,9 +1906,9 @@ http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",water 2
 http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Dasinya_Sport_HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/Dasinya_Sport_HD-kr
+http://185.246.210.55:2200/EX/Dasinya_Sport_HD-kr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",MMN_Sport
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/KR_MMN_Sport-kr
+http://185.246.210.55:2200/EX/KR_MMN_Sport-kr/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Bethlehem 1
 http://live.btv2020.com:1935/live/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Bethlehem 2
