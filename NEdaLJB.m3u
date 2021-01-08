@@ -667,27 +667,49 @@ https://tv.besttvps.com:443/live/FuckYour/Mother/229.ts
 https://tv.besttvps.com:443/live/FuckYour/Mother/230.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN YaHala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN YaHala
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/48.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN YaHala Oula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN YaHala Oula
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/47.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN YaHala Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN YaHala Cinema
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/52.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN Action Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Action Movies
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="Movies - قنوات الأفلام",OSN Movies First
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Movies First
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="Movies - قنوات الأفلام",OSN Movies First +2
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Movies First +2
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/63.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN Series First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Series First
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/50.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Enigma
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/53.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Comedy
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/54.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/128px-OSN_2020_logo.svg.png" group-title="OSN NEW",OSN Comedy Central
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/86.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN ALFA Alyoum" tvg-logo="https://pbs.twimg.com/profile_images/701805274903007234/q2KMrmQU_200x200.png" group-title="OSN NEW",OSN ALFA Alyoum
+
 https://tv.besttvps.com:443/live/FuckYour/Mother/55.ts
+
 
 
 
@@ -2284,11 +2306,11 @@ http://best-live-iptv.xyz:2082/BEST-LIVE6565/BEST-LIVE6565/25
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
 https://d39u83b3prvgfh.cloudfront.net/out/v1/ebb20c378f2545b9a17cde5c85fc7880/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://d117036q6fvroo.cloudfront.net/out/v1/c423b095dfe041f598c6e8b89dd99d02/index_2.m3u8
+https://dvy9f98jt657v.cloudfront.net/out/v1/a29bfac1d1f84007a5b654a3e9affaef/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://d105w96h7nruo1.cloudfront.net/out/v1/8a227368addc4da881869dd074280075/index_1.m3u8
+http://213.136.69.245:8080/live/5ff8a3496e44d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://213.136.69.245:8080/live/5ff2124b8acad/index.m3u8
+http://213.136.69.245:8080/live/5ff8a3ea84f1c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 http://213.136.69.245:8080/live/5fe727b69a8a4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
