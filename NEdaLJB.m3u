@@ -2100,13 +2100,13 @@ http://207.244.234.213:2082/BEST-LIVE2288/BEST-LIVE2288/24
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://d39u83b3prvgfh.cloudfront.net/out/v1/ebb20c378f2545b9a17cde5c85fc7880/index_1.m3u8
+https://d1d66k54kqjz0o.cloudfront.net/out/v1/effdacc5d11744ca9c6d48834871dfee/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://dvy9f98jt657v.cloudfront.net/out/v1/a29bfac1d1f84007a5b654a3e9affaef/index_4.m3u8
+http://213.136.69.245:8080/live/5fff72fd69c76/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://213.136.69.245:8080/live/5ff8a3496e44d/index.m3u8
+http://213.136.69.245:8080/live/5fff7340803d9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://213.136.69.245:8080/live/5ff8a3ea84f1c/index.m3u8
+http://161.97.95.121:25461/mrconnectosn/mrapk2022/61
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 http://213.136.69.245:8080/live/5fe727b69a8a4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
