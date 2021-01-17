@@ -2102,9 +2102,9 @@ http://207.244.234.213:2082/BEST-LIVE0101/BEST-LIVE0101/24
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
 https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-http://213.136.69.245:8080/live/5fff72fd69c76/index.m3u8
+http://213.136.69.245:8080/live/5fff737ce4eb8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://213.136.69.245:8080/live/5fff7340803d9/index.m3u8
+http://213.136.69.245:8080/live/5fff73a6e119c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
 http://161.97.95.121:25461/mrcinemia-20/mrshofemax/61
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
