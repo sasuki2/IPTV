@@ -2106,11 +2106,11 @@ http://213.136.69.245:8080/live/5fff737ce4eb8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
 http://213.136.69.245:8080/live/5fff73a6e119c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://161.97.95.121:25461/mrcinemia-20/mrshofemax/61
+https://d3tni6f70yby33.cloudfront.net/out/v1/dbdb8b5e45804ca1b19ff5e808982f8d/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-http://213.136.69.245:8080/live/5fe727b69a8a4/index.m3u8
+http://213.136.69.245:8080/live/5fff737ce4eb8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+http://213.136.69.245:8080/live/5fff73a6e119c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 http://62.171.181.246:25461/live/beinsport/beinsport/22.ts
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
