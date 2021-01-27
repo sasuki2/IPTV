@@ -3,617 +3,958 @@
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT: CANAL 11" tvg-logo="http://zxz.ddns.net:25461/images/KmACsaY5N9Bq9vbp6UVjjbTWaGgBBby9.png" group-title="PORTUGAL Sports",PT: CANAL 11
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103388
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="PT: CANAL 11 HD" tvg-logo="https://i.imgur.com/MKjJicE.png" group-title="PORTUGAL Sports",PT: CANAL 11 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103390
-#EXTINF:-1 tvg-id="CANAL 11 FHD" tvg-name="PT: CANAL 11 FHD" tvg-logo="https://i.imgur.com/MKjJicE.png" group-title="PORTUGAL Sports",PT: CANAL 11 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103389
-#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: SPORT TV +" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL Sports",PT: SPORT TV +
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103391
-#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: SPORT TV + HD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL Sports",PT: SPORT TV + HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103392
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: Sport TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: Sport TV 1 SD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/107054
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: SPORT TV 1
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103393
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: SPORT TV 1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103395
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: SPORT TV 1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103394
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: SPORT TV 2
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103396
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL Sports",PT: SPORT TV 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103398
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL Sports",PT: SPORT TV 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103397
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL Sports",PT: SPORT TV 3
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103399
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL Sports",PT: SPORT TV 3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103401
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL Sports",PT: SPORT TV 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103400
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL Sports",PT: SPORT TV 4
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103402
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL Sports",PT: SPORT TV 4 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103403
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL Sports",PT: SPORT TV 5
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103404
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL Sports",PT: SPORT TV 5 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103405
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL Sports",PT: SPORT TV 5 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/116260
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="PT: ELEVEN SPORTS 1 " tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 1 
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103407
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103406
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103419
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 2 SD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103409
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103408
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103420
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PT: ELEVEN SPORTS 3   SD" tvg-logo="https://i.imgur.com/JmJve1Z.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 3   SD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103411
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/JmJve1Z.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103410
-#EXTINF:-1 tvg-id="elevensports3FHD" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/JmJve1Z.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103418
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="https://i.imgur.com/d7B4D8f.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 4 SD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103413
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/d7B4D8f.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 4 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103412
-#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/d7B4D8f.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 4 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103421
-#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="PT: ELEVEN SPORTS 5 LOW" tvg-logo="http://zxz.ddns.net:25461/images/Q8sEk3NIp1BuRdrUaMw2ZtRyWfqvMAH7.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 5 LOW
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103415
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://zxz.ddns.net:25461/images/48eL91WEOhJPdkl5XHYUhJ4DWt5o9vii.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 5 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103414
-#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://evoxtream.best:25461/images/HDTE0clqdbw7iVfgjE9PbPgE31dXBN0y.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 5 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103422
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 6 SD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103417
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/2ZFdfVD.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 6 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103416
-#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL Sports",PT: ELEVEN SPORTS 6 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103423
-#EXTINF:-1 tvg-id="SPORT TV 1 LOW" tvg-name="PT: Sport TV 1 [low]" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",PT: Sport TV 1 [low]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124218
-#EXTINF:-1 tvg-id="SPORT TV 2 LOW" tvg-name="PT: Sport TV 2 [low]" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL Sports",PT: Sport TV 2 [low]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124219
-#EXTINF:-1 tvg-id="SPORT TV 3 LOW" tvg-name="PT: Sport TV 3 [low]" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL Sports",PT: Sport TV 3 [low]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124220
-#EXTINF:-1 tvg-id="SPORT TV 4 LOW" tvg-name="PT: Sport TV 4 [low]" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL Sports",PT: Sport TV 4 [low]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124221
-#EXTINF:-1 tvg-id="SPORT TV 5 LOW" tvg-name="PT: Sport TV 5 [low]" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL Sports",PT: Sport TV 5 [low]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124222
-#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="|PT| SPORT TV 5 HD [hevc]" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL Sports",|PT| SPORT TV 5 HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124170
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="|PT| SPORT TV 4 HD [hevc]" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL Sports",|PT| SPORT TV 4 HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124171
-#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="|PT| SPORT TV 3 HD [hevc]" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL Sports",|PT| SPORT TV 3 HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124172
-#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="|PT| SPORT TV 2 HD [hevc]" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL Sports",|PT| SPORT TV 2 HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124173
-#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="|PT| SPORT TV 2 FHD [hevc]" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL Sports",|PT| SPORT TV 2 FHD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124174
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="|PT| SPORT TV 1 HD [hevc]" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",|PT| SPORT TV 1 HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124175
-#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="|PT| SPORT TV 1 FHD [hevc]" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL Sports",|PT| SPORT TV 1 FHD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124176
-#EXTINF:-1 tvg-id="SPORT TV+ HD" tvg-name="|PT| SPORT TV   HD [hevc]" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL Sports",|PT| SPORT TV   HD [hevc]
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/124177
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA 1" tvg-logo="" group-title="SPAIN",|ES/DC| LA 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6009
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA 2" tvg-logo="" group-title="SPAIN",|ES/DC| LA 2
+http://163.172.31.126:2052/portugalpanel3/7546141233/6010
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| i24 NEWS" tvg-logo="" group-title="SPAIN",|ES/DC| i24 NEWS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6011
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ANTENA 3" tvg-logo="" group-title="SPAIN",|ES/DC| ANTENA 3
+http://163.172.31.126:2052/portugalpanel3/7546141233/6012
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CUATRO" tvg-logo="" group-title="SPAIN",|ES/DC| CUATRO
+http://163.172.31.126:2052/portugalpanel3/7546141233/6013
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TELECINCO" tvg-logo="" group-title="SPAIN",|ES/DC| TELECINCO
+http://163.172.31.126:2052/portugalpanel3/7546141233/6014
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA SEXTA" tvg-logo="" group-title="SPAIN",|ES/DC| LA SEXTA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6015
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ARAGON TV" tvg-logo="" group-title="SPAIN",|ES/DC| ARAGON TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6016
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CLAN TVE" tvg-logo="" group-title="SPAIN",|ES/DC| CLAN TVE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6017
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NOVA" tvg-logo="" group-title="SPAIN",|ES/DC| NOVA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6018
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NEOX" tvg-logo="" group-title="SPAIN",|ES/DC| NEOX
+http://163.172.31.126:2052/portugalpanel3/7546141233/6019
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL SUR A" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL SUR A
+http://163.172.31.126:2052/portugalpanel3/7546141233/6020
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FOX NEWS" tvg-logo="" group-title="SPAIN",|ES/DC| FOX NEWS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6021
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TBN ESPANA" tvg-logo="" group-title="SPAIN",|ES/DC| TBN ESPANA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6022
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL ORBE21" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL ORBE21
+http://163.172.31.126:2052/portugalpanel3/7546141233/6023
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| CINE H.264 |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| CINE H.264 |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6024
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. ESTRENOS" tvg-logo="" group-title="SPAIN",|ES/DC| M. ESTRENOS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6025
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. ACCION" tvg-logo="" group-title="SPAIN",|ES/DC| M. ACCION
+http://163.172.31.126:2052/portugalpanel3/7546141233/6026
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. COMEDIA" tvg-logo="" group-title="SPAIN",|ES/DC| M. COMEDIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6027
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. DRAMA" tvg-logo="" group-title="SPAIN",|ES/DC| M. DRAMA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6028
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. CINEDOC&ROLL" tvg-logo="" group-title="SPAIN",|ES/DC| M. CINEDOC&ROLL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6029
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. CINE N" tvg-logo="" group-title="SPAIN",|ES/DC| M. CINE N
+http://163.172.31.126:2052/portugalpanel3/7546141233/6030
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. SERIESMANIA" tvg-logo="" group-title="SPAIN",|ES/DC| M. SERIESMANIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6031
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| HOLLYWOOD" tvg-logo="" group-title="SPAIN",|ES/DC| HOLLYWOOD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6032
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. GOLF" tvg-logo="" group-title="SPAIN",|ES/DC| M. GOLF
+http://163.172.31.126:2052/portugalpanel3/7546141233/6058
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. FORMULA 1" tvg-logo="" group-title="SPAIN",|ES/DC| M. FORMULA 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6059
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. MULTIDEPORTE" tvg-logo="" group-title="SPAIN",|ES/DC| M. MULTIDEPORTE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6060
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. DEPORTES" tvg-logo="" group-title="SPAIN",|ES/DC| M. DEPORTES
+http://163.172.31.126:2052/portugalpanel3/7546141233/6061
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LIGA DE CAMPEONES" tvg-logo="" group-title="SPAIN",|ES/DC| LIGA DE CAMPEONES
+http://163.172.31.126:2052/portugalpanel3/7546141233/6062
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| GOL TV" tvg-logo="" group-title="SPAIN",|ES/DC| GOL TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6063
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TELEDEPORTE" tvg-logo="" group-title="SPAIN",|ES/DC| TELEDEPORTE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6064
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| REAL MADRID TV" tvg-logo="" group-title="SPAIN",|ES/DC| REAL MADRID TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6065
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BARCA TV" tvg-logo="" group-title="SPAIN",|ES/DC| BARCA TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6066
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| EUROSPORT 1" tvg-logo="" group-title="SPAIN",|ES/DC| EUROSPORT 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6067
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| CULTURA H.264 |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| CULTURA H.264 |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6068
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| IBERALIA TV" tvg-logo="" group-title="SPAIN",|ES/DC| IBERALIA TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6069
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL ODISEA" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL ODISEA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6070
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NAT GEO WILD" tvg-logo="" group-title="SPAIN",|ES/DC| NAT GEO WILD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6071
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NAT GEOGRAPHIC" tvg-logo="" group-title="SPAIN",|ES/DC| NAT GEOGRAPHIC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6072
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISCOVERY CHANNEL" tvg-logo="" group-title="SPAIN",|ES/DC| DISCOVERY CHANNEL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6073
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FACTORIA DE FICCION" tvg-logo="" group-title="SPAIN",|ES/DC| FACTORIA DE FICCION
+http://163.172.31.126:2052/portugalpanel3/7546141233/6074
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CRIMEN INVESTIGACION" tvg-logo="" group-title="SPAIN",|ES/DC| CRIMEN INVESTIGACION
+http://163.172.31.126:2052/portugalpanel3/7546141233/6075
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CAZA & PESCA" tvg-logo="" group-title="SPAIN",|ES/DC| CAZA & PESCA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6076
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL COCINA" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL COCINA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6077
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TOROS" tvg-logo="" group-title="SPAIN",|ES/DC| TOROS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6078
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BLAZE" tvg-logo="" group-title="SPAIN",|ES/DC| BLAZE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6079
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| HISTORIA" tvg-logo="" group-title="SPAIN",|ES/DC| HISTORIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6080
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| VIAJAR" tvg-logo="" group-title="SPAIN",|ES/DC| VIAJAR
+http://163.172.31.126:2052/portugalpanel3/7546141233/6081
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| NINOS H.264 |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| NINOS H.264 |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6082
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BOING" tvg-logo="" group-title="SPAIN",|ES/DC| BOING
+http://163.172.31.126:2052/portugalpanel3/7546141233/6083
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL PANDA" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL PANDA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6084
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BABY TV" tvg-logo="" group-title="SPAIN",|ES/DC| BABY TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6085
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY CHANNEL" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY CHANNEL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6086
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY JUNIOR" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY JUNIOR
+http://163.172.31.126:2052/portugalpanel3/7546141233/6087
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY XD" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY XD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6088
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NICK JR" tvg-logo="" group-title="SPAIN",|ES/DC| NICK JR
+http://163.172.31.126:2052/portugalpanel3/7546141233/6089
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NICKELODEON" tvg-logo="" group-title="SPAIN",|ES/DC| NICKELODEON
+http://163.172.31.126:2052/portugalpanel3/7546141233/6090
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| MUSICA H.264 |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| MUSICA H.264 |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6091
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| MTV ESPANA" tvg-logo="" group-title="SPAIN",|ES/DC| MTV ESPANA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6092
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CLASSICA" tvg-logo="" group-title="SPAIN",|ES/DC| CLASSICA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6093
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| MEZZO LIVE" tvg-logo="" group-title="SPAIN",|ES/DC| MEZZO LIVE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6094
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. ESTRENOS HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. ESTRENOS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6095
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. ACCION HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. ACCION HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6096
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. COMEDIA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. COMEDIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6097
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. DRAMA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. DRAMA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6098
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. CINEDOC&ROLL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. CINEDOC&ROLL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6099
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. CINE N HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. CINE N HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6100
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. SERIESMANIA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. SERIESMANIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6101
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| HOLLYWOOD HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| HOLLYWOOD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6102
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TCM HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TCM HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6103
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TNT HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TNT HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6104
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| PARAMOUNT CHANNEL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| PARAMOUNT CHANNEL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6105
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| ENTRETENIMIENTO HEVC |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| ENTRETENIMIENTO HEVC |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6106
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| #0 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| #0 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6107
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. SERIES HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. SERIES HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6108
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FOX HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| FOX HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6109
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FOX LIFE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| FOX LIFE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6110
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| AXN HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| AXN HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6111
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| AXN WHITE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| AXN WHITE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6112
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| SYFY HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| SYFY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6113
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| SUNDANCE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| SUNDANCE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6114
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| COMEDY CENTRAL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| COMEDY CENTRAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6115
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL DECASA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL DECASA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6116
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| AMC HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| AMC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6117
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| COSMO HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| COSMO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6118
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CALLE 13 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CALLE 13 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6119
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC|  DIVINITY HEVC" tvg-logo="" group-title="SPAIN",|ES/DC|  DIVINITY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6120
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ENERGY HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| ENERGY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6121
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| DEPORTES HEVC |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| DEPORTES HEVC |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6122
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC|  # VAMOS HEVC" tvg-logo="" group-title="SPAIN",|ES/DC|  # VAMOS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6123
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LALIGATV BAR HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| LALIGATV BAR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6124
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. LALIGA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. LALIGA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6125
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. LALIGA1 HD HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. LALIGA1 HD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6126
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. FUTBOL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. FUTBOL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6127
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. GOLF HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. GOLF HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6128
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. FORMULA 1 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. FORMULA 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6129
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. MULTIDEPORTE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. MULTIDEPORTE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6130
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| M. DEPORTES HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| M. DEPORTES HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6131
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LIGA DE CAMPEONES HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| LIGA DE CAMPEONES HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6132
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| GOL TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| GOL TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6133
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TELEDEPORTE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TELEDEPORTE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6134
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| REAL MADRID TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| REAL MADRID TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6135
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BARCA TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| BARCA TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6136
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| EUROSPORT 1 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| EUROSPORT 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6137
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| CULTURA HEVC |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| CULTURA HEVC |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6138
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| IBERALIA TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| IBERALIA TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6139
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL ODISEA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL ODISEA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6140
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NAT GEO WILD HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NAT GEO WILD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6141
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NAT GEOGRAPHIC HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NAT GEOGRAPHIC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6142
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| DISCOVERY CHANNEL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6143
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FACTORIA DE FICCION HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| FACTORIA DE FICCION HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6144
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CRIMEN INVESTIGACION HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CRIMEN INVESTIGACION HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6145
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CAZA & PESCA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CAZA & PESCA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6146
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL COCINA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL COCINA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6147
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TOROS HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TOROS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6148
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BLAZE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| BLAZE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6149
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| HISTORIA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| HISTORIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6150
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| VIAJAR HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| VIAJAR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6151
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| NINOS HEVC |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| NINOS HEVC |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6152
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BOING HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| BOING HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6153
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL PANDA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL PANDA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6154
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| BABY TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| BABY TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6155
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY CHANNEL HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY CHANNEL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6156
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY JUNIOR HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY JUNIOR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6157
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| DISNEY XD HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| DISNEY XD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6158
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NICK JR HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NICK JR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6159
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NICKELODEON HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NICKELODEON HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6160
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| MUSICA HEVC |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| MUSICA HEVC |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6161
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| MTV ESPANA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| MTV ESPANA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6162
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CLASSICA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CLASSICA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6163
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| MEZZO LIVE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| MEZZO LIVE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6164
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ----●★| SPAIN H.264 |★●----" tvg-logo="" group-title="SPAIN",|ES/DC| ----●★| SPAIN H.264 |★●----
+http://163.172.31.126:2052/portugalpanel3/7546141233/6165
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA 1 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| LA 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6166
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA 2 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| LA 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6167
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| i24 NEWS HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| i24 NEWS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6168
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ANTENA 3 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| ANTENA 3 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6169
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CUATRO HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CUATRO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6170
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TELECINCO HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TELECINCO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6171
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| LA SEXTA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| LA SEXTA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6172
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| ARAGON TV HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| ARAGON TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6173
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CLAN TVE HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CLAN TVE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6174
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NOVA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NOVA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6175
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| NEOX HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| NEOX HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6176
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL SUR A HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL SUR A HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6177
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| FOX NEWS HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| FOX NEWS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6178
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| TBN ESPANA HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| TBN ESPANA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6179
+#EXTINF:-1 tvg-id="" tvg-name="|ES/DC| CANAL ORBE21 HEVC" tvg-logo="" group-title="SPAIN",|ES/DC| CANAL ORBE21 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6180
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ODISSEIA" tvg-logo="" group-title="PORTUGAL",|PT/DC| ODISSEIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6181
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| HISTORIA" tvg-logo="" group-title="PORTUGAL",|PT/DC| HISTORIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6182
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| 24 KITCHEN" tvg-logo="" group-title="PORTUGAL",|PT/DC| 24 KITCHEN
+http://163.172.31.126:2052/portugalpanel3/7546141233/6183
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TLC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TLC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6184
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FUEL TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| FUEL TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6185
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MY CUISINE" tvg-logo="" group-title="PORTUGAL",|PT/DC| MY CUISINE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6186
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| KURIAKOS TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| KURIAKOS TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6187
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FASHION TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| FASHION TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6188
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| MÚSICA H.264 |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| MÚSICA H.264 |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6189
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MTV PORTUGAL" tvg-logo="" group-title="PORTUGAL",|PT/DC| MTV PORTUGAL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6190
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TRACE TOCA" tvg-logo="" group-title="PORTUGAL",|PT/DC| TRACE TOCA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6191
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MCM POP" tvg-logo="" group-title="PORTUGAL",|PT/DC| MCM POP
+http://163.172.31.126:2052/portugalpanel3/7546141233/6192
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| VH1 CLASSIC" tvg-logo="" group-title="PORTUGAL",|PT/DC| VH1 CLASSIC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6193
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MEZZO" tvg-logo="" group-title="PORTUGAL",|PT/DC| MEZZO
+http://163.172.31.126:2052/portugalpanel3/7546141233/6194
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★----|PT| INFANTIL H.264 |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★----|PT| INFANTIL H.264 |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6195
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NICK JR" tvg-logo="" group-title="PORTUGAL",|PT/DC| NICK JR
+http://163.172.31.126:2052/portugalpanel3/7546141233/6203
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★---|PT| INFORMAÇÃO H.264 |PT|---★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★---|PT| INFORMAÇÃO H.264 |PT|---★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6205
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CMTV" tvg-logo="" group-title="PORTUGAL",|PT/DC| CMTV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6206
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI 24" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVI 24
+http://163.172.31.126:2052/portugalpanel3/7546141233/6207
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVE EUROPE" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVE EUROPE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6208
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC NOTICIAS" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC NOTICIAS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6209
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GALICIA" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GALICIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6210
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| EURONEWS" tvg-logo="" group-title="PORTUGAL",|PT/DC| EURONEWS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6211
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BBC ENTERTAINEMENT" tvg-logo="" group-title="PORTUGAL",|PT/DC| BBC ENTERTAINEMENT
+http://163.172.31.126:2052/portugalpanel3/7546141233/6212
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BLOOMBREG EUROPE" tvg-logo="" group-title="PORTUGAL",|PT/DC| BLOOMBREG EUROPE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6213
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CNBC EUROPE" tvg-logo="" group-title="PORTUGAL",|PT/DC| CNBC EUROPE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6214
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NHK WORLD" tvg-logo="" group-title="PORTUGAL",|PT/DC| NHK WORLD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6215
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★----|PT| OTHER H.264 |PT|---★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★----|PT| OTHER H.264 |PT|---★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6216
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PLAYBOY TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| PLAYBOY TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6217
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",|PT/DC| E! ENTERTAINMENT
+http://163.172.31.126:2052/portugalpanel3/7546141233/6218
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANCAO NOVA" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANCAO NOVA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6219
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SYFY" tvg-logo="" group-title="PORTUGAL",|PT/DC| SYFY
+http://163.172.31.126:2052/portugalpanel3/7546141233/6220
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI REALITY" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVI REALITY
+http://163.172.31.126:2052/portugalpanel3/7546141233/6221
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ZAP VIVA" tvg-logo="" group-title="PORTUGAL",|PT/DC| ZAP VIVA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6222
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BLAZE" tvg-logo="" group-title="PORTUGAL",|PT/DC| BLAZE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6223
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NOS STUDIO" tvg-logo="" group-title="PORTUGAL",|PT/DC| NOS STUDIO
+http://163.172.31.126:2052/portugalpanel3/7546141233/6224
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★----|PT| DESPORTO H.264 |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★----|PT| DESPORTO H.264 |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6225
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL 11" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL 11
+http://163.172.31.126:2052/portugalpanel3/7546141233/6226
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 2" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 2
+http://163.172.31.126:2052/portugalpanel3/7546141233/6228
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 4" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 4
+http://163.172.31.126:2052/portugalpanel3/7546141233/6230
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 5" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 5
+http://163.172.31.126:2052/portugalpanel3/7546141233/6231
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV+" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV+
+http://163.172.31.126:2052/portugalpanel3/7546141233/6232
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV NBA" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV NBA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6233
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6234
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 2
+http://163.172.31.126:2052/portugalpanel3/7546141233/6235
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 3
+http://163.172.31.126:2052/portugalpanel3/7546141233/6236
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 4
+http://163.172.31.126:2052/portugalpanel3/7546141233/6237
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 5
+http://163.172.31.126:2052/portugalpanel3/7546141233/6238
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 6
+http://163.172.31.126:2052/portugalpanel3/7546141233/6239
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BENFICA TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| BENFICA TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6242
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PFC INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",|PT/DC| PFC INTERNACIONAL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6243
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MOTORVISION" tvg-logo="" group-title="PORTUGAL",|PT/DC| MOTORVISION
+http://163.172.31.126:2052/portugalpanel3/7546141233/6244
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",|PT/DC| KOMBAT SPORT
+http://163.172.31.126:2052/portugalpanel3/7546141233/6245
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORTING TV" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORTING TV
+http://163.172.31.126:2052/portugalpanel3/7546141233/6246
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| CULTURA H.264 |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| CULTURA H.264 |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6247
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NATIONAL GEO FHD" tvg-logo="" group-title="PORTUGAL",|PT| NATIONAL GEO FHD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6248
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NATIONAL GEO WILD" tvg-logo="" group-title="PORTUGAL",|PT/DC| NATIONAL GEO WILD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6249
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| DISCOVERY" tvg-logo="" group-title="PORTUGAL",|PT/DC| DISCOVERY
+http://163.172.31.126:2052/portugalpanel3/7546141233/6250
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",|PT/DC| DISCOVERY CHANNEL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6251
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",|PT/DC| ID INVESTIGATION DISCOVERY
+http://163.172.31.126:2052/portugalpanel3/7546141233/6252
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",|PT/DC| TRAVEL CHANNEL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6253
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 1" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6254
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC MULHER" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC MULHER
+http://163.172.31.126:2052/portugalpanel3/7546141233/6258
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC CARAS" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC CARAS
+http://163.172.31.126:2052/portugalpanel3/7546141233/6260
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PORTO CANAL" tvg-logo="" group-title="PORTUGAL",|PT/DC| PORTO CANAL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6262
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP MEMORIA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6263
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP AFRICA" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP AFRICA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6264
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP MADEIRA
+http://163.172.31.126:2052/portugalpanel3/7546141233/6265
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV RECORD" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV RECORD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6266
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL PARLAMENTO" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL PARLAMENTO
+http://163.172.31.126:2052/portugalpanel3/7546141233/6268
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| FILMES H.264 |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| FILMES H.264 |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6269
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 1" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV CINE 1
+http://163.172.31.126:2052/portugalpanel3/7546141233/6270
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",|PT/DC| HOLLYWOOD
+http://163.172.31.126:2052/portugalpanel3/7546141233/6274
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AMC" tvg-logo="" group-title="PORTUGAL",|PT/DC| AMC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6275
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| SERIES H.264 |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| SERIES H.264 |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6276
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN
+http://163.172.31.126:2052/portugalpanel3/7546141233/6277
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN WHITE" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN WHITE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6278
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN BLACK" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN BLACK
+http://163.172.31.126:2052/portugalpanel3/7546141233/6279
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GLOBO TV PORTUGAL" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GLOBO TV PORTUGAL
+http://163.172.31.126:2052/portugalpanel3/7546141233/6280
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GLOBO PREMIUM" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GLOBO PREMIUM
+http://163.172.31.126:2052/portugalpanel3/7546141233/6281
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX
+http://163.172.31.126:2052/portugalpanel3/7546141233/6282
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX MOVIES" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX MOVIES
+http://163.172.31.126:2052/portugalpanel3/7546141233/6283
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX LIFE" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX LIFE
+http://163.172.31.126:2052/portugalpanel3/7546141233/6284
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX CRIME" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX CRIME
+http://163.172.31.126:2052/portugalpanel3/7546141233/6285
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX COMEDY" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX COMEDY
+http://163.172.31.126:2052/portugalpanel3/7546141233/6286
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 1 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6288
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 2 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6289
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 3 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP 3 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6290
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6291
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC MULHER HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC MULHER HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6292
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC RADICAL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC RADICAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6293
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC CARAS HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC CARAS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6294
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL Q HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL Q HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6295
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PORTO CANAL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| PORTO CANAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6296
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MEMORIA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP MEMORIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6297
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP AFRICA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP AFRICA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6298
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MADEIRA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| RTP MADEIRA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6299
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV RECORD HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV RECORD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6300
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL PARLAMENTO HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL PARLAMENTO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6302
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| FILMES HEVC |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| FILMES HEVC |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6303
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 1 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV CINE 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6304
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 2 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV CINE 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6305
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 3 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV CINE 3 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6306
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 4 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV CINE 4 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6307
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| HOLLYWOOD HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| HOLLYWOOD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6308
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AMC HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| AMC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6309
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| SERIES HEVC |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| SERIES HEVC |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6310
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6311
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN WHITE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN WHITE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6312
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| AXN BLACK HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| AXN BLACK HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6313
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GLOBO TV PORTUGAL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GLOBO TV PORTUGAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6314
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GLOBO PREMIUM HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GLOBO PREMIUM HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6315
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6316
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX MOVIES HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX MOVIES HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6317
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX LIFE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX LIFE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6318
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX CRIME HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX CRIME HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6319
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX COMEDY HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FOX COMEDY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6320
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVSERIES HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVSERIES HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6321
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| E! ENTERTAINMENT HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| E! ENTERTAINMENT HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6322
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANCAO NOVA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANCAO NOVA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6323
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SYFY HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SYFY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6324
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI REALITY HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVI REALITY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6325
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ZAP VIVA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ZAP VIVA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6326
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BLAZE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BLAZE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6327
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NOS STUDIO HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NOS STUDIO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6328
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★----|PT| DESPORTO HEVC |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★----|PT| DESPORTO HEVC |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6329
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL 11 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL 11 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6330
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 1 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6331
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 2 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6332
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 3 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 3 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6333
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 4 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 4 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6334
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 5 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV 5 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6335
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV+ HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV+ HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6336
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV NBA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORT TV NBA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6337
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6338
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6339
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 3 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 3 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6340
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 4 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 4 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6341
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 5 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 5 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6342
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 6 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ELEVEN SPORTS 6 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6343
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| EUROSPORT 1 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| EUROSPORT 1 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6344
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| EUROSPORT 2 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| EUROSPORT 2 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6345
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BENFICA TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BENFICA TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6346
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PFC INTERNACIONAL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| PFC INTERNACIONAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6347
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MOTORVISION HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| MOTORVISION HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6348
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| KOMBAT SPORT HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| KOMBAT SPORT HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6349
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORTING TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SPORTING TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6350
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| CULTURA HEVC |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| CULTURA HEVC |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6351
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NATIONAL GEO HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NATIONAL GEO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6352
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NATIONAL GEO WILD HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NATIONAL GEO WILD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6353
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| DISCOVERY HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| DISCOVERY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6354
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ID INVESTIGATION DISCOVERY HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ID INVESTIGATION DISCOVERY HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6355
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TRAVEL CHANNEL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TRAVEL CHANNEL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6356
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ODISSEIA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| ODISSEIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6357
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| HISTORIA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| HISTORIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6358
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| 24 KITCHEN HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| 24 KITCHEN HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6359
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TLC HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TLC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6360
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FUEL TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FUEL TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6361
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MY CUISINE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| MY CUISINE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6362
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| KURIAKOS TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| KURIAKOS TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6363
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FASHION TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| FASHION TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6364
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★-----|PT| MÚSICA HEVC |PT|-----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★-----|PT| MÚSICA HEVC |PT|-----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6365
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MTV PORTUGAL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| MTV PORTUGAL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6366
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TRACE TOCA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TRACE TOCA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6367
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MCM POP HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| MCM POP HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6368
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| VH1 CLASSIC HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| VH1 CLASSIC HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6369
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| MEZZO HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| MEZZO HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6370
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★----|PT| INFANTIL HEVC |PT|----★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★----|PT| INFANTIL HEVC |PT|----★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6371
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| DISNEY CHANNEL HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| DISNEY CHANNEL HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6372
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| DISNEY JUNIOR HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| DISNEY JUNIOR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6373
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CARTOON NETWORK HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CARTOON NETWORK HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6374
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL PANDA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CANAL PANDA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6375
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BIGGS HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BIGGS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6376
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC KIDS HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC KIDS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6377
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BABY TV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BABY TV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6378
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NICK JR HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NICK JR HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6379
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NICKELODEON HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NICKELODEON HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6380
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| •●★---|PT| INFORMAÇÃO HEVC |PT|---★●•" tvg-logo="" group-title="PORTUGAL",|PT/DC| •●★---|PT| INFORMAÇÃO HEVC |PT|---★●•
+http://163.172.31.126:2052/portugalpanel3/7546141233/6381
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CMTV HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CMTV HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6382
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI 24 HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVI 24 HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6383
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVE EUROPE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TVE EUROPE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6384
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC NOTICIAS HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| SIC NOTICIAS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6385
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GALICIA HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TV GALICIA HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6386
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| EURONEWS HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| EURONEWS HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6387
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BBC ENTERTAINEMENT HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BBC ENTERTAINEMENT HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6388
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BLOOMBREG EUROPE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| BLOOMBREG EUROPE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6389
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CNBC EUROPE HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| CNBC EUROPE HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6390
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| NHK WORLD HEVC" tvg-logo="" group-title="PORTUGAL",|PT/DC| NHK WORLD HEVC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6391
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL" tvg-logo="" group-title="PORTUGAL",|PT| SIC RADICAL
+http://163.172.31.126:2052/portugalpanel3/7546141233/1589
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="https://imgur.com/IVBZGYE.png" group-title="FRANÇA",FR: TF1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120187
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 FHD" tvg-logo="https://imgur.com/IVBZGYE.png" group-title="FRANÇA",FR: TF1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120043
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: France 2 HD" tvg-logo="https://imgur.com/1JXiiGj.png" group-title="FRANÇA",FR: France 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120188
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 FHD" tvg-logo="https://imgur.com/1JXiiGj.png" group-title="FRANÇA",FR: FRANCE 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120044
-#EXTINF:-1 tvg-id="France 3 HD FR" tvg-name="FR: France 3 HD" tvg-logo="https://imgur.com/epFJGw7.png" group-title="FRANÇA",FR: France 3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120189
-#EXTINF:-1 tvg-id="France 3 HD FR" tvg-name="FR: FRANCE 3 FHD" tvg-logo="https://imgur.com/epFJGw7.png" group-title="FRANÇA",FR: FRANCE 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120045
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR: France 4 HD" tvg-logo="https://imgur.com/sJOLO5n.png" group-title="FRANÇA",FR: France 4 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120199
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR: FRANCE 4 FHD" tvg-logo="https://imgur.com/sJOLO5n.png" group-title="FRANÇA",FR: FRANCE 4 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120054
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR: France 5 HD" tvg-logo="https://imgur.com/69ZNwgv.png" group-title="FRANÇA",FR: France 5 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120193
-#EXTINF:-1 tvg-id="France5" tvg-name="FR: FRANCE 5 FHD" tvg-logo="https://imgur.com/69ZNwgv.png" group-title="FRANÇA",FR: FRANCE 5 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120048
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FR: France O" tvg-logo="https://imgur.com/F7AvbdE.png" group-title="FRANÇA",FR: France O
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120204
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6" tvg-logo="https://imgur.com/LrzKUyv.png" group-title="FRANÇA",FR: M6
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120192
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 FHD" tvg-logo="https://imgur.com/LrzKUyv.png" group-title="FRANÇA",FR: M6 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120047
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8" tvg-logo="https://imgur.com/7Si0uZu.png" group-title="FRANÇA",FR: C8
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120194
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 FHD" tvg-logo="https://imgur.com/7Si0uZu.png" group-title="FRANÇA",FR: C8 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120049
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9" tvg-logo="https://imgur.com/rciUYTB.png" group-title="FRANÇA",FR: W9
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120195
-#EXTINF:-1 tvg-id="Arte HD FR" tvg-name="FR: Arte HD" tvg-logo="https://imgur.com/sdnzVob.png" group-title="FRANÇA",FR: Arte HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120191
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="FR: ARTE FHD" tvg-logo="https://imgur.com/sdnzVob.png" group-title="FRANÇA",FR: ARTE FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120046
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 FHD" tvg-logo="https://imgur.com/rciUYTB.png" group-title="FRANÇA",FR: W9 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120050
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC" tvg-logo="https://imgur.com/3qeFESm.png" group-title="FRANÇA",FR: TMC
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120196
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC FHD" tvg-logo="https://imgur.com/3qeFESm.png" group-title="FRANÇA",FR: TMC FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120051
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR: TFX" tvg-logo="https://imgur.com/Y0UndUd.png" group-title="FRANÇA",FR: TFX
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120197
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="FR: TFX FHD" tvg-logo="https://imgur.com/Y0UndUd.png" group-title="FRANÇA",FR: TFX FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120052
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12 HD" tvg-logo="https://imgur.com/NrS3eEi.png" group-title="FRANÇA",FR: NRJ 12 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120198
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12 FHD" tvg-logo="https://imgur.com/NrS3eEi.png" group-title="FRANÇA",FR: NRJ 12 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120053
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: CSTAR" tvg-logo="https://imgur.com/p72vJlE.png" group-title="FRANÇA",FR: CSTAR
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120202
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: CSTAR FHD" tvg-logo="https://imgur.com/p72vJlE.png" group-title="FRANÇA",FR: CSTAR FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120057
-#EXTINF:-1 tvg-id="HD1.fr" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="https://imgur.com/mcIIi1P.png" group-title="FRANÇA",FR: TF1 SERIES FILMS HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120206
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIES/FILMS FHD" tvg-logo="https://imgur.com/mcIIi1P.png" group-title="FRANÇA",FR: TF1 SERIES/FILMS FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120060
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER FHD" tvg-logo="https://imgur.com/4OienXG.png" group-title="FRANÇA",FR: 6TER FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120061
-#EXTINF:-1 tvg-id="rmc.fr" tvg-name="FR: RMC STORY FHD" tvg-logo="https://imgur.com/xS09u6y.png " group-title="FRANÇA",FR: RMC STORY FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120062
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE FHD" tvg-logo="https://imgur.com/PKPrxaZ.png" group-title="FRANÇA",FR: RMC DECOUVERTE FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120063
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: CHERIE 25 FHD" tvg-logo="https://imgur.com/JgY0zJM.png" group-title="FRANÇA",FR: CHERIE 25 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120064
-#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="https://imgur.com/nvC5J8L.png" group-title="FRANÇA",FR: ALTICE STUDIO HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120120
-#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV" tvg-logo="" group-title="FRANÇA",FR: WARNER TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120121
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TCM CINEMA" tvg-logo="https://imgur.com/3qeFESm.png" group-title="FRANÇA",FR: TCM CINEMA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120122
-#EXTINF:-1 tvg-id="Action" tvg-name="FR: ACTION HD" tvg-logo="https://imgur.com/D4Yd8QJ.png" group-title="FRANÇA",FR: ACTION HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120125
-#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="https://imgur.com/rxJLDye.png" group-title="FRANÇA",FR: SERIE CLUB HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120126
-#EXTINF:-1 tvg-id="SyFyF" tvg-name="FR: SYFY HD" tvg-logo="https://imgur.com/dAC1PUW.png" group-title="FRANÇA",FR: SYFY HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120127
-#EXTINF:-1 tvg-id="13eRue" tvg-name="FR: 13EME RUE HD" tvg-logo="https://imgur.com/M54VhJi.png" group-title="FRANÇA",FR: 13EME RUE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120128
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1 HD" tvg-logo="https://imgur.com/lUflig9.png" group-title="FRANÇA",FR: AB1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120129
-#EXTINF:-1 tvg-id="AB3" tvg-name="FR: AB3 HD" tvg-logo="https://imgur.com/OotMF6c.png" group-title="FRANÇA",FR: AB3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120130
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="https://imgur.com/4qfOWun.png" group-title="FRANÇA",FR: PARIS PREMIERE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120131
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR: RTL 9 HD" tvg-logo="https://imgur.com/mLEap8X.png" group-title="FRANÇA",FR: RTL 9 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120132
-#EXTINF:-1 tvg-id="BelRTL" tvg-name="FR: BET HD" tvg-logo="https://imgur.com/SCmh2rg.png" group-title="FRANÇA",FR: BET HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120133
-#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="FR: COMEDIE+" tvg-logo="https://imgur.com/CX33IBR.png" group-title="FRANÇA",FR: COMEDIE+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120134
-#EXTINF:-1 tvg-id="" tvg-name="FR: MY COMEDY" tvg-logo="https://imgur.com/myHpC1X.png" group-title="FRANÇA",FR: MY COMEDY
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120135
-#EXTINF:-1 tvg-id="" tvg-name="FR: MYTV CHANNEL" tvg-logo="https://imgur.com/jYgTvwo.png" group-title="FRANÇA",FR: MYTV CHANNEL
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120136
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6ter HD" tvg-logo="https://imgur.com/4OienXG.png" group-title="FRANÇA",FR: 6ter HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120207
-#EXTINF:-1 tvg-id="TVBreizh" tvg-name="FR: TV Breizh" tvg-logo="http://images.primeplus.tv/images/picons/fr/TvBreizh.fr.png" group-title="FRANÇA",FR: TV Breizh
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120137
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: TEVA" tvg-logo="https://imgur.com/Nn5ocvu.png" group-title="FRANÇA",FR: TEVA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120138
-#EXTINF:-1 tvg-id="" tvg-name="===== CANALSAT FHD =====" tvg-logo="" group-title="FRANÇA",===== CANALSAT FHD =====
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120090
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="FR: CANAL+" tvg-logo="https://imgur.com/zBpLjHr.png" group-title="FRANÇA",FR: CANAL+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120190
-#EXTINF:-1 tvg-id="Canal+ Cinéma FR" tvg-name="FR: CANAL+ CINEMA FHD" tvg-logo="https://imgur.com/KBXs5bl.png" group-title="FRANÇA",FR: CANAL+ CINEMA FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120091
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="FR: CANAL+ DECALE FHD" tvg-logo="https://imgur.com/PFsGynn.png" group-title="FRANÇA",FR: CANAL+ DECALE FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120092
-#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="FR: CANAL+ FAMILY FHD" tvg-logo="https://imgur.com/CAqIATa.png" group-title="FRANÇA",FR: CANAL+ FAMILY FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120093
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES FHD" tvg-logo="https://imgur.com/RhfqFsk.png" group-title="FRANÇA",FR: CANAL+ SERIES FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120094
-#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="FR: CINE+ PREMIER FHD" tvg-logo="https://imgur.com/prJhzal.png" group-title="FRANÇA",FR: CINE+ PREMIER FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120095
-#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="FR: CINE+ FRISSON FHD" tvg-logo="https://imgur.com/xUc9VKp.png" group-title="FRANÇA",FR: CINE+ FRISSON FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120096
-#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="FR: CINE+ FAMIZ FHD" tvg-logo="https://imgur.com/5X3YpUX.png" group-title="FRANÇA",FR: CINE+ FAMIZ FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120097
-#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="FR: CINE+ CLASSIC FHD" tvg-logo="https://imgur.com/MiK8ImP.png" group-title="FRANÇA",FR: CINE+ CLASSIC FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120098
-#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="|FR6 CINE+ CLUB FHD" tvg-logo="https://imgur.com/RmpXVnB.png" group-title="FRANÇA",|FR6 CINE+ CLUB FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120099
-#EXTINF:-1 tvg-id="" tvg-name="===== CANALSAT =====" tvg-logo="" group-title="FRANÇA",===== CANALSAT =====
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120100
-#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="FR: CANAL+ CINEMA" tvg-logo="https://imgur.com/JPluZow.png" group-title="FRANÇA",FR: CANAL+ CINEMA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120101
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="FR: CANAL+ DECALE" tvg-logo="https://imgur.com/PFsGynn.png" group-title="FRANÇA",FR: CANAL+ DECALE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120102
-#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="FR: CANAL+ FAMILY" tvg-logo="https://imgur.com/CAqIATa.png" group-title="FRANÇA",FR: CANAL+ FAMILY
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120103
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES" tvg-logo="https://imgur.com/RhfqFsk.png" group-title="FRANÇA",FR: CANAL+ SERIES
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120104
-#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://imgur.com/NYpk41i.png" group-title="FRANÇA",FR: CANAL+ SPORT
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120105
-#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="FR: CINE+ PREMIER" tvg-logo="https://imgur.com/prJhzal.png" group-title="FRANÇA",FR: CINE+ PREMIER
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120106
-#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="FR: CINE+ FRISSON" tvg-logo="https://imgur.com/xUc9VKp.png" group-title="FRANÇA",FR: CINE+ FRISSON
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120107
-#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="FR: CINE+ FAMIZ" tvg-logo="https://imgur.com/5X3YpUX.png" group-title="FRANÇA",FR: CINE+ FAMIZ
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120108
-#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="FR: CINE+ EMOTION" tvg-logo="https://imgur.com/NPxdQGD.png" group-title="FRANÇA",FR: CINE+ EMOTION
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120109
-#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="FR: CINE+ CLASSIC" tvg-logo="https://imgur.com/MiK8ImP.png" group-title="FRANÇA",FR: CINE+ CLASSIC
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120110
-#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="FR: CINE+ CLUB" tvg-logo="https://imgur.com/RmpXVnB.png" group-title="FRANÇA",FR: CINE+ CLUB
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120111
-#EXTINF:-1 tvg-id="OCSMax" tvg-name="FR: OCS MAX" tvg-logo="https://imgur.com/uTJR4RT.png" group-title="FRANÇA",FR: OCS MAX
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120112
-#EXTINF:-1 tvg-id="OCSCity" tvg-name="FR: OCS CITY" tvg-logo="https://imgur.com/bpncOHH.png" group-title="FRANÇA",FR: OCS CITY
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120113
-#EXTINF:-1 tvg-id="OCSGeants" tvg-name="FR: OCS GEANTS" tvg-logo="https://imgur.com/a3CqyYC.png" group-title="FRANÇA",FR: OCS GEANTS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120114
-#EXTINF:-1 tvg-id="OCSChoc" tvg-name="FR: OCS CHOC" tvg-logo="https://imgur.com/4fwu8A5.png" group-title="FRANÇA",FR: OCS CHOC
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120115
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="https://imgur.com/LWlZvsc.png" group-title="FRANÇA",FR: Paramount Channel HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120123
-#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="FR: Paramount Channel Decale HD" tvg-logo="https://imgur.com/LWlZvsc.png" group-title="FRANÇA",FR: Paramount Channel Decale HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120124
-#EXTINF:-1 tvg-id="" tvg-name="===== DECOUVERTES =====" tvg-logo="" group-title="FRANÇA",===== DECOUVERTES =====
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120211
-#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND" tvg-logo="" group-title="FRANÇA",FR: VICELAND
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120212
-#EXTINF:-1 tvg-id="" tvg-name="FR: ABXplore HD" tvg-logo="https://imgur.com/B3xohOQ.png" group-title="FRANÇA",FR: ABXplore HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120213
-#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="https://imgur.com/lWTa28n.png" group-title="FRANÇA",FR: CRIME DISTRICT HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120214
-#EXTINF:-1 tvg-id="DiscoveryChannelFrance" tvg-name="FR: DISCOVERY HD" tvg-logo="https://imgur.com/NKAqNk9.png" group-title="FRANÇA",FR: DISCOVERY HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120215
-#EXTINF:-1 tvg-id="ScienceetVieTV" tvg-name="FR: DISCOVERY SCI HD" tvg-logo="https://imgur.com/jXHj2Lk.png" group-title="FRANÇA",FR: DISCOVERY SCI HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120216
-#EXTINF:-1 tvg-id="DiscoveryInvestigation" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="https://imgur.com/P1uYPjp.png" group-title="FRANÇA",FR: DISCOVERY INVESTIGATION HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120217
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY FAMILY HD" tvg-logo="https://imgur.com/tGA2Z3g.png" group-title="FRANÇA",FR: DISCOVERY FAMILY HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120218
-#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE HD" tvg-logo="https://imgur.com/E2LkWAP.png" group-title="FRANÇA",FR: MY CUISINE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120219
-#EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="FR: National Geographic HD" tvg-logo="https://imgur.com/4GQLa2J.png" group-title="FRANÇA",FR: National Geographic HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120220
-#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="FR: Nat geo Wild" tvg-logo="https://imgur.com/gAGA7b8.png" group-title="FRANÇA",FR: Nat geo Wild
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120221
-#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="FR: PLANETE" tvg-logo="https://imgur.com/haYXypS.png" group-title="FRANÇA",FR: PLANETE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120222
-#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="FR: PLANETE+ CI HD" tvg-logo="https://imgur.com/ChVNqgZ.png" group-title="FRANÇA",FR: PLANETE+ CI HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120223
-#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="FR: PLANETE A&E" tvg-logo="https://imgur.com/MfHQEvX.png" group-title="FRANÇA",FR: PLANETE A&E
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120224
-#EXTINF:-1 tvg-id="Histoire" tvg-name="FR: Histoire" tvg-logo="https://imgur.com/MMdcfZU.png" group-title="FRANÇA",FR: Histoire
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120225
-#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="https://imgur.com/oxpkzJK.png" group-title="FRANÇA",FR: TOUTE L'HISTOIRE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120226
-#EXTINF:-1 tvg-id="Voyage" tvg-name="FR: Voyage HD" tvg-logo="https://imgur.com/DVCm1af.png" group-title="FRANÇA",FR: Voyage HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120227
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: SEASONS" tvg-logo="https://imgur.com/gCB6GUn.png" group-title="FRANÇA",FR: SEASONS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120228
-#EXTINF:-1 tvg-id="Animaux" tvg-name="FR: ANIMAUX HD" tvg-logo="https://imgur.com/LY8v2fv.png" group-title="FRANÇA",FR: ANIMAUX HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120229
-#EXTINF:-1 tvg-id="rmc.fr" tvg-name="FR: RMC Story HD" tvg-logo="https://imgur.com/xS09u6y.png" group-title="FRANÇA",FR: RMC Story HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120208
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="https://imgur.com/PKPrxaZ.png" group-title="FRANÇA",FR: RMC DECOUVERTE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120209
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="https://imgur.com/9DidVuI.png" group-title="FRANÇA",FR: CHASSE ET PECHE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120230
-#EXTINF:-1 tvg-id="Ushuaia" tvg-name="FR: Ushuaia TV" tvg-logo="https://imgur.com/WiW00ce.png" group-title="FRANÇA",FR: Ushuaia TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120231
-#EXTINF:-1 tvg-id="ScienceetVieTV" tvg-name="FR: SCIENCES ET VIE TV" tvg-logo="ttps://imgur.com/cjUtccX.png" group-title="FRANÇA",FR: SCIENCES ET VIE TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120232
-#EXTINF:-1 tvg-id="TREK" tvg-name="FR: TREK HD" tvg-logo="https://imgur.com/jDdBaBb.png.png" group-title="FRANÇA",FR: TREK HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120235
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 FHD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC SPORT 1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120065
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC SPORT 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120066
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC SPORT 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120067
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 FHD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC SPORT 4 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120068
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120069
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://imgur.com/5Z4GKiK.png	" group-title="FRANÇA",FR: RMC Sport 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120070
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120071
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 4 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120072
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 Access HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 1 Access HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120073
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 Access HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 2 Access HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120074
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 Access HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport 3 Access HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120075
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 5 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120076
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 6 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120077
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 7 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120078
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 8 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120079
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 9 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120080
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 10 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120081
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 11 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120082
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 12 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120083
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 13 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120084
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 14 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120085
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 15 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120086
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport Live 16 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120087
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT NEWS FHD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC SPORT NEWS FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120088
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News HD" tvg-logo="https://imgur.com/5Z4GKiK.png" group-title="FRANÇA",FR: RMC Sport News HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120089
-#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 1" tvg-logo="" group-title="FRANÇA",[CA-FR] SUPER ECRAN 1
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120116
-#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 2" tvg-logo="" group-title="FRANÇA",[CA-FR] SUPER ECRAN 2
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120117
-#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 3" tvg-logo="" group-title="FRANÇA",[CA-FR] SUPER ECRAN 3
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120118
-#EXTINF:-1 tvg-id="" tvg-name="[CA-FR] SUPER ECRAN 4" tvg-logo="" group-title="FRANÇA",[CA-FR] SUPER ECRAN 4
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120119
-#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="https://imgur.com/4A8ArMC.png" group-title="FRANÇA",FR: E! ENTERTAINMENT HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120139
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 FHD" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BEIN SPORTS 1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120142
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 FHD" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BEIN SPORTS 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120143
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 FHD" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BEIN SPORTS 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120144
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports 1" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports 1
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120145
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports 2" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports 2
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120146
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports 3" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports 3
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120147
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 4" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 4
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120148
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 5" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 5
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120149
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 6" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 6
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120150
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 7" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 7
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120151
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 8" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 8
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120152
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 9" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 9
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120153
-#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports MAX 10" tvg-logo="https://imgur.com/7Mvr7vg.png" group-title="FRANÇA",FR: BeIN Sports MAX 10
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120154
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="FR: Baby TV" tvg-logo="https://imgur.com/19vjaxN.png" group-title="FRANÇA",FR: Baby TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120155
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="FR: PIWI+" tvg-logo="https://imgur.com/uinRSKr.png" group-title="FRANÇA",FR: PIWI+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120156
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: Gulli" tvg-logo="https://imgur.com/arh7i0U.png" group-title="FRANÇA",FR: Gulli
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120203
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: GULLI FHD" tvg-logo="https://imgur.com/arh7i0U.png" group-title="FRANÇA",FR: GULLI FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120058
-#EXTINF:-1 tvg-id="Tiji" tvg-name="FR: Tiji" tvg-logo="https://imgur.com/GJw4k9R.png" group-title="FRANÇA",FR: Tiji
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120157
-#EXTINF:-1 tvg-id="DisneyChannelBE" tvg-name="FR: DISNEY CHANNEL" tvg-logo="https://imgur.com/hD64e0c.png" group-title="FRANÇA",FR: DISNEY CHANNEL
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120158
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA" tvg-logo="https://imgur.com/WuodsEU.png" group-title="FRANÇA",FR: DISNEY CINEMA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120159
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="FR: DISNEY JUNIOR" tvg-logo="" group-title="FRANÇA",FR: DISNEY JUNIOR
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120160
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY XD" tvg-logo="https://imgur.com/hmDEsob.png" group-title="FRANÇA",FR: DISNEY XD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120161
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="FR: NICKELODEON" tvg-logo="https://imgur.com/Mz42IOL.png" group-title="FRANÇA",FR: NICKELODEON
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120162
-#EXTINF:-1 tvg-id="NickelodeonJuniorFrance" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="https://imgur.com/vZqMNXi.png" group-title="FRANÇA",FR: NICKELODEON JUNIOR
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120163
-#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON TEEN" tvg-logo="https://imgur.com/ZgCpEVd.png" group-title="FRANÇA",FR: NICKELODEON TEEN
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120164
-#EXTINF:-1 tvg-id="BoomerangF" tvg-name="FR: Boomerang" tvg-logo="https://imgur.com/xd4oZEP.png" group-title="FRANÇA",FR: Boomerang
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120165
-#EXTINF:-1 tvg-id="" tvg-name="FR: BOING" tvg-logo="https://imgur.com/Hgx2XL1.png" group-title="FRANÇA",FR: BOING
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120166
-#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="FR: TELETOON+" tvg-logo="https://imgur.com/fVE27cU.png" group-title="FRANÇA",FR: TELETOON+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120167
-#EXTINF:-1 tvg-id="CanalJ" tvg-name="FR: Canal J" tvg-logo="https://imgur.com/JPluZow.png" group-title="FRANÇA",FR: Canal J
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120168
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="FR: CARTOON NETWORK" tvg-logo="https://imgur.com/Y9HHj9B.png" group-title="FRANÇA",FR: CARTOON NETWORK
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120169
-#EXTINF:-1 tvg-id="" tvg-name="FR: Toonami" tvg-logo="https://imgur.com/xTDqcVb.png" group-title="FRANÇA",FR: Toonami
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120170
-#EXTINF:-1 tvg-id="Mangas" tvg-name="FR: MANGAS HD" tvg-logo="https://imgur.com/3wh1nhz.png" group-title="FRANÇA",FR: MANGAS HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120171
-#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HD" tvg-logo="https://imgur.com/ZUaF1nQ.png" group-title="FRANÇA",FR: J-ONE HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120172
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR: Game One" tvg-logo="https://imgur.com/tSiicin.png" group-title="FRANÇA",FR: Game One
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120173
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ginx" tvg-logo="" group-title="FRANÇA",FR: Ginx
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120176
-#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+" tvg-logo="https://imgur.com/O388jCy.png" group-title="FRANÇA",FR: INFOSPORT+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120177
-#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FR: FOOT+" tvg-logo="https://imgur.com/kl4c3Um.png" group-title="FRANÇA",FR: FOOT+
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120178
-#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV" tvg-logo="https://imgur.com/cbSFx6A.png" group-title="FRANÇA",FR: OL TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120179
-#EXTINF:-1 tvg-id="EurosportFrance" tvg-name="FR: EUROSPORT 1" tvg-logo="https://imgur.com/VAoxOEh.png" group-title="FRANÇA",FR: EUROSPORT 1
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120180
-#EXTINF:-1 tvg-id="Eurosport2France" tvg-name="FR: EUROSPORT 2" tvg-logo="https://imgur.com/ZOm1exR.png" group-title="FRANÇA",FR: EUROSPORT 2
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120181
-#EXTINF:-1 tvg-id="" tvg-name="FR: SPORT EN FRANCE FHD" tvg-logo="https://imgur.com/AOVzczC.png" group-title="FRANÇA",FR: SPORT EN FRANCE FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120182
-#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto HD" tvg-logo="https://imgur.com/DzqsX5u.png" group-title="FRANÇA",FR: Auto Moto HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120183
-#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="FR: L'EQUIPE FHD" tvg-logo="https://imgur.com/ButlKhw.png" group-title="FRANÇA",FR: L'EQUIPE FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120059
-#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="FR: l'Equipe 21 HD" tvg-logo="https://imgur.com/xHgdLuW.png" group-title="FRANÇA",FR: l'Equipe 21 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120205
-#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: Equidia HD" tvg-logo="https://imgur.com/pXsri9g.png" group-title="FRANÇA",FR: Equidia HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120184
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="https://imgur.com/sk9HUoq.png" group-title="FRANÇA",FR: GOLF CHANNEL HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120185
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE SPORT STARS" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE SPORT STARS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120186
-#EXTINF:-1 tvg-id="Chérie 25 HD FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="https://imgur.com/JgY0zJM.png" group-title="FRANÇA",FR: CHERIE 25 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120210
-#EXTINF:-1 tvg-id="UltraNature" tvg-name="FR: LUCKY JACK TV" tvg-logo="https://imgur.com/tTA90dZ.png" group-title="FRANÇA",FR: LUCKY JACK TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120233
-#EXTINF:-1 tvg-id="" tvg-name="FR: Luxe TV" tvg-logo="https://imgur.com/goiUk6K.png" group-title="FRANÇA",FR: Luxe TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120234
-#EXTINF:-1 tvg-id="MTVHits" tvg-name="FR: MTV HITS" tvg-logo="https://imgur.com/VVAMX7V.png" group-title="FRANÇA",FR: MTV HITS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120236
-#EXTINF:-1 tvg-id="MTVHits" tvg-name="FR: MTV DANCE" tvg-logo="https://imgur.com/VVAMX7V.png" group-title="FRANÇA",FR: MTV DANCE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120237
-#EXTINF:-1 tvg-id="MTVF" tvg-name="FR: MTV HD" tvg-logo="https://imgur.com/VVAMX7V.png" group-title="FRANÇA",FR: MTV HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120140
-#EXTINF:-1 tvg-id="MCM.fr" tvg-name="FR: MCM" tvg-logo="https://imgur.com/fySkLu6.png" group-title="FRANÇA",FR: MCM
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120141
-#EXTINF:-1 tvg-id="NRJTV" tvg-name="FR: NRJ HITS" tvg-logo="https://imgur.com/p3cQXCk.png" group-title="FRANÇA",FR: NRJ HITS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120238
-#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="FR: M6 Music" tvg-logo="https://imgur.com/Zlq9CYT.png" group-title="FRANÇA",FR: M6 Music
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120239
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="FR: TRACE URBAN" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE URBAN
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120240
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE AFRICA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120241
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE TROPICAL
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120242
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE KITOKO" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE KITOKO
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120243
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE MZIKI" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE MZIKI
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120244
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE NAIJA" tvg-logo="https://imgur.com/V5GbZg8.png" group-title="FRANÇA",FR: TRACE NAIJA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120245
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="FR: TRACE TOCA" tvg-logo="https://imgur.com/pRSpc6N.png" group-title="FRANÇA",FR: TRACE TOCA
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120246
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack! Classik" tvg-logo="https://imgur.com/23G7Q1m.png" group-title="FRANÇA",FR: Bblack! Classik
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120247
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack! Africa" tvg-logo="https://imgur.com/23G7Q1m.png" group-title="FRANÇA",FR: Bblack! Africa
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120248
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack! Caribbean" tvg-logo="https://imgur.com/23G7Q1m.png" group-title="FRANÇA",FR: Bblack! Caribbean
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120249
-#EXTINF:-1 tvg-id="MezzoLive" tvg-name="FR: Mezzo" tvg-logo="https://imgur.com/qmsFnUZ.png" group-title="FRANÇA",FR: Mezzo
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120250
-#EXTINF:-1 tvg-id="MezzoLive" tvg-name="FR: Mezzo Live HD" tvg-logo="https://imgur.com/qmsFnUZ.png" group-title="FRANÇA",FR: Mezzo Live HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120251
-#EXTINF:-1 tvg-id="Melody.tv" tvg-name="FR: Melody" tvg-logo="https://imgur.com/Q0oGbvB.png" group-title="FRANÇA",FR: Melody
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120252
-#EXTINF:-1 tvg-id="RFMTV" tvg-name="FR: RFM TV" tvg-logo="https://imgur.com/uLkU7lz.png" group-title="FRANÇA",FR: RFM TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120253
-#EXTINF:-1 tvg-id="" tvg-name="===== GENERALISTE =====" tvg-logo="" group-title="FRANÇA",===== GENERALISTE =====
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120254
-#EXTINF:-1 tvg-id="" tvg-name="FR: BIP TV" tvg-logo="https://imgur.com/vnfZE7H.png" group-title="FRANÇA",FR: BIP TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120255
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="FR: Fashion TV" tvg-logo="https://imgur.com/aWHYQSz.png " group-title="FRANÇA",FR: Fashion TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120256
-#EXTINF:-1 tvg-id="UltraNature" tvg-name="FR: GRAND LILLE.TV" tvg-logo="https://imgur.com/No7f4yi.png" group-title="FRANÇA",FR: GRAND LILLE.TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120257
-#EXTINF:-1 tvg-id="UltraNature" tvg-name="FR: HEBDO TV" tvg-logo="https://imgur.com/Cd36mWX.png" group-title="FRANÇA",FR: HEBDO TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120258
-#EXTINF:-1 tvg-id="" tvg-name="FR: LA CHAINE NORMANDE" tvg-logo="https://imgur.com/mrlhwX0.png" group-title="FRANÇA",FR: LA CHAINE NORMANDE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120259
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV3V" tvg-logo="https://imgur.com/kdbamHV.png" group-title="FRANÇA",FR: TV3V
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120260
-#EXTINF:-1 tvg-id="TV5Style" tvg-name="FR: TV5 STYLE" tvg-logo="https://imgur.com/Gc7h9Ej.png" group-title="FRANÇA",FR: TV5 STYLE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120261
-#EXTINF:-1 tvg-id="tv7.bordeaux.fr" tvg-name="FR: TV7" tvg-logo="https://imgur.com/Yc30JIX.png" group-title="FRANÇA",FR: TV7
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120262
-#EXTINF:-1 tvg-id="tv8.mont.blanc.fr" tvg-name="FR: TV8" tvg-logo="https://imgur.com/fqTHTjN.png" group-title="FRANÇA",FR: TV8
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120263
-#EXTINF:-1 tvg-id="" tvg-name="FR: VIAVOSGES TV" tvg-logo="" group-title="FRANÇA",FR: VIAVOSGES TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120264
-#EXTINF:-1 tvg-id="" tvg-name="FR: VIAOCCITANIE" tvg-logo="" group-title="FRANÇA",FR: VIAOCCITANIE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120265
-#EXTINF:-1 tvg-id="" tvg-name="===== CHAINES INFOS =====" tvg-logo="" group-title="FRANÇA",===== CHAINES INFOS =====
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120266
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="FR: BFM TV" tvg-logo="https://imgur.com/WA4TPHk.png" group-title="FRANÇA",FR: BFM TV
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120200
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: CNEWS" tvg-logo="https://imgur.com/PF6FYzP.png" group-title="FRANÇA",FR: CNEWS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120201
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: CNEWS FHD" tvg-logo="https://imgur.com/PF6FYzP.png" group-title="FRANÇA",FR: CNEWS FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120056
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR: BFM Business" tvg-logo="https://imgur.com/JQr0I83.png" group-title="FRANÇA",FR: BFM Business
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120267
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM PARIS" tvg-logo="https://imgur.com/WA4TPHk.png" group-title="FRANÇA",FR: BFM PARIS
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120268
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="FR: TV5 MONDE" tvg-logo="https://imgur.com/Wxs3sOf.png" group-title="FRANÇA",FR: TV5 MONDE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120269
-#EXTINF:-1 tvg-id="EuronewsF" tvg-name="FR: EURONEWS HD" tvg-logo="https://imgur.com/fDwu5bK.png" group-title="FRANÇA",FR: EURONEWS HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120270
-#EXTINF:-1 tvg-id="France24F" tvg-name="FR: FRANCE 24" tvg-logo="https://imgur.com/Ehyb8pu.png" group-title="FRANÇA",FR: FRANCE 24
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120271
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FR: France info" tvg-logo="https://imgur.com/nPeeUUb.pn" group-title="FRANÇA",FR: France info
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120272
-#EXTINF:-1 tvg-id="LCI" tvg-name="FR: LCI HD" tvg-logo="https://imgur.com/nrzgxV7.png" group-title="FRANÇA",FR: LCI HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120273
-#EXTINF:-1 tvg-id="LCP2424" tvg-name="FR: LCP" tvg-logo="https://imgur.com/0WzzDhY.png" group-title="FRANÇA",FR: LCP
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120274
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="FR: BFM TV FHD" tvg-logo="https://imgur.com/WA4TPHk.png" group-title="FRANÇA",FR: BFM TV FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120055
-#EXTINF:-1 tvg-id="" tvg-name="FR: RT FRANCE" tvg-logo="https://imgur.com/cVn0N8t.png" group-title="FRANÇA",FR: RT FRANCE
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120275
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 1 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120276
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 2 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120277
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 3 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 3 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120278
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 4 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 4 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120279
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 5 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 5 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120280
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 6 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 6 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120281
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 7 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 7 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120282
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 8 HD" tvg-logo="https://imgur.com/him6yhi.png" group-title="FRANÇA",FR: NETFLIX FILM 8 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120283
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120284
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA ACTION HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA ACTION HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120285
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA ACTION 2 HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA ACTION 2 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120286
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA COMEDY HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA COMEDY HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120287
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA DRAME 1 HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA DRAME 1 HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120288
-#EXTINF:-1 tvg-id="" tvg-name="FR: Magico CINEMA GOLD HD" tvg-logo="https://imgur.com/yRHjKH5.png" group-title="FRANÇA",FR: Magico CINEMA GOLD HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120289
-#EXTINF:-1 tvg-id="" tvg-name="FR: GONG" tvg-logo="" group-title="FRANÇA",FR: GONG
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120174
-#EXTINF:-1 tvg-id="" tvg-name="FR: GONG MAX" tvg-logo="" group-title="FRANÇA",FR: GONG MAX
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120175
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 1 FHD" tvg-logo="https://i.imgur.com/th0DLDv.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 1 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125413
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 2 FHD" tvg-logo="https://i.imgur.com/QiGSRlz.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 2 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125414
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 3 FHD" tvg-logo="https://i.imgur.com/P6Rmafc.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 3 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125415
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 5 FHD" tvg-logo="https://i.imgur.com/ZrHXupu.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 5 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125416
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 6 FHD" tvg-logo="https://i.imgur.com/Ge4cjMI.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 6 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125417
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 7 FHD" tvg-logo="https://i.imgur.com/QP6m9QQ.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 7 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125418
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 8 FHD" tvg-logo="https://i.imgur.com/3gyD6QU.png" group-title="FRANÇA",|FR| TELEFOOT STADIUM 8 FHD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/125419
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 Rue" tvg-logo="58062_{58bb31db-34a3-4cc2-9b11-c48f90b9c63c}-13eme Rue.png" group-title="France",FR: 13 Rue
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/299
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6ter HD" tvg-logo="" group-title="France",FR: 6ter HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1149
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 1" tvg-logo="" group-title="France",FR: A LA Carte 1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1299
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 10" tvg-logo="" group-title="France",FR: A LA Carte 10
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1308
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 11" tvg-logo="" group-title="France",FR: A LA Carte 11
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1309
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 2" tvg-logo="" group-title="France",FR: A LA Carte 2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1300
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 3" tvg-logo="" group-title="France",FR: A LA Carte 3
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1301
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 4" tvg-logo="" group-title="France",FR: A LA Carte 4
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1302
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 5" tvg-logo="" group-title="France",FR: A LA Carte 5
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1303
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 6" tvg-logo="" group-title="France",FR: A LA Carte 6
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1304
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 7" tvg-logo="" group-title="France",FR: A LA Carte 7
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1305
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 8" tvg-logo="" group-title="France",FR: A LA Carte 8
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1306
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA Carte 9" tvg-logo="" group-title="France",FR: A LA Carte 9
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1307
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEUR" tvg-logo="" group-title="France",FR: AB MOTEUR
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1875
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="73605_{a4b00d8f-8948-42dd-994d-50a1a75a4bec}-AB 1.png" group-title="France",FR: AB1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/302
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="" group-title="France",FR: AB3
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1857
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action" tvg-logo="" group-title="France",FR: Action
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1148
+#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux" tvg-logo="" group-title="France",FR: Animaux
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/304
+#EXTINF:-1 tvg-id="" tvg-name="FR: Arte" tvg-logo="50592_{d3dad452-078d-42a7-a3e6-c249f61966ba}-Arte SD.png" group-title="France",FR: Arte
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/301
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 1" tvg-logo="30865_{59322f78-c2f2-4dec-91f7-576ec0fcc7f7}-Bein Sport 1 SD.png" group-title="France",FR: BeIN HD 1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/275
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 2" tvg-logo="3399_{2e55a953-c69f-4d1e-9c06-2733476c30cc}-Bein Sport 2 SD.png" group-title="France",FR: BeIN HD 2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/276
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 3" tvg-logo="97541_{31c8ed55-936a-452a-9a6d-b8aefce6ea5d}-Bein Sport2.png" group-title="France",FR: BeIN HD 3
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/277
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX4" tvg-logo="" group-title="France",FR: BEIN SPORT MAX4
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2666
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX5" tvg-logo="" group-title="France",FR: BEIN SPORT MAX5
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2667
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX6" tvg-logo="" group-title="France",FR: BEIN SPORT MAX6
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2668
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX7" tvg-logo="" group-title="France",FR: BEIN SPORT MAX7
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2669
+#EXTINF:-1 tvg-id="" tvg-name="FR: BERBERE JEUNESSE" tvg-logo="" group-title="France",FR: BERBERE JEUNESSE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1965
+#EXTINF:-1 tvg-id="" tvg-name="FR: BERBERE MUSIC" tvg-logo="" group-title="France",FR: BERBERE MUSIC
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1964
+#EXTINF:-1 tvg-id="" tvg-name="FR: BERBERE TELEVISION" tvg-logo="" group-title="France",FR: BERBERE TELEVISION
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1963
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET" tvg-logo="" group-title="France",FR: BET
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1856
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS" tvg-logo="" group-title="France",FR: BFM BUSINESS
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1869
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News" tvg-logo="" group-title="France",FR: RMC Sport News
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1877
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="23758_{f642dfb6-f8c2-490c-b983-4d0625214741}-BFM TV HD.png" group-title="France",FR: BFM TV
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/317
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boing" tvg-logo="16453_{45c97a54-e225-430d-a4cf-1cbf153a83f3}-Boing old.png" group-title="France",FR: Boing
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/319
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="66081_Boomerang.png" group-title="France",FR: Boomerang
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/323
+#EXTINF:-1 tvg-id="" tvg-name="FR: C STAR HD" tvg-logo="50443_{0f7cf615-fbfc-4d82-a2f9-71003e50d175}-Direct Star.png" group-title="France",FR: C STAR HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/336
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J" tvg-logo="" group-title="France",FR: Canal J
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1144
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Serie HD" tvg-logo="" group-title="France",FR: Canal + Serie HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/293
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema HD" tvg-logo="84186_{6a9c013c-0254-4b51-a488-8535a31c6917}-Canal+ Cinema.png" group-title="France",FR: Canal+ Cinema HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/284
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Decale HD" tvg-logo="11032_{ce544d0c-4d4d-4229-b09d-4981fff861fe}-Canal+ Decale.png" group-title="France",FR: Canal+ Decale HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/287
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Family HD" tvg-logo="44958_{fdaa5249-a5ae-41e8-8fe7-206d207c07ea}-Canal+ family.png" group-title="France",FR: Canal+ Family HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/286
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ HD" tvg-logo="13749_{59194f80-1637-4b2c-b4a1-3435e46332d2}-Canal+ TNT.png" group-title="France",FR: Canal+ HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/283
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="16383_{8cb2fd5a-a6fb-43d8-ace6-57a2c3a84686}-canalplus_sport_hd.png" group-title="France",FR: Canal+ Sport HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/279
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network HD" tvg-logo="19083_{e7cadd14-041e-4b6b-93ae-9ae3117115d3}-Cartoon Network.png" group-title="France",FR: Cartoon Network HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/320
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse et Peche" tvg-logo="" group-title="France",FR: Chasse et Peche
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/314
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Polar" tvg-logo="" group-title="France",FR: Cine Polar
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1147
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Classic HD" tvg-logo="65445_{7826c254-9375-45ba-b2e2-410a9cce510c}-C Cinema Classic.png" group-title="France",FR: Cine+ Classic HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/288
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Emotion HD" tvg-logo="31389_{ea103d98-d691-45e8-89ca-12b0d7d109b0}-C Cinema Emotion.png" group-title="France",FR: Cine+ Emotion HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/290
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Famiz" tvg-logo="10993_{b9c605b9-2dee-4e22-969c-a2feb2386c43}-C Cinema Famiz.png" group-title="France",FR: Cine+ Famiz
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/289
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Frisson HD" tvg-logo="5829_{401e370a-fe75-4719-9a66-637933a1f2e6}-C Cinema Frisson.png" group-title="France",FR: Cine+ Frisson HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/285
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Premier HD" tvg-logo="7703_{3fb7e27a-7bc6-4e02-ad67-cc0495928ffa}-C Cinema Premier.png" group-title="France",FR: Cine+ Premier HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/291
+#EXTINF:-1 tvg-id="" tvg-name="FR: CineFX" tvg-logo="" group-title="France",FR: CineFX
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1146
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cnews" tvg-logo="54802_{e56b24a3-f929-4136-9ebd-bd53fd21c4fe}-Direct 8 HD.png" group-title="France",FR: Cnews
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/298
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie+" tvg-logo="" group-title="France",FR: Comedie+
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/313
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY HD" tvg-logo="" group-title="France",FR: DISCOVERY HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1289
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE" tvg-logo="" group-title="France",FR: DISCOVERY SCIENCE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1288
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="" group-title="France",FR: Disney Channel
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/325
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel +1 HD" tvg-logo="" group-title="France",FR: Disney Channel +1 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1873
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema" tvg-logo="27316_{b283ff4e-1ce8-42e4-b6d3-6fde77ed5469}-Disney Magic HD.png" group-title="France",FR: Disney Cinema
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/324
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Jr" tvg-logo="" group-title="France",FR: Disney Jr
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/322
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD" tvg-logo="" group-title="France",FR: Disney XD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1143
+#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="" group-title="France",FR: E!
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1297
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="" group-title="France",FR: Equidia Live
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/280
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equipe 21" tvg-logo="" group-title="France",FR: Equipe 21
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1141
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="" group-title="France",FR: EURONEWS
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1286
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport1" tvg-logo="76392_{053ae38f-de52-4d12-bc4a-5a5618d246f3}-EuroSport HD.png" group-title="France",FR: Eurosport1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/281
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport2" tvg-logo="36536_{427ead6a-3d09-4265-a017-fa58f573ab84}-EuroSport HD.png" group-title="France",FR: Eurosport2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/282
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+" tvg-logo="82582_{1685fb06-b208-41e0-a12a-c508ae0ce98d}-Foot+.png" group-title="France",FR: Foot+
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1140
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O HD" tvg-logo="21207_{3ea7d016-aee5-4c3c-9caa-c7996315cc70}-France O.png" group-title="France",FR: France O HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/338
+#EXTINF:-1 tvg-id="" tvg-name="FR: France2 HD" tvg-logo="20557_{079065a8-ffdd-4535-b221-3a0798e096d9}-France 2.png" group-title="France",FR: France2 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/339
+#EXTINF:-1 tvg-id="" tvg-name="FR: France24" tvg-logo="38335_{ff95fe2c-90a6-424b-83a1-7647f7e1effe}-France 24.png" group-title="France",FR: France24
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/337
+#EXTINF:-1 tvg-id="" tvg-name="FR: France4 HD" tvg-logo="49782_{7ad23661-2230-488c-85d5-ccb073930ccd}-France 4.png" group-title="France",FR: France4 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/341
+#EXTINF:-1 tvg-id="" tvg-name="FR: France5" tvg-logo="89236_{8f3e50f0-fd40-44be-bac9-4690238a81b8}-France 5.png" group-title="France",FR: France5
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/342
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE" tvg-logo="" group-title="France",FR: GAME ONE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1865
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf +" tvg-logo="" group-title="France",FR: Golf +
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1879
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="2170_gulli.png" group-title="France",FR: Gulli
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/309
+#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Urban" tvg-logo="" group-title="France",FR: Trace Urban
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1296
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+" tvg-logo="" group-title="France",FR: InfoSport+
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/278
+#EXTINF:-1 tvg-id="" tvg-name="FR: Motor Sport" tvg-logo="" group-title="France",FR: Motor Sport
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1892
+#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="" group-title="France",FR: KTO
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1867
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP HD" tvg-logo="" group-title="France",FR: LCP HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1891
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="7120_{84f29872-8221-457c-ae5d-0ada068c5df7}-M6 HD.png" group-title="France",FR: M6 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/300
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="81803_{8986b468-ae4d-4509-b69c-5e0c1a7d60c5}-M6 Music Hits.png" group-title="France",FR: M6 Music
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/316
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="83428_noimage.png" group-title="France",FR: Mangas
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/321
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM HD" tvg-logo="" group-title="France",FR: MCM HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/318
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV BASE" tvg-logo="" group-title="France",FR: MTV BASE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/315
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Dance" tvg-logo="" group-title="France",FR: MTV Dance
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1871
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="" group-title="France",FR: MTV HITS
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1862
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Music" tvg-logo="" group-title="France",FR: MTV Music
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1866
+#EXTINF:-1 tvg-id="" tvg-name="FR: NatGeo Wild" tvg-logo="91260_{de4486d0-d851-476b-b411-0e068d119e7d}-Nat Geo Wild HD.png" group-title="France",FR: NatGeo Wild
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/328
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic HD" tvg-logo="26144_{cb8eefb7-3bf4-4feb-9e2f-7e3869c57e00}-National Geo HD.png" group-title="France",FR: National Geographic HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/327
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKLODEON" tvg-logo="" group-title="France",FR: NICKLODEON
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1863
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKLODEON JUNIOR" tvg-logo="" group-title="France",FR: NICKLODEON JUNIOR
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1864
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits" tvg-logo="" group-title="France",FR: NRJ Hits
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1878
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12" tvg-logo="96128_{e9e9c455-c796-4296-979f-57f71871817f}-NRJ 12.png" group-title="France",FR: NRJ12
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/310
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="95890_{b4c84a63-d54b-446f-8841-c6974b0cf7e1}-NT1 old.png" group-title="France",FR: TFX
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/308
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Story" tvg-logo="" group-title="France",FR: RMC Story
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1858
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="France",FR: OCS CHOC HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/295
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="France",FR: OCS CITY
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1295
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geants HD" tvg-logo="42192_{c1991ccc-d507-479e-8604-1dd5361b9597}-OCS geants.png" group-title="France",FR: OCS Geants HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/297
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max HD" tvg-logo="55830_{94657634-795f-4009-8181-d1c7b353e8c6}-OCS Max.png" group-title="France",FR: OCS Max HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/296
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount channel" tvg-logo="" group-title="France",FR: Paramount channel
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1861
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="" group-title="France",FR: Paris Premiere
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/294
+#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI" tvg-logo="92281_{34e79e28-d36a-4b00-9bfe-064c8c83f04c}-Piwi+.png" group-title="France",FR: PIWI
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1142
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A&E" tvg-logo="" group-title="France",FR: PLANETE A&E
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1293
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete+" tvg-logo="" group-title="France",FR: Planete+
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/329
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="France",FR: RMC Decouverte
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1876
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9 HD" tvg-logo="9912_{52eeb6df-bb0d-4c5e-9b48-b534c8777d76}-RTL 9.png" group-title="France",FR: RTL 9 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/303
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rtl9" tvg-logo="" group-title="France",FR: Rtl9
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/331
+#EXTINF:-1 tvg-id="" tvg-name="FR: Science & Vie TV" tvg-logo="" group-title="France",FR: Science & Vie TV
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/332
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASON HD" tvg-logo="" group-title="France",FR: SEASON HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1859
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="70712_{28d4996b-414f-4079-b3f6-45620de79bdd}-Serie Club.png" group-title="France",FR: SERIE CLUB HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/292
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="" group-title="France",FR: RMC SPORT 1 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2662
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="France",FR: RMC SPORT 2 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2663
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="France",FR: RMC SPORT 3 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2664
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="France",FR: RMC SPORT 4 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2665
+#EXTINF:-1 tvg-id="" tvg-name="FR: Syfy HD" tvg-logo="" group-title="France",FR: Syfy HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/311
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="" group-title="France",FR: TCM CINEMA
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1860
+#EXTINF:-1 tvg-id="" tvg-name="FR: TeleToon" tvg-logo="" group-title="France",FR: TeleToon
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/326
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="14584_{818039f2-9f61-4f92-b5c0-111472394679}-Teva HD.png" group-title="France",FR: Teva HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/312
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="48779_{5dfe4d00-5b67-472c-9da2-56abad7e23d8}-TF1 HD.png" group-title="France",FR: TF1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/307
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI" tvg-logo="86193_tiji.png" group-title="France",FR: TIJI
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1145
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="50101_tmc.png" group-title="France",FR: TMC
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/305
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L'HISTOIRE" tvg-logo="" group-title="France",FR: TOUTE L'HISTOIRE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1292
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK" tvg-logo="" group-title="France",FR: TREK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1868
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH" tvg-logo="" group-title="France",FR: TV BREIZH
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1291
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="France",FR: TV5 MONDE HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/334
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia" tvg-logo="42983_{9e40c906-8ada-47da-9c11-1a34038dff7d}-Ushuaia TV.png" group-title="France",FR: Ushuaia
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/333
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE" tvg-logo="" group-title="France",FR: VOYAGE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1290
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="93718_{cc598a18-1941-4258-9bd0-47b3b3a1f336}-W9 HD.png" group-title="France",FR: W9
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/306
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO" tvg-logo="" group-title="France",FR: WEO
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1287
+#EXTINF:-1 tvg-id="" tvg-name="BE: CLUB RTL" tvg-logo="" group-title="France",BE: CLUB RTL
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1317
+#EXTINF:-1 tvg-id="" tvg-name="BE: Ketnet HD" tvg-logo="" group-title="France",BE: Ketnet HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1311
+#EXTINF:-1 tvg-id="" tvg-name="BE: LA DEUX" tvg-logo="" group-title="France",BE: LA DEUX
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1313
+#EXTINF:-1 tvg-id="" tvg-name="BE: LA TROIS" tvg-logo="" group-title="France",BE: LA TROIS
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1312
+#EXTINF:-1 tvg-id="" tvg-name="BE: LA_UNE" tvg-logo="" group-title="France",BE: LA_UNE
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1310
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLUG RTL" tvg-logo="" group-title="France",BE: PLUG RTL
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1316
+#EXTINF:-1 tvg-id="" tvg-name="BE: RTL TVI HD" tvg-logo="" group-title="France",BE: RTL TVI HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1315
+#EXTINF:-1 tvg-id="" tvg-name="BE: TVL" tvg-logo="" group-title="France",BE: TVL
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1314
+
 
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Almajd Hadith" tvg-logo="" group-title="باقة المجد",VIP: Almajd Hadith
 http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136442
@@ -3099,14 +3440,14 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/48
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/48
 #EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
 http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/22283
 
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/43
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/43
 #EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Boomerang HD
 http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120165
 #EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",spacetoon
@@ -3139,317 +3480,317 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/26
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/26
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/27
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/27
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/28
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/28
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/29
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/29
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/30
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/30
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/31
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/31
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/32
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/32
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/33
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/33
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/34
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/34
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/35
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/35
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/36
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/36
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/37
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/37
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OSN&BEIN&ART",WWE
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/38
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/38
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/39
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/39
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/40
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/40
 #EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN&BEIN&ART",OSN :ALFA ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/41
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/41
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/42
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/42
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/43
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/43
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/44
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/44
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Alfa Cinema 1 HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/45
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/45
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/46
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/46
 #EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: The Movies HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/47
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/47
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN&BEIN&ART",|AR| beIN JEEM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/48
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/48
 #EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN&BEIN&ART",BeIN FATAFEAT
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/49
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/49
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 1" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Aflam 1
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/54
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/54
 
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES " tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC MOVIES 
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/104
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/104
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC ARABIC
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/106
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/106
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC KIDS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/107
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/107
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/105
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/105
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/108
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/108
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/109
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/109
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/110
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/110
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/111
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/111
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title="Majestic&NETFLIX",Shahid Horror
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/53
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/53
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| ACTION11
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/52
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/52
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/51
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/51
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/50
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/50
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title=" الباقة التجريبية ",MBC BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/61
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/61
 #EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title=" الباقة التجريبية ",MBC IRAQ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/62
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/62
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title=" الباقة التجريبية ",MBC MASR2
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/63
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/63
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title=" الباقة التجريبية ",MBC MASR
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/64
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/64
 #EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title=" الباقة التجريبية ",MBC ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/65
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/65
 #EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title=" الباقة التجريبية ",MBC MAX
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/66
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/66
 #EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title=" الباقة التجريبية ",MBC + Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/67
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/67
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title=" الباقة التجريبية ",MBC DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/68
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/68
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title=" الباقة التجريبية ",MBC 5
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/69
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/69
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title=" الباقة التجريبية ",MBC 4
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/70
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/70
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title=" الباقة التجريبية ",MBC 3
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/71
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/71
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title=" الباقة التجريبية ",MBC 2
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/72
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/72
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title=" الباقة التجريبية ",MBC 1
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/73
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/73
 #EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title=" الباقة التجريبية ",wanasah
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/74
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/74
 #EXTINF:-1 tvg-id="" tvg-name="mbc persia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title=" الباقة التجريبية ",mbc persia
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/75
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/75
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title=" الباقة التجريبية ",Rotana Kids
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/76
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/76
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title=" الباقة التجريبية ",Rotana Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/77
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/77
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title=" الباقة التجريبية ",Rotana Classic
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/78
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/78
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title=" الباقة التجريبية ",Rotana Comedy
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/79
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/79
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title=" الباقة التجريبية ",Rotana Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/80
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/80
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title=" الباقة التجريبية ",bein sport 1HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/1
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/1
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title=" الباقة التجريبية ",bein sport 2HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/2
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/2
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title=" الباقة التجريبية ",bein sport 3HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/3
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/3
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title=" الباقة التجريبية ",bein sport 4HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/4
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/4
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title=" الباقة التجريبية ",bein sport 5HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/5
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/5
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title=" الباقة التجريبية ",bein sport 6HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/6
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/6
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title=" الباقة التجريبية ",bein sport 7HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/7
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/7
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title=" الباقة التجريبية ",bein sport 8HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/8
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title=" الباقة التجريبية ",bein sport 9HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/9
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/9
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title=" الباقة التجريبية ",bein sport 10HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/10
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/10
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title=" الباقة التجريبية ",BEIN SPORTS 1 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/93
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/93
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title=" الباقة التجريبية ",BEIN SPORTS 2 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/94
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/94
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title=" الباقة التجريبية ",BEIN SPORTS 3 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/95
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/95
 #EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title=" الباقة التجريبية ",BEIN NEWS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/103
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/103
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 1 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title=" الباقة التجريبية ",⚽ bein sport 1 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/11
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/11
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 2 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title=" الباقة التجريبية ",⚽ bein sport 2 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/12
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/12
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title=" الباقة التجريبية ",⚽ bein sport 3 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/13
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/13
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 4 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title=" الباقة التجريبية ",⚽ bein sport 4 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/14
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/14
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 5 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title=" الباقة التجريبية ",⚽ bein sport 5 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/15
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/15
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 6 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title=" الباقة التجريبية ",⚽ bein sport 6 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/16
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/16
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 7 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title=" الباقة التجريبية ",⚽ bein sport 7 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/17
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/17
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 8 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title=" الباقة التجريبية ",⚽ bein sport 8 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/18
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/18
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low1" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low1
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/19
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/19
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low2" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low2
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/20
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/20
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low3" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low3
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/21
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/21
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low4" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low4
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/22
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/22
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low5" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low5
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/23
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/23
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low6" tvg-logo="" group-title=" الباقة التجريبية ",bein sport low6
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/24
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/24
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Yahala HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/26
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/26
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Yahala 1 ALOLA HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/27
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/27
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: ART Hekayat HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/28
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/28
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: ART Hekayat 2 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/29
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/29
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Yahala Cinema HD-♎
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/30
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/30
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title=" الباقة التجريبية ",OSN: ART Aflam 2 HD-≢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/31
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/31
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BEIN MOVIES 1 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/32
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/32
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BEIN MOVIES 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/33
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/33
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BEIN MOVIES 3 HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/34
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/34
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BEIN MOVIES 4 HD-╪
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/35
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/35
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BeIN Series 1 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/36
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/36
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BeIN Series 2 HD-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/37
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/37
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title=" الباقة التجريبية ",WWE
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/38
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/38
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Action HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/39
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/39
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: ART Cinema HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/40
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/40
 #EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title=" الباقة التجريبية ",OSN :ALFA ALYOUM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/41
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/41
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Disney Junior HD-↺
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/42
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/42
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: BARAEM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/43
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/43
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title=" الباقة التجريبية ",BEIN: Nat Geo Wild HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/44
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/44
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Alfa Cinema 1 HD-↹
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/45
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/45
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title=" الباقة التجريبية ",OSN: Discovery HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/46
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/46
 #EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title=" الباقة التجريبية ",OSN: The Movies HD-◢
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/47
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/47
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title=" الباقة التجريبية ",|AR| beIN JEEM
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/48
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/48
 #EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title=" الباقة التجريبية ",BeIN FATAFEAT
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/49
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/49
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 1" tvg-logo="" group-title=" الباقة التجريبية ",OSN: ART Aflam 1
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/54
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/54
 
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES " tvg-logo="" group-title=" الباقة التجريبية ",MAJESTIC MOVIES 
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/104
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/104
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title=" الباقة التجريبية ",MAJESTIC ARABIC
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/106
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/106
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title=" الباقة التجريبية ",MAJESTIC KIDS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/107
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/107
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title=" الباقة التجريبية ",MAJESTIC HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/105
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/105
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title=" الباقة التجريبية ",NETFLIX ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/108
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/108
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title=" الباقة التجريبية ",NETFLIX HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/109
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/109
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title=" الباقة التجريبية ",NETFLIX COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/110
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/110
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title=" الباقة التجريبية ",NETFLIX DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/111
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/111
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title=" الباقة التجريبية ",Shahid Horror
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/53
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/53
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title=" الباقة التجريبية ",SHAHID| ACTION11
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/52
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/52
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title=" الباقة التجريبية ",SHAHID| BOLLYWOOD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/51
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/51
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title=" الباقة التجريبية ",SHAHID| ARABIA 1-Ⅻ
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/50
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/50
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Ahl-Alquran TV" tvg-logo="" group-title=" الباقة التجريبية ",Ahl-Alquran TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/112
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/112
 #EXTINF:-1 tvg-id="" tvg-name="Al Khalij" tvg-logo="" group-title=" الباقة التجريبية ",Al Khalij
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/113
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/113
 #EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="" group-title=" الباقة التجريبية ",Al Quran Al Kareem (Mecca)
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/114
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/114
 #EXTINF:-1 tvg-id="" tvg-name="Al Resalah HD" tvg-logo="" group-title=" الباقة التجريبية ",Al Resalah HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/115
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/115
 #EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="" group-title=" الباقة التجريبية ",Al Sunnah (Medina)
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/116
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/116
 #EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title=" الباقة التجريبية ",Al Wesal TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/117
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/117
 #EXTINF:-1 tvg-id="" tvg-name="Beity" tvg-logo="" group-title=" الباقة التجريبية ",Beity
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/118
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/118
 #EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="" group-title=" الباقة التجريبية ",Iqraa
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/119
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/119
 #EXTINF:-1 tvg-id="" tvg-name="Iqraa Europe Africa" tvg-logo="" group-title=" الباقة التجريبية ",Iqraa Europe Africa
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/120
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/120
 #EXTINF:-1 tvg-id="" tvg-name="Kaif TV" tvg-logo="" group-title=" الباقة التجريبية ",Kaif TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/121
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/121
 #EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="" group-title=" الباقة التجريبية ",Makkah TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/122
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/122
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title=" الباقة التجريبية ",Al Nahar
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/81
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/81
 #EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title=" الباقة التجريبية ",Al Nahar Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/82
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/82
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title=" الباقة التجريبية ",Cairo Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/83
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/83
 #EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title=" الباقة التجريبية ",Cairo Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/84
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/84
 #EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title=" الباقة التجريبية ",CBC Sofra
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/85
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/85
 #EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="" group-title=" الباقة التجريبية ",Cima
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/86
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/86
 #EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title=" الباقة التجريبية ",Nile Cinema
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/87
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/87
 #EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="" group-title=" الباقة التجريبية ",Nile Culture
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/88
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/88
 #EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title=" الباقة التجريبية ",Nile Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/89
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/89
 #EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="" group-title=" الباقة التجريبية ",Nile Life
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/90
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/90
 #EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="" group-title=" الباقة التجريبية ",Nile Sport
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/91
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/91
 #EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title=" الباقة التجريبية ",Panorama Drama
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/92
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/92
 #EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title=" الباقة التجريبية ",FAJER TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/96
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/96
 #EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title=" الباقة التجريبية ",BEUR TV
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/97
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/97
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title=" الباقة التجريبية ",JORDAN
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/98
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/98
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title=" الباقة التجريبية ",JORDAN SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/99
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/99
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title=" الباقة التجريبية ",ON SPORTS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/100
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/100
 #EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title=" الباقة التجريبية ",Omg tv
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/102
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/102
 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic Sport",Abu Dhabi Sports
@@ -3540,110 +3881,110 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="beIN SPORTS 4K",BEIN SPORTS 1 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191848
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191848
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="beIN SPORTS 4K",BEIN SPORTS 2 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191849
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191849
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="beIN SPORTS 4K",BEIN SPORTS 3 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191850
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191850
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="beIN SPORTS 4K",BEIN SPORTS 4 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191851
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191851
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sports 5 4k" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="beIN SPORTS 4K",Bein Sports 5 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270029
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/270029
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sports 6 4k" tvg-logo="https://4.bp.blogspot.com/-1dPQNlxlceA/WlPXHfNatgI/AAAAAAAAAcg/qi8He1MCorIajq3clE6MYD1oLAy90ig6ACLcBGAs/s1600/6- 4k.png" group-title="beIN SPORTS 4K",Bein Sports 6 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270030
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/270030
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 4k" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/27/beIN-MAX7.png" group-title="beIN SPORTS 4K",BEIN SPORTS 7 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191854
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191854
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 4k" tvg-logo="https://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" group-title="beIN SPORTS 4K",BEIN SPORTS 8 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191855
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191855
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 4k" tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png" group-title="beIN SPORTS 4K",BEIN SPORTS 9 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191856
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191856
 #EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="Bein Sports 10 4k" tvg-logo="https://www.all-tvshows.com/uploads/tv_image/bein-sport-10- 4k.png" group-title="beIN SPORTS 4K",Bein Sports 10 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270034
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/270034
 #EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="BEIN SPORTS 11 4k" tvg-logo="https://iptv4free.net/assets/images/channel/channel_featured_1565972989.png" group-title="beIN SPORTS 4K",BEIN SPORTS 11 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191858
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191858
 #EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="BEIN SPORTS 12 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12- 4k.png" group-title="beIN SPORTS 4K",BEIN SPORTS 12 4k
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191859
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/191859
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA" tvg-logo="" group-title="beIN SPORTS 4K",Bein Sport NBA
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270038
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/270038
 #EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports1" tvg-logo="" group-title="beIN SPORTS 4K",[PH] beIN Sports1
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630037
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630037
 #EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title="beIN SPORTS 4K",[PH] beIN Sports2
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630038
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630038
 #EXTINF:-1 tvg-id="" tvg-name="[FOXTEL] beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS 4K",[FOXTEL] beIN SPORTS 1
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630093
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630093
 #EXTINF:-1 tvg-id="" tvg-name="[FOXTEL] beIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS 4K",[FOXTEL] beIN SPORTS 2
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630094
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630094
 #EXTINF:-1 tvg-id="" tvg-name="[FOXTEL] beIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS 4K",[FOXTEL] beIN SPORTS 3
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630095
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630095
 #EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LALIGA | SD" tvg-logo="" group-title="beIN SPORTS 4K",ES: BEIN LALIGA | SD
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630199
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630199
 #EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS ESPANA | SD" tvg-logo="" group-title="beIN SPORTS 4K",ES: BEIN SPORTS ESPANA | SD
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630200
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630200
 #EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS Ñ | HD" tvg-logo="" group-title="beIN SPORTS 4K",ES: BEIN SPORTS Ñ | HD
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/630201
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/630201
 #EXTINF:-1 tvg-id="" tvg-name="FuboTV | beIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS 4K",FuboTV | beIN SPORTS 4
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/632877
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/632877
 #EXTINF:-1 tvg-id="" tvg-name="FuboTV | beIN Sports Canada" tvg-logo="" group-title="beIN SPORTS 4K",FuboTV | beIN Sports Canada
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/632878
+http://sfast1.net:2052/maxconnecttvtest/VEZxFkcmjm/632878
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN-SPORTS HD",bein sport 1HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/1
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/1
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN-SPORTS HD",bein sport 2HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/2
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/2
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN-SPORTS HD",bein sport 3HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/3
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/3
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN-SPORTS HD",bein sport 4HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/4
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/4
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN-SPORTS HD",bein sport 5HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/5
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/5
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN-SPORTS HD",bein sport 6HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/6
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/6
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN-SPORTS HD",bein sport 7HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/7
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/7
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN-SPORTS HD",bein sport 8HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/8
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN-SPORTS HD",bein sport 9HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/9
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/9
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN-SPORTS HD",bein sport 10HD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/10
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/10
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FRA" tvg-logo="" group-title="BEIN-SPORTS HD",BEIN SPORTS 1 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/93
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/93
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FRA" tvg-logo="" group-title="BEIN-SPORTS HD",BEIN SPORTS 2 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/94
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/94
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FRA" tvg-logo="" group-title="BEIN-SPORTS HD",BEIN SPORTS 3 FRA
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/95
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/95
 #EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN-SPORTS HD",BEIN NEWS
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/103
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/103
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 1 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 1 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/11
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/11
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 2 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 2 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/12
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/12
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 3 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/13
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/13
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 4 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 4 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/14
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/14
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 5 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 5 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/15
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/15
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 6 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 6 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/16
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/16
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 7 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 7 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/17
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/17
 #EXTINF:-1 tvg-id="" tvg-name="⚽ bein sport 8 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN-SPORTS SD&LOW",⚽ bein sport 8 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/18
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/18
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low1" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low1
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/19
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/19
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low2" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low2
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/20
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/20
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low3" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low3
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/21
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/21
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low4" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low4
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/22
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/22
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low5" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low5
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/23
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/23
 #EXTINF:-1 tvg-id="" tvg-name="bein sport low6" tvg-logo="" group-title="BEIN-SPORTS SD&LOW",bein sport low6
-http://best-live-iptv.xyz:25461/BEST-LIVE1616/BEST-LIVE1616/24
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE3355/BEST-LIVE3355/24
 
 
 
