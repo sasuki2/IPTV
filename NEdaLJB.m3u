@@ -2,727 +2,228 @@
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 01 EN FULL HD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS HD 01 EN FULL HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1437.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 02 EN FULL HD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS HD 02 EN FULL HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1438.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 03 EN FULL HD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS HD 03 EN FULL HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1439.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD1 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD1 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1441.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD2 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD2 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1442.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD3 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD3 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1443.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD4 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD4 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1444.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD5 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD5 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD6 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD6 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD07 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BeinSports HD07 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### FRENCH HD CHANNELS ####" tvg-logo="" group-title="beIN SPORTS ar,en,fr",#### FRENCH HD CHANNELS ####
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 01 FR 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 01 FR 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 02 FR 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 02 FR 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1450.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 03 FR 720p" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 03 FR 720p
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1451.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 01 SD EN" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 01 SD EN
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1453.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 02 SD EN" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 02 SD EN
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1454.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 03 SD EN" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN-SPORTS 03 SD EN
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1455.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 1 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1457.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 2 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1458.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 3 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1459.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 4 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1460.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 5 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1461.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 6 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1462.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",BEIN SPORTS 7 SD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2448.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 1 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2450.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 2 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2451.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 3 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2452.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 4 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2453.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 5 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2454.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 6 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2455.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 " tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN Sports 7 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2456.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 01 FHD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN SPORTS XTRA 01 FHD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2459.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 02 FHD" tvg-logo="" group-title="beIN SPORTS ar,en,fr",beIN SPORTS XTRA 02 FHD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2460.ts
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر0" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر0
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر1" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر1
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر2" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر2
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 3" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 3
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 4" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 4
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر5" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر5
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 8" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 8
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 9" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 9
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 10" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 10
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 11" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 11
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 12" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 12
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 13" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 13
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 14" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 14
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 15" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 15
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 16" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 16
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مسرح مصر 6" tvg-logo="https://1.bp.blogspot.com/-lVNyqULwuwE/V8nY8KSibCI/AAAAAAAAKkU/ToCh_JVKFjkwMH4kDvr9GiTKdtWfsQaWwCLcB/s1600/%25D8%25A3%25D8%25B3%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D8%25B0%25D8%25A7%25D9%2583%25D8%25B1-%25D9%2585%25D8%25B3%25D8%25B1%25D8%25AD-%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2588%25D8%25B3%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AB%25D8%25A7%25D9%2586%25D9%258A.jpg" group-title="theaters - مسرح",مسرح مصر 6
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="شاهد ماشفش حاجة" tvg-logo="https://vod.rotana.net/triAssets/uploads/2020/06/%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%B4%D8%A7%D9%87%D8%AF-%D9%85%D8%A7%D8%B4%D9%81%D8%B4-%D8%AD%D8%A7%D8%AC%D8%A9%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg" group-title="theaters - مسرح",شاهد ماشفش حاجة
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rayya and Sekina (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kngnOGQwe6xKZCuM7X3STGWdGtg.jpg" group-title="theaters - مسرح",Rayya and Sekina (1982)
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Married Couples (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZXR4LYgyX1G4IDraaE4o9QLBW7.jpg" group-title="theaters - مسرح",The Married Couples (1981)
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/1003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No Longer kids (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Tz2csY593MJGOIjyLJnQgzw4uP.jpg" group-title="theaters - مسرح",No Longer kids (1979)
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/1004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="اصل خمسة " tvg-logo="http://www.alq8dvd.com/image/cache/TH-80-500x500.jpg" group-title="theaters - مسرح",اصل خمسة 
-https://jo.sarhantv.com:443/movie/fawzy/fawzy2021/1005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| FRANCE 4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/725.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| TEVA
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/726.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| 6TER
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/727.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| AB1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/728.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| W9" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| W9
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/729.ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="" group-title="international ch-قنوات أجنبية",TF1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/731.ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Séries & films" tvg-logo="" group-title="international ch-قنوات أجنبية",TF1 Séries & films
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/732.ts
-#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="international ch-قنوات أجنبية",TFX
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/733.ts
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="international ch-قنوات أجنبية",TMC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/734.ts
-#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="" group-title="international ch-قنوات أجنبية",M6 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/735.ts
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="international ch-قنوات أجنبية",France 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/737.ts
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="international ch-قنوات أجنبية",France 5
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/738.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beSPOR1" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| beSPOR1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/740.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beSPOR2" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| beSPOR2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/741.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beSPOR3" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| beSPOR3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/742.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| EUROSPORT 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/749.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| EUROSPORT 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/750.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| INFOSPORT+
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/751.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="" group-title="international ch-قنوات أجنبية",LCI
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/753.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NRJ 12 HD" tvg-logo="" group-title="international ch-قنوات أجنبية", NRJ 12 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/806.ts
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="international ch-قنوات أجنبية",France 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/807.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AB1 HD" tvg-logo="" group-title="international ch-قنوات أجنبية", AB1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/808.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ANIMAUX" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| ANIMAUX
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/998.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| USHUAIA TV" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| USHUAIA TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/999.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEO WILD" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| NATIONAL GEO WILD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1000.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| DISNEY CHANNEL
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1001.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY Cinema" tvg-logo="" group-title="international ch-قنوات أجنبية",|FR| DISNEY Cinema
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1002.ts
-#EXTINF:-1 tvg-id="" tvg-name="CN Network" tvg-logo="" group-title="Collection Tv - منوعات",CN Network
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/761.ts
-#EXTINF:-1 tvg-id="" tvg-name="masha" tvg-logo="" group-title="Collection Tv - منوعات",masha
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/762.ts
-#EXTINF:-1 tvg-id="" tvg-name="majid kids" tvg-logo="" group-title="Collection Tv - منوعات",majid kids
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/763.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana kids" tvg-logo="" group-title="Collection Tv - منوعات",rotana kids
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/795.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS" tvg-logo="" group-title="Collection Tv - منوعات",PBS KIDS
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1006.ts
-#EXTINF:-1 tvg-id="" tvg-name="jordan sport" tvg-logo="" group-title="Sports Tv - قنوات رياضية",jordan sport
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 4" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Abu Dhabi Sport 4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/332.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 3" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Abu Dhabi Sport 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/333.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Abu Dhabi Sport 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/334.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Abu Dhabi Sport 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 3" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Dubai Sport 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Dubai Sport 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/337.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Dubai Sport 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Sharjah Sports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/339.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Kuwait Sports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/340.ts
-#EXTINF:-1 tvg-id="" tvg-name="arriadia tv" tvg-logo="" group-title="Sports Tv - قنوات رياضية",arriadia tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/341.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bahrain Sports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/342.ts
-#EXTINF:-1 tvg-id="" tvg-name="Oman Sports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Oman Sports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="PremierHD1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",PremierHD1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/347.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",TSports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/348.ts
-#EXTINF:-1 tvg-id="" tvg-name="true sport 2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",true sport 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/349.ts
-#EXTINF:-1 tvg-id="" tvg-name="true sport 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",true sport 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/350.ts
-#EXTINF:-1 tvg-id="" tvg-name="true sport 3" tvg-logo="" group-title="Sports Tv - قنوات رياضية",true sport 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/351.ts
-#EXTINF:-1 tvg-id="" tvg-name="true sport 4" tvg-logo="" group-title="Sports Tv - قنوات رياضية",true sport 4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/352.ts
-#EXTINF:-1 tvg-id="" tvg-name="Libya Sports" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Libya Sports
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/776.ts
-#EXTINF:-1 tvg-id="" tvg-name="kwtv sports plus" tvg-logo="" group-title="Sports Tv - قنوات رياضية",kwtv sports plus
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/781.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ksa Sports 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Ksa Sports 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/782.ts
-#EXTINF:-1 tvg-id="" tvg-name="alkass4" tvg-logo="" group-title="Sports Tv - قنوات رياضية",alkass4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/784.ts
-#EXTINF:-1 tvg-id="" tvg-name="alkass2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",alkass2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/785.ts
-#EXTINF:-1 tvg-id="" tvg-name="alkass 5" tvg-logo="" group-title="Sports Tv - قنوات رياضية",alkass 5
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/786.ts
-#EXTINF:-1 tvg-id="" tvg-name="alkass1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",alkass1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/790.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Ksa Sport 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/810.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Haddaf" tvg-logo="" group-title="Sports Tv - قنوات رياضية",El Haddaf
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh 1 IR" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Varzesh 1 IR
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/866.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bethlehem Tv 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bethlehem Tv 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/874.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Fajer Tv 1 (وقت المباريات)" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Al Fajer Tv 1 (وقت المباريات)
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/873.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",ON SPORTS 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/876.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS 2" tvg-logo="" group-title="Sports Tv - قنوات رياضية",ON SPORTS 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/877.ts
-#EXTINF:-1 tvg-id="" tvg-name="bt sport 1" tvg-logo="" group-title="Sports Tv - قنوات رياضية",bt sport 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/946.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Yahala HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Yahala 1 ALOLA HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: ART Hekayat HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: ART Hekayat 2 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Yahala Cinema HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: ART Aflam 2 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BEIN MOVIES 1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BEIN MOVIES 2 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BEIN MOVIES 3 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BEIN MOVIES 4 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BeIN Series 1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BeIN Series 2 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama" tvg-logo="" group-title="Premium TV - قنوات مميزة",beIN Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/75.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Action HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: ART Cinema HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN :ALFA ALYOUM
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Disney Junior HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: BARAEM
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",BEIN: Nat Geo Wild HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Alfa Cinema 1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Discovery HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies " tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Movies 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="Premium TV - قنوات مميزة",|AR| beIN JEEM
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="Premium TV - قنوات مميزة",BeIN FATAFEAT
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 1" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: ART Aflam 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN Enigma
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/100.ts
-#EXTINF:-1 tvg-id="" tvg-name="Quest Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Quest_Arabiya_2015.png/160px-Logo_Quest_Arabiya_2015.png" group-title="Premium TV - قنوات مميزة",Quest Arabia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/329.ts
-#EXTINF:-1 tvg-id="" tvg-name="osn Musalsalt 1" tvg-logo="" group-title="Premium TV - قنوات مميزة",osn Musalsalt 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/477.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN : Comedy" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN : Comedy
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/757.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 2" tvg-logo="" group-title="Premium TV - قنوات مميزة",Osn Cinema 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/758.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FOX REWAYAT HD" tvg-logo="" group-title="Premium TV - قنوات مميزة", FOX REWAYAT HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Mezze" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN Mezze
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/878.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies" tvg-logo="" group-title="Premium TV - قنوات مميزة",FOX Action Movies
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/879.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-logo="" group-title="Premium TV - قنوات مميزة",FOX Crime
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/888.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN" tvg-logo="" group-title="Premium TV - قنوات مميزة",ZEE ALWAN
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/953.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM" tvg-logo="" group-title="Premium TV - قنوات مميزة",ZEE AFLAM
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/954.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="Premium TV - قنوات مميزة",B4U Movies
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/955.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Ps 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1437866_p.png" group-title="Premium TV - قنوات مميزة",Shahid Ps 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/962.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Ps 2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1437865_p.png" group-title="Premium TV - قنوات مميزة",Shahid Ps 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/963.ts
-#EXTINF:-1 tvg-id="" tvg-name="andflixhd" tvg-logo="" group-title="Premium TV - قنوات مميزة",andflixhd
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1007.ts
-#EXTINF:-1 tvg-id="" tvg-name="best Movies HD" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1455351_p.png" group-title="Premium TV - قنوات مميزة",best Movies HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1008.ts
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] wwe" tvg-logo="" group-title="Premium TV - قنوات مميزة",[OSN] wwe
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1016.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN :MIX HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN :MIX HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1017.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN :POP UP HD" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN :POP UP HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1018.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Pepole" tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN Nat Geo Pepole
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1019.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Fine Living " tvg-logo="" group-title="Premium TV - قنوات مميزة",OSN: Fine Living 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Arabic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1349978_p.png" group-title="Movies TV - قنوات أفلام",Majestic Arabic
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/4.ts
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1349977_p.png" group-title="Movies TV - قنوات أفلام",Majestic Cinema
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1358805_p.png" group-title="Movies TV - قنوات أفلام",Majestic Horror
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Action " tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1312802_p.png" group-title="Movies TV - قنوات أفلام",Mix Action 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Cimena" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1329075_p.png" group-title="Movies TV - قنوات أفلام",Mix Cimena
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/131.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Crime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1314164_p.png" group-title="Movies TV - قنوات أفلام",Mix Crime
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Mystery" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1316592_p.png" group-title="Movies TV - قنوات أفلام",Mix Mystery
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Sport Movies" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1325421_p.png" group-title="Movies TV - قنوات أفلام",Mix Sport Movies
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3610171.png" group-title="Movies TV - قنوات أفلام",Dragon Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/184.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Fantasia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3637189.png" group-title="Movies TV - قنوات أفلام",Dragon Fantasia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/200.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3629036.png" group-title="Movies TV - قنوات أفلام",Dragon Horror
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/219.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Western" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3659757.png" group-title="Movies TV - قنوات أفلام",Dragon Western
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/236.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Classic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3661777.png" group-title="Movies TV - قنوات أفلام",Dragon Classic
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime WAR" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493091.png" group-title="Movies TV - قنوات أفلام",Amazon Prime WAR
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/380.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Thriller" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3500178.png" group-title="Movies TV - قنوات أفلام",Amazon Prime Thriller
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/389.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime KIDS" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3602689.png" group-title="Movies TV - قنوات أفلام",Amazon Prime KIDS
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/405.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Adventure" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493090.png" group-title="Movies TV - قنوات أفلام",Amazon Prime Adventure
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/423.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493092.png" group-title="Movies TV - قنوات أفلام",Amazon Prime Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/434.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470578.png" group-title="Movies TV - قنوات أفلام",iflix Arabia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/446.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix Turk" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470569.png" group-title="Movies TV - قنوات أفلام",iflix Turk
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/457.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450458.png" group-title="Movies TV - قنوات أفلام",iflix Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/476.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450461.png" group-title="Movies TV - قنوات أفلام",iflix Comedy
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/496.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix moudablaj" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3480607.png" group-title="Movies TV - قنوات أفلام",iflix moudablaj
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/517.ts
-#EXTINF:-1 tvg-id="" tvg-name="iflix Prime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470577.png" group-title="Movies TV - قنوات أفلام",iflix Prime
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/531.ts
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691689.png" group-title="Movies TV - قنوات أفلام",beOUT Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/537.ts
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2029308.png" group-title="Movies TV - قنوات أفلام",beOUT Arabia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/549.ts
-#EXTINF:-1 tvg-id="" tvg-name="beOUT Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691690.png" group-title="Movies TV - قنوات أفلام",beOUT Cinema
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450204.png" group-title="Movies TV - قنوات أفلام",Shahid Arabia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/582.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450205.png" group-title="Movies TV - قنوات أفلام",Shahid Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/601.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450246.png" group-title="Movies TV - قنوات أفلام",Shahid Comedy
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/633.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shahid SciFi" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450264.png" group-title="Movies TV - قنوات أفلام",Shahid SciFi
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/652.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="Movies TV - قنوات أفلام",Netflix Action
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/685.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="Movies TV - قنوات أفلام",Netflix Horror
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="Movies TV - قنوات أفلام",Netflix Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/864.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1390776_p.png" group-title="Movies TV - قنوات أفلام",Netflix Arabic
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/884.ts
-#EXTINF:-1 tvg-id="" tvg-name="Masr7 Masr (مسرح مصر)" tvg-logo="https://shahidstatic5.akamaized.net/mediaObject/samples/Revamp/series/Logo/113248_309182_Logo/original/113248_309182_Logo.png?height=NaN&width=645.75&croppingPoint=mc&version=1&type=png" group-title="Movies TV - قنوات أفلام",Masr7 Masr (مسرح مصر)
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/898.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="Movies TV - قنوات أفلام",Netflix Comedy
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/918.ts
-#EXTINF:-1 tvg-id="" tvg-name="Scare tv" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1425577_p.png" group-title="Movies TV - قنوات أفلام",Scare tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/944.ts
-#EXTINF:-1 tvg-id="" tvg-name="ShowTime1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1437591_p.png" group-title="Movies TV - قنوات أفلام",ShowTime1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/958.ts
-#EXTINF:-1 tvg-id="" tvg-name="showTime2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1441435_p.png" group-title="Movies TV - قنوات أفلام",showTime2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/960.ts
-#EXTINF:-1 tvg-id="" tvg-name="sarhan ACTION" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1460135_p.png" group-title="Movies TV - قنوات أفلام",sarhan ACTION
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1024.ts
-#EXTINF:-1 tvg-id="" tvg-name="Roya TV" tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png" group-title="Collection Tv - منوعات",Roya TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jordan TV" tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.1195fbe0.png" group-title="Collection Tv - منوعات",Jordan TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="amman tv" tvg-logo="https://jordanfashionweekofficial.com/wp-content/uploads/2019/03/ammantv-1.png" group-title="Collection Tv - منوعات",amman tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/258.ts
-#EXTINF:-1 tvg-id="" tvg-name="almamlaka" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="Collection Tv - منوعات",almamlaka
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lana tv" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/elementor/thumbs/Lana-Logo-opkpvx9ywov76abhssq1dtzpa2b46biwx1i7edthb4.png" group-title="Collection Tv - منوعات",Lana tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/260.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lana TV  +" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361170_p.png" group-title="Collection Tv - منوعات",Lana TV  +
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sama tv" tvg-logo="" group-title="Collection Tv - منوعات",Sama tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/262.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syria " tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="Collection Tv - منوعات",Syria 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syria Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png" group-title="Collection Tv - منوعات",Syria Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/264.ts
-#EXTINF:-1 tvg-id="" tvg-name="السورية" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361244_p.png" group-title="Collection Tv - منوعات",السورية
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/265.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon " tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Collection Tv - منوعات",Tele Lebanon 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/266.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Collection Tv - منوعات",LBC 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/267.ts
-#EXTINF:-1 tvg-id="" tvg-name="manar tv" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="Collection Tv - منوعات",manar tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/268.ts
-#EXTINF:-1 tvg-id="" tvg-name="al jadeed" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361247_p.png" group-title="Collection Tv - منوعات",al jadeed
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/269.ts
-#EXTINF:-1 tvg-id="" tvg-name="future tv" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/FUTUR_TV_logo.PNG" group-title="Collection Tv - منوعات",future tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/270.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV_Lebanon" tvg-logo="" group-title="Collection Tv - منوعات",MTV_Lebanon
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/271.ts
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="" group-title="Collection Tv - منوعات",OTV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/272.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="Collection Tv - منوعات",MBC BOLLYWOOD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="Collection Tv - منوعات",MBC IRAQ
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="Collection Tv - منوعات",MBC MASR2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="Collection Tv - منوعات",MBC MASR
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="Collection Tv - منوعات",MBC ACTION
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/277.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="Collection Tv - منوعات",MBC MAX
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/278.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="Collection Tv - منوعات",MBC + Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Collection Tv - منوعات",MBC DRAMA
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/280.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Collection Tv - منوعات",MBC 5
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/281.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="Collection Tv - منوعات",MBC 4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/282.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="Collection Tv - منوعات",MBC 3
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="Collection Tv - منوعات",MBC 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/284.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Collection Tv - منوعات",MBC 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/285.ts
-#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Collection Tv - منوعات",wanasah
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/286.ts
-#EXTINF:-1 tvg-id="" tvg-name="mbc persia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title="Collection Tv - منوعات",mbc persia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Qatar TV" tvg-logo="https://www.tounesnews.net/wp-content/uploads/2020/11/Qatar_TV_logo.png" group-title="Collection Tv - منوعات",Qatar TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/290.ts
-#EXTINF:-1 tvg-id="" tvg-name="alrayyan qadeem" tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2017/10/rayyanqadeem.png" group-title="Collection Tv - منوعات",alrayyan qadeem
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/292.ts
-#EXTINF:-1 tvg-id="" tvg-name="OMAN TV" tvg-logo="https://www.nicepng.com/png/detail/768-7682986_extm3u-oman-tv-logo-png.png" group-title="Collection Tv - منوعات",OMAN TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://m.marefa.org/images/3/3b/Tv_funoon_tv.png" group-title="Collection Tv - منوعات",Funoon
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/296.ts
-#EXTINF:-1 tvg-id="" tvg-name="saudi tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SaudiTV.png" group-title="Collection Tv - منوعات",saudi tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="kaifa" tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/07/15190297818852.png" group-title="Collection Tv - منوعات",kaifa
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/299.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV" tvg-logo="https://www.bna.bh/images/bna-logo.jpg" group-title="Collection Tv - منوعات",Bahrain TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/300.ts
-#EXTINF:-1 tvg-id="" tvg-name="dubai one" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Collection Tv - منوعات",dubai one
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai drama" tvg-logo="https://2.bp.blogspot.com/-s18-VWaL-h0/W2rSq4dtpWI/AAAAAAAAAYE/QSZu7BKd9morOBTf4dn1LzSfp7e760ZYgCLcBGAs/s1600/dubai-drama.UNI-versityTV.png" group-title="Collection Tv - منوعات",Dubai drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="dubai tv" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaialoula-live1.png" group-title="Collection Tv - منوعات",dubai tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/303.ts
-#EXTINF:-1 tvg-id="" tvg-name="sama dubai" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5e26e83947.png" group-title="Collection Tv - منوعات",sama dubai
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="dubai zaman" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3e2e9ac.png" group-title="Collection Tv - منوعات",dubai zaman
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/305.ts
-#EXTINF:-1 tvg-id="" tvg-name="emarat" tvg-logo="https://admedia.ae/images/Brands/2020223115838103WJ.png" group-title="Collection Tv - منوعات",emarat
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/306.ts
-#EXTINF:-1 tvg-id="" tvg-name="ad tv" tvg-logo="https://admedia.ae/images/Brands/20202231158324351.png" group-title="Collection Tv - منوعات",ad tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="ad drama" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="Collection Tv - منوعات",ad drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/308.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geo AD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png/280px-%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="Collection Tv - منوعات",National Geo AD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="Collection Tv - منوعات",Sharjah
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/aa5a9f2ce9f440410b796a6747566d6c58726961784a69665757426a3157.png" group-title="Collection Tv - منوعات",Sharjah 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain International " tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361478_p.png" group-title="Collection Tv - منوعات",Bahrain International 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/312.ts
-#EXTINF:-1 tvg-id="" tvg-name="elsharq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/El_Sharq_New_Logo.png" group-title="Collection Tv - منوعات",elsharq
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/313.ts
-#EXTINF:-1 tvg-id="" tvg-name="noor dubai tv" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/noordubai171.png" group-title="Collection Tv - منوعات",noor dubai tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/314.ts
-#EXTINF:-1 tvg-id="" tvg-name="yementv" tvg-logo="" group-title="Collection Tv - منوعات",yementv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/315.ts
-#EXTINF:-1 tvg-id="" tvg-name="sudan_tv" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Sudan_tv.png" group-title="Collection Tv - منوعات",sudan_tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/316.ts
-#EXTINF:-1 tvg-id="" tvg-name="alquds today" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361513_p.png" group-title="Collection Tv - منوعات",alquds today
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/317.ts
-#EXTINF:-1 tvg-id="" tvg-name="wattan ps" tvg-logo="https://www.wattan.net/media/images/logo_tv.png" group-title="Collection Tv - منوعات",wattan ps
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="paltoday" tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="Collection Tv - منوعات",paltoday
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/319.ts
-#EXTINF:-1 tvg-id="" tvg-name="PalestineTV" tvg-logo="https://1.bp.blogspot.com/-xvbMgJueQqo/W24P7LfIyEI/AAAAAAAAAhk/XKctsXtmy5AiRXMXHO1FpQDx3UaKReuKACLcBGAs/s1600/PALESTIN_UNI-versityTV.png" group-title="Collection Tv - منوعات",PalestineTV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/320.ts
-#EXTINF:-1 tvg-id="" tvg-name="orient" tvg-logo="" group-title="Collection Tv - منوعات",orient
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/321.ts
-#EXTINF:-1 tvg-id="" tvg-name="ajyal" tvg-logo="https://www.arn.ps/assets/rami/images/logo.png" group-title="Collection Tv - منوعات",ajyal
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/322.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dijlah" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="Collection Tv - منوعات",Dijlah
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dijlah tarab" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/t.png" group-title="Collection Tv - منوعات",Dijlah tarab
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/325.ts
-#EXTINF:-1 tvg-id="" tvg-name="alsharqiya" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="Collection Tv - منوعات",alsharqiya
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/326.ts
-#EXTINF:-1 tvg-id="" tvg-name="alaoula" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula-bg.png" group-title="Collection Tv - منوعات",alaoula
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/330.ts
-#EXTINF:-1 tvg-id="" tvg-name="alaraby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="Collection Tv - منوعات",alaraby
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Libya TV" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361270_p.png" group-title="Collection Tv - منوعات",Libya TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/289.ts
-#EXTINF:-1 tvg-id="" tvg-name="al rayyan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png/440px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" group-title="Collection Tv - منوعات",al rayyan
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alfajertv 2" tvg-logo="" group-title="Collection Tv - منوعات",Alfajertv 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/760.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana classic" tvg-logo="" group-title="Collection Tv - منوعات",rotana classic
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/794.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana cinema" tvg-logo="" group-title="Collection Tv - منوعات",rotana cinema
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/793.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana drama" tvg-logo="" group-title="Collection Tv - منوعات",rotana drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/792.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana khalijia" tvg-logo="" group-title="Collection Tv - منوعات",rotana khalijia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/791.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana music" tvg-logo="" group-title="Collection Tv - منوعات",rotana music
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/796.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana plus" tvg-logo="" group-title="Collection Tv - منوعات",rotana plus
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/797.ts
-#EXTINF:-1 tvg-id="" tvg-name="rotana cinema ksa" tvg-logo="" group-title="Collection Tv - منوعات",rotana cinema ksa
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/798.ts
-#EXTINF:-1 tvg-id="" tvg-name="aljazeera news" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31AIdoYz1sL.png" group-title="News Tv - أخبار",aljazeera news
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/799.ts
-#EXTINF:-1 tvg-id="" tvg-name="alarabiya" tvg-logo="https://www.magnolia-cms.com/.imaging/mte/corporate-website-blogs-backup-theme/1080/dam/logos/customer-logos-OLD/A-E/alarabiya/jcr:content/al-arabiya-logo.png" group-title="News Tv - أخبار",alarabiya
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/801.ts
-#EXTINF:-1 tvg-id="" tvg-name="sky news arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="News Tv - أخبار",sky news arabia
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/802.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Family" tvg-logo="" group-title="Collection Tv - منوعات",Nile Family
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/811.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="Collection Tv - منوعات",Nile Cinema
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/812.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Comedy" tvg-logo="" group-title="Collection Tv - منوعات",Nile Comedy
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/813.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="Collection Tv - منوعات",Nile Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/814.ts
-#EXTINF:-1 tvg-id="" tvg-name="NILE LIFE" tvg-logo="" group-title="Collection Tv - منوعات",NILE LIFE
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/815.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="" group-title="Collection Tv - منوعات",CBC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/816.ts
-#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="" group-title="Collection Tv - منوعات",DMC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/817.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Nahar" tvg-logo="" group-title="Collection Tv - منوعات",Al Nahar
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/818.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="" group-title="Collection Tv - منوعات",Al Nahar Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/819.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisie Attessia " tvg-logo="" group-title="Collection Tv - منوعات",Tunisie Attessia 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/820.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisie Almustakillah " tvg-logo="" group-title="Collection Tv - منوعات",Tunisie Almustakillah 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/821.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisie Aljanoubia " tvg-logo="" group-title="Collection Tv - منوعات",Tunisie Aljanoubia 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/822.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisie Al Insan " tvg-logo="" group-title="Collection Tv - منوعات",Tunisie Al Insan 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/823.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunsia Nat 2" tvg-logo="" group-title="Collection Tv - منوعات",Tunsia Nat 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/824.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunsia Nat 1" tvg-logo="" group-title="Collection Tv - منوعات",Tunsia Nat 1
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/825.ts
-#EXTINF:-1 tvg-id="" tvg-name="Echourouk Tv" tvg-logo="" group-title="Collection Tv - منوعات",Echourouk Tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/826.ts
-#EXTINF:-1 tvg-id="" tvg-name="NESSMA TV" tvg-logo="" group-title="Collection Tv - منوعات",NESSMA TV
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Elhiwar Ettounsi" tvg-logo="" group-title="Collection Tv - منوعات",Elhiwar Ettounsi
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algeria 3 " tvg-logo="" group-title="Collection Tv - منوعات",Algeria 3 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/829.ts
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAME NATIONAL" tvg-logo="" group-title="Collection Tv - منوعات",PROGRAME NATIONAL
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Algerie" tvg-logo="" group-title="Collection Tv - منوعات",Canal Algerie
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/858.ts
-#EXTINF:-1 tvg-id="" tvg-name="cima " tvg-logo="" group-title="Collection Tv - منوعات",cima 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/928.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Film" tvg-logo="" group-title="Collection Tv - منوعات",Panorama Film
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/933.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Panorama Drama" tvg-logo="" group-title="Collection Tv - منوعات", Panorama Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/932.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Food" tvg-logo="" group-title="Collection Tv - منوعات",Panorama Food
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/934.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Mehwer" tvg-logo="" group-title="Collection Tv - منوعات",El Mehwer
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/935.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada ElBalad Drama" tvg-logo="" group-title="Collection Tv - منوعات",Sada ElBalad Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/936.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada El Balad 2" tvg-logo="" group-title="Collection Tv - منوعات",Sada El Balad 2
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/937.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada El Balad" tvg-logo="" group-title="Collection Tv - منوعات",Sada El Balad
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/938.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="" group-title="Collection Tv - منوعات",CBC Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/939.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="Collection Tv - منوعات",CBC Sofra
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/940.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON HD" tvg-logo="" group-title="Collection Tv - منوعات",ON HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/941.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="" group-title="Collection Tv - منوعات",ON Drama
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/942.ts
-#EXTINF:-1 tvg-id="" tvg-name="omg tv" tvg-logo="" group-title="Collection Tv - منوعات",omg tv
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/973.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 Premium HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 1 Premium HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD " tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport 1 Premium SD 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium HD " tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport 2 Premium HD 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD " tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport 2 Premium SD 
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 Premium HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 3 Premium HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/22.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport 3 Premium SD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 4 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/24.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 4" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport SD 4
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 5" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport HD 5
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/26.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 5" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport SD 5
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/27.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 6" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport HD 6
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/28.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 6" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport SD 6
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 7" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport HD 7
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 7" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sport SD 7
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 1 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 2 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 3 HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 1 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports PR 1 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 2 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports PR 2 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 3 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports PR 3 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS XTRA HD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beINSPORTS XTRA HD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein sport News" tvg-logo="" group-title="Sports Tv - قنوات رياضية",bein sport News
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 1 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/978.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 2 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/979.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 3 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/980.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 4 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/981.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 5 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/982.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 6 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/983.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 Low" tvg-logo="" group-title="Sports Tv - قنوات رياضية",Bein Sports 7 Low
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/984.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 1 SD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/995.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",beIN Sports 2 SD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/996.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sport 3 SD" tvg-logo="" group-title="Sports Tv - قنوات رياضية",bein Sport 3 SD
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/997.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HEVC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS PREMIUM1 HEVC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1009.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HEVC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681457.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS PREMIUM2 HEVC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1010.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HEVC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681458.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS PREMIUM3 HEVC
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1011.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS1 H265" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681463.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS1 H265
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1012.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS2 H265" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681464.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS2 H265
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1013.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS3 H265" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681465.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS3 H265
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1014.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 H265" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681459.png" group-title="Sports Tv - قنوات رياضية",beIN SPORTS4 H265
-https://jo.sarhantv.com:443/live/fawzy/fawzy2021/1015.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 1 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 1 HD
+http://ferrarich2.referrari.com:8080/live/99019_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 2 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 2 HD
+http://ferrarich2.referrari.com:8080/live/99020_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 3 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 3 HD
+http://ferrarich2.referrari.com:8080/live/999275907_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 4 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 4 HD
+http://ferrarich2.referrari.com:8080/live/999275908_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 5 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 5 HD
+http://ferrarich2.referrari.com:8080/live/999275909_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 6 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 6 HD
+http://ferrarich2.referrari.com:8080/live/999275910_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 7 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 7 HD
+http://ferrarich2.referrari.com:8080/live/999275913_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO Movies 8 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 8 HD
+http://ferrarich2.referrari.com:8080/live/999275912_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORTS HD",bein sport 1 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/1
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORTS HD",bein sport 2 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/2
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORTS HD",bein sport 3 HD PREMIUM
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/3
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORTS HD",bein sport 1 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/4
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORTS HD",bein sport 2 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/5
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORTS HD",bein sport 3 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/6
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORTS HD",bein sport 4 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/7
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN SPORTS HD",bein sport 5 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN SPORTS HD",bein sport 6 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/9
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN SPORTS HD",bein sport 7 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/10
+#EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN SPORTS HD",BEIN NEWS
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/86
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 1 Premium SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/11
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 2 Premium SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/12
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 3 Premium SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/13
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 1 SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/14
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 2 SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/15
+#EXTINF:-1 tvg-id="" tvg-name="beiN Sports 3 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beiN Sports 3 SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/16
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 4 SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/17
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 5 SD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/18
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low1 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low1 premium
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/19
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low2 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low2 premium
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/20
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low3 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low3 premium
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/21
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 1" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/22
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 2" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/23
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 1 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 1 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/25
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 2 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 2 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/26
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 3 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 3 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/27
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 4 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 4 HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/28
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN SERIES 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN SERIES 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/29
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN FATAFEAT" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN FATAFEAT
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/30
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN JEEM
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/31
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/32
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala Oula HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala Oula HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/33
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala Cinema HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala Cinema HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/34
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN CINEMA 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN CINEMA 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/35
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Movies HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Movies HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/36
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Movies Action HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Movies Action HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/37
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Kids Zone HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Kids Zone HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/38
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DISCOVERY HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| DISCOVERY HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/39
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NAT GEO WILD HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| NAT GEO WILD HD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/40
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART AFLAM 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART AFLAM 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/41
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART AFLAM 2" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART AFLAM 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/42
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART HEKAYAT 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/43
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART HEKAYAT 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/44
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="MBC & ROTANA",MBC BOLLYWOOD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/61
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="MBC & ROTANA",MBC IRAQ
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/62
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="MBC & ROTANA",MBC MASR2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/63
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="MBC & ROTANA",MBC MASR
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/64
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC & ROTANA",MBC ACTION
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/65
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="MBC & ROTANA",MBC MAX
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/66
+#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="MBC & ROTANA",MBC + Drama
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/67
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC & ROTANA",MBC DRAMA
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/68
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="MBC & ROTANA",MBC 5
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/69
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="MBC & ROTANA",MBC 4
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/70
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="MBC & ROTANA",MBC 3
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/71
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC & ROTANA",MBC 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/72
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="MBC & ROTANA",MBC 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/73
+#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="MBC & ROTANA",wanasah
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/74
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="MBC & ROTANA",Rotana Kids
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/76
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="MBC & ROTANA",Rotana Cinema
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/77
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="MBC & ROTANA",Rotana Classic
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/78
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="MBC & ROTANA",Rotana Comedy
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/79
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="MBC & ROTANA",Rotana Drama
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/80
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ACITON" tvg-logo="" group-title="MOVIES",SHAHID ACITON
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/119
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ARABIC" tvg-logo="" group-title="MOVIES",SHAHID ARABIC
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/120
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Bollywood" tvg-logo="" group-title="MOVIES",SHAHID Bollywood
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/121
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA" tvg-logo="" group-title="MOVIES",SHAHID DRAMA
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/122
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="MOVIES",NETFLIX ACTION
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/128
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/129
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/130
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMADY" tvg-logo="" group-title="MOVIES",NETFLIX COMADY
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/131
+#EXTINF:-1 tvg-id="" tvg-name="MEGA MOVIES" tvg-logo="" group-title="MOVIES",MEGA MOVIES
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/140
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HORROR" tvg-logo="" group-title="MOVIES",MEGA HORROR
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/141
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HINDI" tvg-logo="" group-title="MOVIES",MEGA HINDI
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/142
+#EXTINF:-1 tvg-id="" tvg-name="MEGA KIDS" tvg-logo="" group-title="MOVIES",MEGA KIDS
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/143
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="MOVIES",MIX HOLLYWOOD
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/107
+#EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="MOVIES",Omg tv
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/85
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="" group-title="ISLAMIC",Al Quran Al Kareem (Mecca)
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/110
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="" group-title="ISLAMIC",Al Sunnah (Medina)
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/112
+#EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="ISLAMIC",Al Wesal TV
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/113
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="" group-title="ISLAMIC",Iqraa
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/115
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa Europe Africa" tvg-logo="" group-title="ISLAMIC",Iqraa Europe Africa
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/116
+#EXTINF:-1 tvg-id="" tvg-name="Kaif TV" tvg-logo="" group-title="ISLAMIC",Kaif TV
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/117
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="" group-title="ISLAMIC",Makkah TV
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/118
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/87
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/88
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 3
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/89
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports1" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/91
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/92
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports 3
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/93
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/94
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/95
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 3
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/96
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 4
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/97
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 5
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/98
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 1" tvg-logo="" group-title="ARABIC SPORTS",Bahrain Sport 1
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/103
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="" group-title="ARABIC SPORTS",Dubai Racing
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/104
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="" group-title="ARABIC SPORTS",Dubai Racing 2
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/105
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="ARABIC SPORTS",ON SPORTS
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/106
+#EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="ARABIC",FAJER TV
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/81
+#EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="ARABIC",BEUR TV
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/82
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="ARABIC",JORDAN
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/83
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="ARABIC",JORDAN SPORTS
+http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/84
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy",51 Radio TV
@@ -3233,13 +2734,24 @@ http://161.97.95.121:25461/maxlive/mjhgfdsa/61
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://d184wngx6331xr.cloudfront.net:443/out/v1/c1dd9b2dd8e2498eaef7fd16d4b8ba22/index_1.m3u8
+https://d195j1r92v3k0i.cloudfront.net/out/v1/10a1c623b33b464e92e1b2dfd422bb82/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://d184wngx6331xr.cloudfront.net:443/out/v1/c1dd9b2dd8e2498eaef7fd16d4b8ba22/index_1.m3u8
+https://d195j1r92v3k0i.cloudfront.net:443/out/v1/10a1c623b33b464e92e1b2dfd422bb82/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://213.136.69.245:8080/live/600996f53c447/index.m3u8
+https://dht5p1gdz37u8.cloudfront.net/out/v1/a5d97ef2142f4e21a2204567b7f6c7f3/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://213.136.69.245:8080/live/60087a28478ba/index.m3u8
-
-
-
+https://streamcdn.getloconow.com/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809_hi/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
+https://streamcdn.getloconow.com/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c_hi/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
+https://streamcdn.getloconow.com/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074_hi/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
+https://streamcdn.getloconow.com/1CGQENK6Y4_f5e16501-a533-4bc5-8d4d-c4096d88c5cd/1CGQENK6Y4_f5e16501-a533-4bc5-8d4d-c4096d88c5cd_low/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+https://streamcdn.getloconow.com/DUIAV7E2ZF_398fa80e-b28e-40c8-ab07-92e5c8e6ada2/DUIAV7E2ZF_398fa80e-b28e-40c8-ab07-92e5c8e6ada2_hi/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
+https://streamcdn.getloconow.com/JCKTPR2DD9_5d6f1e28-761c-4926-bb9b-d8e832471bdb/JCKTPR2DD9_5d6f1e28-761c-4926-bb9b-d8e832471bdb_low/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
+https://streamcdn.getloconow.com/GHMD5CFC8L_6d37e3c6-4b5b-4e84-8c1b-3ec375f1041d/GHMD5CFC8L_6d37e3c6-4b5b-4e84-8c1b-3ec375f1041d_lowest/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
+https://streamcdn.getloconow.com/FRM6YXJ4FA_2b39dc34-5429-4a8c-886e-c5abf916d527/FRM6YXJ4FA_2b39dc34-5429-4a8c-886e-c5abf916d527_lowest/manifest.m3u8
