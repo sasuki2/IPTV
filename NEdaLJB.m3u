@@ -2,6 +2,46 @@
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 1 HD" tvg-logo="" group-title="Take Movies",Take Movies 1 HD
+http://ferrarich2.referrari.com:8080/live/99002_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 2 HD" tvg-logo="" group-title="Take Movies",Take Movies 2 HD
+http://ferrarich2.referrari.com:8080/live/99003_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 3 HD" tvg-logo="" group-title="Take Movies",Take Movies 3 HD
+http://ferrarich2.referrari.com:8080/live/99004_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 4 HD" tvg-logo="" group-title="Take Movies",Take Movies 4 HD
+http://ferrarich2.referrari.com:8080/live/99005_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 5 HD" tvg-logo="" group-title="Take Movies",Take Movies 5 HD
+http://ferrarich2.referrari.com:8080/live/99006_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 6 HD" tvg-logo="" group-title="Take Movies",Take Movies 6 HD
+http://ferrarich2.referrari.com:8080/live/99007_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 7 HD" tvg-logo="" group-title="Take Movies",Take Movies 7 HD
+http://ferrarich2.referrari.com:8080/live/99008_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="Take Movies 8 HD" tvg-logo="" group-title="Take Movies",Take Movies 8 HD
+http://ferrarich2.referrari.com:8080/live/99009_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 1 HD" tvg-logo="" group-title="M Movies",M Movies 1 HD
+http://ferrarich.referrari.com:8080/live/98855_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 2 HD" tvg-logo="" group-title="M Movies",M Movies 2 HD
+http://ferrarich.referrari.com:8080/live/98856_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 3 HD" tvg-logo="" group-title="M Movies",M Movies 3 HD
+http://ferrarich.referrari.com:8080/live/98857_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 4 HD" tvg-logo="" group-title="M Movies",M Movies 4 HD
+http://ferrarich.referrari.com:8080/live/98858_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 5 HD" tvg-logo="" group-title="M Movies",M Movies 5 HD
+http://ferrarich.referrari.com:8080/live/98859_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="M Movies 6 HD" tvg-logo="" group-title="M Movies",M Movies 6 HD
+http://ferrarich.referrari.com:8080/live/98860_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="TeleCom Movies 1 HD" tvg-logo="" group-title="TeleCom Movies",TeleCom Movies 1 HD
+http://ferrarich2.referrari.com:8080/live/98887_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="TeleCom Movies 2 HD" tvg-logo="" group-title="TeleCom Movies",TeleCom Movies 2 HD
+http://ferrarich2.referrari.com:8080/live/98887_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="TeleCom Movies 3 HD" tvg-logo="" group-title="TeleCom Movies",TeleCom Movies 3 HD
+http://ferrarich2.referrari.com:8080/live/98887_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="TeleCom Movies 4 HD" tvg-logo="" group-title="TeleCom Movies",TeleCom Movies 4 HD
+http://ferrarich2.referrari.com:8080/live/98887_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+#EXTINF:-1 tvg-id="" tvg-name="TeleCom Movies 5 HD" tvg-logo="" group-title="TeleCom Movies",TeleCom Movies 5 HD
+http://ferrarich2.referrari.com:8080/live/98887_.m3u8?token=e179aa282d824c1ca816901cb02038d3
 #EXTINF:-1 tvg-id="" tvg-name="HBO Movies 1 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 1 HD
 http://ferrarich2.referrari.com:8080/live/99019_.m3u8?token=e179aa282d824c1ca816901cb02038d3
 #EXTINF:-1 tvg-id="" tvg-name="HBO Movies 2 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 2 HD
@@ -2734,15 +2774,15 @@ http://161.97.95.121:25461/maxlive/mjhgfdsa/61
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://d195j1r92v3k0i.cloudfront.net/out/v1/10a1c623b33b464e92e1b2dfd422bb82/index_1.m3u8
+https://e565c114b79b6e21.mediapackage.ap-southeast-1.amazonaws.com/out/v1/04f0f4404e7e4773bc04bd09526b019f/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://d195j1r92v3k0i.cloudfront.net:443/out/v1/10a1c623b33b464e92e1b2dfd422bb82/index_3.m3u8
+https://e565c114b79b6e21.mediapackage.ap-southeast-1.amazonaws.com:443/out/v1/04f0f4404e7e4773bc04bd09526b019f/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://dht5p1gdz37u8.cloudfront.net/out/v1/a5d97ef2142f4e21a2204567b7f6c7f3/index_1.m3u8
+https://video-weaver.fra02.hls.live-video.net/v1/playlist/CqsF39f3gMkhlqBQMeSsItY0DAmy8RTyf876wpOM_AUREMF_ssFqMiIElcXZmbvwisM2pK_Y7VBli4acdcWTyQqKKjQRWwsX55VExjSunJWXuHblL-w9pOduzB75WL72BQSjFfrBiGlfYRcWGQDNlm3HEDWyQUYnKfuIrSmxViPZuF0Vohnuyi8yhheEi5Sij6qA0qSNuO0tebkbVsQkSKYGlvzaGG02iDaIS-oXsu_b6iShNdMlaEBDCKjweUHyc5gWK6zfz0oqlgCCxQfRduHb5zg6TAhGBTeqbnAZPUTbwDvLwhIND4NwCkzZA7n4bys2kLtViDcMrekRl8_xuuEX_2fBiXEAnEldgt_Htt29_C8cooyW5BBHknTu4UAgsC9xuaQDHLf-Eq5vKw5uvVQ4zEariY4yFTl2kU55hxyt73WWZJuq2Rt2gNllZelShbcrxgmadW02w7uDGQnrhCgMi0p7GythSEOsZT7C1g1myNoOM5ZCczpoLRq3DSEQJb7XvWuA_UbZGnyXw4QBkP_rA7_5XRruuAGd0TM6FfsQH1T0w1xEmeN0tS0xsEYtjaxQnYoHIKOoxCNnDcRyPTTIpem7TvBl8h7q6a5cWu-KKKLCPaX_QPE0r3DQpPT2ZIY4WvDuqmjaDSU_yqrgaQecwJEJlLkIozIk_0Y9UuOlL9nJWMtjX8qFvbVNBeTrxfI3lcD19Ie809RkN_LWn9Hzqx6UbAOb2ZxDhA_SaueeU7kP1Rr_SZHneclWydla58ikLaDd5407M2bX0rTxRlZZWTgLI9CpjJU8C28VGuoaXs0AHZo5l7-BOdDr8cDRFQS9OieYbXBiIgHV0R2pdz4vlGtl2UPzDwZ1HSS102xqVYAn8Rgo25qz_OrvQI7bSSJYP0cbT02zD_xJpP4SEP7ctweRHVC-9AOX8RAL4esaDOnPClwxPkYEouFiKA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://streamcdn.getloconow.com/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809_hi/manifest.m3u8
+https://video.famm10-1.fna.fbcdn.net/hvideo-ftw-ldc/_nc_cat-1/v/rbeFRHonLPvK7C6HAzRn4/_nc_ohc-XfYCF2fWIqsAX_ZgowC/live-dash/dash-abr5/114504207386592.mpd?_nc_rl=AfAqMMX_vMut3iaCNco&ccb=2-4&ms=m_CNP&oh=ee5e95de6c545c602316c3de6c7bfe4d&oe=605E5F78
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://streamcdn.getloconow.com/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c_hi/manifest.m3u8
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CogF3sRmYQPmWCLa--zLEEMlh_hoDyX_LhbtQphy26g_osKYybNPZQxEvqY4IniTW2JkoitkwD2IxPx8OyH7YQmTO7NVOInJ965WJIqh_pZBoHTg3ZuK9YChvvL4z2cPN1gL5eZAyetqZA_9Usftqa6Nh7dQ4dIajgndtN8KKyCxlnP-iLW5W8UDb1bPkh_3Hz8oEjXXZ9QkCdkb1a0tUoL-Jj4I06J3B4TJ-pplQ9ZU8GbINALLiwqSpA7oy1t09HN02pXYwyDyI9mUV_DjaKUNBqWpqinAUSaU8QPZWtWjvnyaVmOUX_3mgRm52eVjOSnzTuucVVvUhx16CcKvuWFgzciNUcxxZhPTAaX9L3YzqUYbIL3V6pPVKAagGdDi3ZQOgIVV8-gkjFYpN8v1HYS5ECoogQJCoUlJ3ZpCBYOSuuJ4BWyhG29oEXGRBSCyDQyz3TSDiETVnMHdXfx5H7-MfhPqaCAFSoC7SvxNA-owI7TZ6smctqnhkU1yDMzjcrkkomP8upuyENunO1YetSoojNQ6RQlCi6e605v9pPm1xHD2KHuR6-yhmzZtP3JMje0am2HcTm5roeIdsWImB9owt3OvHsPiPtAuu4OQqcz6_eABET6PeRBKmgZaPr8FiePHewRz2CCEi7zkx1Kf88BqR4nakb477gbS1diuV7snb2JnQsHkRo2_8v11UWJo4fJmZZpKe3pfizW6GsCDdxpFLAQ0wv3DEzg079Dc-4s3MRDqsZ2A1Rw5XXOs4kVIP7Btk_ziyiwfwZOvZvDPmnU_EOB7-MF_Sa-NPwOcWcaKLhWuIQq0BGcRbHTtXkc4SmFRf_ZNM15nUsgLUiP2wdWHtrO437XxgHICEhAB6hoJCnmI4lXfGSy9rFWhGgxcFAA2U9_J4rJGK2U.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
 https://streamcdn.getloconow.com/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074_hi/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
