@@ -58,212 +58,276 @@ http://ferrarich2.referrari.com:8080/live/999275910_.m3u8?token=e179aa282d824c1c
 http://ferrarich2.referrari.com:8080/live/999275913_.m3u8?token=e179aa282d824c1ca816901cb02038d3
 #EXTINF:-1 tvg-id="" tvg-name="HBO Movies 8 HD" tvg-logo="" group-title="HBO Movies",HBO Movies 8 HD
 http://ferrarich2.referrari.com:8080/live/999275912_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORTS HD",bein sport 1 HD PREMIUM
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/1
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORTS HD",bein sport 2 HD PREMIUM
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/2
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD PREMIUM" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORTS HD",bein sport 3 HD PREMIUM
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/3
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 1 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORTS HD",bein sport 1 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/4
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 2 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORTS HD",bein sport 2 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/5
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 3 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORTS HD",bein sport 3 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/6
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 4 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORTS HD",bein sport 4 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/7
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 5 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="BEIN SPORTS HD",bein sport 5 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/8
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 6 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="BEIN SPORTS HD",bein sport 6 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/9
-#EXTINF:-1 tvg-id="" tvg-name="bein sport 7 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="BEIN SPORTS HD",bein sport 7 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/10
-#EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN SPORTS HD",BEIN NEWS
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/86
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 1 Premium SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/11
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 2 Premium SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/12
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sport 3 Premium SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/13
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 1 SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/14
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 2 SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/15
-#EXTINF:-1 tvg-id="" tvg-name="beiN Sports 3 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beiN Sports 3 SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/16
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 4 SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/17
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD" tvg-logo="" group-title="BEIN SPORTS SD-LOW",beIN Sports 5 SD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/18
-#EXTINF:-1 tvg-id="" tvg-name="bein sport low1 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low1 premium
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/19
-#EXTINF:-1 tvg-id="" tvg-name="bein sport low2 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low2 premium
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/20
-#EXTINF:-1 tvg-id="" tvg-name="bein sport low3 premium" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low3 premium
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/21
-#EXTINF:-1 tvg-id="" tvg-name="bein sport low 1" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/22
-#EXTINF:-1 tvg-id="" tvg-name="bein sport low 2" tvg-logo="" group-title="BEIN SPORTS SD-LOW",bein sport low 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/23
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 1 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 1 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/25
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 2 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 2 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/26
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 3 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 3 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/27
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN MOVIES 4 HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN MOVIES 4 HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/28
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN SERIES 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN SERIES 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/29
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN FATAFEAT" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN FATAFEAT
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/30
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN JEEM
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/31
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/32
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala Oula HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala Oula HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/33
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN YaHala Cinema HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN YaHala Cinema HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/34
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN CINEMA 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN CINEMA 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/35
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Movies HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Movies HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/36
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Movies Action HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Movies Action HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/37
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Kids Zone HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| OSN Kids Zone HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/38
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DISCOVERY HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| DISCOVERY HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/39
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NAT GEO WILD HD" tvg-logo="" group-title="OSN & BEIN-entre",|AR| NAT GEO WILD HD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/40
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART AFLAM 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART AFLAM 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/41
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART AFLAM 2" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART AFLAM 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/42
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART HEKAYAT 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/43
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="OSN & BEIN-entre",|AR| ART HEKAYAT 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/44
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="MBC & ROTANA",MBC BOLLYWOOD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/61
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="MBC & ROTANA",MBC IRAQ
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/62
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="MBC & ROTANA",MBC MASR2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/63
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="MBC & ROTANA",MBC MASR
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/64
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC & ROTANA",MBC ACTION
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/65
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="MBC & ROTANA",MBC MAX
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/66
-#EXTINF:-1 tvg-id="" tvg-name="MBC + Drama" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="MBC & ROTANA",MBC + Drama
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/67
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC & ROTANA",MBC DRAMA
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/68
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="MBC & ROTANA",MBC 5
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/69
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="MBC & ROTANA",MBC 4
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/70
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" group-title="MBC & ROTANA",MBC 3
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/71
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC & ROTANA",MBC 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/72
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="MBC & ROTANA",MBC 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/73
-#EXTINF:-1 tvg-id="" tvg-name="wanasah" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="MBC & ROTANA",wanasah
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/74
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="MBC & ROTANA",Rotana Kids
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/76
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" group-title="MBC & ROTANA",Rotana Cinema
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/77
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" group-title="MBC & ROTANA",Rotana Classic
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/78
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="MBC & ROTANA",Rotana Comedy
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/79
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="MBC & ROTANA",Rotana Drama
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/80
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID ACITON" tvg-logo="" group-title="MOVIES",SHAHID ACITON
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/119
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID ARABIC" tvg-logo="" group-title="MOVIES",SHAHID ARABIC
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/120
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID Bollywood" tvg-logo="" group-title="MOVIES",SHAHID Bollywood
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/121
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA" tvg-logo="" group-title="MOVIES",SHAHID DRAMA
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/122
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="MOVIES",NETFLIX ACTION
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/128
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/129
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/130
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMADY" tvg-logo="" group-title="MOVIES",NETFLIX COMADY
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/131
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MOVIES" tvg-logo="" group-title="MOVIES",MEGA MOVIES
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/140
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HORROR" tvg-logo="" group-title="MOVIES",MEGA HORROR
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/141
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HINDI" tvg-logo="" group-title="MOVIES",MEGA HINDI
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/142
-#EXTINF:-1 tvg-id="" tvg-name="MEGA KIDS" tvg-logo="" group-title="MOVIES",MEGA KIDS
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/143
-#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="MOVIES",MIX HOLLYWOOD
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/107
-#EXTINF:-1 tvg-id="" tvg-name="Omg tv" tvg-logo="" group-title="MOVIES",Omg tv
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/85
-#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem (Mecca)" tvg-logo="" group-title="ISLAMIC",Al Quran Al Kareem (Mecca)
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/110
-#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah (Medina)" tvg-logo="" group-title="ISLAMIC",Al Sunnah (Medina)
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/112
-#EXTINF:-1 tvg-id="" tvg-name="Al Wesal TV" tvg-logo="" group-title="ISLAMIC",Al Wesal TV
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/113
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="" group-title="ISLAMIC",Iqraa
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/115
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa Europe Africa" tvg-logo="" group-title="ISLAMIC",Iqraa Europe Africa
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/116
-#EXTINF:-1 tvg-id="" tvg-name="Kaif TV" tvg-logo="" group-title="ISLAMIC",Kaif TV
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/117
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="" group-title="ISLAMIC",Makkah TV
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/118
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/87
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/88
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Abu Dhabi Sports 3
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/89
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports1" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/91
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/92
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Dubai Sports 3
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/93
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/94
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/95
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 3
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/96
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 4
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/97
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Sports 5
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/98
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 1" tvg-logo="" group-title="ARABIC SPORTS",Bahrain Sport 1
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/103
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="" group-title="ARABIC SPORTS",Dubai Racing
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/104
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="" group-title="ARABIC SPORTS",Dubai Racing 2
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/105
-#EXTINF:-1 tvg-id="" tvg-name="ON SPORTS" tvg-logo="" group-title="ARABIC SPORTS",ON SPORTS
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/106
-#EXTINF:-1 tvg-id="" tvg-name="FAJER TV" tvg-logo="" group-title="ARABIC",FAJER TV
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/81
-#EXTINF:-1 tvg-id="" tvg-name="BEUR TV" tvg-logo="" group-title="ARABIC",BEUR TV
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/82
-#EXTINF:-1 tvg-id="" tvg-name="JORDAN" tvg-logo="" group-title="ARABIC",JORDAN
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/83
-#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="ARABIC",JORDAN SPORTS
-http://51.15.1.11:25461/BEST-LIVE2222/BEST-LIVE2222/84
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_(PREMIUM)_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_1_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/1
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_(PREMIUM)_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_2_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/2
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_(PREMIUM)_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_3_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/3
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_1_Low
+http://eaiptv.ga:8080/masrawysat/123212343/4
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_2_Low
+http://eaiptv.ga:8080/masrawysat/123212343/5
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_3_Low
+http://eaiptv.ga:8080/masrawysat/123212343/6
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_4_Low
+http://eaiptv.ga:8080/masrawysat/123212343/7
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_5_Low
+http://eaiptv.ga:8080/masrawysat/123212343/8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_6_Low
+http://eaiptv.ga:8080/masrawysat/123212343/9
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7_Low" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_7_Low
+http://eaiptv.ga:8080/masrawysat/123212343/10
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_1HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/11
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_2HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/12
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_3HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/13
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_1HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/14
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_2HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/15
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_3HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/16
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_4HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/17
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_5HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/18
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_6HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/19
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7HD_1080p" tvg-logo="" group-title="BEIN_SPORT_LOW",BeIN_SPORTS_7HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/20
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_1HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/21
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_2HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/22
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_3HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/23
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_1_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/24
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_2_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/25
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_3_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/26
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_4_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/27
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_5_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/28
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_6_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/29
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7_H265_HQ" tvg-logo="" group-title="BEIN_SPORT_HD",BeIN_SPORTS_7_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/30
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies Premiere 1 HD" tvg-logo="" group-title="BEIN_MOVES",Bein Movies Premiere 1 HD
+http://eaiptv.ga:8080/masrawysat/123212343/31
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies Action 2 HD" tvg-logo="" group-title="BEIN_MOVES",Bein Movies Action 2 HD
+http://eaiptv.ga:8080/masrawysat/123212343/32
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies Drama 3 HD" tvg-logo="" group-title="BEIN_MOVES",Bein Movies Drama 3 HD
+http://eaiptv.ga:8080/masrawysat/123212343/33
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies Family 4 HD" tvg-logo="" group-title="BEIN_MOVES",Bein Movies Family 4 HD
+http://eaiptv.ga:8080/masrawysat/123212343/34
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Series 1" tvg-logo="" group-title="BEIN_MOVES",Bein:Series 1
+http://eaiptv.ga:8080/masrawysat/123212343/35
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Series 2" tvg-logo="" group-title="BEIN_MOVES",Bein:Series 2
+http://eaiptv.ga:8080/masrawysat/123212343/36
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 1" tvg-logo="" group-title="BEIN_MOVES",Bein:Box Office 1
+http://eaiptv.ga:8080/masrawysat/123212343/37
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 2" tvg-logo="" group-title="BEIN_MOVES",Bein:Box Office 2
+http://eaiptv.ga:8080/masrawysat/123212343/38
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 3" tvg-logo="" group-title="BEIN_MOVES",Bein:Box Office 3
+http://eaiptv.ga:8080/masrawysat/123212343/39
+#EXTINF:-1 tvg-id="" tvg-name="Bein:FATAFEAT" tvg-logo="" group-title="BEIN_MOVES",Bein:FATAFEAT
+http://eaiptv.ga:8080/masrawysat/123212343/40
+#EXTINF:-1 tvg-id="" tvg-name="Bein: FOX_Life" tvg-logo="" group-title="BEIN_MOVES",Bein: FOX_Life
+http://eaiptv.ga:8080/masrawysat/123212343/41
+#EXTINF:-1 tvg-id="" tvg-name="Bein: Jeem HD" tvg-logo="" group-title="BEIN_MOVES",Bein: Jeem HD
+http://eaiptv.ga:8080/masrawysat/123212343/42
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Outdoor" tvg-logo="" group-title="BEIN_MOVES",Bein:Outdoor
+http://eaiptv.ga:8080/masrawysat/123212343/43
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Gourmet" tvg-logo="" group-title="BEIN_MOVES",Bein:Gourmet
+http://eaiptv.ga:8080/masrawysat/123212343/44
+#EXTINF:-1 tvg-id="" tvg-name="Bein: Baraeem" tvg-logo="" group-title="BEIN_MOVES",Bein: Baraeem
+http://eaiptv.ga:8080/masrawysat/123212343/45
+#EXTINF:-1 tvg-id="" tvg-name="Bein:GULLI BIL ARABIE" tvg-logo="" group-title="BEIN_MOVES",Bein:GULLI BIL ARABIE
+http://eaiptv.ga:8080/masrawysat/123212343/46
+#EXTINF:-1 tvg-id="" tvg-name="Bein:Nat Geo HD" tvg-logo="" group-title="BEIN_MOVES",Bein:Nat Geo HD
+http://eaiptv.ga:8080/masrawysat/123212343/47
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES 1 HD" tvg-logo="" group-title="BEIN_MOVES",BEIN MOVIES 1 HD
+http://eaiptv.ga:8080/masrawysat/123212343/48
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES ACTION HD" tvg-logo="" group-title="BEIN_MOVES",beIN MOVIES ACTION HD
+http://eaiptv.ga:8080/masrawysat/123212343/49
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES DRAMA HD" tvg-logo="" group-title="BEIN_MOVES",beIN MOVIES DRAMA HD
+http://eaiptv.ga:8080/masrawysat/123212343/50
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES FAMILY HD" tvg-logo="" group-title="BEIN_MOVES",beIN MOVIES FAMILY HD
+http://eaiptv.ga:8080/masrawysat/123212343/51
+#EXTINF:-1 tvg-id="" tvg-name="OSN ALYAWM" tvg-logo="" group-title="OSN_HD",OSN ALYAWM
+http://eaiptv.ga:8080/masrawysat/123212343/52
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="" group-title="OSN_HD",OSN YAHALA HD
+http://eaiptv.ga:8080/masrawysat/123212343/53
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Oula HD" tvg-logo="" group-title="OSN_HD",OSN Yahala Oula HD
+http://eaiptv.ga:8080/masrawysat/123212343/54
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema HD" tvg-logo="" group-title="OSN_HD",OSN Yahala Cinema HD
+http://eaiptv.ga:8080/masrawysat/123212343/55
+#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat HD" tvg-logo="" group-title="OSN_HD",OSN Musalsalat HD
+http://eaiptv.ga:8080/masrawysat/123212343/56
+#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY HD" tvg-logo="" group-title="OSN_HD",OSN COMEDY HD
+http://eaiptv.ga:8080/masrawysat/123212343/58
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central HD" tvg-logo="" group-title="OSN_HD",OSN Comedy Central HD
+http://eaiptv.ga:8080/masrawysat/123212343/59
+#EXTINF:-1 tvg-id="" tvg-name="OSN ACTIONS HD" tvg-logo="" group-title="OSN_HD",OSN ACTIONS HD
+http://eaiptv.ga:8080/masrawysat/123212343/60
+#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS" tvg-logo="" group-title="OSN_HD",OSN KIDS
+http://eaiptv.ga:8080/masrawysat/123212343/61
+#EXTINF:-1 tvg-id="" tvg-name="OSN Music" tvg-logo="" group-title="OSN_HD",OSN Music
+http://eaiptv.ga:8080/masrawysat/123212343/62
+#EXTINF:-1 tvg-id="" tvg-name="OSN Fann" tvg-logo="" group-title="OSN_HD",OSN Fann
+http://eaiptv.ga:8080/masrawysat/123212343/63
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies" tvg-logo="" group-title="OSN_HD",OSN Star Movies
+http://eaiptv.ga:8080/masrawysat/123212343/65
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES" tvg-logo="" group-title="OSN_HD",OSN MOVIES
+http://eaiptv.ga:8080/masrawysat/123212343/66
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star world" tvg-logo="" group-title="OSN_HD",OSN Star world
+http://eaiptv.ga:8080/masrawysat/123212343/67
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST" tvg-logo="" group-title="OSN_HD",OSN MOVIES FIRST
+http://eaiptv.ga:8080/masrawysat/123212343/68
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series First" tvg-logo="" group-title="OSN_HD",OSN Series First
+http://eaiptv.ga:8080/masrawysat/123212343/69
+#EXTINF:-1 tvg-id="" tvg-name="OSN WWE" tvg-logo="" group-title="OSN_HD",OSN WWE
+http://eaiptv.ga:8080/masrawysat/123212343/70
+#EXTINF:-1 tvg-id="" tvg-name="OSN AL Safwa" tvg-logo="" group-title="OSN_HD",OSN AL Safwa
+http://eaiptv.ga:8080/masrawysat/123212343/71
+#EXTINF:-1 tvg-id="" tvg-name="OSN HISTORY" tvg-logo="" group-title="OSN_HD",OSN HISTORY
+http://eaiptv.ga:8080/masrawysat/123212343/72
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="" group-title="OSN_HD",OSN TLC
+http://eaiptv.ga:8080/masrawysat/123212343/73
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery HD" tvg-logo="" group-title="OSN_HD",OSN Discovery HD
+http://eaiptv.ga:8080/masrawysat/123212343/74
+#EXTINF:-1 tvg-id="" tvg-name="OSN Living HD" tvg-logo="" group-title="OSN_HD",OSN Living HD
+http://eaiptv.ga:8080/masrawysat/123212343/75
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet" tvg-logo="" group-title="OSN_HD",OSN Animal Planet
+http://eaiptv.ga:8080/masrawysat/123212343/76
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 1" tvg-logo="" group-title="SHAHED",SHAHID Movies 1
+http://eaiptv.ga:8080/masrawysat/123212343/77
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 2" tvg-logo="" group-title="SHAHED",SHAHID Movies 2
+http://eaiptv.ga:8080/masrawysat/123212343/78
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 3" tvg-logo="" group-title="SHAHED",SHAHID Movies 3
+http://eaiptv.ga:8080/masrawysat/123212343/79
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 4" tvg-logo="" group-title="SHAHED",SHAHID Movies 4
+http://eaiptv.ga:8080/masrawysat/123212343/80
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 5" tvg-logo="" group-title="SHAHED",SHAHID Movies 5
+http://eaiptv.ga:8080/masrawysat/123212343/81
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Movies 6" tvg-logo="" group-title="SHAHED",SHAHID Movies 6
+http://eaiptv.ga:8080/masrawysat/123212343/82
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID HORROR 1" tvg-logo="" group-title="SHAHED",SHAHID HORROR 1
+http://eaiptv.ga:8080/masrawysat/123212343/83
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA 1" tvg-logo="" group-title="SHAHED",SHAHID DRAMA 1
+http://eaiptv.ga:8080/masrawysat/123212343/84
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID Action 1" tvg-logo="" group-title="SHAHED",SHAHID Action 1
+http://eaiptv.ga:8080/masrawysat/123212343/85
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 1" tvg-logo="" group-title="SHAHED",SHAHID SCI-FI 1
+http://eaiptv.ga:8080/masrawysat/123212343/91
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 2" tvg-logo="" group-title="SHAHED",SHAHID SCI-FI 2
+http://eaiptv.ga:8080/masrawysat/123212343/92
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID HORROR 1" tvg-logo="" group-title="SHAHED",SHAHID HORROR 1
+http://eaiptv.ga:8080/masrawysat/123212343/93
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID HORROR 2" tvg-logo="" group-title="SHAHED",SHAHID HORROR 2
+http://eaiptv.ga:8080/masrawysat/123212343/94
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_AFLAM_1" tvg-logo="" group-title="SHAHED",SHAHID_AFLAM_1
+http://eaiptv.ga:8080/masrawysat/123212343/100
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_AFLAM_2" tvg-logo="" group-title="SHAHED",SHAHID_AFLAM_2
+http://eaiptv.ga:8080/masrawysat/123212343/101
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID:CINEMA" tvg-logo="" group-title="SHAHED",SHAHID:CINEMA
+http://eaiptv.ga:8080/masrawysat/123212343/102
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ZAMAN" tvg-logo="" group-title="SHAHED",SHAHID_ZAMAN
+http://eaiptv.ga:8080/masrawysat/123212343/103
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ROAP" tvg-logo="" group-title="SHAHED",SHAHID_ROAP
+http://eaiptv.ga:8080/masrawysat/123212343/104
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ACTION" tvg-logo="" group-title="SHAHED",SHAHID_ACTION
+http://eaiptv.ga:8080/masrawysat/123212343/105
+#EXTINF:-1 tvg-id="" tvg-name="OZN_AHMEDZAKI" tvg-logo="" group-title="SHAHED",OZN_AHMEDZAKI
+http://eaiptv.ga:8080/masrawysat/123212343/106
+#EXTINF:-1 tvg-id="" tvg-name="OZN_ADELEMAM" tvg-logo="" group-title="SHAHED",OZN_ADELEMAM
+http://eaiptv.ga:8080/masrawysat/123212343/107
+#EXTINF:-1 tvg-id="" tvg-name="OZN_ISMAIL.YASEAN" tvg-logo="" group-title="SHAHED",OZN_ISMAIL.YASEAN
+http://eaiptv.ga:8080/masrawysat/123212343/108
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 01+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 01+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/109
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 02+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 02+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/110
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 03+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 03+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/111
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 04+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 04+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/112
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 05+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 05+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/113
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 06+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 06+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/114
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 07+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 07+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/115
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 08+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 08+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/116
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 09+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 09+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/117
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 10+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 10+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/118
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 11+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 11+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/119
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 12+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 12+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/120
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 13+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 13+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/121
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 14+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 14+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/122
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 15+ HD" tvg-logo="" group-title="HOME CINMA",Home Cinema 15+ HD
+http://eaiptv.ga:8080/masrawysat/123212343/123
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Action Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Action Movies
+http://eaiptv.ga:8080/masrawysat/123212343/124
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV B Cinema" tvg-logo="" group-title="EAIPTV",EA IPTV B Cinema
+http://eaiptv.ga:8080/masrawysat/123212343/125
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Box Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Box Movies
+http://eaiptv.ga:8080/masrawysat/123212343/126
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Cinema One" tvg-logo="" group-title="EAIPTV",EA IPTV Cinema One
+http://eaiptv.ga:8080/masrawysat/123212343/127
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Comedy Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Comedy Movies
+http://eaiptv.ga:8080/masrawysat/123212343/128
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Disney Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Disney Movies
+http://eaiptv.ga:8080/masrawysat/123212343/129
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Famely Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Famely Movies
+http://eaiptv.ga:8080/masrawysat/123212343/130
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV FuckStar Movies" tvg-logo="" group-title="EAIPTV",EA IPTV FuckStar Movies
+http://eaiptv.ga:8080/masrawysat/123212343/131
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV KidsCo Movies" tvg-logo="" group-title="EAIPTV",EA IPTV KidsCo Movies
+http://eaiptv.ga:8080/masrawysat/123212343/132
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Masrah Masr 2019" tvg-logo="" group-title="EAIPTV",EA IPTV Masrah Masr 2019
+http://eaiptv.ga:8080/masrawysat/123212343/133
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Master Piece Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Master Piece Movies
+http://eaiptv.ga:8080/masrawysat/123212343/134
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix Action ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix Action ENG
+http://eaiptv.ga:8080/masrawysat/123212343/135
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix Annimation ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix Annimation ENG
+http://eaiptv.ga:8080/masrawysat/123212343/136
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix BOXOFFICE ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix BOXOFFICE ENG
+http://eaiptv.ga:8080/masrawysat/123212343/137
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix Drama ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix Drama ENG
+http://eaiptv.ga:8080/masrawysat/123212343/138
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix Horror ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix Horror ENG
+http://eaiptv.ga:8080/masrawysat/123212343/139
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix Kids ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix Kids ENG
+http://eaiptv.ga:8080/masrawysat/123212343/140
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Netflix THRILLER ENG" tvg-logo="" group-title="EAIPTV",EA IPTV Netflix THRILLER ENG
+http://eaiptv.ga:8080/masrawysat/123212343/141
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Premiere Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Premiere Movies
+http://eaiptv.ga:8080/masrawysat/123212343/142
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Romance Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Romance Movies
+http://eaiptv.ga:8080/masrawysat/123212343/143
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV The Movies" tvg-logo="" group-title="EAIPTV",EA IPTV The Movies
+http://eaiptv.ga:8080/masrawysat/123212343/144
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV The Movies 2" tvg-logo="" group-title="EAIPTV",EA IPTV The Movies 2
+http://eaiptv.ga:8080/masrawysat/123212343/145
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV Thriller Movies" tvg-logo="" group-title="EAIPTV",EA IPTV Thriller Movies
+http://eaiptv.ga:8080/masrawysat/123212343/146
+#EXTINF:-1 tvg-id="" tvg-name="EA IPTV W Movies" tvg-logo="" group-title="EAIPTV",EA IPTV W Movies
+http://eaiptv.ga:8080/masrawysat/123212343/147
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy",51 Radio TV
@@ -2774,24 +2838,26 @@ http://161.97.95.121:25461/maxlive/mjhgfdsa/61
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://e565c114b79b6e21.mediapackage.ap-southeast-1.amazonaws.com/out/v1/04f0f4404e7e4773bc04bd09526b019f/index_1.m3u8
+https://05bce4580d95b32a.mediapackage.ap-southeast-1.amazonaws.com/out/v1/9a4414117e6a419bbac4390a3f23691a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://e565c114b79b6e21.mediapackage.ap-southeast-1.amazonaws.com:443/out/v1/04f0f4404e7e4773bc04bd09526b019f/index_2.m3u8
+https://d105w96h7nruo1.cloudfront.net/out/v1/8a227368addc4da881869dd074280075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://video-weaver.fra02.hls.live-video.net/v1/playlist/CqsF39f3gMkhlqBQMeSsItY0DAmy8RTyf876wpOM_AUREMF_ssFqMiIElcXZmbvwisM2pK_Y7VBli4acdcWTyQqKKjQRWwsX55VExjSunJWXuHblL-w9pOduzB75WL72BQSjFfrBiGlfYRcWGQDNlm3HEDWyQUYnKfuIrSmxViPZuF0Vohnuyi8yhheEi5Sij6qA0qSNuO0tebkbVsQkSKYGlvzaGG02iDaIS-oXsu_b6iShNdMlaEBDCKjweUHyc5gWK6zfz0oqlgCCxQfRduHb5zg6TAhGBTeqbnAZPUTbwDvLwhIND4NwCkzZA7n4bys2kLtViDcMrekRl8_xuuEX_2fBiXEAnEldgt_Htt29_C8cooyW5BBHknTu4UAgsC9xuaQDHLf-Eq5vKw5uvVQ4zEariY4yFTl2kU55hxyt73WWZJuq2Rt2gNllZelShbcrxgmadW02w7uDGQnrhCgMi0p7GythSEOsZT7C1g1myNoOM5ZCczpoLRq3DSEQJb7XvWuA_UbZGnyXw4QBkP_rA7_5XRruuAGd0TM6FfsQH1T0w1xEmeN0tS0xsEYtjaxQnYoHIKOoxCNnDcRyPTTIpem7TvBl8h7q6a5cWu-KKKLCPaX_QPE0r3DQpPT2ZIY4WvDuqmjaDSU_yqrgaQecwJEJlLkIozIk_0Y9UuOlL9nJWMtjX8qFvbVNBeTrxfI3lcD19Ie809RkN_LWn9Hzqx6UbAOb2ZxDhA_SaueeU7kP1Rr_SZHneclWydla58ikLaDd5407M2bX0rTxRlZZWTgLI9CpjJU8C28VGuoaXs0AHZo5l7-BOdDr8cDRFQS9OieYbXBiIgHV0R2pdz4vlGtl2UPzDwZ1HSS102xqVYAn8Rgo25qz_OrvQI7bSSJYP0cbT02zD_xJpP4SEP7ctweRHVC-9AOX8RAL4esaDOnPClwxPkYEouFiKA.m3u8
+https://streamcdn.getloconow.com/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c/G6QPLUQ66X_e900f876-b8d1-4b52-b5fc-af4a72f4338c_lowest/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://video.famm10-1.fna.fbcdn.net/hvideo-ftw-ldc/_nc_cat-1/v/rbeFRHonLPvK7C6HAzRn4/_nc_ohc-XfYCF2fWIqsAX_ZgowC/live-dash/dash-abr5/114504207386592.mpd?_nc_rl=AfAqMMX_vMut3iaCNco&ccb=2-4&ms=m_CNP&oh=ee5e95de6c545c602316c3de6c7bfe4d&oe=605E5F78
+https://streamcdn.getloconow.com/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809/QQD4AK0JLE_7913ce8b-2452-4839-9eed-cea4f5f2d809_low/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CogF3sRmYQPmWCLa--zLEEMlh_hoDyX_LhbtQphy26g_osKYybNPZQxEvqY4IniTW2JkoitkwD2IxPx8OyH7YQmTO7NVOInJ965WJIqh_pZBoHTg3ZuK9YChvvL4z2cPN1gL5eZAyetqZA_9Usftqa6Nh7dQ4dIajgndtN8KKyCxlnP-iLW5W8UDb1bPkh_3Hz8oEjXXZ9QkCdkb1a0tUoL-Jj4I06J3B4TJ-pplQ9ZU8GbINALLiwqSpA7oy1t09HN02pXYwyDyI9mUV_DjaKUNBqWpqinAUSaU8QPZWtWjvnyaVmOUX_3mgRm52eVjOSnzTuucVVvUhx16CcKvuWFgzciNUcxxZhPTAaX9L3YzqUYbIL3V6pPVKAagGdDi3ZQOgIVV8-gkjFYpN8v1HYS5ECoogQJCoUlJ3ZpCBYOSuuJ4BWyhG29oEXGRBSCyDQyz3TSDiETVnMHdXfx5H7-MfhPqaCAFSoC7SvxNA-owI7TZ6smctqnhkU1yDMzjcrkkomP8upuyENunO1YetSoojNQ6RQlCi6e605v9pPm1xHD2KHuR6-yhmzZtP3JMje0am2HcTm5roeIdsWImB9owt3OvHsPiPtAuu4OQqcz6_eABET6PeRBKmgZaPr8FiePHewRz2CCEi7zkx1Kf88BqR4nakb477gbS1diuV7snb2JnQsHkRo2_8v11UWJo4fJmZZpKe3pfizW6GsCDdxpFLAQ0wv3DEzg079Dc-4s3MRDqsZ2A1Rw5XXOs4kVIP7Btk_ziyiwfwZOvZvDPmnU_EOB7-MF_Sa-NPwOcWcaKLhWuIQq0BGcRbHTtXkc4SmFRf_ZNM15nUsgLUiP2wdWHtrO437XxgHICEhAB6hoJCnmI4lXfGSy9rFWhGgxcFAA2U9_J4rJGK2U.m3u8
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/oekox6hiur7.m3u8?s=1crJ3HcY5NZaSNh-7io-XQ&e=1616885312
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://streamcdn.getloconow.com/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074/E454P7QBF7_78e67f23-bef1-4f42-9b99-425fbf895074_hi/manifest.m3u8
+http://de19.thefitnesshints.com/live/ch03prem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://streamcdn.getloconow.com/1CGQENK6Y4_f5e16501-a533-4bc5-8d4d-c4096d88c5cd/1CGQENK6Y4_f5e16501-a533-4bc5-8d4d-c4096d88c5cd_low/manifest.m3u8
+http://de12.thefitnesshints.com/live/ch01prem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://streamcdn.getloconow.com/DUIAV7E2ZF_398fa80e-b28e-40c8-ab07-92e5c8e6ada2/DUIAV7E2ZF_398fa80e-b28e-40c8-ab07-92e5c8e6ada2_hi/manifest.m3u8
+https://streamcdn.getloconow.com/GHMD5CFC8L_48a3de27-3634-47e3-9aa5-7ab41f78e307/GHMD5CFC8L_48a3de27-3634-47e3-9aa5-7ab41f78e307_lowest/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-https://streamcdn.getloconow.com/JCKTPR2DD9_5d6f1e28-761c-4926-bb9b-d8e832471bdb/JCKTPR2DD9_5d6f1e28-761c-4926-bb9b-d8e832471bdb_low/manifest.m3u8
+https://streamcdn.getloconow.com/FRM6YXJ4FA_2b39dc34-5429-4a8c-886e-c5abf916d527/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://streamcdn.getloconow.com/GHMD5CFC8L_6d37e3c6-4b5b-4e84-8c1b-3ec375f1041d/GHMD5CFC8L_6d37e3c6-4b5b-4e84-8c1b-3ec375f1041d_lowest/manifest.m3u8
+https://s-36.streamtec.xyz/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://streamcdn.getloconow.com/FRM6YXJ4FA_2b39dc34-5429-4a8c-886e-c5abf916d527/FRM6YXJ4FA_2b39dc34-5429-4a8c-886e-c5abf916d527_lowest/manifest.m3u8
+https://s-35.streamtec.xyz/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
+https://s-35.streamtec.xyz/hls2/stream.m3u8
