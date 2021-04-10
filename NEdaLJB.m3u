@@ -4194,26 +4194,26 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/816
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://dhn7mswj9iml8.cloudfront.net/out/v1/043281a80d494be79ea6cca9dd44bde9/index.m3u8
+https://dhn7mswj9iml8.cloudfront.net/out/v1/043281a80d494be79ea6cca9dd44bde9/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://usher.ttvnw.net/api/channel/hls/udatsusa.m3u8?allow_source=true&fast_bread=true&p=4202740&play_session_id=05b1c6d440e83f0f55477f175de1a0b9&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c04507dbdaafd60981d0a8bc701d7af212210a80&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22udatsusa%22%2C%22channel_id%22%3A672794896%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22026fffb2d010f864%22%2C%22expires%22%3A1618072901%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22212.34.12.10%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.0
+http://213.136.69.245:8080/live/6071c5e2b00c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://usher.ttvnw.net/api/channel/hls/udatsusa.m3u8?allow_source=true&fast_bread=true&p=4202740&play_session_id=05b1c6d440e83f0f55477f175de1a0b9&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c04507dbdaafd60981d0a8bc701d7af212210a80&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22udatsusa%22%2C%22channel_id%22%3A672794896%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22026fffb2d010f864%22%2C%22expires%22%3A1618072901%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22212.34.12.10%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.0
+https://streamcdn.getloconow.com/87R6E1TUZY_81308047-2f53-4667-a77c-e4ef15c758a0/manifest.m3u8?sharing-yalla-shoot-7sry
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://play-tx.livestream.shopee.com/live/33872_my-live-1345882774395392-1420569.m3u8
+https://streamcdn.getloconow.com/43VDWHDU2P_29acb9fc-0ab3-4d69-a2e5-fb228db91ab6/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://s-33.streamtec.xyz/hls/stream.m3u8
+https://streamcdn.getloconow.com/43VDWHDU2P_29acb9fc-0ab3-4d69-a2e5-fb228db91ab6/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://new.koooragoal.com:443/2017/03/data:video/mp4;base64,AAAAHGZ0eXBpc29tAAACAGlzb21pc28ybXA0MQAAAAhmcmVlAAAC721kYXQhEAUgpBv/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3pwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcCEQBSCkG//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADengAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAsJtb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAALwABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAB7HRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAIAAAAAAAAALwAAAAAAAAAAAAAAAQEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAC8AAAAAAAEAAAAAAWRtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAAKxEAAAIAFXEAAAAAAAtaGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFNvdW5kSGFuZGxlcgAAAAEPbWluZgAAABBzbWhkAAAAAAAAAAAAAAAkZGluZgAAABxkcmVmAAAAAAAAAAEAAAAMdXJsIAAAAAEAAADTc3RibAAAAGdzdHNkAAAAAAAAAAEAAABXbXA0YQAAAAAAAAABAAAAAAAAAAAAAgAQAAAAAKxEAAAAAAAzZXNkcwAAAAADgICAIgACAASAgIAUQBUAAAAAAfQAAAHz+QWAgIACEhAGgICAAQIAAAAYc3R0cwAAAAAAAAABAAAAAgAABAAAAAAcc3RzYwAAAAAAAAABAAAAAQAAAAIAAAABAAAAHHN0c3oAAAAAAAAAAAAAAAIAAAFzAAABdAAAABRzdGNvAAAAAAAAAAEAAAAsAAAAYnVkdGEAAABabWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAbWRpcmFwcGwAAAAAAAAAAAAAAAAtaWxzdAAAACWpdG9vAAAAHWRhdGEAAAABAAAAAExhdmY1Ni40MC4xMDE=
+https://streamcdn.getloconow.com/43VDWHDU2P_29acb9fc-0ab3-4d69-a2e5-fb228db91ab6/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://streamcdn.getloconow.com/CZ41C4SFWI_10daf7a7-78ab-4f2c-a5ab-3bd3197b8738/CZ41C4SFWI_10daf7a7-78ab-4f2c-a5ab-3bd3197b8738_hi/manifest.m3u8
+http://213.136.69.245:8080/live/6071c5e2b00c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://33872.liveplay.myqcloud.com/live/33872_ph-live-1256533793103360-2049059.m3u8
+http://213.136.69.245:8080/live/6071c5e2b00c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-http://de-31.thefitnesshints.com/live/ch02prem/index.m3u8
+http://213.136.69.245:8080/live/6071c5e2b00c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://streamcdn.getloconow.com/GHMD5CFC8L_96e5f137-8c6b-438d-9d2f-f5620111147c/GHMD5CFC8L_96e5f137-8c6b-438d-9d2f-f5620111147c_lowest/manifest.m3u8
+https://du6klfn1gd2yg.cloudfront.net/out/v1/497c37725c494a6582051e828ccbbb61/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://streamcdn.getloconow.com:443/GHMD5CFC8L_96e5f137-8c6b-438d-9d2f-f5620111147c/GHMD5CFC8L_96e5f137-8c6b-438d-9d2f-f5620111147c_lowest/manifest.m3u8
+https://du6klfn1gd2yg.cloudfront.net/out/v1/497c37725c494a6582051e828ccbbb61/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://streamcdn.getloconow.com/43VDWHDU2P_106352ee-0c71-4e2c-987a-4aa9c79374c7/43VDWHDU2P_106352ee-0c71-4e2c-987a-4aa9c79374c7_lowest/manifest.m3u8
+https://du6klfn1gd2yg.cloudfront.net/out/v1/497c37725c494a6582051e828ccbbb61/index_2.m3u8
