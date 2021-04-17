@@ -3918,15 +3918,15 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/816
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://dy691otp5ux1r.cloudfront.net/out/v1/9ee8d393678242069faf6e7b019d4197/index.m3u8
+https://d7ztq7pgce6qv.cloudfront.net/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://dy691otp5ux1r.cloudfront.net:443/out/v1/9ee8d393678242069faf6e7b019d4197/index_1.m3u8
+https://d7ztq7pgce6qv.cloudfront.net:443/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-me.cdn.booyah.live/hls/113132/57095368.m3u8
+https://d7ztq7pgce6qv.cloudfront.net:443/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://dy691otp5ux1r.cloudfront.net:443/out/v1/9ee8d393678242069faf6e7b019d4197/index_4.m3u8
+https://d7ztq7pgce6qv.cloudfront.net:443/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/474d74041ec74464ad355b4e4ea2537e/index2.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113130/57212181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
 https://s-33.streamtec.xyz/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
