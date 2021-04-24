@@ -4579,13 +4579,13 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/816
 
 
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://d3k9ql3ydqyjbr.cloudfront.net/out/v1/bac8cc718aff429fb4f082af7c7f44d4/index.m3u8
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/512aef9f94f1413ab7c27eb81bac3a87/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://akamai2-me.cdn.booyah.live/hls/113137/57813281.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113137/57819876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://akamai2-me.cdn.booyah.live/hls/113132/56913800.m3u8
+http://213.136.69.245:8080/live/60686a9792403/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-me.cdn.booyah.live/hls/113137/58307231.m3u8
+https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/mqe6lnbfr7.m3u8?s=Ob0FfqnbgzqV2qj9fMerNA&e=1619301457
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 http://213.136.69.245:8080/live/60686a9792403/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
@@ -4593,12 +4593,12 @@ http://213.136.69.245:8080/live/60686a9792403/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
 http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+https://vsd86.mycdn.me:443/hls/1267774786199.m3u8/sig/MU2I4He2w2k/expires/1619350452875/srcIp/212.34.19.171/clientType/0/srcAg/CHROME_ANDROID/mid/3066186309271/1267774786199_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://mn-nl-glb.mncdn.com/dlive/transcode-70-21/koraonlinetv43/1619127866/src/live.m3u8
+http://bn1.wikiar.net/hls/stream1.m3u8
