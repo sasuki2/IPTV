@@ -60,14 +60,7 @@ http://goiptv.co:8080/live:56eed56608b644dbF/ZCjlyc8M9S/6161
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 HD" tvg-logo="http://h2.fire-iptv.cc:2052/images/fdde0f5475276f475fdcf38d3eb28eec.png" group-title="BEIN SPORTS  premium",BEIN PREMUIM 1 HD
-http://ultrax.online:8000/IPTVTOOLSREESTREAMULTRAX/ijKfrdW8ld/129997
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 UHD" tvg-logo="http://h2.fire-iptv.cc:2052/images/fdde0f5475276f475fdcf38d3eb28eec.png" group-title="BEIN SPORTS  premium",BEIN PREMUIM 1 UHD
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 UHD" tvg-logo="http://h2.fire-iptv.cc:2052/images/144f21aaad74cb74b9be5140e94bb63c.png" group-title="BEIN SPORTS  premium",BEIN PREMUIM 2 UHD
-http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 UHD" tvg-logo="http://h2.fire-iptv.cc:2052/images/2475fe294cda6da2e9fcc74c0d25b4df.png" group-title="BEIN SPORTS  premium",BEIN PREMUIM 3 UHD
-http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
+
 
 
 
