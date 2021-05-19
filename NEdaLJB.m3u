@@ -65,13 +65,13 @@ http://goiptv.co:8080/live:56eed56608b644dbF/ZCjlyc8M9S/6161
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="" group-title="Live SPORTS",Live 1
-http://adnaraoun.xyz/live/6161655/index.m3u8
+https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live 2" tvg-logo="" group-title="Live SPORTS",Live 2
-https://d3g8ubaferj2d1.cloudfront.net:443/out/v1/3849055818a5461985839047f9ef6eae/index_1.m3u8
+https://d1wz6zummv1gcq.cloudfront.net:443/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live 3" tvg-logo="" group-title="Live SPORTS",Live 3
-https://wrtc545432.bigmarker.com/user-rtmp/ef5935453782-4f687af1eafc26aca5f923e925fd3eca.m3u8
+https://d1wz6zummv1gcq.cloudfront.net:443/out/v1/c21351bd96f24818ad51d0112f229e5d/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live 4" tvg-logo="" group-title="Live SPORTS",Live 4
-http://adnaraoun.xyz/live/97848484/index.m3u8
+https://google-me.cdn.booyah.live/hls/113132/62476599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live 5" tvg-logo="" group-title="Live SPORTS",Live 5
 http://adnaraoun.xyz/live/88824257/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live 6" tvg-logo="" group-title="Live SPORTS",Live 6
